@@ -1,0 +1,149 @@
+.transpose-controls span {
+    font-size: 2.1em;
+    color: #E94E77;
+    font-weight: bold;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.transpose-controls {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.transpose-controls label {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #4A90E2;
+}
+
+.transpose-controls select {
+    padding: 5px;
+    border: 1px solid #4A90E2;
+    border-radius: 5px;
+}
+
+#songContainer p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.single_post_title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.verse {
+    margin-bottom: 20px;
+}
+
+/* Couleur pour les titres des cantiques */
+.single h2 {
+    color: #4A90E2;
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.verse p {
+    color: #FFFFFF;
+}
+
+/* Style spécifique pour les accords */
+.verse p span.chord {
+    color: #E94E77;
+    /* Rouge pour les accords */
+    font-weight: 950;
+}
+
+/* Style pour le refrain */
+.verse p.chorus {
+    color: #27ae60;
+    /* Vert pour les refrains */
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Styles pour le champ de recherche */
+.search-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.search-container input {
+    width: 60%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #4A90E2;
+    border-radius: 5px;
+}
+
+/* Scroll to top button */
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #333;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    display: none;
+    z-index: 1000;
+}
+
+.scroll-to-top i {
+    font-size: 18px;
+}
+
+/* Styles spécifiques pour les écrans de 400 pixels et moins */
+@media (max-width: 400px) {
+    .transpose-controls span {
+        font-size: 1.2em;
+        /* Réduit la taille des éléments de transposition */
+    }
+
+    .transpose-controls label {
+        font-size: 1.3em;
+        /* Réduit la taille du label */
+    }
+
+    .transpose-controls select {
+        padding: 2px;
+        border-radius: 2px;
+    }
+
+    .single_post_title {
+        font-size: 1.7em;
+        /* Réduit la taille du titre */
+    }
+
+    .single h2 {
+        font-size: 1.4em;
+        /* Réduit la taille des titres de cantiques */
+    }
+
+    #songContainer p {
+        font-size: 1em;
+        /* Réduit la taille du texte des paroles */
+    }
+
+    .single {
+        background: #000000;
+        padding-top: 5px;
+        padding-bottom: 50px;
+    }
+
+    .scroll-to-top {
+        bottom: 10px;
+        right: 10px;
+        padding: 8px;
+    }
+}

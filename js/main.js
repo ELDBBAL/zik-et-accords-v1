@@ -1,0 +1,57 @@
+// main.js
+// Tableau contenant les liens vers les cantiques de chaque dimanche
+const cantiques = [
+    {
+        date: "29/09",
+        title: "Cantiques du 29/09/2024",
+        link: "single.html?key=dim-29-09-2024" 
+    },
+    {
+        date: "22/09",
+        title: "Cantiques du 22/09/2024",
+        link: "single.html?key=dim-22-09-2024" 
+    },
+    {
+        date: "15/09",
+        title: "Cantiques du 15/09/2024",
+        link: "single.html?key=dim-15-09-2024" 
+    }
+];
+
+// Fonction pour injecter les cantiques dans la page
+function displayCantiques() {
+    const showsListContainer = document.querySelector('.shows_list');
+    showsListContainer.innerHTML = ''; // Vide la liste avant de la remplir
+
+    cantiques.forEach(cantique => {
+        const li = document.createElement('li');
+        li.className = 'd-flex flex-row align-items-center justify-content-start';
+        li.innerHTML = `
+            <div><div class="show_date">${cantique.date}</div></div>
+            <div class="show_info d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-md-start justify-content-center">
+                <div class="show_name"><a href="${cantique.link}">${cantique.title}</a></div>
+            </div>
+            <div class="ml-auto"><div class="show_shop trans_200"><a href="${cantique.link}">Découvrir</a></div></div>
+        `;
+        showsListContainer.appendChild(li);
+    });
+}
+
+// Appeler la fonction pour afficher les cantiques dès que la page est prête
+document.addEventListener('DOMContentLoaded', displayCantiques);
+
+// Afficher le bouton lorsque l'utilisateur fait défiler vers le bas
+window.onscroll = function() {
+    var scrollToTopButton = document.getElementById("scrollToTop");
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        scrollToTopButton.style.display = "block";
+    } else {
+        scrollToTopButton.style.display = "none";
+    }
+};
+
+// Fonction pour défiler vers le haut
+document.getElementById("scrollToTop").onclick = function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+};
+
