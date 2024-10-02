@@ -103,8 +103,8 @@
     font-size: 18px;
 }
 
-/* Styles spécifiques pour les écrans de 400 pixels et moins */
-@media (max-width: 400px) {
+/* Styles spécifiques pour les écrans de 500 pixels et moins */
+@media (max-width: 500px) {
     .transpose-controls span {
         font-size: 1.1em;
         /* Réduit la taille des éléments de transposition */
