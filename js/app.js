@@ -138,17 +138,17 @@ function displaySong(song, transpositionSteps = 0, container = null) {
     const songContainer = container || document.createElement('div');
     songContainer.classList.add('song');
     songContainer.dataset.originalKey = song.keySignature;
-    
+
     // Sauvegarder les contrôles de transposition s'ils existent
     const existingTransposeControls = songContainer.querySelector('.transpose-controls');
-    
+
     songContainer.innerHTML = ''; // Vider le contenu existant
-    
+
     // Réinsérer les contrôles de transposition s'ils existaient
     if (existingTransposeControls) {
         songContainer.appendChild(existingTransposeControls);
     }
-    
+
     // Ajouter le titre de la chanson
     const title = document.createElement('h2');
     title.textContent = `${song.title}`;
@@ -167,29 +167,39 @@ function displaySong(song, transpositionSteps = 0, container = null) {
     // Transposer les vers
     const transposedVerses = transposeSong(song, transpositionSteps);
 
+    let isChorus = false; // Variable pour suivre si on est dans un chorus
+
     transposedVerses.forEach((verse, index) => {
         const verseDiv = document.createElement('div');
         verseDiv.classList.add('verse');
 
         verse.forEach((line, lineIndex) => {
             const p = document.createElement('p');
+
             if (line.text.startsWith("CHORUS:")) {
+                isChorus = true; // Début du chorus
                 p.classList.add('chorus');
                 p.innerHTML = line.text;
             } else {
+                if (isChorus) {
+                    p.classList.add('chorus'); // Appliquer le style chorus
+                }
                 p.innerHTML = line.text.replace(/\(([^)]+)\)/g, (match, chord) => {
                     return `<span class="chord">(${chord})</span>`;
                 });
             }
+
             verseDiv.appendChild(p);
         });
 
         songContainer.appendChild(verseDiv);
+
+        // Réinitialiser le chorus après le verse
+        isChorus = false;
     });
 
     return songContainer;
 }
-
 
 // Fonction pour charger les chansons à partir des paramètres d'URL
 function loadSongs() {

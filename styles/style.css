@@ -43,7 +43,7 @@
 .single h2 {
     color: #4A90E2;
     font-size: 2em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: sans-serif;
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 15px;
@@ -58,17 +58,14 @@
 /* Style spécifique pour les accords */
 .verse p span.chord {
     color: #E94E77;
-    /* Rouge pour les accords */
     font-weight: 950;
 }
 
 /* Style pour le refrain */
 .verse p.chorus {
     color: #27ae60;
-    /* Vert pour les refrains */
-    font-style: normal;
+    font-style: italic;
     font-weight: bold;
-    text-decoration: underline;
 }
 
 /* Styles pour le champ de recherche */
@@ -126,7 +123,7 @@
     }
 
     .single h2 {
-        font-size: 1.2em;
+        font-size: 1em;
         /* Réduit la taille des titres de cantiques */
     }
 
