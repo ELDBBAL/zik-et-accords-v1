@@ -1,6 +1,271 @@
 // songs.js // Liste des cantiques
 const songs = [
 
+    //Debut Cantiques Dimanches 13 Octobre 2024
+    {
+        key: "dim-13-10-2024",
+        title: "HE IS LORD",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/OTbhnTeF4yE?si=oTn23PDHOGvgxliv",
+        verses: [
+            [
+                { chord: "C", text: "(C) He is (G) Lord, He is (C) Lord!" },
+                { chord: "C", text: "(C) He is risen from the (D) dead and he is (G) Lord!" },
+                { chord: "C", text: "(C) Ev'ry knee shall bow, ev'ry (F) tongue confess" },
+                { chord: "F", text: "(F) That (C) Jesus (G) Christ is (C) Lord." }
+            ]
+        ]
+    },
+    {
+        key: "dim-13-10-2024",
+        title: "MY SOUL REJOICE AND PRAISE THE LORD",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
+        verses: [
+            [
+                { chord: "C", text: "(C) My soul, rejoice and (F) praise the (C) Lord" },
+                { chord: "F", text: "(F) Rejoice and (G) praise the (C) Lord" }
+            ],
+            [
+                { chord: "", text: "CHORUS:" },
+                { chord: "C", text: "(C) Rejoice and praise the (G) Lord" },
+                { chord: "G", text: "(G) Rejoice and praise the (C) Lord" }
+            ]
+        ]
+    }, 
+    {
+        key: "dim-13-10-2024",
+        title: "I'M SO GLAD JESUS SET ME FREE",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) I'm so glad Jesus set me free." },
+                { chord: "C", text: "(C) I'm so glad Jesus set me free." },
+                { chord: "C", text: "(C) I'm so glad Jesus set me free." },
+                { chord: "C", text: "(C) Singing Glory! Hallelujah!" },
+                { chord: "C", text: "(C) Jesus Set me Free" }
+            ],
+            [
+                { chord: "C", text: "(C) Satan had me bound: Jesus set me free." },
+                { chord: "C", text: "(C) Satan had me bound: Jesus set me free." },
+                { chord: "C", text: "(C) Satan had me bound: Jesus set me free." },
+                { chord: "C", text: "(C) Singing Glory! Hallelujah!" },
+                { chord: "C", text: "(C) Jesus Set me Free" }
+            ],
+            [
+                { chord: "C", text: "(C) I' m on my way to heaven, shouting the victory" },
+                { chord: "C", text: "(C) I' m on my way to heaven, shouting the victory" },
+                { chord: "C", text: "(C) I' m on my way to heaven, shouting the victory" },
+                { chord: "C", text: "(C) Singing Glory! Hallelujah!" },
+                { chord: "C", text: "(C) Jesus Set me Free" }
+            ]
+        ]
+    },
+    {
+        key: "dim-13-10-2024",
+        title: "LE FEU DIVIN BRULE EN MON CŒUR",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" },
+                { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" },
+                { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" },
+                { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" }
+            ],
+            [
+                { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" },
+                { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" },
+                { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" },
+                { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" }
+            ],
+            [
+                { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " },
+                { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " },
+                { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " },
+                { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " }
+            ],
+            [
+                { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" },
+                { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" },
+                { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" },
+                { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" }
+            ],
+            [
+                { chord: "C", text: "(C) O, reçois-le de tout ton cœur " },
+                { chord: "C", text: "(C) O, reçois-le de tout ton cœur " },
+                { chord: "C", text: "(C) O, reçois-le de tout ton cœur " },
+                { chord: "C", text: "(C) O, reçois-le de tout ton cœur " }
+            ]
+        ]
+    },    
+    {
+        key: "dim-13-10-2024",
+        title: "WHEN WE ALL GET TO HEAVEN",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) Sing the wondrous love of Jesus" },
+                { chord: "C", text: "(C) Sing his mercy and his grace;" },
+                { chord: "C", text: "(C) In the mansions, bright and blessed," },
+                { chord: "C", text: "(C) He’ll prepare for us a place." }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "C", text: "(C) When we all get to heaven," },
+                { chord: "C", text: "(C) What a day of rejoicing that will be!" },
+                { chord: "C", text: "(C) When we all see Jesus" },
+                { chord: "C", text: "(C) We’ll sing and shout the victory." }
+            ],
+            [
+                { chord: "C", text: "(C) While we walk the pilgrim pathway" },
+                { chord: "C", text: "(C) Clouds will overspread the sky;" },
+                { chord: "C", text: "(C) But when trav’ling days are over," },
+                { chord: "C", text: "(C) Not a shadow, not a sigh." }
+            ],
+            [
+                { chord: "C", text: "(C) Let us then be true and faithful" },
+                { chord: "C", text: "(C) Trusting, serving, every day;" },
+                { chord: "C", text: "(C) Just one glimpse of him in glory" },
+                { chord: "C", text: "(C) Will the toils of life repay." }
+            ],
+            [
+                { chord: "C", text: "(C) Onward to the prize before us" },
+                { chord: "C", text: "(C) Soon his beauty we’ll behold;" },
+                { chord: "C", text: "(C) Soon the pearly gates will open," },
+                { chord: "C", text: "(C) We shall tread the streets of gold." }
+            ]
+        ]
+    },
+    {
+        key: "dim-13-10-2024",
+        title: "THE OLD-TIME RELIGION",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) It’s the old-time Holy Spirit," },
+                { chord: "C", text: "(C) And the devil won’t go near It," },
+                { chord: "C", text: "(C) That’s the reason people fear It;" },
+                { chord: "C", text: "(C) But It’s good enough for me." }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "C", text: "(C) Give me that old time religion," },
+                { chord: "C", text: "(C) Give me that old time religion," },
+                { chord: "C", text: "(C) Give me that old time religion," },
+                { chord: "C", text: "(C) It’s good enough for me" }
+            ],
+            [
+                { chord: "C", text: "(C) It will make you stop your lying;" },
+                { chord: "C", text: "(C) It will save you when you’re dying" },
+                { chord: "C", text: "(C) It will start the devil flying;" },
+                { chord: "C", text: "(C) And it’s good enough for me." }
+            ],
+            [
+                { chord: "C", text: "(C) It’s so good I want no other;" },
+                { chord: "C", text: "(C) For It makes me love my brother;" },
+                { chord: "C", text: "(C) And It brings things from under cover," },
+                { chord: "C", text: "(C) And it’s good enough for me." }
+            ],
+            [
+                { chord: "C", text: "(C) It was good in the fiery furnace" },
+                { chord: "C", text: "(C) It was good for Paul and Silas" },
+                { chord: "C", text: "(C) It was good for our fathers" },
+                { chord: "C", text: "(C) It was good for Brother Branham " },
+                { chord: "C", text: "(C) Makes me love everybody" },
+                { chord: "C", text: "(C) It will do when I am dying" },
+                { chord: "C", text: "(C) It will take us all to Heaven" },
+            ]
+        ]
+    },
+    {
+        key: "dim-13-10-2024",
+        title: "TOUT EST EN LUI",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) Le Dieu puissant, c’est Jésus c’est le Prince de paix" },
+                { chord: "C", text: "(C) Le Père de l’Eternité et le Roi de beauté." },
+                { chord: "C", text: "(C) Le Merveilleux en sagesse Pour qui toute chose est faite," },
+                { chord: "C", text: "(C) La plénitude divine en Jésus incarnée." }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "C", text: "(C) Tout est en Lui, tout est en Lui" },
+                { chord: "C", text: "(C) La plénitude divine est toute en Lui." },
+                { chord: "C", text: "(C) Tout est en Lui, tout est en Lui," },
+                { chord: "C", text: "(C) Jésus est Dieu Tout-puissant et tout est en Lui." }
+            ],
+            [
+                { chord: "C", text: "(C) Emmanuel : Dieu avec nous, Jéhovah l’Eternel" },
+                { chord: "C", text: "(C) L’Esprit tout omniprésent qui remplit l’univers," },
+                { chord: "C", text: "(C) Le grand Sacrificateur et l’Agneau des pécheurs," },
+                { chord: "C", text: "(C) L’auteur de la Rédemption, que béni soit Son Nom" }
+            ],
+            [
+                { chord: "C", text: "(C) Le commencement et la fin, l’Alpha et l’Omega," },
+                { chord: "C", text: "(C) La Vraie Parole incarnée, l’Ami des rachetés." },
+                { chord: "C", text: "(C) La sagesse et perfection, ma justice et puissance" },
+                { chord: "C", text: "(C) Tout ce dont j’ai le besoin: je le trouve en Sa main." }
+            ],
+            [
+                { chord: "C", text: "(C) Le Dieu que nous attendions sera la gaie chanson" },
+                { chord: "C", text: "(C) De l’Israël revenu, quand paraîtra Jésus." },
+                { chord: "C", text: "(C) Il viendra nous délivrer notre Agneau immolé," },
+                { chord: "C", text: "(C) La plénitude est en Lui, Le Vainqueur de la nuit." }
+            ]
+        ]
+    },
+    {
+        key: "dim-13-10-2024",
+        title: "Amazing grace",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) Amazing grace how sweet the sound" },
+                { chord: "C", text: "(C) that saved a wretch like me!" },
+                { chord: "C", text: "(C) I once was lost, but now am found," },
+                { chord: "C", text: "(C) was blind, but now I see." }
+            ],
+            [
+                { chord: "C", text: "(C) IT was grace that taught my heart to fear," },
+                { chord: "C", text: "(C) and grace my fears relieved;" },
+                { chord: "C", text: "(C) how precious did that grace appear" },
+                { chord: "C", text: "(C) the hour I first believed!" }
+            ],
+            [
+                { chord: "C", text: "(C) Through many dangers, toils and snares" },
+                { chord: "C", text: "(C) I have already come:" },
+                { chord: "C", text: "(C) This grace has brought me safe thus far," },
+                { chord: "C", text: "(C) and grace will lead me home" }
+            ],
+            [
+                { chord: "C", text: "(C) The Lord has promised good to me," },
+                { chord: "C", text: "(C) his word my hope secures;" },
+                { chord: "C", text: "(C) he will my shield and portion be" },
+                { chord: "C", text: "(C) as long as life endures." }
+            ],
+            [
+                { chord: "C", text: "(C) Yes, when this flesh and heart shall fail," },
+                { chord: "C", text: "(C) and mortal life shall cease:" },
+                { chord: "C", text: "(C) I shall possess, within the veil," },
+                { chord: "C", text: "(C) a life of joy and peace." }
+            ],
+            [
+                { chord: "C", text: "(C) The earth shall soon dissolve like snow," },
+                { chord: "C", text: "(C) the sun forbear to shine;" },
+                { chord: "C", text: "(C) but God, who called me here below," },
+                { chord: "C", text: "(C) will be forever mine." }
+            ]
+        ]
+    },
+    //Fin Cantiques Dimanches 13 Octobre 2024
+
     // Debut Cantiques Dimanche 06 Octobre 2024
     {
         key: "dim-06-10-2024",
