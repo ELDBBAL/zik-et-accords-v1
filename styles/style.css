@@ -1,3 +1,4 @@
+/* Contrôles de transposition */
 .transpose-controls span {
     font-size: 2.1em;
     color: #E94E77;
@@ -6,6 +7,7 @@
     display: inline-block;
 }
 
+/* Conteneur des contrôles de transposition */
 .transpose-controls {
     margin-bottom: 20px;
     display: flex;
@@ -13,28 +15,33 @@
     gap: 15px;
 }
 
+/* Étiquette des contrôles de transposition */
 .transpose-controls label {
     font-size: 2.5em;
     font-weight: bold;
     color: #4A90E2;
 }
 
+/* Sélecteur des contrôles de transposition */
 .transpose-controls select {
     padding: 5px;
     border: 1px solid #4A90E2;
     border-radius: 5px;
 }
 
+/* Paragraphes dans le conteneur de la chanson */
 #songContainer p {
     font-size: 1.2em;
     margin: 10px 0;
 }
 
+/* Titre d'un article */
 .single_post_title {
     font-size: 1.5em;
     font-weight: bold;
 }
 
+/* Vers de la chanson */
 .verse {
     margin-bottom: 20px;
 }
@@ -51,29 +58,31 @@
     text-transform: uppercase;
 }
 
+/* Paragraphes dans les vers de la chanson */
 .verse p {
     color: #FFFFFF;
 }
 
-/* Style spécifique pour les accords */
+/* Style spécifique pour les accords dans les vers */
 .verse p span.chord {
     color: #E94E77;
     font-weight: 950;
 }
 
-/* Style pour le refrain */
+/* Style pour le refrain dans les vers */
 .verse p.chorus {
     color: #27ae60;
     font-style: italic;
     font-weight: bold;
 }
 
-/* Styles pour le champ de recherche */
+/* Conteneur de recherche */
 .search-container {
     margin: 20px 0;
     text-align: center;
 }
 
+/* Champ de saisie dans le conteneur de recherche */
 .search-container input {
     width: 60%;
     padding: 10px;
@@ -82,7 +91,7 @@
     border-radius: 5px;
 }
 
-/* Scroll to top button */
+/* Bouton de retour en haut de page */
 .scroll-to-top {
     position: fixed;
     bottom: 20px;
@@ -96,55 +105,126 @@
     z-index: 1000;
 }
 
+/* Icône du bouton de retour en haut de page */
 .scroll-to-top i {
     font-size: 18px;
 }
 
+/* Conteneur pour les boutons */
+.button-container {
+    display: flex; /* Utiliser le modèle flexible */
+    justify-content: left; /* Aligner à gauche les boutons horizontalement */
+    align-items: center; /* Centrer verticalement les boutons */
+    gap: 10px; /* Espace entre les boutons */
+}
+
+/* Bouton de téléchargement PDF */
+.pdf-download-button {
+    background-color: #4CAF50; 
+    border: none; 
+    color: white; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 10px 2px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    transition: background-color 0.3s; 
+}
+
+/* Style au survol du bouton de téléchargement PDF */
+.pdf-download-button:hover {
+    background-color: #45a049; 
+    color: #FFFFFF;
+}
+
+/* Bouton d'écoute YouTube */
+.youtube-listen-button {
+    background-color: #E94E77; 
+    border: none; 
+    color: white; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px;
+    margin: 10px 2px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    transition: background-color 0.3s; 
+}
+
+/* Style au survol du bouton d'écoute YouTube */
+.youtube-listen-button:hover {
+    background-color: #d83f63; 
+    color: #FFFFFF;
+}
+
 /* Styles spécifiques pour les écrans de 500 pixels et moins */
 @media (max-width: 500px) {
+    /* Contrôles de transposition */
     .transpose-controls span {
         font-size: 1.1em;
-        /* Réduit la taille des éléments de transposition */
     }
 
+    /* Étiquette des contrôles de transposition */
     .transpose-controls label {
         font-size: 1.2em;
-        /* Réduit la taille du label */
     }
 
+    /* Sélecteur des contrôles de transposition */
     .transpose-controls select {
         padding: 2px;
         border-radius: 2px;
     }
 
+    /* Titre d'un article */
     .single_post_title {
         font-size: 1.2em;
-        /* Réduit la taille du titre */
     }
 
+    /* Couleur pour les titres des cantiques */
     .single h2 {
         font-size: 1em;
-        /* Réduit la taille des titres de cantiques */
     }
 
+    /* Paragraphes dans le conteneur de la chanson */
     #songContainer p {
         font-size: 1em;
-        /* Réduit la taille du texte des paroles */
     }
 
+    /* Vers de la chanson */
     .single {
         background: #000000;
         padding-top: 5px;
         padding-bottom: 50px;
     }
 
+    /* Bouton de retour en haut de page */
     .scroll-to-top {
         bottom: 10px;
         right: 10px;
         padding: 8px;
     }
 
+    /* Logo de l'en-tête */
     .header .header_content .logo a {
         font-size: 18px;
+    }
+
+    /* Conteneur pour les boutons */
+    .button-container {
+        flex-direction: row; 
+        justify-content: space-between; 
+        padding: 10px; 
+    }
+
+    /* Bouton de téléchargement PDF et bouton d'écoute YouTube */
+    .pdf-download-button,
+    .youtube-listen-button {
+        font-size: 13px; 
+        padding: 8px 10px; 
     }
 }
