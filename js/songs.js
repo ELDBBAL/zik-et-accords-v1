@@ -37,28 +37,28 @@ const songs = [
         key: "dim-13-10-2024",
         title: "I'M SO GLAD JESUS SET ME FREE",
         keySignature: "C",
-        youtubeLink: "#",
+        youtubeLink: "https://youtu.be/huecQwO6Xzo?si=V9LTvXj1yz-BhlMe",
         verses: [
             [
-                { chord: "C", text: "(C) I'm so glad Jesus set me free." },
-                { chord: "C", text: "(C) I'm so glad Jesus set me free." },
-                { chord: "C", text: "(C) I'm so glad Jesus set me free." },
-                { chord: "C", text: "(C) Singing Glory! Hallelujah!" },
-                { chord: "C", text: "(C) Jesus Set me Free" }
+                { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                { chord: "G", text: "(G) Jesus Set me (C) Free" }
             ],
             [
-                { chord: "C", text: "(C) Satan had me bound: Jesus set me free." },
-                { chord: "C", text: "(C) Satan had me bound: Jesus set me free." },
-                { chord: "C", text: "(C) Satan had me bound: Jesus set me free." },
-                { chord: "C", text: "(C) Singing Glory! Hallelujah!" },
-                { chord: "C", text: "(C) Jesus Set me Free" }
+                { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                { chord: "G", text: "(G) Jesus Set me (C) Free" }
             ],
             [
-                { chord: "C", text: "(C) I' m on my way to heaven, shouting the victory" },
-                { chord: "C", text: "(C) I' m on my way to heaven, shouting the victory" },
-                { chord: "C", text: "(C) I' m on my way to heaven, shouting the victory" },
-                { chord: "C", text: "(C) Singing Glory! Hallelujah!" },
-                { chord: "C", text: "(C) Jesus Set me Free" }
+                { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                { chord: "G", text: "(G) Jesus Set me (C) Free" }
             ]
         ]
     },
@@ -66,37 +66,37 @@ const songs = [
         key: "dim-13-10-2024",
         title: "LE FEU DIVIN BRULE EN MON CŒUR",
         keySignature: "C",
-        youtubeLink: "#",
+        youtubeLink: "https://youtu.be/ycm815slfWY?si=WH3saDHiyd46C859",
         verses: [
             [
                 { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" },
-                { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" },
-                { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" },
-                { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" }
+                { chord: "C", text: "(C) Le Feu (G) divin brûle en mon (C) cœur" },
+                { chord: "C", text: "(C) Le Feu (F) divin brûle en mon (C) cœur (C) - (Em) - (Am) " },
+                { chord: "Am", text: "(Am) Le Feu (Dm) divin (G) brûle en mon (C) cœur" }
             ],
             [
                 { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" },
-                { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" },
-                { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" },
-                { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" }
+                { chord: "C", text: "(C) J’aime (G) Jésus de tout mon (G) cœur" },
+                { chord: "C", text: "(C) J’aime (F) Jésus de tout mon (C) cœur (C) - (Em) - (Am) " },
+                { chord: "Am", text: "(Am) J’aime (Dm) Jésus de (G) tout mon (C) cœur" }
             ],
             [
                 { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " },
-                { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " },
-                { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " },
-                { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " }
+                { chord: "C", text: "(C) Mon cœur Le (G) loue avec (C) ferveur " },
+                { chord: "C", text: "(C) Mon cœur Le (F) loue avec (C) ferveur (C) - (Em) - (Am) " },
+                { chord: "Am", text: "(Am) Mon cœur Le (Dm) loue (G) avec (C) ferveur " }
             ],
             [
                 { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" },
-                { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" },
-                { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" },
-                { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" }
+                { chord: "C", text: "(C) Alléluia (G) ! Gloire à son (C) Nom" },
+                { chord: "C", text: "(C) Alléluia (F) !  Gloire à son (C) Nom (C) - (Em) - (Am) " },
+                { chord: "Am", text: "(Am) Alléluia (Dm) ! (G) Gloire à son (C) Nom" }
             ],
             [
                 { chord: "C", text: "(C) O, reçois-le de tout ton cœur " },
-                { chord: "C", text: "(C) O, reçois-le de tout ton cœur " },
-                { chord: "C", text: "(C) O, reçois-le de tout ton cœur " },
-                { chord: "C", text: "(C) O, reçois-le de tout ton cœur " }
+                { chord: "C", text: "(C) O, reçois (G) le de tout ton (C) cœur " },
+                { chord: "C", text: "(C) O, reçois (F) le de tout ton (C) cœur (C) - (Em) - (Am) " },
+                { chord: "Am", text: "(Am) O, reçois (Dm) le de (G) tout ton (C) cœur " }
             ]
         ]
     },    
@@ -104,38 +104,38 @@ const songs = [
         key: "dim-13-10-2024",
         title: "WHEN WE ALL GET TO HEAVEN",
         keySignature: "C",
-        youtubeLink: "#",
+        youtubeLink: "https://youtu.be/Mei1MYF_fm8?si=ewNEBKiSIvMx3kxj",
         verses: [
             [
                 { chord: "C", text: "(C) Sing the wondrous love of Jesus" },
-                { chord: "C", text: "(C) Sing his mercy and his grace;" },
-                { chord: "C", text: "(C) In the mansions, bright and blessed," },
-                { chord: "C", text: "(C) He’ll prepare for us a place." }
+                { chord: "G", text: "(G) Sing his mercy and his (C) grace;" },
+                { chord: "C", text: "(C) In the mansions, (F) bright and blessed," },
+                { chord: "C", text: "(C) He’ll prepare (G) for us a (C) place." }
             ],
             [
                 { chord: "C", text: "CHORUS:" },
                 { chord: "C", text: "(C) When we all get to heaven," },
-                { chord: "C", text: "(C) What a day of rejoicing that will be!" },
-                { chord: "C", text: "(C) When we all see Jesus" },
-                { chord: "C", text: "(C) We’ll sing and shout the victory." }
+                { chord: "C", text: "(C) What a day of (D) rejoicing that will (G) be!" },
+                { chord: "C", text: "(C) When we all see (F) Jesus" },
+                { chord: "C", text: "(C) We’ll sing and (G) shout the (C) victory." }
             ],
             [
                 { chord: "C", text: "(C) While we walk the pilgrim pathway" },
-                { chord: "C", text: "(C) Clouds will overspread the sky;" },
-                { chord: "C", text: "(C) But when trav’ling days are over," },
-                { chord: "C", text: "(C) Not a shadow, not a sigh." }
+                { chord: "G", text: "(G) Clouds will overspread the (C) sky;" },
+                { chord: "C", text: "(C) But when (F) trav’ling days are (C) over," },
+                { chord: "C", text: "(C) Not a (G) shadow, not a (C) sigh." }
             ],
             [
                 { chord: "C", text: "(C) Let us then be true and faithful" },
-                { chord: "C", text: "(C) Trusting, serving, every day;" },
-                { chord: "C", text: "(C) Just one glimpse of him in glory" },
-                { chord: "C", text: "(C) Will the toils of life repay." }
+                { chord: "G", text: "(G) Trusting, serving, every (C) day;" },
+                { chord: "C", text: "(C) Just one (F) glimpse of him in (C) glory" },
+                { chord: "C", text: "(C) Will the (G) toils of life (C) repay." }
             ],
             [
                 { chord: "C", text: "(C) Onward to the prize before us" },
-                { chord: "C", text: "(C) Soon his beauty we’ll behold;" },
-                { chord: "C", text: "(C) Soon the pearly gates will open," },
-                { chord: "C", text: "(C) We shall tread the streets of gold." }
+                { chord: "G", text: "(G) Soon his beauty we’ll (C) behold;" },
+                { chord: "C", text: "(C) Soon the pearly (F) gates will open," },
+                { chord: "C", text: "(C) We shall (G) tread the streets of (C) gold." }
             ]
         ]
     },
@@ -143,41 +143,62 @@ const songs = [
         key: "dim-13-10-2024",
         title: "THE OLD-TIME RELIGION",
         keySignature: "C",
-        youtubeLink: "#",
+        youtubeLink: "https://youtu.be/JOI_HFvhINM?si=1N7zaH35NEn5MzmG",
         verses: [
             [
                 { chord: "C", text: "(C) It’s the old-time Holy Spirit," },
-                { chord: "C", text: "(C) And the devil won’t go near It," },
-                { chord: "C", text: "(C) That’s the reason people fear It;" },
-                { chord: "C", text: "(C) But It’s good enough for me." }
+                { chord: "C", text: "(C) And the (G) devil won’t go (C) near It," },
+                { chord: "C", text: "(C) That’s the reason people (F) fear It;" },
+                { chord: "F", text: "(F) But (G) It’s good enough for (C) me." }
             ],
             [
                 { chord: "C", text: "CHORUS:" },
                 { chord: "C", text: "(C) Give me that old time religion," },
-                { chord: "C", text: "(C) Give me that old time religion," },
-                { chord: "C", text: "(C) Give me that old time religion," },
-                { chord: "C", text: "(C) It’s good enough for me" }
+                { chord: "C", text: "(C) Give me that (G) old time (C) religion," },
+                { chord: "C", text: "(C) Give me that old time (F) religion," },
+                { chord: "F", text: "(F) It’s (G) good enough for (C) me" }
             ],
             [
                 { chord: "C", text: "(C) It will make you stop your lying;" },
-                { chord: "C", text: "(C) It will save you when you’re dying" },
-                { chord: "C", text: "(C) It will start the devil flying;" },
-                { chord: "C", text: "(C) And it’s good enough for me." }
+                { chord: "C", text: "(C) It will (G) save you when you’re (C) dying" },
+                { chord: "C", text: "(C) It will start the devil (F) flying;" },
+                { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
             ],
             [
                 { chord: "C", text: "(C) It’s so good I want no other;" },
-                { chord: "C", text: "(C) For It makes me love my brother;" },
-                { chord: "C", text: "(C) And It brings things from under cover," },
-                { chord: "C", text: "(C) And it’s good enough for me." }
+                { chord: "C", text: "(C) For It (G) makes me love my (C) brother;" },
+                { chord: "C", text: "(C) And It brings things from under (F) cover," },
+                { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
             ],
             [
                 { chord: "C", text: "(C) It was good in the fiery furnace" },
+                { chord: "C", text: "(C) It was (G) good in the fiery (C) furnace" },
+                { chord: "C", text: "(C) It was good in the fiery (F) furnace" },
+                { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+            ],
+            [
                 { chord: "C", text: "(C) It was good for Paul and Silas" },
+                { chord: "C", text: "(C) It was (G) good for Paul and (C) Silas" },
+                { chord: "C", text: "(C) It was good for Paul and (F) Silas" },
+                { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+            ],
+            [
                 { chord: "C", text: "(C) It was good for our fathers" },
+                { chord: "C", text: "(C) It was (G) good for our (C) fathers" },
+                { chord: "C", text: "(C) It was good for our (F) fathers" },
+                { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+            ],
+            [
                 { chord: "C", text: "(C) It was good for Brother Branham " },
-                { chord: "C", text: "(C) Makes me love everybody" },
-                { chord: "C", text: "(C) It will do when I am dying" },
+                { chord: "C", text: "(C) It was (G) good for Brother (C) Branham " },
+                { chord: "C", text: "(C) It was good for Brother (F) Branham " },
+                { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+            ],
+            [
                 { chord: "C", text: "(C) It will take us all to Heaven" },
+                { chord: "C", text: "(C) It will (G) take us all to (C) Heaven" },
+                { chord: "C", text: "(C) It will take us all to (F) Heaven" },
+                { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
             ]
         ]
     },
@@ -185,38 +206,38 @@ const songs = [
         key: "dim-13-10-2024",
         title: "TOUT EST EN LUI",
         keySignature: "C",
-        youtubeLink: "#",
+        youtubeLink: "https://youtu.be/IM9LhW7S-_w?si=ZTe2tEZfXOEwVIF8",
         verses: [
             [
-                { chord: "C", text: "(C) Le Dieu puissant, c’est Jésus c’est le Prince de paix" },
-                { chord: "C", text: "(C) Le Père de l’Eternité et le Roi de beauté." },
-                { chord: "C", text: "(C) Le Merveilleux en sagesse Pour qui toute chose est faite," },
-                { chord: "C", text: "(C) La plénitude divine en Jésus incarnée." }
+                { chord: "C", text: "(C) Le Dieu puissant, c’est Jésus c’est le (F) Prince de (C) paix" },
+                { chord: "C", text: "(C) Le Père de l’Eternité et (D) le Roi de (G) beauté." },
+                { chord: "C", text: "(C) Le Merveilleux en sagesse Par (F) qui toute chose est (C) faite," },
+                { chord: "C", text: "(C) La plénitude (F) divine en (G) Jésus (C) incarnée." }
             ],
             [
                 { chord: "C", text: "CHORUS:" },
-                { chord: "C", text: "(C) Tout est en Lui, tout est en Lui" },
-                { chord: "C", text: "(C) La plénitude divine est toute en Lui." },
-                { chord: "C", text: "(C) Tout est en Lui, tout est en Lui," },
-                { chord: "C", text: "(C) Jésus est Dieu Tout-puissant et tout est en Lui." }
+                { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                { chord: "C", text: "(C) La plénitude divine est (D) toute en (G) Lui." },
+                { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                { chord: "C", text: "(C) Jésus est Dieu (F) Tout-puissant et (G) tout est en (C) Lui." }
             ],
             [
-                { chord: "C", text: "(C) Emmanuel : Dieu avec nous, Jéhovah l’Eternel" },
-                { chord: "C", text: "(C) L’Esprit tout omniprésent qui remplit l’univers," },
-                { chord: "C", text: "(C) Le grand Sacrificateur et l’Agneau des pécheurs," },
-                { chord: "C", text: "(C) L’auteur de la Rédemption, que béni soit Son Nom" }
+                { chord: "C", text: "(C) Emmanuel : Dieu avec nous, (F) Jéhovah (C) l’Eternel" },
+                { chord: "C", text: "(C) L’Esprit tout omniprésent qui (D) remplit (G) l’univers," },
+                { chord: "C", text: "(C) Le grand Sacrificateur et (F) l’Agneau des (C) pécheurs," },
+                { chord: "C", text: "(C) L’auteur de la (F) Rédemption, que (G) béni soit Son (C) Nom" }
             ],
             [
-                { chord: "C", text: "(C) Le commencement et la fin, l’Alpha et l’Omega," },
-                { chord: "C", text: "(C) La Vraie Parole incarnée, l’Ami des rachetés." },
-                { chord: "C", text: "(C) La sagesse et perfection, ma justice et puissance" },
-                { chord: "C", text: "(C) Tout ce dont j’ai le besoin: je le trouve en Sa main." }
+                { chord: "C", text: "(C) Le commencement et la fin, (F) l’Alpha et (G) l’Omega," },
+                { chord: "C", text: "(C) La Vraie Parole incarnée, (D) l’Ami des (G) rachetés." },
+                { chord: "C", text: "(C) La sagesse et perfection, ma (F) justice et (C) puissance" },
+                { chord: "C", text: "(C) Tout ce dont j’ai le (F) besoin: je (G) le trouve en Sa (C) main." }
             ],
             [
-                { chord: "C", text: "(C) Le Dieu que nous attendions sera la gaie chanson" },
-                { chord: "C", text: "(C) De l’Israël revenu, quand paraîtra Jésus." },
-                { chord: "C", text: "(C) Il viendra nous délivrer notre Agneau immolé," },
-                { chord: "C", text: "(C) La plénitude est en Lui, Le Vainqueur de la nuit." }
+                { chord: "C", text: "(C) Le Dieu que nous attendions (F) sera la gaie (C) chanson" },
+                { chord: "C", text: "(C) De l’Israël revenu, quand (D) paraîtra (G) Jésus." },
+                { chord: "C", text: "(C) Il viendra nous délivrer notre (F) Agneau (C) immolé," },
+                { chord: "C", text: "(C) La plénitude est (F) en Lui, Le (G) Vainqueur de la (C) nuit." }
             ]
         ]
     },
@@ -224,43 +245,43 @@ const songs = [
         key: "dim-13-10-2024",
         title: "Amazing grace",
         keySignature: "C",
-        youtubeLink: "#",
+        youtubeLink: "https://youtu.be/Tvt6E9N7AQw?si=8zkXY4GH66SnRODV",
         verses: [
             [
-                { chord: "C", text: "(C) Amazing grace how sweet the sound" },
-                { chord: "C", text: "(C) that saved a wretch like me!" },
-                { chord: "C", text: "(C) I once was lost, but now am found," },
-                { chord: "C", text: "(C) was blind, but now I see." }
+                { chord: "C", text: "(C) Amazing grace how (F) sweet the (C) sound" },
+                { chord: "C", text: "(C) that saved a wretch like (G) me!" },
+                { chord: "C", text: "(C) I once was lost, but (F) now am (C) found," },
+                { chord: "C", text: "(C) was blind, but (G) now I (C) see." }
             ],
             [
-                { chord: "C", text: "(C) IT was grace that taught my heart to fear," },
-                { chord: "C", text: "(C) and grace my fears relieved;" },
-                { chord: "C", text: "(C) how precious did that grace appear" },
-                { chord: "C", text: "(C) the hour I first believed!" }
+                { chord: "C", text: "(C) IT was grace that taught my (F) heart to (C) fear," },
+                { chord: "C", text: "(C) and grace my fears (G) relieved;" },
+                { chord: "C", text: "(C) how precious did that (F) grace (C) appear" },
+                { chord: "C", text: "(C) the hour I (G) first (C) believed!" }
             ],
             [
-                { chord: "C", text: "(C) Through many dangers, toils and snares" },
-                { chord: "C", text: "(C) I have already come:" },
-                { chord: "C", text: "(C) This grace has brought me safe thus far," },
-                { chord: "C", text: "(C) and grace will lead me home" }
+                { chord: "C", text: "(C) Through many dangers, (F) toils and (C) snares" },
+                { chord: "C", text: "(C) I have already (G) come:" },
+                { chord: "C", text: "(C) This grace has brought me (F) safe thus (C) far," },
+                { chord: "C", text: "(C) and grace will (G) lead me (C) home" }
             ],
             [
-                { chord: "C", text: "(C) The Lord has promised good to me," },
-                { chord: "C", text: "(C) his word my hope secures;" },
-                { chord: "C", text: "(C) he will my shield and portion be" },
-                { chord: "C", text: "(C) as long as life endures." }
+                { chord: "C", text: "(C) The Lord has promised (F) good to (C) me," },
+                { chord: "C", text: "(C) his word my hope (G) secures;" },
+                { chord: "C", text: "(C) he will my shield and (F) portion (C) be" },
+                { chord: "C", text: "(C) as long as (G) life (C) endures." }
             ],
             [
-                { chord: "C", text: "(C) Yes, when this flesh and heart shall fail," },
-                { chord: "C", text: "(C) and mortal life shall cease:" },
-                { chord: "C", text: "(C) I shall possess, within the veil," },
-                { chord: "C", text: "(C) a life of joy and peace." }
+                { chord: "C", text: "(C) Yes, when this flesh and (F) heart shall (C) fail," },
+                { chord: "C", text: "(C) and mortal life shall (G) cease:" },
+                { chord: "C", text: "(C) I shall possess, (F) within the (C) veil," },
+                { chord: "C", text: "(C) a life of (G) joy and (C) peace." }
             ],
             [
-                { chord: "C", text: "(C) The earth shall soon dissolve like snow," },
-                { chord: "C", text: "(C) the sun forbear to shine;" },
-                { chord: "C", text: "(C) but God, who called me here below," },
-                { chord: "C", text: "(C) will be forever mine." }
+                { chord: "C", text: "(C) The earth shall soon (F) dissolve like (C) snow," },
+                { chord: "C", text: "(C) the sun forbear to (G) shine;" },
+                { chord: "C", text: "(C) but God, who (F) called me here (C) below," },
+                { chord: "C", text: "(C) will be (G) forever (C) mine." }
             ]
         ]
     },
