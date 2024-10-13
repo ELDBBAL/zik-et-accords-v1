@@ -7,18 +7,7 @@
 
 // Liste des accords majeurs et mineurs
 const chords = [
-  "C",
-  "C#",
-  "D",
-  "Eb",
-  "E",
-  "F",
-  "F#",
-  "G",
-  "Ab",
-  "A",
-  "Bb",
-  "B",
+  "C","C#","D","Eb","E","F","F#","G","Ab","A","Bb","B",
 ];
 
 // Fonction de transposition d'un accord (incluant les accords mineurs)
