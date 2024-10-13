@@ -3,32 +3,32 @@
 const cantiques = [
     {
         date: "13/10",
-        title: "Cantiques du 13/10/2024",
+        title: "Hymns of 10/13/2024",
         link: "single.html?key=dim-13-10-2024" 
     },
     {
         date: "06/10",
-        title: "Cantiques du 06/10/2024",
+        title: "Hymns of 06/10/2024",
         link: "single.html?key=dim-06-10-2024" 
     },
     {
         date: "29/09",
-        title: "Cantiques du 29/09/2024",
+        title: "Hymns of 29/09/2024",
         link: "single.html?key=dim-29-09-2024" 
     },
     {
         date: "22/09",
-        title: "Cantiques du 22/09/2024",
+        title: "Hymns of 22/09/2024",
         link: "single.html?key=dim-22-09-2024" 
     },
     {
         date: "15/09",
-        title: "Cantiques du 15/09/2024",
+        title: "Hymns of 15/09/2024",
         link: "single.html?key=dim-15-09-2024" 
     },
     {
         date: "08/09",
-        title: "Cantiques du 08/09/2024",
+        title: "Hymns of 08/09/2024",
         link: "single.html?key=dim-08-09-2024" 
     }
 ];
@@ -46,7 +46,7 @@ function displayCantiques() {
             <div class="show_info d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-md-start justify-content-center">
                 <div class="show_name"><a href="${cantique.link}">${cantique.title}</a></div>
             </div>
-            <div class="ml-auto"><div class="show_shop trans_200"><a href="${cantique.link}">Découvrir</a></div></div>
+            <div class="ml-auto"><div class="show_shop trans_200"><a href="${cantique.link}">Discover</a></div></div>
         `;
         showsListContainer.appendChild(li);
     });

@@ -61,18 +61,18 @@ function transposeSong(song, steps) {
 // Fonction pour obtenir la position du capo
 const getCapoPosition = (key) => {
   const capoPositions = {
-    C: "Pas de capo (C)",
-    "C#": "Capo sur 1 (C)",
-    D: "Capo sur 2 (C)",
-    Eb: "Capo sur 3 (C)",
-    E: "Capo sur 4 (C)",
-    F: "Capo sur 5 (C)",
-    "F#": "Capo sur 6 (C)",
-    G: "Pas de capo (G)",
-    Ab: "Capo sur 1 (G)",
-    A: "Capo sur 2 (G)",
-    Bb: "Capo sur 3 (G)",
-    B: "Capo sur 4 (G)",
+    C: "No capo (C)",
+    "C#": "Capo on 1st fret (C)",
+    D: "Capo on 2nd fret (C)",
+    Eb: "Capo on 3rd fret (C)",
+    E: "Capo on 4th fret (C)",
+    F: "Capo on 5th fret (C)",
+    "F#": "Capo on 6th fret (C)",
+    G: "No capo (G)",
+    Ab: "Capo on 1st fret (G)",
+    A: "Capo on 2nd fret (G)",
+    Bb: "Capo on 3rd fret (G)",
+    B: "Capo on 4th fret (G)",
   };
   return capoPositions[key] || "Capo non défini";
 }; //const getCapoPosition = (key)
@@ -99,7 +99,7 @@ function setupTransposeControl(song, songContainer) {
   transposeContainer.classList.add("transpose-controls");
 
   const label = document.createElement("label");
-  label.textContent = "Transposer :";
+  label.textContent = "Transpose :";
   transposeContainer.appendChild(label);
 
   const select = document.createElement("select");
@@ -205,7 +205,7 @@ function displaySong(song, transpositionSteps = 0, container = null) {
   if (song.youtubeLink) {
     const youtubeLink = document.createElement("a");
     youtubeLink.href = song.youtubeLink;
-    youtubeLink.textContent = "Écouter sur YouTube";
+    youtubeLink.textContent = "Listen on YouTube";
     youtubeLink.target = "_blank";
     youtubeLink.classList.add("youtube-listen-button");
     buttonContainer.appendChild(youtubeLink); // Ajouter au conteneur des boutons
@@ -213,7 +213,7 @@ function displaySong(song, transpositionSteps = 0, container = null) {
 
   // Ajouter le bouton "Télécharger en PDF"
   const downloadButton = document.createElement("button");
-  downloadButton.textContent = "Télécharger en PDF";
+  downloadButton.textContent = "Download as PDF";
   downloadButton.classList.add("pdf-download-button");
   downloadButton.addEventListener("click", () => {
     generatePdf(song, transpositionSteps);

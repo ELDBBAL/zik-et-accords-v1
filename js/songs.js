@@ -243,7 +243,7 @@ const songs = [
     },
     {
         key: "dim-13-10-2024",
-        title: "Amazing grace",
+        title: "AMAZING GRACE",
         keySignature: "C",
         youtubeLink: "https://youtu.be/Tvt6E9N7AQw?si=8zkXY4GH66SnRODV",
         verses: [
@@ -1424,7 +1424,7 @@ const songs = [
     },
     {
         key: "dim-15-09-2024",
-        title: "Attaché à La Croix",
+        title: "ATTACHÉ À LA CROIX",
         keySignature: "C",
         youtubeLink: "https://youtu.be/zdKhvzS1Poo?si=MqxLMchbmg7M5NNg",
         verses: [
@@ -1498,7 +1498,7 @@ const songs = [
     },
     {
         key: "dim-15-09-2024",
-        title: "Remplis-moi chaque jour d’amour",
+        title: "REMPLIS-MOI CHAQUE JOUR D'AMOUR",
         keySignature: "C",
         youtubeLink: "https://youtu.be/E-0P6uMOpQY?si=ZdGqXOBUyZMauFnu",
         verses: [
@@ -1726,7 +1726,7 @@ const songs = [
     // Debut Cantiques Dimanche 08 Septembre 2024
     {
         key: "dim-08-09-2024",
-        title: "Just as I am",
+        title: "JUST AS I AM",
         keySignature: "C",
         youtubeLink: "https://youtu.be/7lxqhPC1mNA?si=LGqstnGXXpBgGVP7",
         verses: [
@@ -1752,7 +1752,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "His faithfulness is forevermore",
+        title: "HIS FAITHFULNESS IS FOREVERMORE",
         keySignature: "C",
         youtubeLink: "https://youtu.be/wC5K-OGeKsI?si=cPzgw4hw7697AbhA",
         verses: [
@@ -1771,7 +1771,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "Let's talk about Jesus",
+        title: "LET'S TALK ABOUT JESUS",
         keySignature: "C",
         youtubeLink: "https://youtu.be/N8DtbPnX8tw?si=2knaMRAgnUoQKSYj",
         verses: [
@@ -1815,7 +1815,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "Wonderful",
+        title: "WONDERFUL",
         keySignature: "C",
         youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
         verses: [
@@ -1848,7 +1848,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "In the sweet",
+        title: "IN THE SWEET",
         keySignature: "C",
         youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
         verses: [
@@ -1881,7 +1881,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "God you're so good",
+        title: "GOD YOU'RE SO GOOD",
         keySignature: "C",
         youtubeLink: "https://youtu.be/v-PestNqUCI?si=OpB_h1rfWALdee7k",
         verses: [
@@ -1901,7 +1901,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "Great things He has done",
+        title: "GREAT THINGS HE HAS DONE",
         keySignature: "C",
         youtubeLink: "https://youtu.be/Gla0seOsQvg?si=Ec1mUteJx0JkH34L",
         verses: [
@@ -1915,7 +1915,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "What shall I say",
+        title: "WHAT SHALL I SAY",
         keySignature: "C",
         youtubeLink: "https://youtu.be/jRLr525_zVs?si=8aRNv7RF12n2TiqR",
         verses: [
@@ -1935,7 +1935,7 @@ const songs = [
     },
     {
         key: "dim-08-09-2024",
-        title: "The solid Rock",
+        title: "THE SOLID ROCK",
         keySignature: "C",
         youtubeLink: "https://youtu.be/uhVwVHC6_n0?si=GFm_9vOymnNyg0_M",
         verses: [
