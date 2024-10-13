@@ -3,7 +3,7 @@
 const cantiques = [
     {
         date: "13/10",
-        title: "Hymns of 10/13/2024",
+        title: "Hymns of 13/10/2024",
         link: "single.html?key=dim-13-10-2024" 
     },
     {
