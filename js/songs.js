@@ -1,6 +1,75 @@
 // songs.js // Liste des cantiques
 const songs = [
 
+    //Debut Cantiques Dimanches 20 Octobre 2024
+    {
+        key:"dim-20-10-2024",
+        title: "WHEN JESUS COME",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/oMvBEuU8V2U?si=Yu5NpM2-AzJsAfPA",
+        verses: [
+            [
+                { chord: "C", text: "(C) One sat alone beside the highway (G) begging," },
+                { chord: "G", text: "(G) His eyes were blind, the light he could not (C) see." },
+                { chord: "C", text: "(C) He clutched his (Bm) rags and shivered in the (C) shadows" },
+                { chord: "C", text: "(C) Then Jesus (F) came and (G) bade his darkness (C) flee." }
+            ],
+            [
+                { chord: "", text: "CHORUS:" },
+                { chord: "C", text: "(C) When Jesus (G) comes, the tempter's power is (C) broken;" },
+                { chord: "C", text: "(C) When Jesus (G) comes, the tears are wiped (C) away," },
+                { chord: "C", text: "(C) He takes the gloom and fills the life with (F) glory," },
+                { chord: "F", text: "(F) For all is (C) changed when (G) Jesus comes to (C) stay." }
+            ],
+            [
+                { chord: "C", text: "(C) From home and friends the evil spirits (G) drove him," },
+                { chord: "G", text: "(G) Among the tombs he dwelt in (C) misery;" },
+                { chord: "C", text: "(C) He cut himself (Bm) as demon powers possessed (C) him," },
+                { chord: "F", text: "(F) Then Jesus (F) came and (G) set the captive (C) free." }
+            ],
+            [
+                { chord: "C", text: "(C) 'Unclean, unclean!' the leper cried in (G) torment," },
+                { chord: "G", text: "(G) The deaf, the dumb, in helplessness stood (C) near;" },
+                { chord: "C", text: "(C) The fever raged, (Bm) disease had gripped its' (C) victim," },
+                { chord: "C", text: "(C) Then Jesus (F) came and (G) cast out every (C) fear." }
+            ],
+            [
+                { chord: "C", text: "(C) Their hearts were sad as in the tomb they (G) laid Him," },
+                { chord: "G", text: "(G) For death had come and taken Him (C) away;" },
+                { chord: "C", text: "(C) Their night was (Bm) dark and bitter tears were (C) falling," },
+                { chord: "C", text: "(C) Then Jesus (F) came and (G) night was turned to (C) day." }
+            ],
+            [
+                { chord: "C", text: "(C) So men today have found the Savior (G) able," },
+                { chord: "G", text: "(G) They could not conquer passion, lust and (C) sin;" },
+                { chord: "C", text: "(C) Their broken hearts (Bm) had left them sad and (C) lonely," },
+                { chord: "C", text: "(C) Then Jesus (F) came and (G) dwelt, Himself, (C) within." }
+            ]
+        ]
+    },
+    {
+        key:"dim-20-10-2024",
+        title: "BEHOLD WHAT MANNER OF LOVE",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/ojHxW3zMGyU?si=vtvCBdl85x0QZfoE",
+        verses: [
+            [
+                { chord: "C", text: "(C) Behold what manner of (F) love" },
+                { chord: "F", text: "(F) The Father has (C) given unto (G) us" },
+                { chord: "C", text: "(C) Behold what manner of (F) love" },
+                { chord: "F", text: "(F) The Father has (C) given (G) unto (C) us" }
+            ],
+            [
+                { chord: "", text: "CHORUS:" },
+                { chord: "C", text: "(C) That (F) we should be (C) called" },
+                { chord: "C", text: "(C) The sons of (G) God" },
+                { chord: "C", text: "(C) That (F) we should be (G) called" },
+                { chord: "G", text: "(G) The sons of (C) God" }
+            ]
+        ]
+    },
+    //Fin Cantiques Dimanches 20 Octobre 2024
+
     //Debut Cantiques Dimanches 13 Octobre 2024
     {
         key: "dim-13-10-2024",
