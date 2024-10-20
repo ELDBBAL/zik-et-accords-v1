@@ -68,6 +68,247 @@ const songs = [
             ]
         ]
     },
+    {
+        key: "dim-20-10-2024",
+        title: "GLORY GLORY",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) Wonderful angels in garments of white " },
+                { chord: "G", text: "(G) Came to the shepherds one beautiful (C) night " },
+                { chord: "C", text: "(C) Singing a song of surprising delight" },
+                { chord: "F", text: "(F) Praise to (G) God on High." }
+            ],
+            [
+                { chord: "", text: "CHORUS:" },
+                { chord: "C", text: "(C) Glory, (F) Glory" },
+                { chord: "C", text: "(C) Oh Glory to God on (G) High!" },
+                { chord: "C", text: "(C) Glory, (F) Glory" },
+                { chord: "C", text: "(C) Yes Glory to (G) God on (C) High!" }
+            ],
+            [
+                { chord: "C", text: "(C) Oh what a song was that song of the sky" },
+                { chord: "G", text: "(G) Never such glory shepherds (C) discry" },
+                { chord: "C", text: "(C) Never had heaven before been so nigh" },
+                { chord: "F", text: "(F) Praising (G) God on High." }
+            ],
+            [
+                { chord: "C", text: "(C) Birth of a Savior the angels prolaimed," },
+                { chord: "G", text: "(G) 'City of David' and 'Jesus' where (C) named." },
+                { chord: "C", text: "(C) Then was the word of peace sweetly acclaimed" },
+                { chord: "F", text: "(F) Praising (G) God on High." }
+            ],
+            [
+                { chord: "C", text: "(C) Never those shepherds forgot what the heard" },
+                { chord: "G", text: "(G) Strongly and deeply their hearts had been (C) stirred" },
+                { chord: "C", text: "(C) Seeking for Jesus, they heeded the word" },
+                { chord: "F", text: "(F) Praising (G) God on High." }
+            ],
+        ]
+    },
+    {
+        key: "dim-20-10-2024",
+        title: "HOSANA",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/t4WudBqI3L4?si=b4hkRq40vdn6GotG",
+        verses: [
+            [
+                { chord: "C", text: "(C) I see the King of Glory" },
+                { chord: "Am", text: "(Am) Coming on the clouds with fire" },
+                { chord: "Am", text: "(Am) The whole earth (F) shakes" },
+                { chord: "F", text: "(F) The whole earth (G) shakes" }
+            ],
+            [
+                { chord: "C", text: "(C) I see His love and mercy" },
+                { chord: "Am", text: "(Am) Washing over all our sin" },
+                { chord: "Am", text: "(Am) The people (F) sing" },
+                { chord: "F", text: "(F) The people (G) sing" }
+            ],
+            [
+                { chord: "", text: "CHORUS:" },
+                { chord: "C", text: "(C) Hosanna (F) , (G) Hosanna (Am) " },
+                { chord: "F", text: "(F) Hosanna in the (G) Highest" },
+                { chord: "C", text: "(C) Hosanna, (F) Hosanna" },
+                { chord: "F", text: "(F) Hosanna in the (G) Highest (C) " }
+            ],
+            [
+                { chord: "C", text: "(C) I see a generation" },
+                { chord: "Am", text: "(Am) Rising up to take their place" },
+                { chord: "Am", text: "(Am) With selfless (F) faith" },
+                { chord: "F", text: "(F) With selfless (G) faith" }
+            ]
+        ]
+    },
+    {
+        key: "dim-20-10-2024",
+        title: "COUNT YOUR BLESSINGS",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/Hb4JBNDWhOA?si=ExmdoRDWfCGbs2Le",
+        verses: [
+            [
+                { chord: "C", text: "(C) When upon life's billows" },
+                { chord: "C", text: "(C) you are (G) tempest tossed," },
+                { chord: "G", text: "(G) When you are discouraged," },
+                { chord: "G", text: "(G) thinking (C) all is lost," },
+                { chord: "C", text: "(C) Count your many blessings," },
+                { chord: "C", text: "(C) name them (G) one by one," },
+                { chord: "G", text: "(G) And it will surprise you" },
+                { chord: "G", text: "(G) what the Lord has (C) done." },
+            ],
+            [
+                { chord: "", text: "CHORUS:" },
+                { chord: "C", text: "(C) Count your blessings," },
+                { chord: "C", text: "(C) name them (G) one by one;" },
+                { chord: "G", text: "(G) Count your blessings," },
+                { chord: "G", text: "(G) see what (C) God has done;" },
+                { chord: "C", text: "(C) Count your (F) blessings," },
+                { chord: "G", text: "(G) name them one by (C) one;" },
+                { chord: "C", text: "(C) Count your many (F) blessings," },
+                { chord: "F", text: "(F) see what (G) God has (C) done." }
+            ],
+            [
+                { chord: "C", text: "(C) Are you ever burdened" },
+                { chord: "C", text: "(C) with a (G) load of care?" },
+                { chord: "G", text: "(G) Does the cross seem heavy" },
+                { chord: "G", text: "(G) you are called to (C) bear?" },
+                { chord: "C", text: "(C) Count your many blessings," },
+                { chord: "C", text: "(C) ev'ry (G) doubt will fly," },
+                { chord: "G", text: "(G) And you will be singing" },
+                { chord: "G", text: "(G) as the days go (C) by." }
+            ],
+            [
+                { chord: "C", text: "(C) When you look at others" },
+                { chord: "C", text: "(C) with their (G) lands and gold" },
+                { chord: "G", text: "(G) Think that Christ has promised" },
+                { chord: "G", text: "(G) you His (C) wealth untold;" },
+                { chord: "C", text: "(C) Count your many blessings," },
+                { chord: "C", text: "(C) money (G) cannot buy" },
+                { chord: "G", text: "(G) Your reward in Heaven" },
+                { chord: "G", text: "(G) nor your home on (C) high" }
+            ],
+            [
+                { chord: "C", text: "(C) So, amid the conflict," },
+                { chord: "C", text: "(C) whether (G) great or small," },
+                { chord: "G", text: "(G) Do not be discouraged," },
+                { chord: "G", text: "(G) God is over (C) all;" },
+                { chord: "C", text: "(C) Count your many blessings," },
+                { chord: "C", text: "(C) angels (G) will attend," },
+                { chord: "G", text: "(G) Help and comfort give you" },
+                { chord: "G", text: "(G) to your journey's (C) end." }
+            ],
+        ]
+    },
+    {
+        key: "dim-20-10-2024",
+        title: "WHEN THE SAVIOR CALLS",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/Jah_YZs4MDc?si=p_TVkecA-2LAzJz5",
+        verses: [
+            [
+                { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                { chord: "C", text: "(C) When He (G) calls for me I will (C) hear him" },
+                { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+            ],
+            [
+                { chord: "", text: "CHORUS:" },
+                { chord: "F", text: "(F) I'll be somewhere listening" },
+                { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" },
+                { chord: "F", text: "(F) I'll be somewhere listening" },
+                { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" }
+            ],
+            [
+                { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                { chord: "C", text: "(C) If my heart (G) is right, I will (C) hear him" },
+                { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+            ],
+            [
+                { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                { chord: "C", text: "(C) If my robe (G) is white, I will (C) hear him" },
+                { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+            ]
+        ]
+    },
+    {
+        key: "dim-20-10-2024",
+        title: "LE MESSIE EST LE ROI DES ROIS",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
+        verses: [
+            [
+                { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                { chord: "C", text: "(C) Il est (F) le (C) Roi, (Am) Seigneur des (G) seigneurs" },
+                { chord: "F", text: "(F) Le Messie est le (G) Roi des (Em) rois (Am) " },
+                { chord: "Dm", text: "(Dm) Il est le Seigneur (G) des Seigneurs. (C) "}
+            ]
+        ]
+    },
+    {
+        key: "dim-20-10-2024",
+        title: "CLOSE TO THEE",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/8g88DKwJNd8?si=Ksu13--P-_ia7flh",
+        verses: [
+            [
+                { chord: "C", text: "(C) Thou my everlasting portion" },
+                { chord: "C", text: "(C) More than friend or (D) life to (G) me" },
+                { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+            ],
+            [
+                { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+            ],
+            [
+                { chord: "C", text: "(C) Not for easy wordly pleasure" },
+                { chord: "C", text: "(C) Nor for fame my (D) prayer shall (G) be" },
+                { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+            ],
+            [
+                { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+            ],
+            [
+                { chord: "C", text: "(C) Lead me through the veil of shadows" },
+                { chord: "C", text: "(C) Bear me o'er (D) life's fitful (G) sea" },
+                { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+            ],
+            [
+                { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+            ]
+        ]
+    },
+    {
+        key: "dim-20-10-2024",
+        title: "SHALOM TO YOU",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/nzpJ0rLtufA?si=m3dDqvxhMlJmcb4C",
+        verses: [
+            [
+                { chord: "C", text: "(C) Shalom to (G) you now, Shalom my (C) friends" },
+                { chord: "C", text: "(C) May God's (G) full mercies bless you, my (C) friends" },
+                { chord: "C", text: "(C) In all your (F) living and through your (Em) loving," },
+                { chord: "Em", text: "(Em) Christ (F) be your Shalom, (G) Christ be your (C) Shalom" }
+            ]
+        ]
+    },
     //Fin Cantiques Dimanches 20 Octobre 2024
 
     //Debut Cantiques Dimanches 13 Octobre 2024
