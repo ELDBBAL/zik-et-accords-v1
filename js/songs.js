@@ -1,6 +1,158 @@
 // songs.js // Liste des cantiques
 const songs = [
 
+       //Debut Cantiques Dimanches 27 Octobre 2024
+       {
+        key: "dim-27-10-2024",
+        title: "JUST A CLOSER WALK WITH THEE",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/iPmJemdLGf8?si=naRe4Q-0JBtF73FA",
+        verses: [
+            [
+                { chord: "C", text: "(C) I am weak but Thou art (F) strong;" },
+                { chord: "G", text: "(G) Jesus, keep me from all (C) wrong;" },
+                { chord: "C", text: "(C) I'll be satisfied as (F) long" },
+                { chord: "C", text: "(C) As I walk, let me (G) walk close to (C) Thee" }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "C", text: "(C) Just a closer walk with (F) Thee" },
+                { chord: "G", text: "(G) Grant it, Jesus, is my (C) plea," },
+                { chord: "C", text: "(C) Daily walking close to (F) Thee," },
+                { chord: "C", text: "(C) Let it be, dear (G) Lord, let it (C) be." }
+            ],
+            [
+                { chord: "C", text: "(C) Thro' this world of toil and (F) snares" },
+                { chord: "G", text: "(G) If I falter, Lord, who (C) cares?" },
+                { chord: "C", text: "(C) Who with me my burden (F) shares?" },
+                { chord: "C", text: "(C) None but Thee, dear (G) Lord, none but (C) Thee." }
+            ],
+            [
+                { chord: "C", text: "(C) When my feeble life is (F) o'er," },
+                { chord: "G", text: "(G) Time for me will be no (C) more;" },
+                { chord: "C", text: "(C) Guide me gently, safely (F) o'er" },
+                { chord: "C", text: "(C) To Thy kingdom shore, (G) to Thy (C) shore." }
+            ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "MA RICHESSE, MA GLOIRE",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/iCQlsxvfx8Q?si=uk3pyZrtRUXsJF0w",
+        verses: [
+            [
+                { chord: "C", text: "(C) Ma (F) richesse, ma (C) gloire" },
+                { chord: "C", text: "(C) Et ma (G) félicité," },
+                { chord: "C", text: "(C) Ô (F) Jésus! C’est de (C) croire" },
+                { chord: "C", text: "(C) Que tu (G) m’as racheté." },
+                { chord: "C", text: "(C) Rempli (F) de confiance (C) " },
+                { chord: "C", text: "(C) En toi, (G) divin Sauveur," },
+                { chord: "C", text: "(C) Je (F) vis dans l’espérance" },
+                { chord: "C", text: "(C) Et je (G) marche sans peur." }
+            ],
+            [
+                { chord: "C", text: "(C) Rien (F) n’ôte les (C) souillures," },
+                { chord: "C", text: "(C) Rien ne (G) guérit le coeur" },
+                { chord: "C", text: "(C) Sinon (F) les meurtrissures (C) " },
+                { chord: "C", text: "(C) Et le (G) sang du Sauveur." },
+                { chord: "C", text: "(C) Oui, (F) Jésus seul nous (C) lave" },
+                { chord: "C", text: "(C) De toute (G) iniquité," },
+                { chord: "C", text: "(C) Et (F) procure à (C) l’esclave" },
+                { chord: "C", text: "(C) L’heureuse (G) liberté." }
+            ],
+            [
+                { chord: "C", text: "(C) Oh! (F) Que toute la (C) terre" },
+                { chord: "C", text: "(C) Apporte à (G) ce Sauveur" },
+                { chord: "C", text: "(C) Ses (F) péchés, sa (C) misère!" },
+                { chord: "C", text: "(C) Il fait (G) grâce au pécheur" },
+                { chord: "C", text: "(C) Son (F) amour insondable (C) " },
+                { chord: "C", text: "(C) Lui fit (G) quitter le ciel," },
+                { chord: "C", text: "(C) Pour (F) donner au (C) coupable" },
+                { chord: "C", text: "(C) Un salut (G) éternel." }
+            ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "GLORY TO HIS NAME",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/RL7nM4QnK6M?si=jswrpm2pCCSuksWl",
+        verses: [
+            [
+                { chord: "C", text: "(C) Down at the cross where my (F) Savior (C) died," },
+                { chord: "C", text: "(C) Down where for cleansing (D) from sin I (G) cried," },
+                { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "F", text: "(F) Glory to his (C) name," },
+                { chord: "C", text: "(C) Glory (D) to his (G) name;" },
+                { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+            ],
+            [
+                { chord: "C", text: "(C) I am so wondrously (F) saved from (C) sin," },
+                { chord: "C", text: "(C) Jesus so sweetly (D) abides (G) within;" },
+                { chord: "C", text: "(C) There at the cross where (F) he took me (C) in;" },
+                { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+            ],
+            [
+                { chord: "C", text: "(C) Oh, precious fountain that (F) saves from (C) sin," },
+                { chord: "C", text: "(C) I am so glad I (D) have entered (G) in;" },
+                { chord: "C", text: "(C) There Jesus saves me and (F) keeps me (C) clean;" },
+                { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+            ],
+            [
+                { chord: "C", text: "(C) Come to this fountain so (F) rich and (C) sweet," },
+                { chord: "C", text: "(C) Cast thy poor soul at (D) the Savior’s (G) feet;" },
+                { chord: "C", text: "(C) Plunge in today, and be (F) made (C) complete;" },
+                { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+            ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "A SON NOM LA GLOIRE",
+        keySignature: "C",
+        youtubeLink: "A SON NOM LA GLOIRE",
+        verses: [
+            [
+                { chord: "C", text: "(C) A la Croix où mourut (F) mon Sauveur, (C) " },
+                { chord: "C", text: "(C) Je suis venu brisé (D) de douleur (G) " },
+                { chord: "C", text: "(C) Là Son Sang purifia (F) mon (C) cœur," },
+                { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "F", text: "(F) A Son Nom la (C) gloire !" },
+                { chord: "C", text: "(C) A Son (D) Nom la (G) gloire !" },
+                { chord: "C", text: "(C) Là Son Sang purifia (F) mon (C) cœur," },
+                { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+            ],
+            [
+                { chord: "C", text: "(C) Quelle merveille Il vint (F) me sauver (C) " },
+                { chord: "C", text: "(C) Quand de Sa croix je me (D) fus chargé, (G) " },
+                { chord: "C", text: "(C) En moi Jésus vint pour (F) demeurer (C) " },
+                { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+            ],
+            [
+                { chord: "C", text: "(C) O Fontaine effaçant (F) le péché, (C) " },
+                { chord: "C", text: "(C) Donnant la Vie au (D) cœur desséché, (G) " },
+                { chord: "C", text: "(C) Là Jésus me retiens (F) attaché, (C) " },
+                { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+            ],
+            [
+                { chord: "C", text: "(C) Pauvre âme, viens aux pieds (F) du Sauveur (C) " },
+                { chord: "C", text: "(C) A la source ouverte (D) à tout pécheur (G) " },
+                { chord: "C", text: "(C) Viens t’y plonger, trouver (F) le bonheur, (C) " },
+                { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+            ]
+        ]
+    },
+    //Fin Cantiques Dimanches 27 Octobre 2024
+
     //Debut Cantiques Dimanches 20 Octobre 2024
     {
         key:"dim-20-10-2024",
