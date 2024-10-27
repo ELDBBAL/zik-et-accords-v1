@@ -116,7 +116,7 @@ const songs = [
         key: "dim-27-10-2024",
         title: "A SON NOM LA GLOIRE",
         keySignature: "C",
-        youtubeLink: "A SON NOM LA GLOIRE",
+        youtubeLink: "https://youtu.be/m-CbSnyd_Fc?si=MdBBAG0mHjXs0KmM",
         verses: [
             [
                 { chord: "C", text: "(C) A la Croix où mourut (F) mon Sauveur, (C) " },
@@ -149,6 +149,231 @@ const songs = [
                 { chord: "C", text: "(C) Viens t’y plonger, trouver (F) le bonheur, (C) " },
                 { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
             ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "SEND THE LIGHT",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+        verses: [
+            [
+                { chord: "C", text: "(C) There's a call comes ringing o'er the restless wave," },
+                { chord: "C", text: "(C) 'Send the (G) light! Send the (C) light'" },
+                { chord: "C", text: "(C) There are souls to rescue, there are souls to save," },
+                { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+            ],
+            [
+                { chord: "C", text: "(C) We have heard the Macedonian call today, " },
+                { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                { chord: "C", text: "(C) And a golden off'ring at the cross we lay," },
+                { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+            ],
+            [
+                { chord: "C", text: "(C) Let us pray that grace may ev'rywhere abound," },
+                { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                { chord: "C", text: "(C) And a Christ-like spirit ev'rywhere be found," },
+                { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+            ],
+            [
+                { chord: "C", text: "(C) Let us not grow weary in the work of love, " },
+                { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                { chord: "C", text: "(C) Let us gather jewels for a crown above," },
+                { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+            ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "IN THE CITY WHERE THE LAMB IS THE LIGHT",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/gI6RzjaJ82U?si=ov7f4mV15VBYdsWO",
+        verses: [
+            [
+                { chord: "C", text: "(C) There’s a country far beyond the starry sky," },
+                { chord: "C", text: "(C) There’s a (G) city where there never comes a (C) night;" },
+                { chord: "C", text: "(C) If we’re (F) faithful we shall go there by and (C) by," },
+                { chord: "C", text: "(C) It’s the (F) city where the (G) Lamb is the (C) light." }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "C", text: "(C) In that city where the (F) Lamb is the (C) light," },
+                { chord: "C", text: "(C) The city where there (D) cometh no (G) night;" },
+                { chord: "C", text: "(C) I’ve a mansion over there," },
+                { chord: "C", text: "(C) And when (F) free from toil and (C) care" },
+                { chord: "C", text: "(C) I am (F) going where the (G) Lamb is the (C) light." }
+            ],
+            [
+                { chord: "C", text: "(C) Here we have our days of sunshine, but we know" },
+                { chord: "C", text: "(C) That the (G) sun which shines upon us now so (C) bright" },
+                { chord: "C", text: "(C) Will be (F) changed to clouds and rain until we (C) go" },
+                { chord: "C", text: "(C) To the (F) city where the (G) Lamb is the (C) light." }
+            ],
+            [
+                { chord: "C", text: "(C) There the flowers bloom forever and the day" },
+                { chord: "C", text: "(C) Shall be (G) one eternal day without a (C) night;" },
+                { chord: "C", text: "(C) And our (F) tears shall be forever wiped (C) away," },
+                { chord: "C", text: "(C) In that (F) city where the (G) Lamb is the (C) light" }
+            ],
+            [
+                { chord: "C", text: "(C) Here we have our disappointments all the while," },
+                { chord: "C", text: "(C) And our (G) fondest hopes but meet with bitter (C) blight;" },
+                { chord: "C", text: "(C) Tho’ by (F) night we weep, the morning brings a (C) smile," },
+                { chord: "C", text: "(C) In that (F) city where the (G) Lamb is the (C) light" }
+            ],
+            [
+                { chord: "C", text: "(C) Then let sunlight fade, let twilight bring its gloom," },
+                { chord: "C", text: "(C) Not a (G) shadow can my blissful soul (C) affright;" },
+                { chord: "C", text: "(C) For I (F) know that up in Heaven there is (C) room," },
+                { chord: "C", text: "(C) In that (F) city where the (G) Lamb is the (C) light." }
+            ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "STAND UP FOR JESUS",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/TbnhUlj2PZ4?si=gDBuog-iMc-F_G0F",
+        verses: [
+            [
+                { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                { chord: "C", text: "(C) ye soldiers (D) of the (G) cross;" },
+                { chord: "C", text: "(C) lift high his royal (F) banner," },
+                { chord: "C", text: "(C) it must not (G) suffer (C) loss." },
+                { chord: "G", text: "(G) From vict'ry unto (C) vict'ry" },
+                { chord: "F", text: "(F) his army he shall (C) lead (G) " },
+                { chord: "C", text: "(C) till ev'ry foe is (F) vanquished" },
+                { chord: "C", text: "(C) and Christ is (G) Lord (C) indeed." }
+            ],
+            [
+                { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                { chord: "C", text: "(C) the trumpet (D) call (G) obey;" },
+                { chord: "C", text: "(C) forth to the mighty (F) conflict" },
+                { chord: "C", text: "(C) in this his (G) glorious (C) day." },
+                { chord: "G", text: "(G) From vict'Ye that are men now serve (C) him" },
+                { chord: "F", text: "(F) against unnumbered (C) foes; (G) " },
+                { chord: "C", text: "(C) let courage rise with (F) danger" },
+                { chord: "C", text: "(C) and strength to (G) strength (C) oppose." }
+            ],
+            [
+                { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                { chord: "C", text: "(C) stand in his (D) strength (G) alone;" },
+                { chord: "C", text: "(C) the arm of flesh will fail (F) you," },
+                { chord: "C", text: "(C) ye dare not (G) trust your (C) own." },
+                { chord: "G", text: "(G) Put on the gospel (C) armor," },
+                { chord: "F", text: "(F) each piece put on with (C) prayer; (G) " },
+                { chord: "C", text: "(C) where duty calls or (F) danger," },
+                { chord: "C", text: "(C) be never (G) wanting (C) there." }
+            ],
+            [
+                { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                { chord: "C", text: "(C) the strife will (D) not be (G) long;" },
+                { chord: "C", text: "(C) this day the noise of (F) battle," },
+                { chord: "C", text: "(C) the next, the (G) victor's (C) song." },
+                { chord: "G", text: "(G) To him that (C) overcometh" },
+                { chord: "F", text: "(F) a crown of life shall (C) be; (G) " },
+                { chord: "C", text: "(C) he with the King of (F) glory" },
+                { chord: "C", text: "(C) shall (G) reign (C) eternally." }
+            ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "DEBOUT SAINTE COHORTE",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/6KTAvm7fteI?si=oGx4secqmzcUW1HG",
+        verses: [
+            [
+                { chord: "C", text: "(C) Debout, sainte (F) cohorte," },
+                { chord: "C", text: "(C) soldats du (D) Roi des (G) rois!" },
+                { chord: "C", text: "(C) Tenez d’une main (F) forte" },
+                { chord: "C", text: "(C) l’étendard (G) de la (C) croix." },
+                { chord: "G", text: "(G) Au sentier de la (C) gloire" },
+                { chord: "F", text: "(F) Jésus-Christ nous conduit; (G) " },
+                { chord: "C", text: "(C) De victoire en (F) victoire" },
+                { chord: "C", text: "(C) Il (F) mène (G) qui Le (C) suit." }
+            ],
+            [
+                { chord: "C", text: "(C) La trompette (F) résonne:" },
+                { chord: "C", text: "(C) debout, (D) vaillants (G) soldats!" },
+                { chord: "C", text: "(C) L’immortelle (F) couronne" },
+                { chord: "C", text: "(C) est le (G) prix des (C) combats." },
+                { chord: "G", text: "(G) Si l’ennemi fait (C) rage," },
+                { chord: "F", text: "(F) soyez fermes et forts; (G) " },
+                { chord: "C", text: "(C) Redoublez de (F) courage" },
+                { chord: "C", text: "(C) s’il (F) redouble (G) d’efforts. (C) " }
+            ],
+            [
+                { chord: "C", text: "(C) Debout pour la (F) bataille," },
+                { chord: "C", text: "(C) point de trêve (D) aux (G) vaincus!" },
+                { chord: "C", text: "(C) Si votre bras (F) défaille" },
+                { chord: "C", text: "(C) regardez (G) à Jésus! (C) " },
+                { chord: "G", text: "(G) De l’armure (C) invincible" },
+                { chord: "F", text: "(F) soldats, revêtez-vous; (G) " },
+                { chord: "C", text: "(C) Le triomphe est (F) possible" },
+                { chord: "C", text: "(C) pour (F) qui (G) lutte à (C) genoux." }
+            ],
+            [
+                { chord: "C", text: "(C) Debout, debout (F) encore!" },
+                { chord: "C", text: "(C) Luttez, (D) jusqu’au (G) matin;" },
+                { chord: "C", text: "(C) Déjà brille (F) l’aurore," },
+                { chord: "C", text: "(C) à (G) l’horizon (C) lointain." },
+                { chord: "G", text: "(G) Bientôt jetant nos (C) armes" },
+                { chord: "F", text: "(F) aux pieds du Roi des (G) rois" },
+                { chord: "C", text: "(C) Les chants après les (F) armes," },
+                { chord: "C", text: "(C) le (F) trône (G) après la (C) croix." }
+            ]
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
+        title: "THE DAY OF REDEMPTION IS NEAR",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/hWWKRgFJ_bg?si=YuVuAVP-gSFCHWHf",
+        verses: [
+            [
+                { chord: "C", text: "(C) Nations are breaking, Israel's awaking" },
+                { chord: "C", text: "(C) The signs that the (D) prophets (G) foretold " },
+                { chord: "G", text: "(G) The Gentile days numbered, with" },
+                { chord: "G", text: "(G) Horrors encumbered; " },
+                { chord: "G", text: "(G) Eternity soon Will (C) unfold" }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "F", text: "(F) The day of redemption is (C) near" },
+                { chord: "C", text: "(C) Men's hearts are (D) failing for (G) fear" },
+                { chord: "C", text: "(C) Be filled with the Spirit, your" },
+                { chord: "F", text: "(F) Lamps trimmed and clear" },
+                { chord: "C", text: "(C) Look up! Your (G) redemption is (C) near" }
+            ],
+            [
+                { chord: "C", text: "(C) The fig tree is growing; " },
+                { chord: "C", text: "(C) Jerusalem's restoring" },
+                { chord: "C", text: "(C) Her national life, (D) long (G) dethroned" },
+                { chord: "G", text: "(G) Today she is calling, her latter rain's falling" },
+                { chord: "G", text: "(G) 'Return, O dispersed, to your (C) own'" }
+            ],
+            [
+                { chord: "C", text: "(C) Heaven's powers are shaking," },
+                { chord: "C", text: "(C) and many are mistaking" },
+                { chord: "C", text: "(C) God's meaning to (D) be of the (G) sky" },
+                { chord: "G", text: "(G) God's Church is the power that's shaking this hour" },
+                { chord: "G", text: "(G) The day of redemption is (C) nigh" }
+            ],
+            [
+                { chord: "C", text: "(C) False prophets are lying" },
+                { chord: "C", text: "(C) God's Truth they're denying" },
+                { chord: "C", text: "(C) That Jesus the (D) Christ is our (G) God" },
+                { chord: "G", text: "(G) Though this generation spurns God's revelation" },
+                { chord: "G", text: "(G) We'll walk where the apostles have trod" }
+            ],
         ]
     },
     //Fin Cantiques Dimanches 27 Octobre 2024
