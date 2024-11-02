@@ -1,5 +1,269 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 03 Novembre 2024
+        {
+            key: "dim-03-11-2024",
+            title: "YOU ARE ALPHA AND OMEGA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/rC_qYfBSI34?si=24gMILZY68eJ5b6o",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You are Alpha and (F) Omega (C) " },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ],
+                [
+                    { chord: "C", text: "(C) We give you (F) all (G) the (C) glory" },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-11-2024",
+            title: "FRIENDSHIP WITH JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VqnLpe2rAzA?si=tLPAFkwtpmailnbB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) A friend of Jesus, (F) O what bliss." },
+                    { chord: "C", text: "(C) That one so (D) vile as (G) I" },
+                    { chord: "C", text: "(C) Should ever have (F) a friend like this" },
+                    { chord: "C", text: "(C) To lead me (G) to the (C) sky" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Friendship with Jesus," },
+                    { chord: "C", text: "(C) Fellowship (G) divine," },
+                    { chord: "C", text: "(C) O what a blessed, sweet (F) communion." },
+                    { chord: "C", text: "(C) Jesus is a (G) friend of (C) mine." }
+                ],
+                [
+                    { chord: "C", text: "(C) A friend when other (F) friendships cease," },
+                    { chord: "G", text: "(G) A friend when (D) others (G) fail, " },
+                    { chord: "C", text: "(C) A friend who gives (F) me joy and peace, " },
+                    { chord: "C", text: "(C) A friend when (G) foes (C) assail." }
+                ],
+                [
+                    { chord: "C", text: "(C) A friend when sickness (F) lays me low, " },
+                    { chord: "G", text: "(G) A friend when (D) death draws (G) near" },
+                    { chord: "C", text: "(C) A friend as through (F) the vale I go" },
+                    { chord: "C", text: "(C) A friend to (G) help and (C) cheer" }
+                ],
+                [
+                    { chord: "C", text: "(C) A friend when life's (F) short race is o'er, " },
+                    { chord: "G", text: "(G) A friend when (D) death draws (G) near" },
+                    { chord: "C", text: "(C) A friend to meet (F) on heaven's shore," },
+                    { chord: "C", text: "(C) A friend when (G) home at (C) last." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-11-2024",
+            title: "LE GRAND JOUR S'EST LEVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZZ3ex794OKI?si=DJnanWJ8YkhXz3nA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le grand jour s'est levé" },
+                    { chord: "C", text: "(C) Dieu (F) nous a visités" },
+                    { chord: "C", text: "(C) Voici des temps nouveaux" },
+                    { chord: "D", text: "(D) Chantons gloire à (G) l'Agneau" },
+                    { chord: "C", text: "(C) Nous recevons de Christ" },
+                    { chord: "C", text: "(C) Ce (F) qu'Il avait promis" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Le Saint-Esprit est là" },
+                    { chord: "C", text: "(C) Le (F) Saint-Esprit est là" },
+                    { chord: "C", text: "(C) La mort a disparu" },
+                    { chord: "C", text: "(C) Dieu (D) donne un plein (G) salut" },
+                    { chord: "C", text: "(C) Et sur le monde entier" },
+                    { chord: "C", text: "(C) Le (F) grand jour s'est levé" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) L'obscurité s'enfuit" },
+                    { chord: "C", text: "(C) La (F) lumière a jailli" },
+                    { chord: "C", text: "(C) Chassé de cœurs troublés" },
+                    { chord: "D", text: "(D) Toute (G) incrédulité" },
+                    { chord: "C", text: "(C) Car Christ le Roi des Rois" },
+                    { chord: "C", text: "(C) Répand (F) l'Esprit de foi" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Grand Consolateur " },
+                    { chord: "C", text: "(C) Vient (F) remplir tous les cœurs" },
+                    { chord: "C", text: "(C) L'Esprit de vérité" },
+                    { chord: "D", text: "(D) Nous met en (G) liberté" },
+                    { chord: "C", text: "(C) Il ouvre les prisons" },
+                    { chord: "C", text: "(C) Répand (F) la guérison" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Que tous les rachetés " },
+                    { chord: "C", text: "(C) Chantent (F) leur liberté" },
+                    { chord: "C", text: "(C) Christ a tout accompli" },
+                    { chord: "D", text: "(D) Il a donné (G) l'Esprit" },
+                    { chord: "C", text: "(C) Voyez trembler l'enfer" },
+                    { chord: "C", text: "(C) Car (F) dans tout l'univers" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-11-2024",
+            title: "WE'RE MARCHING TO ZION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/4-EUg3LVj6s?si=5mIlnOIndyOkTgYe",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come, we that (F) love the (C) Lord," },
+                    { chord: "C", text: "(C) And let our (D) joys be (G) known," },
+                    { chord: "C", text: "(C) Join in a song with (F) sweet accord," },
+                    { chord: "G", text: "(G) Join in a song with (F) sweet (C) accord," },
+                    { chord: "C", text: "(C) And thus (G) surround (C) the (F) throne," },
+                    { chord: "F", text: "(F) And (C) thus (G) surround the (C) throne," }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) We're marching to Zion," },
+                    { chord: "C", text: "(C) Beautiful, (D) beautiful (G) Zion;" },
+                    { chord: "C", text: "(C) We're marching upward to (F) Zion," },
+                    { chord: "C", text: "(C) The beautiful (G) city of (C) God." }
+                ],
+                [
+                    { chord: "C", text: "(C) Let those (F) refuse to (C) sing" },
+                    { chord: "C", text: "(C) Who never knew (D) our (G) God;" },
+                    { chord: "C", text: "(C) But children of the (F) heavenly King," },
+                    { chord: "G", text: "(G) But children of the (F) heavenly (C) King," },
+                    { chord: "C", text: "(C) May speak (G) their (C) joys (F) abroad," },
+                    { chord: "F", text: "(F) May (C) speak (G) their joys (C) abroad," }
+                ],
+                [
+                    { chord: "C", text: "(C) The hill (F) of Zion (C) yields" },
+                    { chord: "F", text: "(F) A thousand (D) sacred (G) sweets" },
+                    { chord: "C", text: "(C) Before we reach the (F) heavenly fields," },
+                    { chord: "G", text: "(G) Before we reach the (F) heavenly (C) fields," },
+                    { chord: "C", text: "(C) Or walk (G) the (C) golden (F) streets," },
+                    { chord: "F", text: "(F) Or (C) walk (G) the golden (C) streets" }
+                ],
+                [
+                    { chord: "C", text: "(C) Then let (F) our songs (C) abound," },
+                    { chord: "F", text: "(F) And every (D) tear be (G) dry;" },
+                    { chord: "C", text: "(C) We're marching thru (F) Immanuel's ground," },
+                    { chord: "G", text: "(G) We're marching thru (F) Immanuel's (C) ground," },
+                    { chord: "C", text: "(C) To fairer (G) worlds (C) on (F) high," },
+                    { chord: "F", text: "(F) To (C) fairer (G) worlds on (C) high." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-11-2024",
+            title: "TO GOD BE THE GLORY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/2CeBoSQsBR0?si=9yr6GsBivPJCOAze",
+            verses: [
+                [
+                    { chord: "C", text: "(C) To God be the glory! great (G) things He hath (C) done!" },
+                    { chord: "F", text: "(F) So loved He the (C) world that He (D) gave us His (G) Son," },
+                    { chord: "C", text: "(C) Who yielded His life an (G) atonement for (C) sin," },
+                    { chord: "F", text: "(F) And opened the (C) life-gate that (G) all may go (C) in." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Praise the Lord! Praise the Lord!" },
+                    { chord: "C", text: "(C) Let the earth hear His (G) voice!" },
+                    { chord: "G", text: "(G) Praise the Lord! Praise the Lord!" },
+                    { chord: "G", text: "(G) Let the people (C) rejoice!" },
+                    { chord: "C", text: "(C) O come to the Father through (G) Jesus the (C) Son;" },
+                    { chord: "C", text: "(C) And (F) give Him the (C) glory, great (G) things He hath (C) done!" }
+                ],
+                [
+                    { chord: "C", text: "(C) O perfect redemption, the (G) purchase of (C) blood!" },
+                    { chord: "F", text: "(F) To every (C) believer the (D) promise of (G) God;" },
+                    { chord: "C", text: "(C) The vilest offender who (G) truly (C) believes," },
+                    { chord: "F", text: "(F) That moment from (C) Jesus a (G) pardon (C) receives." }
+                ],
+                [
+                    { chord: "C", text: "(C) Great things He hath taught us, great (G) things He hath (C) done," },
+                    { chord: "F", text: "(F) And great (C) our rejoicing (D) through Jesus the (G) Son:" },
+                    { chord: "C", text: "(C) But purer and higher and (G) greater will (C) be" },
+                    { chord: "F", text: "(F) Our wonder, our (C) worship, when (G) Jesus we (C) see!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-11-2024",
+            title: "JESUS IS PASSING THIS WAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dPIRhcVn8FM?si=xM0CST9dImzN6scC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is (F) passing this (C) way" },
+                    { chord: "C", text: "(C) this (G) way, (C) Today" },
+                    { chord: "C", text: "(C) Jesus is (F) passing this (C) way (C) - (Em) - (Am) " },
+                    { chord: "F", text: "(F) Is passing this (G) way (C) today " }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-11-2024",
+            title: "MIRACLE WORKING GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/4IIcKx7hNPo?si=4wj9BuolIhBmyjOr",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He's the miracle working (G) God, alleluia" },
+                    { chord: "G", text: "(G) He's the miracle working (C) God, alleluia" },
+                    { chord: "C", text: "(C) He's the Alpha and (F) Omega" },
+                    { chord: "F", text: "(F) He's the (C) miracle (G) working (C) God, alleluia" },
+                    { chord: "C", text: "(C) He's the Alpha and (F) Omega" },
+                    { chord: "F", text: "(F) He's the (C) miracle (G) working (C) God" },
+                ]
+            ]
+        },
+        {
+            key: "dim-03-11-2024",
+            title: "NEAR THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5gong-PNmY?si=NbwWNE4mfBd8oI6z",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus, keep me (F) near the cross" },
+                    { chord: "C", text: "(C) There a precious (D) fountain, (G) " },
+                    { chord: "C", text: "(C) Free to all, a (F) healing stream," },
+                    { chord: "C", text: "(C) Flows from Calv'ry's (G) mountain. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the cross, (F) in the cross," },
+                    { chord: "C", text: "(C) Be my glory (D) ever; (G) " },
+                    { chord: "C", text: "(C) Till my raptured (F) soul shall find" },
+                    { chord: "C", text: "(C) Rest beyond the (G) river (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross, a (F) trembling soul," },
+                    { chord: "C", text: "(C) Love and mercy (D) found (G) me;" },
+                    { chord: "C", text: "(C) There the Bright and (F) Morning Star" },
+                    { chord: "C", text: "(C) Sheds its beams (G) around (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross! O (F) lamb of God," },
+                    { chord: "C", text: "(C) Bring its scenes (D) before (G) me;" },
+                    { chord: "C", text: "(C) Help me walk from (F) day to day," },
+                    { chord: "C", text: "(C) With its shadows (G) o'er (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross I'll (F) watch and wait," },
+                    { chord: "C", text: "(C) Hoping, trusting, (D) ever (G) " },
+                    { chord: "C", text: "(C) Till I reach the (F) golden strand," },
+                    { chord: "C", text: "(C) Just beyond the (G) river. (C) " }
+                ],
+            ]
+        },
+        //Fin Cantiques Dimanche 03 Novembre 2024
 
        //Debut Cantiques Dimanches 27 Octobre 2024
        {
