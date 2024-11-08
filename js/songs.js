@@ -1,5 +1,258 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Samedi 09 Novembre 2024
+        {
+            key: "sam-09-11-2024",
+            title: "HOW GREAT THOU ART",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Cc0QVWzCv9k?si=t73ORISSWDcqCOjD",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Oh Lord, my God " },
+                    { chord: "C", text: "(C) When I, in awesome (F) wonder" },
+                    { chord: "F", text: "(F) Consider (C) all the (G) worlds Thy hands have (C) made" },
+                    { chord: "C", text: "(C) I see the stars, I hear the rolling (F) thunder" },
+                    { chord: "F", text: "(F) Thy power (C) throughout the (G) universe (C) displayed" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Then sings my soul, my Savior God to (C) Thee" },
+                    { chord: "C", text: "(C) How great Thou (G) art, how great Thou (C) art" },
+                    { chord: "C", text: "(C) Then sings my soul, my Savior God to Thee (Am) " },
+                    { chord: "C", text: "(C) How great Thou (F) art, how (G) great Thou (C) art" },
+                ],
+                [
+                    { chord: "C", text: "(C) And when I think that God, " },
+                    { chord: "C", text: "(C) His Son not (F) sparing" },
+                    { chord: "F", text: "(F) Sent Him to (C) die, I (G) scarce can take it (C) in" },
+                    { chord: "C", text: "(C) That on the cross, my burden gladly (F) bearing" },
+                    { chord: "F", text: "(F) He bled (C) and died to (G) take away my (C) sin" }
+                ],
+                [
+                    { chord: "C", text: "(C) When Christ shall come, " },
+                    { chord: "C", text: "(C) with shout of (F) acclamation" },
+                    { chord: "F", text: "(F) And take (C) me home, (G) what joy shall fill my (C) heart" },
+                    { chord: "C", text: "(C) Then I shall bow, in humble (F) adoration" },
+                    { chord: "F", text: "(F) And then (C) proclaim, my God, (G) how great Thou (C) art" }
+                ]
+            ]
+        },
+        {
+            key: "sam-09-11-2024",
+            title: "DIEU TOUT PUISSANT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/CG9vzpC8spY?si=qRGFuTd9UXpXqyFX",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dieu tout puissant" },
+                    { chord: "C", text: "(C) Quand mon cœur (F) considère" },
+                    { chord: "F", text: "(F) Tout l'univers (C) - (G) créer par ton (C) pouvoir" },
+                    { chord: "C", text: "(C) Le ciel d'azur, les éclairs, le tonnerre (F) " },
+                    { chord: "F", text: "(F) Le clair (C) matin ou les (G) ombres du (C) soir" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) De tout mon être alors s'élève un chant" },
+                    { chord: "C", text: "(C) Dieu tout (G) puissant que tu es (C) grand" },
+                    { chord: "C", text: "(C) De tout mon être alors s'élève un chant (Am) " },
+                    { chord: "C", text: "(C) Dieu tout (F) puissant que (G) tu es (C) grand" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mais quand je songe au sublime (F) mystère" },
+                    { chord: "F", text: "(F) Qu'un Dieu si (C) grand a (G) pu penser à (C) moi" },
+                    { chord: "C", text: "(C) Que son cher fils est devenu mon (F) frère" },
+                    { chord: "F", text: "(F) Et que je (C) suis (G) l'héritier du grand (C) roi" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alors mon cœur veut dire à lui le jour " },
+                    { chord: "C", text: "(C) Que tu es (G) bon, oh Dieu (C) d'amour" },
+                    { chord: "C", text: "(C) Alors mon cœur redit la nuit, le jour (Am) " },
+                    { chord: "C", text: "(C) Que tu es (F) bon, oh (G) Dieu (C) d'amour" }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand mon sauveur éclatant de (F) lumière " },
+                    { chord: "F", text: "(F) Se (C) lèvera de son (G) trône (C) éternel" },
+                    { chord: "C", text: "(C) Et que laissant les douleurs de la (F) terre" },
+                    { chord: "F", text: "(F) Je pourrai (C) voir (G) les splendeurs de son (C) ciel" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je redirai à son divin séjour" },
+                    { chord: "C", text: "(C) Rien n'est plus (G) grand que ton (C) amour" },
+                    { chord: "C", text: "(C) Je redirai dans son divin séjour (Am) " },
+                    { chord: "C", text: "(C) Rien n'est plus (F) grand (G) que ton (C) amour" }
+                ],
+            ]
+        },
+        {
+            key: "sam-09-11-2024",
+            title: "I WILL PRAISE HIM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/J7hcG5347J0?si=PQ-sbYOr_0Uc3Lfj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I saw the cleansing (G) fountain," },
+                    { chord: "G", text: "(G) Open wide for all my (C) sin," },
+                    { chord: "C", text: "(C) I obeyed the Spirit’s (F) wooing" },
+                    { chord: "C", text: "(C) When He said, “Wilt (G) thou be (C) clean?”" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I will praise Him! I will praise Him!" },
+                    { chord: "C", text: "(C) Praise the Lamb for sinners (G) slain;" },
+                    { chord: "C", text: "(C) Give Him glory, all ye people," },
+                    { chord: "C", text: "(C) For His blood can wash (G) away each (C) stain." }
+                ],
+                [
+                    { chord: "C", text: "(C) Tho' the way seems straight and (G) narrow," },
+                    { chord: "G", text: "(G) All I claimed was swept (C) away;" },
+                    { chord: "C", text: "(C) My ambitions, plans and (F) wishes," },
+                    { chord: "C", text: "(C) At my feet (G) in ashes (C) lay." }
+                ],
+                [
+                    { chord: "C", text: "(C) Blessed be the name of (G) Jesus!" },
+                    { chord: "G", text: "(G) I’m so glad He took me (C) in;" },
+                    { chord: "C", text: "(C) He’s forgiven my (F) transgressions," },
+                    { chord: "C", text: "(C) He has cleansed my (G) heart from (C) sin." }
+                ],
+                [
+                    { chord: "C", text: "(C) Glory, glory to the (G) Father!" },
+                    { chord: "G", text: "(G) Glory, glory to the (C) Son!" },
+                    { chord: "C", text: "(C) Glory, glory to the (F) Spirit!" },
+                    { chord: "C", text: "(C) Glory to the (G) Three in (C) One!" }
+                ]
+            ]
+        },
+        {
+            key: "sam-09-11-2024",
+            title: "WALKING WITH THE KING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/mUn6jj96TKQ?si=BEujaECb9t9r9rtI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Hallelujah, I’m walking with the King" },
+                    { chord: "G", text: "(G) Praise His holy name" },
+                    { chord: "C", text: "(C) Walking with the King" },
+                    { chord: "C", text: "(C) Hallelujah, I’m walking with the King" },
+                    { chord: "F", text: "(F) Ev’ry day (G) I’m walking with the (C) King!" }
+                ]
+            ]
+        },
+        {
+            key: "sam-09-11-2024",
+            title: "WATCHING YOU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/6K83WhPPwRY?si=WLvMCDID188lNtCw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All along on the road to the souls true abode," },
+                    { chord: "C", text: "(C) There’s an eye watching (G) you;" },
+                    { chord: "C", text: "(C) Ev’ry step that you take this great eye is awake," },
+                    { chord: "C", text: "(C) There’s an eye (G) watching (C) you." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Watching you, watching you," },
+                    { chord: "C", text: "(C) Ev’ry day mind the course you (G) pursue," },
+                    { chord: "C", text: "(C) Watching you, watching you," },
+                    { chord: "C", text: "(C) There’s an all seeing Eye (G) watching (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) As you make life’s great fight, keep the pathway of right," },
+                    { chord: "C", text: "(C) There’s an eye watching (G) you;" },
+                    { chord: "C", text: "(C) God will warn not to go in the path of the foe," },
+                    { chord: "C", text: "(C) There’s an eye (G) watching (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Fix your mind on the goal, that sweet home of the soul," },
+                    { chord: "C", text: "(C) There’s an eye watching (G) you;" },
+                    { chord: "C", text: "(C) Never turn from the way to the kingdom of day," },
+                    { chord: "C", text: "(C) There’s an eye (G) watching (C) you." }
+                ],
+            ]
+        },
+        {
+            key: "sam-09-11-2024",
+            title: "VILLE DE PERLES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JD8Zc8SffPo?si=IRM2wlLIPyv78LYB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ville de (F) perles et de (C) lumière" },
+                    { chord: "F", text: "(F) Existant sur les (G) hauteurs," },
+                    { chord: "C", text: "(C) Personne n’a encore sur (F) terre" },
+                    { chord: "C", text: "(C) Pu contempler (G) Sa (C) splendeur." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Là, l’Amour de Dieu (C) éclaire," },
+                    { chord: "F", text: "(F) Ce sera l’Agneau (G) Lui-même" },
+                    { chord: "C", text: "(C) Dans cette ville (F) hospitalière" },
+                    { chord: "C", text: "(C) La nouvelle (G) Jérusalem. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) C’est là (F) où la gloire (C) abonde," },
+                    { chord: "F", text: "(F) Où l’arbre de Vie (G) fleurit," },
+                    { chord: "C", text: "(C) Où le fleuve de Vie (F) inonde" },
+                    { chord: "C", text: "(C) De Ses flots (G) ce Saint (C) Abri." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les (F) pèlerins (C) arrivent," },
+                    { chord: "F", text: "(F) Epuisés des grands (G) déserts," },
+                    { chord: "C", text: "(C) Aux fontaines des eaux (F) vives," },
+                    { chord: "C", text: "(C) Quel repos (G) leur est (C) offert." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh ! Quelle (F) joie bientôt sur (C) terre" },
+                    { chord: "F", text: "(F) Quand Jésus sera (G) présent ;" },
+                    { chord: "C", text: "(C) Cette ville aux mille (F) lumières" },
+                    { chord: "C", text: "(C) Y sera (G) éternellement. (C) " }
+                ],
+            ]
+        },
+        {
+            key: "sam-09-11-2024",
+            title: "PASS ME NOT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Br8c0Kkx6vs?si=TFhs2rPcoD8kdvyj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pass me (F) not, O gentle (C) Savior" },
+                    { chord: "G", text: "(G) Hear my humble (C) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Savior, (F) Savior" },
+                    { chord: "C", text: "(C) Hear my (D) humble (G) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let me (F) at Thy throne of (C) mercy" },
+                    { chord: "G", text: "(G) Find a sweet (C) relief" },
+                    { chord: "C", text: "(C) Kneeling (F) there in deep (C) contrition (Am) " },
+                    { chord: "F", text: "(F) Help (G) my unbelief (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Trusting (F) only in Thy (C) merit" },
+                    { chord: "G", text: "(G) Would I seek Thy (C) face" },
+                    { chord: "C", text: "(C) Heal my (F) wounded, broken (C) spirit (Am) " },
+                    { chord: "F", text: "(F) Save (G) me by Thy (C) grace" }
+                ],
+                [
+                    { chord: "C", text: "(C) Thou the (F) spring of all my (C) comfort" },
+                    { chord: "G", text: "(G) More than life to (C) me" },
+                    { chord: "C", text: "(C) Whom have (F) I on earth beside (C) Thee? (Am) " },
+                    { chord: "F", text: "(F) Whom (G) in Heav'n but (C) Thee?" }
+                ],
+            ]
+        },
+
+        //Fin Cantiques Samedi 09 Novembre 2024
+
         //Debut Cantiques Dimanche 03 Novembre 2024
         {
             key: "dim-03-11-2024",
