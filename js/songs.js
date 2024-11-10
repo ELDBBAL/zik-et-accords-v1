@@ -1,5 +1,262 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 10 Novembre 2024
+        {
+            key: "dim-10-11-2024",
+            title: "WHITER THAN THE SNOW",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/yu6HHBbCN00?si=C2u6Oe8XdToVZI_4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Blessed be the fountain of blood" },
+                    { chord: "C", text: "(C) To a (G) world of sinners revealed" },
+                    { chord: "C", text: "(C) Blessed be the dear Son of God" },
+                    { chord: "C", text: "(C) Only (G) by His stripes we are (C) healed" },
+                    { chord: "F", text: "(F) Tho I've wandered far from His (C) fold" },
+                    { chord: "F", text: "(F) Bringing to my heart pain and (G) woe" },
+                    { chord: "C", text: "(C) Wash me in the blood of the Lamb" },
+                    { chord: "C", text: "(C) And I (G) shall be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Whiter than the (G) snow" },
+                    { chord: "F", text: "(F) Whiter than the (C) snow" },
+                    { chord: "C", text: "(C) Wash me in the blood of the (F) Lamb" },
+                    { chord: "C", text: "(C) And I shall (G) be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus par ton sang précieux " },
+                    { chord: "C", text: "(C) Enlève (G) mon iniquité" },
+                    { chord: "C", text: "(C) Regarde-moi du haut des cieux" },
+                    { chord: "C", text: "(C) Dis-moi (G) que Tu m’as (C) pardonné" },
+                    { chord: "F", text: "(F) J’ai longtemps erré coeur (C) rebelle" },
+                    { chord: "F", text: "(F) Mais j’entends Ta voix qui (G) m’appelle" },
+                    { chord: "C", text: "(C) Au pied de Ta croix maintenant" },
+                    { chord: "C", text: "(C) Tout confus, (G) brisé, je me (C) rends." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Blanc, plus blanc que (G) neige " },
+                    { chord: "F", text: "(F) Blanc, plus blanc que (C) neige" },
+                    { chord: "C", text: "(C) Lavé dans le sang de (F) l’Agneau" },
+                    { chord: "C", text: "(C) Je serai plus (G) blanc que la (C) neige" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-11-2024",
+            title: "AS THE DEER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jSZWogD0AH4?si=YDFdMyFc3h9FFZSk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) As the deer panteth for the water" },
+                    { chord: "C", text: "(C) So my (F) soul (G) longeth after (C) thee" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) You alone are my (F) strength, my (C) shield" },
+                    { chord: "F", text: "(F) To you alone may my (Dm) spirit (C) yield" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) You’re my Friend and You are my brother" },
+                    { chord: "C", text: "(C) Even (F) though (G) You are a (C) King" },
+                    { chord: "C", text: "(C) I love You more than any other" },
+                    { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
+                ],
+                [
+                    { chord: "C", text: "(C) I want You more than gold or silver" },
+                    { chord: "C", text: "(C) Only (F) You (G) can (C) satisfy" },
+                    { chord: "C", text: "(C) You alone are the real joy-giver" },
+                    { chord: "C", text: "(C) And the (F) apple (G) of my (C) eye" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) Tu es mon bouclier (F) et ma (C) force" },
+                    { chord: "F", text: "(F) Le Roc sur qui j’ai (Dm) fondé ma (C) vie" },
+                    { chord: "C", text: "(C) Toi seul es le désir de mon coeur" },
+                    { chord: "C", text: "(C) Et (F) je vis (G) pour (C) T’adorer" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-11-2024",
+            title: "JE NE SAIS POURQUOI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IwVX50lYEWk?si=lXjU_vNwnlOavtqB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je ne sais pourquoi dans sa (F) grâce (C) " },
+                    { chord: "C", text: "(C) Jésus m’a (D) tant (G) aimé" },
+                    { chord: "C", text: "(C) Pourquoi par son sang Il (F) efface (C) " },
+                    { chord: "C", text: "(C) Ma dette, (G) mon (C) péché" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Mais je sais qu’en Lui j’ai la (C) vie" },
+                    { chord: "C", text: "(C) Il m’a (G) sauvé par son (C) amour" },
+                    { chord: "F", text: "(F) Et gardé par sa main (C) meurtrie" },
+                    { chord: "C", text: "(C) J’attends (G) l’heure de son (C) retour" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne sais comment la (F) lumière (C) " },
+                    { chord: "C", text: "(C) Eclaire (D) tout mon (G) coeur" },
+                    { chord: "C", text: "(C) Comment je compris ma (F) misère (C) " },
+                    { chord: "C", text: "(C) Et reçus (G) mon (C) Sauveur" }
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne sais qu’elle est la (F) mesure (C) " },
+                    { chord: "C", text: "(C) De joie (D) de (G) douleur" },
+                    { chord: "C", text: "(C) Que pour moi faible (F) créature (C) " },
+                    { chord: "C", text: "(C) Réserve (G) mon (C) Sauveur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) But “I know whom I have (C) believed," },
+                    { chord: "C", text: "(C) And am (G) persuaded that He is (C) able" },
+                    { chord: "F", text: "(F) To keep that which I’ve (C) committed" },
+                    { chord: "C", text: "(C) Unto (G) Him against that (C) day.”" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-11-2024",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" },
+                    { chord: "C", text: "(C) If that (G) spirit dwell in (C) you." },
+                ]
+            ]
+        },
+        {
+            key: "dim-10-11-2024",
+            title: "WHAT A MIGHTY WE SERVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/YGL15yoqsJI?si=NHx0hahJRqK3DGTA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a mighty God we serve," },
+                    { chord: "C", text: "(C) What a mighty God we (G) serve," },
+                    { chord: "C", text: "(C) Angels bow before him," },
+                    { chord: "C", text: "(C) Heaven and earth adore Him" },
+                    { chord: "F", text: "(F) What a mighty (G) God we (C) serve" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-11-2024",
+            title: "CE QUE DIEU A FAIT...",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/xu9us8mRaF0?si=8aLoyX2ZMO4YzuZU",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Ce que Dieu a fait pour moi" },
+                    { chord: "C", text: "(C) Je ne peux pas tout (F) raconter" },
+                    { chord: "F", text: "(F) Ce que Dieu a (G) fait pour moi" },
+                    { chord: "G", text: "(G) Je ne peux pas tout (C) raconter" },
+                    { chord: "C", text: "(C) Ce que Dieu a fait pour moi" },
+                    { chord: "C", text: "(C) Je ne peux pas tout (F) raconter" },
+                    { chord: "F", text: "(F) Il m’a (C) sauvé," },
+                    { chord: "C", text: "(C) Il m’a (G) lavé dans son (C) sang" }
+                ],
+                [
+                    { chord: "C", text: "(C) Par Lui (F) j’adore ! Alléluia !" },
+                    { chord: "F", text: "(F) Par Lui (C) j’adore ! Alléluia !" },
+                    { chord: "G", text: "(G) J’adore ô, gloire à (C) Dieu !" },
+                    { chord: "C", text: "(C) Par Lui (F) je chante ! Alléluia !" },
+                    { chord: "F", text: "(F) Par Lui (C) je chante ! Alléluia !" },
+                    { chord: "G", text: "(G) Je chante ô, gloire à (C) Dieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il m’ (F) élu ! Alléluia !" },
+                    { chord: "F", text: "(F) Il m’ (C) élu ! Alléluia !" },
+                    { chord: "G", text: "(G) Elu ! ô, gloire à (C) Dieu" },
+                    { chord: "C", text: "(C) Il m’a (F) choisi ! Alléluia !" },
+                    { chord: "F", text: "(F) Il m’a (C) choisi ! Alléluia !" },
+                    { chord: "G", text: "(G) Choisi ! ô, gloire à (C) Dieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il m’a (F) béni ! Alléluia !" },
+                    { chord: "F", text: "(F) Il m’a (C) béni ! Alléluia !" },
+                    { chord: "G", text: "(G) Béni ! ô, gloire à (C) Dieu" },
+                    { chord: "C", text: "(C) Alléluia ! (F) Alléluia !" },
+                    { chord: "F", text: "(F) Allé … (C) Alléluia !" },
+                    { chord: "G", text: "(G) Allé … (C) Alléluia !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-11-2024",
+            title: "JE TE LOUE ET JE TE REMERCIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-GJQ9acp9rU?si=speeZnPFWCWoqWjc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je te loue et (F) je te remercie (C) " },
+                    { chord: "C", text: "(C) Je te loue et (F) je te remercie (C) " },
+                    { chord: "C", text: "(C) Tu m’a fait (F) passé de (Em) la mort á la (Dm) vie" },
+                    { chord: "Dm", text: "(Dm) Voila pourquoi je te (C) loue et (G) je te (C) remercie" },
+                    { chord: "C", text: "(C) Tu m’a fait (F) passé de (Em) la mort á la (Dm) vie" },
+                    { chord: "Dm", text: "(Dm) Voila pourquoi je te (C) loue et (G) je te (C) remercie" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-11-2024",
+            title: "ROCK OF AGES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for (C) me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee;" },
+                    { chord: "C", text: "(C) Let the (G) water and the (C) blood," },
+                    { chord: "C", text: "(C) From Thy (G) wounded side which (C) flowed," },
+                    { chord: "C", text: "(C) Be of sin the (F) double (C) cure," },
+                    { chord: "C", text: "(C) Save from wrath and (G) make me (C) pure." }
+                ],
+                [
+                    { chord: "C", text: "(C) Not the labors (F) of my (C) hands" },
+                    { chord: "C", text: "(C) Can fulfill thy (G) law's (C) commands;" },
+                    { chord: "C", text: "(C) Could my (G) tears forever (C) flow," },
+                    { chord: "C", text: "(C) Could my (G) zeal no languor (C) know," },
+                    { chord: "C", text: "(C) These for sin could (F) not (C) atone;" },
+                    { chord: "C", text: "(C) Thou must save, (G) and Thou (C) alone;" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing in my (F) hand I (C) bring" },
+                    { chord: "C", text: "(C) Simply to Thy (G) cross I (C) cling" },
+                    { chord: "C", text: "(C) Naked, (G) come to Thee for (C) dress" },
+                    { chord: "C", text: "(C) Helpless (G) look to Thee for (C) grace" },
+                    { chord: "C", text: "(C) Foul, I to the (F) foutain (C) fly" },
+                    { chord: "C", text: "(C) Wash me, (G) Savior or I (C) die" }
+                ],
+                [
+                    { chord: "C", text: "(C) While I draw this (F) fleeting (C) breath," },
+                    { chord: "C", text: "(C) When my eyes (G) shall close in (C) death," },
+                    { chord: "C", text: "(C) When I (G) rise to worlds (C) unknown," },
+                    { chord: "C", text: "(C) And (G) behold Thee on Thy (C) throne," },
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee." }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 10 Novembre 2024
+    
         //Debut Cantiques Samedi 09 Novembre 2024
         {
             key: "sam-09-11-2024",
