@@ -146,41 +146,41 @@ const songs = [
             key: "dim-17-11-2024",
             title: "PORTER UNE COURONNE",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/o65yTH3ZyGA?si=2_ntSDbSOMeIjzfj",
             verses: [
                 [
                     { chord: "C", text: "(C) Suis-je bien un soldat de la Croix," },
-                    { chord: "C", text: "(C) Disciple de l’Agneau," },
+                    { chord: "G", text: "(G) Disciple de (C) l’Agneau," },
                     { chord: "C", text: "(C) Craindrai-je de soutenir Sa cause," },
-                    { chord: "C", text: "(C) De parler de Son Nom ?" }
+                    { chord: "G", text: "(G) De parler de Son (C) Nom ?" }
                 ],
                 [
                     { chord: "C", text: "CHORUS:" },
                     { chord: "C", text: "(C) A la fin de la bataille, nous serons couronnés!" },
-                    { chord: "C", text: "(C) Nous serons couronnés! Nous serons couronnés!" },
+                    { chord: "G", text: "(G) Nous serons couronnés! Nous (C) serons couronnés!" },
                     { chord: "C", text: "(C) A la fin de la bataille, nous serons couronnés," },
-                    { chord: "F", text: "(F) Dans la nouvelle Jérusalem." },
-                    { chord: "F", text: "(F) Couronnés, couronnés d’une brillante et belle couronne." },
-                    { chord: "F", text: "(F) A la fin de la bataille, nous serons couronnés" },
-                    { chord: "F", text: "(F) Dans la nouvelle Jérusalem." }
+                    { chord: "F", text: "(F) Dans la nouvelle (G) Jérusalem. (C) " },
+                    { chord: "F", text: "(F) Couronnés, (C) couronnés d’une brillante et (D) belle (G) couronne." },
+                    { chord: "C", text: "(C) A la fin de la bataille, nous serons couronnés," },
+                    { chord: "F", text: "(F) Dans la nouvelle (G) Jérusalem. (C) " },
                 ],
                 [
                     { chord: "C", text: "(C) Dois-je être transporté au Ciel" },
-                    { chord: "C", text: "(C) Sur un beau lit d’aisance," },
+                    { chord: "G", text: "(G) Sur un beau lit (C) d’aisance," },
                     { chord: "C", text: "(C) Quand d’autres combattent, gagnent le prix," },
-                    { chord: "C", text: "(C) Naviguant sur le sang ?" }
+                    { chord: "G", text: "(G) Naviguant sur le (C) sang ?" }
                 ],
                 [
                     { chord: "C", text: "(C) N’ai-je pas d’ennemis à combattre," },
-                    { chord: "C", text: "(C) Des vagues à surmonter ?" },
+                    { chord: "G", text: "(G) Des vagues à (C) surmonter ?" },
                     { chord: "C", text: "(C) Ce monde se joint-il à la grâce" },
-                    { chord: "C", text: "(C) Pour m’amener à Dieu ?" }
+                    { chord: "G", text: "(G) Pour m’amener à (C) Dieu ?" }
                 ],
                 [
                     { chord: "C", text: "(C) Oui, pour régner je dois combattre," },
-                    { chord: "C", text: "(C) Redonne courage, Seigneur;" },
+                    { chord: "G", text: "(G) Redonne courage, (C) Seigneur;" },
                     { chord: "C", text: "(C) Souffrances et peines" },
-                    { chord: "C", text: "(C) J’endurerai, Aidé par Ta Parole." }
+                    { chord: "G", text: "(G) J’endurerai, Aidé par (C) Ta Parole." }
                 ]
             ]
         },
@@ -192,30 +192,30 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) My faith looks up to thee" },
-                    { chord: "C", text: "(C) Thou Lamb of Calvary" },
-                    { chord: "C", text: "(C) Savior divine!" },
+                    { chord: "G", text: "(G) Thou Lamb of Calvary" },
+                    { chord: "C", text: "(C) Savior (G) divine!" },
                     { chord: "C", text: "(C) Now hear me while I pray" },
                     { chord: "C", text: "(C) Take all my guilt away" },
                     { chord: "C", text: "(C) O let me from this day" },
-                    { chord: "C", text: "(C) Be wholly thine!" },
+                    { chord: "C", text: "(C) Be (F) wholly (G) (C) thine! " }
                 ],
                 [
                     { chord: "C", text: "(C) May thy rich grace impart" },
-                    { chord: "C", text: "(C) Strength to my fainting heart" },
-                    { chord: "C", text: "(C) My zeal inspire!" },
-                    { chord: "F", text: "(F) As thou hast died for me" },
-                    { chord: "F", text: "(F) O may my love to thee" },
-                    { chord: "F", text: "(F) Pure, warm, and changeless be" },
-                    { chord: "F", text: "(F) A living fire!" }
+                    { chord: "G", text: "(G) Strength to my fainting heart" },
+                    { chord: "C", text: "(C) My zeal (G) inspire!" },
+                    { chord: "C", text: "(C) As thou hast died for me" },
+                    { chord: "C", text: "(C) O may my love to thee" },
+                    { chord: "C", text: "(C) Pure, warm, and changeless be" },
+                    { chord: "F", text: "(F) A (G) living (C) fire!" }
                 ],
                 [
                     { chord: "C", text: "(C) When life's dark maze I tread" },
-                    { chord: "C", text: "(C) And griefs around me spread" },
-                    { chord: "C", text: "(C) Be thou my guide" },
+                    { chord: "G", text: "(G) And griefs around me spread" },
+                    { chord: "C", text: "(C) Be thou my (G) guide" },
                     { chord: "C", text: "(C) Bid darkness turn to day" },
                     { chord: "C", text: "(C) Wipe sorrow's tears away" },
                     { chord: "C", text: "(C) Nor let me ever stray" },
-                    { chord: "C", text: "(C) From thee aside" }
+                    { chord: "F", text: "(F) From (G) thee (C) aside" }
                 ]
             ]
         },
