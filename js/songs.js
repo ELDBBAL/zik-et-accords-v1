@@ -1,5 +1,242 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 17 Novembre 2024
+        {
+            key: "dim-17-11-2024",
+            title: "JESUS PAID IT ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JWPC4clWLbQ?si=KNKkqmVuB85IK1xZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I hear the Savior say," },
+                    { chord: "C", text: "(C) “Thy (G) strength indeed is (C) small;" },
+                    { chord: "C", text: "(C) Child of weakness, watch and pray," },
+                    { chord: "C", text: "(C) Find in (F) Me (G) thine all in (C) all.”" },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He washed (F) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) Lord, now indeed I find" },
+                    { chord: "C", text: "(C) Thy (G) power and Thine (C) alone," },
+                    { chord: "C", text: "(C) Can change the leper’s spots" },
+                    { chord: "C", text: "(C) And melt (F) the (G) heart of (C) stone." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He washed (F) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) For nothing good have I" },
+                    { chord: "C", text: "(C) Whereby (G) Thy grace to (C) claim," },
+                    { chord: "C", text: "(C) I’ll wash my garments white" },
+                    { chord: "C", text: "(C) In the (F) blood (G) of Calv’ry’s (C) Lamb." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He washed (F) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) And now complete in Him" },
+                    { chord: "C", text: "(C) My robe (G) His (C) righteousness," },
+                    { chord: "C", text: "(C) I’ll rejoice with all my might," },
+                    { chord: "C", text: "(C) I am (F) now divinely (C) blest." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He washed (F) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) And when before the throne" },
+                    { chord: "C", text: "(C) I stand (G) in Him (C) complete," },
+                    { chord: "C", text: "(C) “Jesus died my soul to save,”" },
+                    { chord: "C", text: "(C) My lips (F) shall still (C) repeat." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He washed (F) it white as (C) snow." }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "HE TOUCHED ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/llOpDzd4z4Q?si=eABJsMKGioMxN7bV",
+            verses: [
+                [
+                    { chord: "G", text: "(G) Shackled by a heavy (C) burden" },
+                    { chord: "G", text: "(G) 'Neath a load of guilt and (C) shame" },
+                    { chord: "F", text: "(F) Then the hand of Jesus (C) touched me (Em) - (Am) " },
+                    { chord: "G", text: "(G) And now I am no longer the (C) same" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) He touched me, oh, He (C) touched me" },
+                    { chord: "C", text: "(C) And (F) oh, the (C) joy that (D) floods my (G) soul" },
+                    { chord: "C", text: "(C) Something happened, and now I (F) know" },
+                    { chord: "F", text: "(F) He (C) touched me, and (G) made me (C) whole" }
+                ],
+                [
+                    { chord: "G", text: "(G) Since I've met this blessed (C) Savior" },
+                    { chord: "G", text: "(G) Since He's cleansed and made me (C) whole" },
+                    { chord: "F", text: "(F) Oh, I will never cease to (C) praise Him (Em) - (Am) " },
+                    { chord: "G", text: "(G) I'll shout it while eternity (C) rolls" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "COME AND GO WITH ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/yeilvKrnMXM?si=kkix4YtIQgEBpJrk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) To my Father's (G) house, to my Father's (C) house." },
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Peace and love abide in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) In my Father's (G) house, in my Father's (C) house." },
+                    { chord: "C", text: "(C) Peace and love abide in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Peace and happiness in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) In my Father's (G) house, in my Father's (C) house." },
+                    { chord: "C", text: "(C) Peace and happiness in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "WEAR A CROWN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ILHQ7bgTkLE?si=eb4pqp9feiXQ4cXp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Am I a soldier (G) of the (C) cross," },
+                    { chord: "G", text: "(G) A foll'wer of the (G) Lamb?" },
+                    { chord: "C", text: "(C) And shall I fear to (G) own His (C) cause," },
+                    { chord: "G", text: "(G) Or blush to speak His (C) name?" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) And when the battle’s over," },
+                    { chord: "C", text: "(C) We shall wear a crown," },
+                    { chord: "G", text: "(G) We shall wear a crown," },
+                    { chord: "C", text: "(C) We shall wear a crown," },
+                    { chord: "C", text: "(C) And when the battle’s over," },
+                    { chord: "C", text: "(C) We shall wear a crown," },
+                    { chord: "G", text: "(G) In the new (C) Jerusalem!" },
+                    { chord: "F", text: "(F) Wear a crown, wear a (C) crown," },
+                    { chord: "C", text: "(C) Wear a bright and (D) shining (G) crown;" },
+                    { chord: "C", text: "(C) And when the battle’s over," },
+                    { chord: "C", text: "(C) We shall wear a crown," },
+                    { chord: "G", text: "(G) In the new (C) Jerusalem!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Must I be carried (G) to the (C) skies" },
+                    { chord: "G", text: "(G) On flow'ry beds of (G) ease," },
+                    { chord: "C", text: "(C) While others fought to (G) win the (C) prize," },
+                    { chord: "G", text: "(G) And sailed thro' bloody (C) seas?" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "PORTER UNE COURONNE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Suis-je bien un soldat de la Croix," },
+                    { chord: "C", text: "(C) Disciple de l’Agneau," },
+                    { chord: "C", text: "(C) Craindrai-je de soutenir Sa cause," },
+                    { chord: "C", text: "(C) De parler de Son Nom ?" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) A la fin de la bataille, nous serons couronnés!" },
+                    { chord: "C", text: "(C) Nous serons couronnés! Nous serons couronnés!" },
+                    { chord: "C", text: "(C) A la fin de la bataille, nous serons couronnés," },
+                    { chord: "F", text: "(F) Dans la nouvelle Jérusalem." },
+                    { chord: "F", text: "(F) Couronnés, couronnés d’une brillante et belle couronne." },
+                    { chord: "F", text: "(F) A la fin de la bataille, nous serons couronnés" },
+                    { chord: "F", text: "(F) Dans la nouvelle Jérusalem." }
+                ],
+                [
+                    { chord: "C", text: "(C) Dois-je être transporté au Ciel" },
+                    { chord: "C", text: "(C) Sur un beau lit d’aisance," },
+                    { chord: "C", text: "(C) Quand d’autres combattent, gagnent le prix," },
+                    { chord: "C", text: "(C) Naviguant sur le sang ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) N’ai-je pas d’ennemis à combattre," },
+                    { chord: "C", text: "(C) Des vagues à surmonter ?" },
+                    { chord: "C", text: "(C) Ce monde se joint-il à la grâce" },
+                    { chord: "C", text: "(C) Pour m’amener à Dieu ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Oui, pour régner je dois combattre," },
+                    { chord: "C", text: "(C) Redonne courage, Seigneur;" },
+                    { chord: "C", text: "(C) Souffrances et peines" },
+                    { chord: "C", text: "(C) J’endurerai, Aidé par Ta Parole." }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "MY FAITH LOOKS UP TO THEE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My faith looks up to thee" },
+                    { chord: "C", text: "(C) Thou Lamb of Calvary" },
+                    { chord: "C", text: "(C) Savior divine!" },
+                    { chord: "C", text: "(C) Now hear me while I pray" },
+                    { chord: "C", text: "(C) Take all my guilt away" },
+                    { chord: "C", text: "(C) O let me from this day" },
+                    { chord: "C", text: "(C) Be wholly thine!" },
+                ],
+                [
+                    { chord: "C", text: "(C) May thy rich grace impart" },
+                    { chord: "C", text: "(C) Strength to my fainting heart" },
+                    { chord: "C", text: "(C) My zeal inspire!" },
+                    { chord: "F", text: "(F) As thou hast died for me" },
+                    { chord: "F", text: "(F) O may my love to thee" },
+                    { chord: "F", text: "(F) Pure, warm, and changeless be" },
+                    { chord: "F", text: "(F) A living fire!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When life's dark maze I tread" },
+                    { chord: "C", text: "(C) And griefs around me spread" },
+                    { chord: "C", text: "(C) Be thou my guide" },
+                    { chord: "C", text: "(C) Bid darkness turn to day" },
+                    { chord: "C", text: "(C) Wipe sorrow's tears away" },
+                    { chord: "C", text: "(C) Nor let me ever stray" },
+                    { chord: "C", text: "(C) From thee aside" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "MY GOD MY GOD",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My God my God my God" },
+                    { chord: "C", text: "(C) Is my friend" },
+                    { chord: "C", text: "(C) My God my God my God" },
+                    { chord: "C", text: "(C) Is my friend" },
+                    { chord: "C", text: "(C) My God my God my God" },
+                    { chord: "C", text: "(C) Is my friend" },
+                    { chord: "C", text: "(C) My God is my friend" },
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 17 Novembre 2024
         //Debut Cantiques Dimanche 10 Novembre 2024
         {
             key: "dim-10-11-2024",
@@ -1602,7 +1839,7 @@ const songs = [
     },
     {
         key: "dim-13-10-2024",
-        title: "THE OLD-TIME RELIGION",
+        title: "THE OLD TIME RELIGION",
         keySignature: "C",
         youtubeLink: "https://youtu.be/JOI_HFvhINM?si=1N7zaH35NEn5MzmG",
         verses: [
