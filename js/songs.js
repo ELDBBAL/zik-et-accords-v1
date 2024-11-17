@@ -83,6 +83,35 @@ const songs = [
         },
         {
             key: "dim-17-11-2024",
+            title: "I'M SO GLAD JESUS SET ME FREE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/huecQwO6Xzo?si=V9LTvXj1yz-BhlMe",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
             title: "COME AND GO WITH ME",
             keySignature: "C",
             youtubeLink: "https://youtu.be/yeilvKrnMXM?si=kkix4YtIQgEBpJrk",
@@ -104,6 +133,158 @@ const songs = [
                     { chord: "C", text: "(C) In my Father's (G) house, in my Father's (C) house." },
                     { chord: "C", text: "(C) Peace and happiness in (F) my Father's (C) house," },
                     { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "THE OLD TIME RELIGION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JOI_HFvhINM?si=1N7zaH35NEn5MzmG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) It’s the old-time Holy Spirit," },
+                    { chord: "C", text: "(C) And the (G) devil won’t go (C) near It," },
+                    { chord: "C", text: "(C) That’s the reason people (F) fear It;" },
+                    { chord: "F", text: "(F) But (G) It’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Give me that old time religion," },
+                    { chord: "C", text: "(C) Give me that (G) old time (C) religion," },
+                    { chord: "C", text: "(C) Give me that old time (F) religion," },
+                    { chord: "F", text: "(F) It’s (G) good enough for (C) me" }
+                ],
+                [
+                    { chord: "C", text: "(C) It will make you stop your lying;" },
+                    { chord: "C", text: "(C) It will (G) save you when you’re (C) dying" },
+                    { chord: "C", text: "(C) It will start the devil (F) flying;" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It’s so good I want no other;" },
+                    { chord: "C", text: "(C) For It (G) makes me love my (C) brother;" },
+                    { chord: "C", text: "(C) And It brings things from under (F) cover," },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good in the fiery furnace" },
+                    { chord: "C", text: "(C) It was (G) good in the fiery (C) furnace" },
+                    { chord: "C", text: "(C) It was good in the fiery (F) furnace" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good for Paul and Silas" },
+                    { chord: "C", text: "(C) It was (G) good for Paul and (C) Silas" },
+                    { chord: "C", text: "(C) It was good for Paul and (F) Silas" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good for our fathers" },
+                    { chord: "C", text: "(C) It was (G) good for our (C) fathers" },
+                    { chord: "C", text: "(C) It was good for our (F) fathers" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good for Brother Branham " },
+                    { chord: "C", text: "(C) It was (G) good for Brother (C) Branham " },
+                    { chord: "C", text: "(C) It was good for Brother (F) Branham " },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It will take us all to Heaven" },
+                    { chord: "C", text: "(C) It will (G) take us all to (C) Heaven" },
+                    { chord: "C", text: "(C) It will take us all to (F) Heaven" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "WALKING WITH THE KING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/mUn6jj96TKQ?si=BEujaECb9t9r9rtI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Hallelujah, I’m walking with the King" },
+                    { chord: "G", text: "(G) Praise His holy name" },
+                    { chord: "C", text: "(C) Walking with the King" },
+                    { chord: "C", text: "(C) Hallelujah, I’m walking with the King" },
+                    { chord: "F", text: "(F) Ev’ry day (G) I’m walking with the (C) King!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "LOUONS LE SEIGNEUR NOTRE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/1yjdifCfy5Y?si=fJudw3_3Lrg-v6oG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louons le Seigneur notre Dieu" },
+                    { chord: "F", text: "(F) Bénissions le Nom du Tout- (G) Puissant" },
+                    { chord: "C", text: "(C) Célébrons à jamais notre Roi" },
+                    { chord: "F", text: "(F) Amen (G) alléluia (C) " },
+                    { chord: "C", text: "(C) Nous serons bien" },
+                    { chord: "G", text: "(G) Haïs, haïs, ici bas, ici bas," },
+                    { chord: "G", text: "(G) Par les hommes, par les hommes," },
+                    { chord: "C", text: "(C) Mais là-haut nous serons heureux" },
+                    { chord: "F", text: "(F) Amen (G) alléluia (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "WHAT SHALL I SAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jRLr525_zVs?si=8aRNv7RF12n2TiqR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What shall I say unto the (F) Lord" },
+                    { chord: "F", text: "(F) All I have to (G) say, thank you (C) Lord" },
+                    { chord: "C", text: "(C) What shall I say unto the (F) Lord" },
+                    { chord: "F", text: "(F) All I have to (G) say, thank you (C) Lord" }
+                ],
+                [
+                    { chord: "C", text: "(C) Thank you Lord, Thank you (F) Lord" },
+                    { chord: "F", text: "(F) All I have to (G) say, thank you (C) Lord" },
+                    { chord: "C", text: "(C) Thank you Lord, Thank you Lord" },
+                    { chord: "F", text: "(F) All I have to (G) say, thank you (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-11-2024",
+            title: "MY FAITH LOOKS UP TO THEE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My faith looks up to thee" },
+                    { chord: "G", text: "(G) Thou Lamb of Calvary" },
+                    { chord: "C", text: "(C) Savior (G) divine!" },
+                    { chord: "C", text: "(C) Now hear me while I pray" },
+                    { chord: "C", text: "(C) Take all my guilt away" },
+                    { chord: "C", text: "(C) O let me from this day" },
+                    { chord: "C", text: "(C) Be (F) wholly (G) (C) thine! " }
+                ],
+                [
+                    { chord: "C", text: "(C) May thy rich grace impart" },
+                    { chord: "G", text: "(G) Strength to my fainting heart" },
+                    { chord: "C", text: "(C) My zeal (G) inspire!" },
+                    { chord: "C", text: "(C) As thou hast died for me" },
+                    { chord: "C", text: "(C) O may my love to thee" },
+                    { chord: "C", text: "(C) Pure, warm, and changeless be" },
+                    { chord: "F", text: "(F) A (G) living (C) fire!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When life's dark maze I tread" },
+                    { chord: "G", text: "(G) And griefs around me spread" },
+                    { chord: "C", text: "(C) Be thou my (G) guide" },
+                    { chord: "C", text: "(C) Bid darkness turn to day" },
+                    { chord: "C", text: "(C) Wipe sorrow's tears away" },
+                    { chord: "C", text: "(C) Nor let me ever stray" },
+                    { chord: "F", text: "(F) From (G) thee (C) aside" }
                 ]
             ]
         },
@@ -181,41 +362,6 @@ const songs = [
                     { chord: "G", text: "(G) Redonne courage, (C) Seigneur;" },
                     { chord: "C", text: "(C) Souffrances et peines" },
                     { chord: "G", text: "(G) J’endurerai, Aidé par (C) Ta Parole." }
-                ]
-            ]
-        },
-        {
-            key: "dim-17-11-2024",
-            title: "MY FAITH LOOKS UP TO THEE",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) My faith looks up to thee" },
-                    { chord: "G", text: "(G) Thou Lamb of Calvary" },
-                    { chord: "C", text: "(C) Savior (G) divine!" },
-                    { chord: "C", text: "(C) Now hear me while I pray" },
-                    { chord: "C", text: "(C) Take all my guilt away" },
-                    { chord: "C", text: "(C) O let me from this day" },
-                    { chord: "C", text: "(C) Be (F) wholly (G) (C) thine! " }
-                ],
-                [
-                    { chord: "C", text: "(C) May thy rich grace impart" },
-                    { chord: "G", text: "(G) Strength to my fainting heart" },
-                    { chord: "C", text: "(C) My zeal (G) inspire!" },
-                    { chord: "C", text: "(C) As thou hast died for me" },
-                    { chord: "C", text: "(C) O may my love to thee" },
-                    { chord: "C", text: "(C) Pure, warm, and changeless be" },
-                    { chord: "F", text: "(F) A (G) living (C) fire!" }
-                ],
-                [
-                    { chord: "C", text: "(C) When life's dark maze I tread" },
-                    { chord: "G", text: "(G) And griefs around me spread" },
-                    { chord: "C", text: "(C) Be thou my (G) guide" },
-                    { chord: "C", text: "(C) Bid darkness turn to day" },
-                    { chord: "C", text: "(C) Wipe sorrow's tears away" },
-                    { chord: "C", text: "(C) Nor let me ever stray" },
-                    { chord: "F", text: "(F) From (G) thee (C) aside" }
                 ]
             ]
         },
