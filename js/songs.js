@@ -1,5 +1,264 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 24 Novembre 2024
+        {
+            key: "dim-24-11-2024",
+            title: "WHEN I SEE THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X_HH-I5C4kE?si=TZKkXP6rdV7fpSsO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I (F) see the (C) blood," },
+                    { chord: "C", text: "(C) When (G) I see (C) the blood," },
+                    { chord: "C", text: "(C) When I see (F) the blood, I will (C) pass," },
+                    { chord: "C", text: "(C) I will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand je (F) verrai le (C) sang" },
+                    { chord: "C", text: "(C) Quand (G) je verrai le (C) sang" },
+                    { chord: "C", text: "(C) Quand je verrai le (F) sang" },
+                    { chord: "F", text: "(F) Et je (C) passerai (G) par-dessus (C) vous !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "I LOVE WITH THE LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QEy8wE8BQXU?si=sOwRxzq8SeFsV_LF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I love you with the love of the (Em) Lord" },
+                    { chord: "C", text: "(C) I love you with the love of the (F) Lord" },
+                    { chord: "C", text: "(C) I can (F) see in (Dm) you, the (Em) glory of the (Am) Lord" },
+                    { chord: "Dm", text: "(Dm) I love you with the (G) love of the (C) Lord." }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "EVERY PROMISE IN BOOK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8jbPSKUsExc?si=XYMTnJpEbzco6uXh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Every promise in the Book is (G) mine" },
+                    { chord: "G", text: "(G) Every chapter, every verse, every (C) line," },
+                    { chord: "C", text: "(C) I am trusting in His love (F) divine," },
+                    { chord: "F", text: "(F) Every (C) promise in the (G) Book is (C) mine." }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "IN THE NAME OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/34g8m5hPTnA?si=S9flvmCnAjflKPxu",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) We have the victory, (G) " },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) Demons will have to (C) flee" },
+                    { chord: "F", text: "(F) When we stand in the (C) Name of Jesus," },
+                    { chord: "G", text: "(G) Tell me who can stand (C) before" },
+                    { chord: "F", text: "(F) In the Precious Name of (C) Jesus," },
+                    { chord: "G", text: "(G) We have the (C) victory." },
+                ],
+                [
+                    { chord: "C", text: "(C) Dans le nom de Jésus," },
+                    { chord: "C", text: "(C) Dans le nom de Jésus," },
+                    { chord: "C", text: "(C) Nous avons la victoire, (G) " },
+                    { chord: "G", text: "(G) Dans le nom de Jésus," },
+                    { chord: "G", text: "(G) Dans le nom de Jésus" },
+                    { chord: "G", text: "(G) Tous les démons (C) s’enfuient" },
+                    { chord: "F", text: "(F) Qui peut dire’ ce que (C) Dieu peut faire ?" },
+                    { chord: "G", text: "(G) Qui peut dire’ Son amour pour (C) nous ?" },
+                    { chord: "F", text: "(F) C’est au nom du Seigneur (C) Jésus," },
+                    { chord: "G", text: "(G) Nous avons la (C) victoire." },
+                ],
+                [
+                    { chord: "G", text: "(G) Quand satan nous tend un (C) piège," },
+                    { chord: "F", text: "(F) C’est ce nom qui nous (C) protège," },
+                    { chord: "G", text: "(G) Ce beau nom de la (C) victoire" },
+                    { chord: "F", text: "(F) Que chantent tous les (C) Élus!" }
+                ],
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "GLAD DAY WHEN I WAS BORN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ohRKKFZmKpk?si=LO2Exs0Ik-Ke6OAD",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Glad day when (F) I was born (C) again" },
+                    { chord: "C", text: "(C) Glad day when (D) I was born (G) again" },
+                    { chord: "C", text: "(C) Glad day when (F) I was born (C) again" },
+                    { chord: "C", text: "(C) It was a (Am) glad day when (G) I was born (C) again," }
+                ],
+                [   
+                    { chord: "C", text: "(C) The sins I used to do, I (F) do them no (C) more" },
+                    { chord: "C", text: "(C) The sins I used to do, I (D) do them no (G) more" },
+                    { chord: "C", text: "(C) The sins I used to do, I (F) do them no (C) more" },
+                    { chord: "C", text: "(C) It was a (Am) glad day when (G) I was born (C) again," }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "THE LOVE OF GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/NafJoD8Mt94?si=CGK1J-IR70I6oyoF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) The love of God is (F) greater (C) far" },
+                    { chord: "C", text: "(C) Than tongue or (G) pen can ever (C) tell;" },
+                    { chord: "C", text: "(C) It goes beyond the (F) highest (C) star" },
+                    { chord: "C", text: "(C) And reaches (G) to the lowest (C) hell." },
+                    { chord: "C", text: "(C) The guilty (F) pair, bowed down with (C) care," },
+                    { chord: "C", text: "(C) God gave His (G) son to (C) win;" },
+                    { chord: "C", text: "(C) His erring (F) child He reconciled, (C) " },
+                    { chord: "C", text: "(C) And pardoned (G) from his (C) sin." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, love God, how rich and pure!" },
+                    { chord: "C", text: "(C) How measureless and strong!" },
+                    { chord: "C", text: "(C) It shall forevermore endure," },
+                    { chord: "F", text: "(F) The saints and angels song." }
+                ],
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "LOUEZ LOUEZ LOUEZ…",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louez, louez, louez" },
+                    { chord: "C", text: "(C) Louez l’Eternel ! (G) " },
+                    { chord: "G", text: "(G) Louez, louez, louez" },
+                    { chord: "G", text: "(G) Louez l’Eternel ! (C) " },
+                    { chord: "C", text: "(C) Louez, louez, louez" },
+                    { chord: "C", text: "(C) Louez l’Eternel ! (F) " },
+                    { chord: "F", text: "(F) Louez l’Eternel ! (C) " },
+                    { chord: "C", text: "(C) Louez (G) l’Eternel ! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) David était un grand roi" },
+                    { chord: "C", text: "(C) Il s’est levé pour danser (G) " },
+                    { chord: "G", text: "(G) David était un grand roi" },
+                    { chord: "G", text: "(G) Il s’est levé pour danser (C) " },
+                    { chord: "C", text: "(C) David était un grand roi" },
+                    { chord: "C", text: "(C) Il s’est levé pour danser (F) " },
+                    { chord: "F", text: "(F) Il s’est levé pour danser (C) " },
+                    { chord: "C", text: "(C) Il s’est (G) levé pour danser (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "ALL THE OTHER GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/q4KzCrpcLjo?si=XLKFxqc6tTH8osHN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All the other gods" },
+                    { chord: "C", text: "(C) They are the works of (F) man" },
+                    { chord: "F", text: "(F) You are the most High (G) God" },
+                    { chord: "G", text: "(G) There is none like (C) You" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "IL N’Y A PERSONNE QUI SOIT COMME JESUS",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il n'y a vraiment personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a vraiment personne comme (G) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a vraiment personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a vraiment (G) personne comme (C) LUI" }
+                ],
+                [
+                    { chord: "C", text: "(C) J’ai longtemps marché" },
+                    { chord: "C", text: "(C) marché marché (F) personne personne" },
+                    { chord: "C", text: "(C) J’ai tourné en rond (G) personne personne" },
+                    { chord: "C", text: "(C) J’ai fouillé fouilléé... (F) " },
+                    { chord: "C", text: "(C) Il n'y a vraiment (G) personne comme (C) LUI" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-11-2024",
+            title: "SEND THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a call comes ringing o'er the restless wave," },
+                    { chord: "C", text: "(C) 'Send the (G) light! Send the (C) light'" },
+                    { chord: "C", text: "(C) There are souls to rescue, there are souls to save," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                    { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We have heard the Macedonian call today, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a golden off'ring at the cross we lay," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us pray that grace may ev'rywhere abound," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a Christ-like spirit ev'rywhere be found," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us not grow weary in the work of love, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) Let us gather jewels for a crown above," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 24 Novembre 2024
         //Debut Cantiques Dimanche 17 Novembre 2024
         {
             key: "dim-17-11-2024",
@@ -2712,7 +2971,7 @@ const songs = [
                 { chord: "C", text: "(C) When I (F) see the (C) blood," },
                 { chord: "C", text: "(C) When (G) I see (C) the blood," },
                 { chord: "C", text: "(C) When I see (F) the blood, I will (C) pass," },
-                { chord: "G", text: "(C) I will (G) pass over (C) you." }
+                { chord: "C", text: "(C) I will (G) pass over (C) you." }
             ],
             [
                 { chord: "C", text: "(C) Chiefest of sinners, (F) Jesus will (C) save;" },
