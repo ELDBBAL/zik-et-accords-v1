@@ -1,5 +1,159 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Lundi 25 Novembre 2024
+        {
+            key: "lun-25-11-2024",
+            title: "IT IS WELL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When peace like a river, (F) attendeth (G) my (C) way" },
+                    { chord: "C", text: "(C) When sorrows like (D) sea billows (G) roll" },
+                    { chord: "C", text: "(C) Whatever my (F) lot, thou hast (Dm) taught me to (G) say" },
+                    { chord: "G", text: "(G) It is (C) well, it is (F) well, (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) It is well, it is well" },
+                    { chord: "G", text: "(G) With my (C) soul, with my soul" },
+                    { chord: "C", text: "(C) It is (F) well, it is well (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though Satan should buffet, though (F) trials (G) should (C) come" },
+                    { chord: "C", text: "(C) Let this blest (D) assurance (G) control" },
+                    { chord: "C", text: "(C) That Christ has (F) regarded my (Dm) helpless (G) estate" },
+                    { chord: "G", text: "(G) And hath (C) shed His own (F) blood (G) for my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) My sin, oh, the bliss of this (F) glorious (G) - (C) thought!" },
+                    { chord: "C", text: "(C) My sin, not in (D) part but the (G) whole" },
+                    { chord: "C", text: "(C) Is nailed to the (F) cross, and I (Dm) bear it no (G) more" },
+                    { chord: "G", text: "(G) Praise the (C) Lord, praise the (F) Lord, (G) o my (C) soul!" }
+                ],
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "MY SOUL REJOICE AND PRAISE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My soul, rejoice and (F) praise the (C) Lord" },
+                    { chord: "F", text: "(F) Rejoice and (G) praise the (C) Lord" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Rejoice and praise the (G) Lord" },
+                    { chord: "G", text: "(G) Rejoice and praise the (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "NO DISAPPOINTMENT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There’s no disappointment in heaven," },
+                    { chord: "C", text: "(C) No (G) weariness, sorrow or (C) pain;" },
+                    { chord: "C", text: "(C) No hearts that are bleeding and broken," },
+                    { chord: "C", text: "(C) No (G) song with a minor (C) refrain." },
+                    { chord: "C", text: "(C) The (F) clouds of our earthly (C) horizon" },
+                    { chord: "C", text: "(C) Will (G) never appear in the (C) sky, " },
+                    { chord: "C", text: "(C) For (F) all will be sunshine and (C) gladness," },
+                    { chord: "C", text: "(C) With (G) never a sob nor a (C) sigh." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’m bound for that beautiful city" },
+                    { chord: "C", text: "(C) My Lord has prepared for His (G) own;" },
+                    { chord: "G", text: "(G) Where all the redeemed of all ages" },
+                    { chord: "G", text: "(G) Sing “Glory!” around the white (C) throne;" },
+                    { chord: "C", text: "(C) Sometimes I grow homesick for heaven," },
+                    { chord: "C", text: "(C) And the glories I there shall (F) behold;" },
+                    { chord: "F", text: "(F) What a joy that will be when my (C) Savior I (F) see," },
+                    { chord: "F", text: "(F) In (C) that beautiful (G) city of (C) gold!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We’ll never pay rent for our mansion, " },
+                    { chord: "C", text: "(C) The (G) taxes will never come (C) due;" },
+                    { chord: "C", text: "(C) Our garments will never grow threadbare, " },
+                    { chord: "C", text: "(C) But (G) always be fadeless and (C) new" },
+                    { chord: "C", text: "(C) We’ll (F) never be hungry nor (C) thirsty" },
+                    { chord: "C", text: "(C) Nor (G) languish in poverty (C) there." },
+                    { chord: "C", text: "(C) For (F) all the rich bounties of (C) heaven" },
+                    { chord: "C", text: "(C) His (G) sanctified children will (C) share." }
+                ]
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "WHAT A DAY THAT WILL BE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7eDFGAUT-9A?si=Aftf46fVKcQtCE1P",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There’s coming a day" },
+                    { chord: "C", text: "(C) When no heartaches shall come" },
+                    { chord: "C", text: "(C) No more (G) clouds in the sky" },
+                    { chord: "G", text: "(G) No more (C) tears to dim the eye" },
+                    { chord: "C", text: "(C) All is (F) peace forever more" },
+                    { chord: "F", text: "(F) On (C) that happy golden shore" },
+                    { chord: "C", text: "(C) What a (G) day, glorious day that will (C) be" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) What a (F) day that will be" },
+                    { chord: "F", text: "(F) When my (C) Jesus I shall see" },
+                    { chord: "C", text: "(C) And I (G) look upon his face" },
+                    { chord: "G", text: "(G) The one (C) who saved me by his grace" },
+                    { chord: "C", text: "(C) When he (F) takes me by the hand" },
+                    { chord: "F", text: "(F) And (C) leads me through the Promised Land" },
+                    { chord: "C", text: "(C) What a (G) day, glorious day that will (C) be" }
+                ],
+                [
+                    { chord: "C", text: "(C) There'll be no sorrows there" },
+                    { chord: "C", text: "(C) No more burdens to bear" },
+                    { chord: "C", text: "(C) No more (G) sickness and no more pain" },
+                    { chord: "G", text: "(G) No more (C) parting over there" },
+                    { chord: "C", text: "(C) But (F) forever I will be" },
+                    { chord: "F", text: "(F) With (C) the one who died for me" },
+                    { chord: "C", text: "(C) What a (G) day, glorious day that will (C) be" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il y a un jour qui vient," },
+                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
+                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
+                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
+                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
+                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
+                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
+                    { chord: "C", text: "(C) Et je (G) vois de face " },
+                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
+                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
+                    { chord: "C", text: "(C) Me conduit à la terre promise" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
+                    { chord: "C", text: "(C) Ni fardeau à porter," },
+                    { chord: "C", text: "(C) Non plus (G) la maladie," },
+                    { chord: "C", text: "(C) Douleurs et séparation" },
+                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
+                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ]
+            ]
+        },
+        //Fin Cantiques Lundi 25 Novembre 2024
         //Debut Cantiques Dimanche 24 Novembre 2024
         {
             key: "dim-24-11-2024",
