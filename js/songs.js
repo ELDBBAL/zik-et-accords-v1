@@ -153,6 +153,199 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "lun-25-11-2024",
+            title: "THEY COME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/mDvU1i0NzoM?si=eP_AOmJDg4F9Gb_c",
+            verses: [
+                [
+                    { chord: "C", text: "(C) They come from the East and West," },
+                    { chord: "C", text: "(C) They come from the lands (G) afar," },
+                    { chord: "G", text: "(G) To feast with the King, to dine as His guest;" },
+                    { chord: "G", text: "(G) How blessed these pilgrims (C) are!" },
+                    { chord: "C", text: "(C) Beholding His hallow’d face" },
+                    { chord: "C", text: "(C) A glow with a light (F) divine;" },
+                    { chord: "F", text: "(F) Blest partakers of His (C) grace," },
+                    { chord: "C", text: "(C) As (G) gems in His crown to (C) shine." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Since Jesus has set me free," },
+                    { chord: "C", text: "(C) I’m happy as heart can (G) be;" },
+                    { chord: "G", text: "(G) No longer I bear the burden of care," },
+                    { chord: "G", text: "(G) His yoke is so sweet to (C) me." },
+                    { chord: "C", text: "(C) My soul was as black as night," },
+                    { chord: "C", text: "(C) But darkness as taken (F) flight;" },
+                    { chord: "F", text: "(F) Now I shout the victory, (C) " },
+                    { chord: "C", text: "(C) For (G) Jesus has set me (C) free." }
+                ],
+                [
+                    { chord: "C", text: "(C) I look on the great white throne," },
+                    { chord: "C", text: "(C) Before it the ransom’d (G) stand;" },
+                    { chord: "G", text: "(G) No longer are tears, no sorrow is known" },
+                    { chord: "G", text: "(G) Nor death in that goodly (C) land." },
+                    { chord: "C", text: "(C) My Savior has gone before," },
+                    { chord: "C", text: "(C) Preparing the way for (F) me;" },
+                    { chord: "F", text: "(F) Soon we’ll meet to part no (C) more" },
+                    { chord: "C", text: "(C) Thru (G) time of (C) eternity." }
+                ],
+                [
+                    { chord: "C", text: "(C) The gates of that holy place" },
+                    { chord: "C", text: "(C) Stand open by night and (G) day;" },
+                    { chord: "G", text: "(G) O look to the Lord" },
+                    { chord: "G", text: "(G) who “giveth more grace,”" },
+                    { chord: "G", text: "(G) Whose love has prepar’d the (C) way." },
+                    { chord: "C", text: "(C) A home in those mansions fair" },
+                    { chord: "C", text: "(C) His hand hath reserv’d for (F) all," },
+                    { chord: "F", text: "(F) For the wedding feast (C) prepare," },
+                    { chord: "C", text: "(C) Obeying (G) the gracious (C) call." }
+                ],
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "THE BLESSED ASSURANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bxYMvo8PGOM?si=hkzflxBslZiYyBUT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Blessed assurance, (F) Jesus is (C) mine" },
+                    { chord: "C", text: "(C) Oh, what a foretaste of (D) glory (G) divine" },
+                    { chord: "G", text: "(G) Heir of (C) salvation, (F) purchase of (C) God" },
+                    { chord: "C", text: "(C) Born of his (F) Spirit, (G) washed in His (C) blood" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) This is my story, (F) this is my (C) song" },
+                    { chord: "C", text: "(C) Praising my (F) Savior all the day (G) long" },
+                    { chord: "G", text: "(G) This is my (C) story, (F) this is my (C) song" },
+                    { chord: "C", text: "(C) Praising my (F) Savior (G) all the day (C) long" }
+                ],
+                [
+                    { chord: "C", text: "(C) Perfect submission, (F) perfect (C) delight" },
+                    { chord: "C", text: "(C) Visions of rapture now (D) burst on my (G) sight" },
+                    { chord: "G", text: "(G) Angels (C) descending (F) bring from (C) above" },
+                    { chord: "C", text: "(C) Echoes of (F) mercy, (G) whispers of (C) love" }
+                ]
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "IL M'A FAIT GRACE INFINIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Uo83A2e0VLA?si=Vpkk3rUD6-Y_c0cn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "G", text: "(G) celui-là est (C) mon rocher" },
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il m’a libéré," },
+                    { chord: "C", text: "(C) ô Il m’a libéré (G) " },
+                    { chord: "G", text: "(G) O Il m’a pardonné, (C)" },
+                    { chord: "C", text: "(C) ô Il m’a racheté (F) " },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ]
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "I'M HAPPY TODAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5itJJ44h6k4?si=Y7zf9aNfCOq0ppAp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m happy today," },
+                    { chord: "C", text: "(C) O yes I’m (F) happy today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) happy today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) happy (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m singing today," },
+                    { chord: "C", text: "(C) O yes I’m (F) singing today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) singing today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) singing (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m praying today," },
+                    { chord: "C", text: "(C) O yes I’m (F) praying today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) praying today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) praying (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m living today," },
+                    { chord: "C", text: "(C) O yes I’m (F) living today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) living today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) living (C) today." },
+                ]
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "VICTOIRE, ALLELUIA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0Iib9hqDwQ8?si=VVPXhh69AM4qJOce",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Victoire, alléluia ! " },
+                    { chord: "F", text: "(F) Chantons, crions de (C) joie !" },
+                    { chord: "C", text: "(C) Jésus (F) Christ est (G) sorti du (C) tombeau" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Galilée, Galilée, " },
+                    { chord: "F", text: "(F) Galilée (C) je viens de (D) la (G) Galilée" },
+                    { chord: "C", text: "(C) Jésus m'a chargé (F) d'annoncer à tous ses (C) frères" },
+                    { chord: "G", text: "(G) Qu'Il est ressuscité. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "lun-25-11-2024",
+            title: "IN CHRIST ALONE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In Christ alone, my hope is (G) found" },
+                    { chord: "G", text: "(G) He is my (F) light, my (G) strength, my (C) song" },
+                    { chord: "C", text: "(C) This Cornerstone, this solid (G) ground" },
+                    { chord: "G", text: "(G) Firm (F) through the (G) fiercest drought and (C) storm" },
+                    { chord: "C", text: "(C) What heights of (F) love, what depths of (G) peace" },
+                    { chord: "G", text: "(G) When fears are (F) stilled, when strivings (G) cease" },
+                    { chord: "G", text: "(G) My Comforter, (C) my All in (G) All" },
+                    { chord: "G", text: "(G) Here in the (F) love of (G) Christ I (C) stand" }
+                ],
+                [
+                    { chord: "C", text: "(C) In Christ alone, who took on (G) flesh" },
+                    { chord: "G", text: "(G) Fullness of (F) God in (G) helpless (C) babe" },
+                    { chord: "C", text: "(C) This gift of love and (G) righteousness" },
+                    { chord: "G", text: "(G) Scorned (F) by the (G) ones He came to (C) save" },
+                    { chord: "C", text: "(C) Til on that (F) cross as Jesus (G) died" },
+                    { chord: "G", text: "(G) The wrath of (F) God was satisfied (G) " },
+                    { chord: "G", text: "(G) For every (C) sin on Him was (G) laid" },
+                    { chord: "G", text: "(G) Here in the (F) death of (G) Christ I (C) live" }
+                ],
+                [
+                    { chord: "C", text: "(C) There in the ground His body (G) lay" },
+                    { chord: "G", text: "(G) Light of the (F) world by (G) darkness (C) slain" },
+                    { chord: "C", text: "(C) Then bursting forth in (G) glorious Day" },
+                    { chord: "G", text: "(G) Up from (F) the grave (G) He rose (C) again" },
+                    { chord: "C", text: "(C) And as He (F) stands in (G) victory" },
+                    { chord: "G", text: "(G) Sin's curse (F) has lost its grip on (G) me" },
+                    { chord: "G", text: "(G) For I am (C) His and He is (G) mine" },
+                    { chord: "G", text: "(G) Bought with (F) the precious (G) blood of (C) Christ" }
+                ],
+            ]
+        },
         //Fin Cantiques Lundi 25 Novembre 2024
         //Debut Cantiques Dimanche 24 Novembre 2024
         {
