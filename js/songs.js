@@ -1,8 +1,285 @@
 // songs.js // Liste des cantiques
 const songs = [
-        //Debut Cantiques Lundi 25 Novembre 2024
+        //Debut Cantiques Dimanche 01 Décembre 2024
         {
-            key: "lun-25-11-2024",
+            key: "dim-01-12-2024",
+            title: "IT IS A GREAT THING TO SERVE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/huzIv3WSjds?si=uyAXk4Sr-iYILAvT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) serve the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) serve the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) serve the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) O walk, walk, walk, walk, (Am) walking in the light" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) praise the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) praise the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) praise the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) worship the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) worship the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) worship the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) honour the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) honour the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) honour the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "I SURRENDER ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/j04Bx9pKwpU?si=7XqpFng3Ms25bjXR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) All to (F) Him I (G) freely (C) give" },
+                    { chord: "C", text: "(C) I will ever (G) love and trust Him" },
+                    { chord: "Am", text: "(Am) In His (F) presence (G) daily (C) live" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I surrender (F) all" },
+                    { chord: "G", text: "(G) I surrender (C) all" },
+                    { chord: "C", text: "(C) All to Thee my blessed (F) Savior" },
+                    { chord: "G", text: "(G) I surrender (C) all" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Humbly (F) at His (G) feet I (C) bow" },
+                    { chord: "C", text: "(C) Worldly pleasures (G) all forsaken" },
+                    { chord: "Am", text: "(Am) Take me, (F) Jesus, (G) take me (C) now" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Make me (F) Savior (G) wholly (C) thine" },
+                    { chord: "C", text: "(C) May Thy Holy (G) Spirit fill me" },
+                    { chord: "Am", text: "(Am) May I (F) know Thy (G) power (C) divine" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "BECAUSE HE LIVES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
+            verses: [
+                [
+                    { chord: "C", text: "(C) God sent His son, they called Him, (F) Jesus;" },
+                    { chord: "F", text: "(F) He came to (C) love, (D) heal and (G) forgive;" },
+                    { chord: "G", text: "(G) He lived and (C) died to buy my (F) pardon" },
+                    { chord: "F", text: "(F) An empty (C) grave is there to (G) prove my Savior (C) lives!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Because He lives, I can face (F) tomorrow" },
+                    { chord: "F", text: "(F) Because He (C) lives, (D) all fear is (G) gone;" },
+                    { chord: "G", text: "(G) Because I (C) know He holds the (F) future" },
+                    { chord: "F", text: "(F) And life is (C) worth the living," },
+                    { chord: "G", text: "(G) Just because He (C) lives!" }
+                ],
+                [
+                    { chord: "C", text: "(C)How sweet to hold a newborn (F) baby;" },
+                    { chord: "F", text: "(F) And feel the (C) pride (D) and joy he (G) brings;" },
+                    { chord: "G", text: "(G) But greater (C) still the calm (F) assurance:" },
+                    { chord: "F", text: "(F)This child (C) can face uncertain (G) days because He (C) lives!" }
+                ],
+                [
+                    { chord: "C", text: "(C) And then one day, I'll cross the (F) river," },
+                    { chord: "F", text: "(F) I'll fight life's (C) final war (D) with pain;" },
+                    { chord: "C", text: "(G) And then, as (C) death gives way to (F) victory" },
+                    { chord: "F", text: "(F) I'll see the (C) lights of glory (G) and I'll know He (C) lives!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "I’LL FLY AWAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bJWgpljckbA?si=p_zKTbwedxk4Em61",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Some glad morning when this life is o’er" },
+                    { chord: "F", text: "(F) I’ll fly away; (C) " },
+                    { chord: "C", text: "(C) To a home on God’s celestial shore," },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’ll fly away, O glory," },
+                    { chord: "F", text: "(F) I’ll fly away; (C) " },
+                    { chord: "C", text: "(C) I cannot die, hallelujah by and by !" },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away." }
+                ],
+                [
+                    { chord: "C", text: "(C) When the shadows of this life have grown" },
+                    { chord: "F", text: "(F) I'll fly away; (C) " },
+                    { chord: "C", text: "(C) Like a bird from prison bars have glow" },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away " }
+                ],
+                [
+                    { chord: "C", text: "(C) Just a few more weary days and then" },
+                    { chord: "F", text: "(F) I'll fly away; (C) " },
+                    { chord: "C", text: "(C) To a land where joy shall never end" },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away " }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "JESUS M'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/URb54wIwHfw?si=0VWd14dOfv-DJ4_P",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans ce monde pervers et (F) agité" },
+                    { chord: "C", text: "(C) Seigneur Tu (D) m'as (G) cherché" },
+                    { chord: "C", text: "(C) Tu m'as cherché et (F) m'as trouvé" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (D) mort pour (G) moi" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (G) mort pour (C) moi" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quelques soient les souffrances, les (F) moqueries" },
+                    { chord: "C", text: "(C) Je n'ai rien à (D) gagner ici (G) bas ;" },
+                    { chord: "C", text: "(C) Jesus m'aime, (F) ça me suffit" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) La couronne d'épine, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Oh ! toi le (D) Roi des (G) Rois" },
+                    { chord: "C", text: "(C) La couronne de honte, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Pour venir et (G) mourir pour (C) moi." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "YOU ASK ME WHY I’M HAPPY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZUDyHChBlTg?si=PB5Sur-pGV4L5cjC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You ask me why I'm happy" },
+                    { chord: "C", text: "(C) So (G) I'll just tell you why," },
+                    { chord: "G", text: "(G) Because my sins are (C) gone;" },
+                    { chord: "C", text: "(C) And when I meet the scoffers" },
+                    { chord: "C", text: "(C) Who (G) ask me where they are," },
+                    { chord: "G", text: "(G) I say, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) They're underneath the Blood," },
+                    { chord: "G", text: "(G) On the (C) cross of Calvary," },
+                    { chord: "F", text: "(F) As far removed" },
+                    { chord: "C", text: "(C) As darkness is from (G) dawn;" },
+                    { chord: "C", text: "(C) In the (F) sea of God's forgetfulness" },
+                    { chord: "F", text: "(F) That's good enough for (C) me," },
+                    { chord: "G", text: "(G) Praise God," },
+                    { chord: "G", text: "(G) My sins are (C) gone." }
+                ],
+                [
+                    { chord: "C", text: "(C) I was at the old time altar" },
+                    { chord: "C", text: "(C) Where (G) God came in my heart" },
+                    { chord: "G", text: "(G) And now, my sins are (C) gone;" },
+                    { chord: "C", text: "(C) The Lord took full possession" },
+                    { chord: "C", text: "(C) The (G) devil did depart," },
+                    { chord: "G", text: "(G) I'm glad, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "C", text: "(C) When Satan comes to tempt me" },
+                    { chord: "C", text: "(C) And (G) tries to make me doubt," },
+                    { chord: "G", text: "(G) I say, My sins are (C) gone;" },
+                    { chord: "C", text: "(C) You got me into trouble," },
+                    { chord: "C", text: "(C) But (G) Jesus got me out," },
+                    { chord: "G", text: "(G) I'm glad, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "C", text: "(C) I'm living now for Jesus," },
+                    { chord: "C", text: "(C) I'm (G) happy night and day," },
+                    { chord: "G", text: "(G) Because my sins are (C) gone;" },
+                    { chord: "C", text: "(C) My soul is filled with music," },
+                    { chord: "C", text: "(C) With (G) all my heart I say," },
+                    { chord: "G", text: "(G) I know, My sins are (C) gone" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "PRAISING THE LORD ALWAYS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/47OIw6etSv8?si=HAPWx7Xspopc2uS4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Praising the Lord always" },
+                    { chord: "C", text: "(C) Praising the (G) Lord (C) always" },
+                    { chord: "C", text: "(C) Praising the Lord with all (F) my heart" },
+                    { chord: "F", text: "(F) Praising the (C) Lord with all (G) my heart (C) always" },
+                    { chord: "C", text: "(C) My Lord is (G) good" },
+                    { chord: "G", text: "(G) My Lord is (C) good" },
+                    { chord: "C", text: "(C) My Lord is (F) good" },
+                    { chord: "G", text: "(G) Is good to (C) me" }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 01 Décembre 2024
+
+        //Debut Cantiques Jeudi 28 Novembre 2024
+        {
+            key: "jeu-28-11-2024",
             title: "IT IS WELL",
             keySignature: "C",
             youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
@@ -34,7 +311,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "MY SOUL REJOICE AND PRAISE THE LORD",
             keySignature: "C",
             youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
@@ -51,7 +328,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "NO DISAPPOINTMENT",
             keySignature: "C",
             youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
@@ -90,7 +367,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "WHAT A DAY THAT WILL BE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/7eDFGAUT-9A?si=Aftf46fVKcQtCE1P",
@@ -154,7 +431,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "THEY COME",
             keySignature: "C",
             youtubeLink: "https://youtu.be/mDvU1i0NzoM?si=eP_AOmJDg4F9Gb_c",
@@ -204,7 +481,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "THE BLESSED ASSURANCE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/bxYMvo8PGOM?si=hkzflxBslZiYyBUT",
@@ -231,7 +508,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "IL M'A FAIT GRACE INFINIE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Uo83A2e0VLA?si=Vpkk3rUD6-Y_c0cn",
@@ -253,7 +530,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "I'M HAPPY TODAY",
             keySignature: "C",
             youtubeLink: "https://youtu.be/5itJJ44h6k4?si=Y7zf9aNfCOq0ppAp",
@@ -289,7 +566,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "VICTOIRE, ALLELUIA",
             keySignature: "C",
             youtubeLink: "https://youtu.be/0Iib9hqDwQ8?si=VVPXhh69AM4qJOce",
@@ -309,7 +586,7 @@ const songs = [
             ]
         },
         {
-            key: "lun-25-11-2024",
+            key: "jeu-28-11-2024",
             title: "IN CHRIST ALONE",
             keySignature: "C",
             youtubeLink: "#",
@@ -346,7 +623,8 @@ const songs = [
                 ],
             ]
         },
-        //Fin Cantiques Lundi 25 Novembre 2024
+        //Fin Cantiques Jeudi 28 Novembre 2024
+
         //Debut Cantiques Dimanche 24 Novembre 2024
         {
             key: "dim-24-11-2024",
