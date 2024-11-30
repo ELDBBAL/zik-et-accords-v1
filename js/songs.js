@@ -3,45 +3,6 @@ const songs = [
         //Debut Cantiques Dimanche 01 Décembre 2024
         {
             key: "dim-01-12-2024",
-            title: "IT IS A GREAT THING TO SERVE THE LORD",
-            keySignature: "C",
-            youtubeLink: "https://youtu.be/huzIv3WSjds?si=uyAXk4Sr-iYILAvT",
-            verses: [
-                [
-                    { chord: "C", text: "(C) It is a great thing to (F) serve the Lord" },
-                    { chord: "F", text: "(F) It is a (G) great thing to (Am) serve the Lord" },
-                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) serve the Lord" },
-                    { chord: "G", text: "(G) Walking in the light of (C) God" }
-                ],
-                [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
-                    { chord: "G", text: "(G) O walk, walk, walk, walk, (Am) walking in the light" },
-                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
-                    { chord: "G", text: "(G) Walking in the light of (C) God" }
-                ],
-                [
-                    { chord: "C", text: "(C) It is a great thing to (F) praise the Lord" },
-                    { chord: "F", text: "(F) It is a (G) great thing to (Am) praise the Lord" },
-                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) praise the Lord" },
-                    { chord: "G", text: "(G) Walking in the light of (C) God" }
-                ],
-                [
-                    { chord: "C", text: "(C) It is a great thing to (F) worship the Lord" },
-                    { chord: "F", text: "(F) It is a (G) great thing to (Am) worship the Lord" },
-                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) worship the Lord" },
-                    { chord: "G", text: "(G) Walking in the light of (C) God" }
-                ],
-                [
-                    { chord: "C", text: "(C) It is a great thing to (F) honour the Lord" },
-                    { chord: "F", text: "(F) It is a (G) great thing to (Am) honour the Lord" },
-                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) honour the Lord" },
-                    { chord: "G", text: "(G) Walking in the light of (C) God" }
-                ]
-            ]
-        },
-        {
-            key: "dim-01-12-2024",
             title: "I SURRENDER ALL",
             keySignature: "C",
             youtubeLink: "https://youtu.be/j04Bx9pKwpU?si=7XqpFng3Ms25bjXR",
@@ -272,6 +233,103 @@ const songs = [
                     { chord: "G", text: "(G) My Lord is (C) good" },
                     { chord: "C", text: "(C) My Lord is (F) good" },
                     { chord: "G", text: "(G) Is good to (C) me" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "GREAT THING HE HAS DONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Gla0seOsQvg?si=Ec1mUteJx0JkH34L",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Great things He has (F) done" },
+                    { chord: "F", text: "(F) Greater (G) things he will (C) do" },
+                    { chord: "C", text: "(C) Unto the Lord be the (F) glory" },
+                    { chord: "F", text: "(F) Great (C) things (G) He has (C) done" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "IT IS A GREAT THING TO SERVE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/huzIv3WSjds?si=uyAXk4Sr-iYILAvT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) serve the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) serve the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) serve the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) O walk, walk, walk, walk, (Am) walking in the light" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) praise the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) praise the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) praise the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) worship the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) worship the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) worship the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) honour the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) honour the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) honour the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "AMAZING GRACE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tvt6E9N7AQw?si=8zkXY4GH66SnRODV",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Amazing grace how (F) sweet the (C) sound" },
+                    { chord: "C", text: "(C) that saved a wretch like (G) me!" },
+                    { chord: "C", text: "(C) I once was lost, but (F) now am (C) found," },
+                    { chord: "C", text: "(C) was blind, but (G) now I (C) see." }
+                ],
+                [
+                    { chord: "C", text: "(C) IT was grace that taught my (F) heart to (C) fear," },
+                    { chord: "C", text: "(C) and grace my fears (G) relieved;" },
+                    { chord: "C", text: "(C) how precious did that (F) grace (C) appear" },
+                    { chord: "C", text: "(C) the hour I (G) first (C) believed!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Through many dangers, (F) toils and (C) snares" },
+                    { chord: "C", text: "(C) I have already (G) come:" },
+                    { chord: "C", text: "(C) This grace has brought me (F) safe thus (C) far," },
+                    { chord: "C", text: "(C) and grace will (G) lead me (C) home" }
+                ],
+                [
+                    { chord: "C", text: "(C) The Lord has promised (F) good to (C) me," },
+                    { chord: "C", text: "(C) his word my hope (G) secures;" },
+                    { chord: "C", text: "(C) he will my shield and (F) portion (C) be" },
+                    { chord: "C", text: "(C) as long as (G) life (C) endures." }
+                ],
+                [
+                    { chord: "C", text: "(C) Yes, when this flesh and (F) heart shall (C) fail," },
+                    { chord: "C", text: "(C) and mortal life shall (G) cease:" },
+                    { chord: "C", text: "(C) I shall possess, (F) within the (C) veil," },
+                    { chord: "C", text: "(C) a life of (G) joy and (C) peace." }
+                ],
+                [
+                    { chord: "C", text: "(C) The earth shall soon (F) dissolve like (C) snow," },
+                    { chord: "C", text: "(C) the sun forbear to (G) shine;" },
+                    { chord: "C", text: "(C) but God, who (F) called me here (C) below," },
+                    { chord: "C", text: "(C) will be (G) forever (C) mine." }
                 ]
             ]
         },
