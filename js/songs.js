@@ -1,5 +1,351 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 08 Décembre 2024
+        {
+            key: "dim-08-12-2024",
+            title: "HOLD TO GOD'S UNCHANGING HAND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-eubf6dHP-U?si=Sa3zPatQYgaeg0HU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Time is filled with swift transition" },
+                    { chord: "C", text: "(C) Naught of (D) earth unmoved can (G) stand" },
+                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Hold to God's unchanging hand!" },
+                    { chord: "C", text: "(C) Hold to (D) God's unchanging (G) hand!" },
+                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Trust in Him who will not leave you" },
+                    { chord: "C", text: "(C) Whatsoever (D) years may (G) bring" },
+                    { chord: "C", text: "(C) If by earthly friends forsaken, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Still more (G) closely to Him (C) cling!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Covet not this world's vain riches" },
+                    { chord: "C", text: "(C) That so (D) rapidly (G) decay" },
+                    { chord: "C", text: "(C) Seek to gain the heavenly treasures, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) They will (G) never pass (C) away!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When your journey is completed," },
+                    { chord: "C", text: "(C) If to God (D) you have been (G) true," },
+                    { chord: "C", text: "(C) Fair and bright the home in glory, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Your enraptured (G) soul will (C) view!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "TO GOD BE THE GLORY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/2CeBoSQsBR0?si=9yr6GsBivPJCOAze",
+            verses: [
+                [
+                    { chord: "C", text: "(C) To God be the glory! great (G) things He hath (C) done!" },
+                    { chord: "F", text: "(F) So loved He the (C) world that He (D) gave us His (G) Son," },
+                    { chord: "C", text: "(C) Who yielded His life an (G) atonement for (C) sin," },
+                    { chord: "F", text: "(F) And opened the (C) life-gate that (G) all may go (C) in." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Praise the Lord! Praise the Lord!" },
+                    { chord: "C", text: "(C) Let the earth hear His (G) voice!" },
+                    { chord: "G", text: "(G) Praise the Lord! Praise the Lord!" },
+                    { chord: "G", text: "(G) Let the people (C) rejoice!" },
+                    { chord: "C", text: "(C) O come to the Father through (G) Jesus the (C) Son;" },
+                    { chord: "C", text: "(C) And (F) give Him the (C) glory, great (G) things He hath (C) done!" }
+                ],
+                [
+                    { chord: "C", text: "(C) O perfect redemption, the (G) purchase of (C) blood!" },
+                    { chord: "F", text: "(F) To every (C) believer the (D) promise of (G) God;" },
+                    { chord: "C", text: "(C) The vilest offender who (G) truly (C) believes," },
+                    { chord: "F", text: "(F) That moment from (C) Jesus a (G) pardon (C) receives." }
+                ],
+                [
+                    { chord: "C", text: "(C) Great things He hath taught us, great (G) things He hath (C) done," },
+                    { chord: "F", text: "(F) And great (C) our rejoicing (D) through Jesus the (G) Son:" },
+                    { chord: "C", text: "(C) But purer and higher and (G) greater will (C) be" },
+                    { chord: "F", text: "(F) Our wonder, our (C) worship, when (G) Jesus we (C) see!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "GLORY TO HIS NAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/RL7nM4QnK6M?si=jswrpm2pCCSuksWl",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Down at the cross where my (F) Savior (C) died," },
+                    { chord: "C", text: "(C) Down where for cleansing (D) from sin I (G) cried," },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Glory to his (C) name," },
+                    { chord: "C", text: "(C) Glory (D) to his (G) name;" },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) I am so wondrously (F) saved from (C) sin," },
+                    { chord: "C", text: "(C) Jesus so sweetly (D) abides (G) within;" },
+                    { chord: "C", text: "(C) There at the cross where (F) he took me (C) in;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, precious fountain that (F) saves from (C) sin," },
+                    { chord: "C", text: "(C) I am so glad I (D) have entered (G) in;" },
+                    { chord: "C", text: "(C) There Jesus saves me and (F) keeps me (C) clean;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Come to this fountain so (F) rich and (C) sweet," },
+                    { chord: "C", text: "(C) Cast thy poor soul at (D) the Savior’s (G) feet;" },
+                    { chord: "C", text: "(C) Plunge in today, and be (F) made (C) complete;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "IN THE SWEET",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a land that is (F) fairer than (C) day," },
+                    { chord: "C", text: "(C) And by faith we can (D) see it a (G) far," },
+                    { chord: "C", text: "(C) For the Father waits (F) over the (C) way" },
+                    { chord: "C", text: "(C) To prepare us a (G) dwelling place (C) there!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the sweet by and (G) by," },
+                    { chord: "G", text: "(G) We shall (F) meet on that beautiful (C) shore;" },
+                    { chord: "C", text: "(C) In the sweet by and (F) by," },
+                    { chord: "F", text: "(F) We shall (C) meet on that (G) beautiful (C) shore." }
+                ],
+                [
+                    { chord: "C", text: "(C) We shall sing on that (F) beautiful (C) shore" },
+                    { chord: "C", text: "(C) The melodious (D) songs of the (G) blest;" },
+                    { chord: "C", text: "(C) And our spirits (F) shall sorrow no (C) more" },
+                    { chord: "C", text: "(C) Not a sigh for the (G) blessing of (C) rest." }
+                ],
+                [
+                    { chord: "C", text: "(C) To our bountiful (F) Father (C) above" },
+                    { chord: "C", text: "(C) We will offer our (D) tribute of (G) praise" },
+                    { chord: "C", text: "(C) For the glorious (F) gift of His (C) love" },
+                    { chord: "C", text: "(C) And the blessings that (G) hallow our (C) days." }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "AS THE DEER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jSZWogD0AH4?si=YDFdMyFc3h9FFZSk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) As the deer panteth for the water" },
+                    { chord: "C", text: "(C) So my (F) soul (G) longeth after (C) thee" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) You alone are my (F) strength, my (C) shield" },
+                    { chord: "F", text: "(F) To you alone may my (Dm) spirit (C) yield" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) You’re my Friend and You are my brother" },
+                    { chord: "C", text: "(C) Even (F) though (G) You are a (C) King" },
+                    { chord: "C", text: "(C) I love You more than any other" },
+                    { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon ame âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
+                    { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) Tu es mon bouclier (F) et ma (C) force" },
+                    { chord: "F", text: "(F) Le Roc sur qui j’ai (Dm) fondé ma (C) vie" },
+                    { chord: "C", text: "(C) Toi seul es le (Am) désir de mon coeur" },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T’adorer (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "ONE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/NCt_dRKaz-Y?si=aPlHcbKV_HnKpvbN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One day when heaven was filled with His praises," },
+                    { chord: "C", text: "(C) One day when (G) sin was as black as could (C) be," },
+                    { chord: "C", text: "(C) Jesus came forth to be born of a virgin" },
+                    { chord: "C", text: "(C) Dwelt among (G) men, my example is He!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Living, He loved me; dying, He (C) saved me;" },
+                    { chord: "C", text: "(C) Buried, He (F) carried my sins far (G) away;" },
+                    { chord: "G", text: "(G) Rising, He justified freely (C) forever:" },
+                    { chord: "C", text: "(C) One day He’s (F) coming (G) O glorious (C) day!" }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they led Him up Calvary’s mountain," },
+                    { chord: "C", text: "(C) One day they (G) nailed Him to die on the (C) tree;" },
+                    { chord: "C", text: "(C) Suffering anguish, despised and rejected;" },
+                    { chord: "C", text: "(C) Bearing our (G) sins, my Redeemer is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they left Him alone in the garden," },
+                    { chord: "C", text: "(C) One day He (G) rested, from suffering (C) free;" },
+                    { chord: "C", text: "(C) Angels came down o’er His tomb to keep vigil;" },
+                    { chord: "C", text: "(C) Hope of the (G) hopeless, my Savior is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the grave could conceal Him no longer," },
+                    { chord: "C", text: "(C) One day the (G) stone rolled away from the (C) door;" },
+                    { chord: "C", text: "(C) Then He arose, over death He had conquered;" },
+                    { chord: "C", text: "(C) Now is (G) ascended, my Lord evermore." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the trumpet will sound for His coming," },
+                    { chord: "C", text: "(C) One day the (G) skies with His glory will (C) shine;" },
+                    { chord: "C", text: "(C) Wonderful day, my beloved ones bringing;" },
+                    { chord: "C", text: "(C) Glorious (G) Savior, this Jesus is mine!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "QUEL EST CET HOMME DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "WHAT MANNER OF MAN IS JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KTpzgW89k68?si=z5NugJjaxy0M9J3l",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What manner of man is Jesus (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) What manner of man is Jesus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "PAR LA FOI NOUS MARCHERONS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-08-12-2024",
+            title: "JUST AS I AM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7lxqhPC1mNA?si=LGqstnGXXpBgGVP7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) without one (C) plea" },
+                    { chord: "G", text: "(G) But that Thy blood was (F) shed for (C) me" },
+                    { chord: "C", text: "(C) And that Thou bid'st me (F) come to Thee" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) though tossed (C) about" },
+                    { chord: "G", text: "(G) With many a conflict, (F) many a (C) doubt" },
+                    { chord: "C", text: "(C) Fighting and fears (F) within without" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) Thou wilt (C) receive" },
+                    { chord: "G", text: "(G) Wilt welcome, pardon, (F) cleanse, (C) relieve" },
+                    { chord: "C", text: "(C) Because Thy (F) promise I believe" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimache 08 Décembre 2024
         //Debut Cantiques Dimanche 01 Décembre 2024
         {
             key: "dim-01-12-2024",
@@ -1394,17 +1740,17 @@ const songs = [
                     { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
                 ],
                 [
-                    { chord: "C", text: "(C) I want You more than gold or silver" },
-                    { chord: "C", text: "(C) Only (F) You (G) can (C) satisfy" },
-                    { chord: "C", text: "(C) You alone are the real joy-giver" },
-                    { chord: "C", text: "(C) And the (F) apple (G) of my (C) eye" }
+                    { chord: "C", text: "(C) Mon ame âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
+                    { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
                 ],
                 [
                     { chord: "C", text: "CHORUS:" },
                     { chord: "Am", text: "(Am) Tu es mon bouclier (F) et ma (C) force" },
                     { chord: "F", text: "(F) Le Roc sur qui j’ai (Dm) fondé ma (C) vie" },
-                    { chord: "C", text: "(C) Toi seul es le désir de mon coeur" },
-                    { chord: "C", text: "(C) Et (F) je vis (G) pour (C) T’adorer" }
+                    { chord: "C", text: "(C) Toi seul es le (Am) désir de mon coeur" },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T’adorer (C) " }
                 ]
             ]
         },
