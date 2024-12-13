@@ -1,5 +1,337 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 15 Décembre 2024
+        {
+            key: "dim-15-12-2024",
+            title: "JESUS PAID IT ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JWPC4clWLbQ?si=KNKkqmVuB85IK1xZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I hear the Savior say," },
+                    { chord: "C", text: "(C) “Thy (G) strength indeed is (C) small;" },
+                    { chord: "C", text: "(C) Child of weakness, watch and pray," },
+                    { chord: "C", text: "(C) Find in (F) Me (G) thine all in (C) all.”" },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) Lord, now indeed I find" },
+                    { chord: "C", text: "(C) Thy (G) power and Thine (C) alone," },
+                    { chord: "C", text: "(C) Can change the leper’s spots" },
+                    { chord: "C", text: "(C) And melt (F) the (G) heart of (C) stone." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) For nothing good have I" },
+                    { chord: "C", text: "(C) Whereby (G) Thy grace to (C) claim," },
+                    { chord: "C", text: "(C) I’ll wash my garments white" },
+                    { chord: "C", text: "(C) In the (F) blood (G) of Calv’ry’s (C) Lamb." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) And now complete in Him" },
+                    { chord: "C", text: "(C) My robe (G) His (C) righteousness," },
+                    { chord: "C", text: "(C) I’ll rejoice with all my might," },
+                    { chord: "C", text: "(C) I am (F) now divinely (C) blest." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) And when before the throne" },
+                    { chord: "C", text: "(C) I stand (G) in Him (C) complete," },
+                    { chord: "C", text: "(C) “Jesus died my soul to save,”" },
+                    { chord: "C", text: "(C) My lips (F) shall still (C) repeat." },
+                    { chord: "C", text: "(C) Jesus paid it (F) all, (C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He washed (F) it white as (C) snow." }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "HE PAID THE DEBT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/66yPJEH3DJE?si=iX6XMwXk6WjmS-SX",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He paid the debt He did not own," },
+                    { chord: "C", text: "(C) I owed the (F) debt I could not pay" },
+                    { chord: "F", text: "(F) I needed (C) someone to (D) wash my sins (G) away" },
+                    { chord: "G", text: "(G) And now I (C) sing a brand new song," },
+                    { chord: "C", text: "(C) Amazing (F) grace all the long" },
+                    { chord: "F", text: "(F) Christ Jesus (C) paid the debt" },
+                    { chord: "C", text: "(C) That (G) I could never (C) pay" }
+                ],
+                [
+                    { chord: "C", text: "(C) He paid the debt at Calvary" },
+                    { chord: "C", text: "(C) He cleansed my (F) soul he set me free" },
+                    { chord: "F", text: "(F) I'm glad that (C) Jesus did (D) all my sins (G) erase" },
+                    { chord: "G", text: "(G) I now can (C) sing a brand new song"},
+                    { chord: "C", text: "(C) Amazing (F) grace all the long" },
+                    { chord: "F", text: "(F) Christ Jesus (C) paid the debt" },
+                    { chord: "C", text: "(C) That (G) I could never (C) pay" }
+                ],
+                [
+                    { chord: "C", text: "(C) One day he's coming back for me " },
+                    { chord: "C", text: "(C) To live with (F) him eternally" },
+                    { chord: "F", text: "(F) Won't it be (C) glory to (D) see him on that (G) day?" },
+                    { chord: "G", text: "(G) I then will (C) sing a brand new song," },
+                    { chord: "C", text: "(C) Amazing (F) grace all the long" },
+                    { chord: "F", text: "(F) Christ Jesus (C) paid the debt" },
+                    { chord: "C", text: "(C) That (G) I could never (C) pay" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "WHEN I SEE THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X_HH-I5C4kE?si=TZKkXP6rdV7fpSsO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Christ our redeemer, (F) died on the (C) cross," },
+                    { chord: "F", text: "(F) Died for the sinner, (G) paid all His (C) due;" },
+                    { chord: "C", text: "(C) Sprinkle your soul with the (F) blood of the Lamb," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When I (F) see the (C) blood," },
+                    { chord: "C", text: "(C) When (G) I see (C) the blood," },
+                    { chord: "C", text: "(C) When I see (F) the blood, I will (C) pass," },
+                    { chord: "C", text: "(C) I will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Chiefest of sinners, (F) Jesus will (C) save;" },
+                    { chord: "F", text: "(F) All He has promised, (G) that will He (C) do;" },
+                    { chord: "C", text: "(C) Wash in the fountain (F) opened for (C) sin," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Judgment is coming, (F) all will be (C) there," },
+                    { chord: "F", text: "(F) Each one receiving, (G) justly his (C) due;" },
+                    { chord: "C", text: "(C) Hide in the saving (F) in-cleansings (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, great compassion! (F) O boundless (C) love!;" },
+                    { chord: "F", text: "(F) O loving kindness, (G) faithful and (C) true!;" },
+                    { chord: "C", text: "(C) Find peace and shelter (F) under the (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "WONDERFUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O my heart sings today, sings for joy and (G) gladness," },
+                    { chord: "G", text: "(G) Jesus saves, satisfies, banishes my (C) sadness;" },
+                    { chord: "C", text: "(C) Guilt is gone, peace is mine, peace like to a (F) river," },
+                    { chord: "F", text: "(F) Jesus is (C) wonderful, mighty (G) to deliver. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Wonderful, wonderful, Jesus is to (G) me," },
+                    { chord: "G", text: "(G) Counselor, Prince of Peace, Mighty God is (C) He;" },
+                    { chord: "C", text: "(C) Saving me, keeping me from all sin and (F) shame," },
+                    { chord: "F", text: "(F) Wonderful is (C) my Redeemer, (G) praise His (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Once a slave, now I’m free, free from (G) condemnation," },
+                    { chord: "G", text: "(G) Jesus gives liberty and a full (C) salvation;" },
+                    { chord: "C", text: "(C) Now the sins of the past have been all (F) forgiven," },
+                    { chord: "F", text: "(F) And my name is (C) inscribed on the (G) book of (C) heaven." }
+                ],
+                [
+                    { chord: "C", text: "(C) Living here with my Lord in a holy (G) union," },
+                    { chord: "G", text: "(G) Day by day, all the way holding sweet (C) communion;" },
+                    { chord: "C", text: "(C) O what change grace hath wrought in my lowly (F) station!" },
+                    { chord: "F", text: "(F) Since my soul has (C) received full (G) and free (C) salvation." }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "I KNOW IT WAS THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LX0yB3D0W7U?si=iOl0Jptz8mj6LoFn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I know it was the blood," },
+                    { chord: "C", text: "(C) I know it was the blood," },
+                    { chord: "C", text: "(C) I know it was the blood for (G) me" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) One day when I was lost" },
+                    { chord: "C", text: "(C) He (F) died upon the (C) cross." },
+                    { chord: "C", text: "(C) I know it was the (G) blood for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) They whipped Him all night long," },
+                    { chord: "C", text: "(C) They whipped Him all night long," },
+                    { chord: "C", text: "(C) They whipped Him all night long for (G) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) They pierced Him in His side," },
+                    { chord: "C", text: "(C) They pierced Him in His side," },
+                    { chord: "C", text: "(C) They pierced Him in His side for (G) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "FEELING SO MUCH BETTER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0tpFWYoa2Lo?si=bA104wBjG0sHyOBZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about this (C) good old Way" },
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "GOD YOU'RE SO GOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7IIZIPtQuW8?si=mQIoXynElw8EAOZo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) God, you're so (G) good" },
+                    { chord: "G", text: "(G) Oh God, you're so (C) good" },
+                    { chord: "C", text: "(C) God you're so (F) good" },
+                    { chord: "F", text: "(F) You're so (C) good (G) to (C) me" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "I'LL BE LISTENING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Jah_YZs4MDc?si=p_TVkecA-2LAzJz5",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) When He (G) calls for me I will (C) hear him" },
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) If my heart (G) is right, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) If my robe (G) is white, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "WHEN THE SAINTS MARCH IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m a pilgrim and a (F) stranger " },
+                    { chord: "F", text: "(F) Wand’ring (C) through this (D) world of (G) sin," },
+                    { chord: "G", text: "(G) On my (C) way to that fair (F) city," },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, I know I’ll see my (F) Savior" },
+                    { chord: "F", text: "(F) If my (C) life is (D) free from (G) sin," },
+                    { chord: "G", text: "(G) Heaven’s (C) doors will open for (F) me" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) When we gather ‘round the (F) Throne" },
+                    { chord: "F", text: "(F) And the (C) gates are (D) closed (G) within," },
+                    { chord: "G", text: "(G) I’ll (C) be shouting “Glory, (F) Glory” " },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’m waiting for the (F) chariot" },
+                    { chord: "F", text: "(F) To (C) swing low (D) and I’ll (G) step in," },
+                    { chord: "G", text: "(G) On the (C) clouds I’ll ride to (F) Heaven" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "O, how I love Jesus",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/t-6n0Zdnw3U?si=aSml3pqOaw6gOymL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There is a name I love to hear" },
+                    { chord: "C", text: "(C) I (G) love to sing its (C) worth;" },
+                    { chord: "C", text: "(C) It sounds like music in my ear," },
+                    { chord: "C", text: "(C) The (F) sweetest (G) name on (C) earth," }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O, how I love Jesus," },
+                    { chord: "G", text: "(G) O, how I love (C) Jesus," },
+                    { chord: "C", text: "(C) O, how I love Jesus," },
+                    { chord: "F", text: "(F) Because He (G) first loved (C) me!" }
+                ],
+                [
+                    { chord: "C", text: "(C) It tells me of a Savior's love" },
+                    { chord: "C", text: "(C) Who (G) died to set me (C) free;" },
+                    { chord: "C", text: "(C) It tells me of His precious blood," },
+                    { chord: "C", text: "(C) The (F) sinner's (G) perfect (C) plea," }
+                ],
+                [
+                    { chord: "C", text: "(C) It tells of One whose loving heart" },
+                    { chord: "C", text: "(C) Can (G) feel my deepest (C) woe," },
+                    { chord: "C", text: "(C) Who in each sorrow bears a part" },
+                    { chord: "C", text: "(C) That (F) none (G) can bear (C) below" }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 15 Décembre 2024
         //Debut Cantiques Dimanche 08 Décembre 2024
         {
             key: "dim-08-12-2024",
