@@ -300,7 +300,7 @@ const songs = [
         },
         {
             key: "dim-15-12-2024",
-            title: "O, how I love Jesus",
+            title: "O, HOW I LOVE JESUS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/t-6n0Zdnw3U?si=aSml3pqOaw6gOymL",
             verses: [
@@ -328,6 +328,55 @@ const songs = [
                     { chord: "C", text: "(C) Can (G) feel my deepest (C) woe," },
                     { chord: "C", text: "(C) Who in each sorrow bears a part" },
                     { chord: "C", text: "(C) That (F) none (G) can bear (C) below" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-12-2024",
+            title: "OVERCOMING POWER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-n88fptXjjs?si=mFPvey7FKueMR1xf",
+            verses: [
+                [
+                    { chord: "C", text: "(C) The Message came in this last age" },
+                    { chord: "C", text: "(C) To (F) prepare a Bride, (C) " },
+                    { chord: "C", text: "(C) To (F) walk with Him and talk with Him" },
+                    { chord: "F", text: "(F) and in His Word abide. (C) " },
+                    { chord: "C", text: "(C) It’s written in the Spoken Word," },
+                    { chord: "C", text: "(C) and (F) it’s laying there, (C) " },
+                    { chord: "C", text: "(C) To (F) bring us into Rapturing Grace" },
+                    { chord: "F", text: "(F) and take us out of here. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Overcoming Power" },
+                    { chord: "C", text: "(C) is (F) what we have today, (C) " },
+                    { chord: "C", text: "(C) Overcoming Power" },
+                    { chord: "C", text: "(C) to (D) keep the devil away; (G) " },
+                    { chord: "C", text: "(C) Overcoming Power" },
+                    { chord: "C", text: "(C) till (F) we become the Word. (C) " },
+                    { chord: "C", text: "(C) That’s (F) when we’ll leave this sinful earth" },
+                    { chord: "F", text: "(F) And go and meet the Lord. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) We have passed the seventh age," },
+                    { chord: "C", text: "(C) The (F) power has to come. (C) " },
+                    { chord: "C", text: "(C) The (F) scientists have gone to work," },
+                    { chord: "F", text: "(F) They’re sure to get the job done. (C) " },
+                    { chord: "C", text: "(C) Our sins and weights to lay aside," },
+                    { chord: "C", text: "(C) And (F) we’ll set everything right; (C) " },
+                    { chord: "C", text: "(C) So (F) when the inspiration falls" },
+                    { chord: "F", text: "(F) we’ll just take off in flight. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Our Moses has already gone," },
+                    { chord: "C", text: "(C) He (F) has prepared the way, (C) " },
+                    { chord: "C", text: "(C) He (F) brought us to the Jordan," },
+                    { chord: "F", text: "(F) And he was taken away; (C) " },
+                    { chord: "C", text: "(C) But Joshua is preparing now to sound" },
+                    { chord: "C", text: "(C) out (F) His command, (C) " },
+                    { chord: "C", text: "(C) To (F) gather all the saints of God to enter" },
+                    { chord: "F", text: "(F) the Promise Land. (C) " }
                 ]
             ]
         },
