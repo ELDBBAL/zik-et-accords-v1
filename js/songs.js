@@ -1,5 +1,299 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 22 Décembre 2024
+        {
+            key: "dim-22-12-2024",
+            title: "MY FAITH LOOKS UP TO THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oGKLmThF2to?si=tKiGHOp3RtUe5SZY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My faith looks up to thee" },
+                    { chord: "G", text: "(G) Thou Lamb of Calvary" },
+                    { chord: "C", text: "(C) Savior (G) divine!" },
+                    { chord: "C", text: "(C) Now hear me while I pray" },
+                    { chord: "C", text: "(C) Take all my guilt away" },
+                    { chord: "C", text: "(C) O let me from this day" },
+                    { chord: "C", text: "(C) Be (F) wholly (G) thine! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) May thy rich grace impart" },
+                    { chord: "G", text: "(G) Strength to my fainting heart" },
+                    { chord: "C", text: "(C) My zeal (G) inspire!" },
+                    { chord: "C", text: "(C) As thou hast died for me" },
+                    { chord: "C", text: "(C) O may my love to thee" },
+                    { chord: "C", text: "(C) Pure, warm, and changeless be" },
+                    { chord: "F", text: "(F) A (G) living (C) fire!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When life's dark maze I tread" },
+                    { chord: "G", text: "(G) And griefs around me spread" },
+                    { chord: "C", text: "(C) Be thou my (G) guide" },
+                    { chord: "C", text: "(C) Bid darkness turn to day" },
+                    { chord: "C", text: "(C) Wipe sorrow's tears away" },
+                    { chord: "C", text: "(C) Nor let me ever stray" },
+                    { chord: "F", text: "(F) From (G) thee (C) aside" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "LE SEIGNEUR M'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/vvHn3JaT_JQ?si=ERJS3rZhnodjpEgh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Seigneur m’aime," },
+                    { chord: "F", text: "(F) Bonheur (C) suprême," },
+                    { chord: "C", text: "(C) Le Seigneur (F) m’aime," },
+                    { chord: "G", text: "(G) Il est (C) amour !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je redirai (G) toujours :" },
+                    { chord: "G", text: "(G) Le Seigneur (C) m’aime," },
+                    { chord: "C", text: "(C) Le Seigneur (F) m’aime," },
+                    { chord: "G", text: "(G) Il est (C) amour !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans la misère" },
+                    { chord: "F", text: "(F) La plus (C) amère," },
+                    { chord: "C", text: "(C) Dans la (F) misère" },
+                    { chord: "G", text: "(G) J’étais (C) plongé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans la souffrance" },
+                    { chord: "F", text: "(F) Sans (C) espérance," },
+                    { chord: "C", text: "(C) Dans la (F) souffrance" },
+                    { chord: "G", text: "(G) Je (C) gémissais." }
+                ],
+                [
+                    { chord: "C", text: "(C) Portant ma peine," },
+                    { chord: "F", text: "(F) Ma lourde (C) chaîne," },
+                    { chord: "C", text: "(C) Portant ma (F) peine," },
+                    { chord: "G", text: "(G) J’étais (C) perdu." }
+                ],
+                [
+                    { chord: "C", text: "(C) En sacrifice" },
+                    { chord: "F", text: "(F) À la (C) justice," },
+                    { chord: "C", text: "(C) En (F) sacrifice" },
+                    { chord: "G", text: "(G) Il vint (C) s’offrir." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le poids immense" },
+                    { chord: "F", text: "(F) De mon (C) offense," },
+                    { chord: "C", text: "(C) Le poids (F) immense" },
+                    { chord: "G", text: "(G) Tomba sur (C) lui." }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "SUCH LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G4zsesVIY5w?si=xCD350AnbKMO0auk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) That God should love a (F) sinner such as (C) I," },
+                    { chord: "F", text: "(F) Should yearn to (C) change my (D) sorrow into (G) bliss," },
+                    { chord: "C", text: "(C) Nor rest till He had (F) planned to bring me (C) nigh," },
+                    { chord: "F", text: "(F) How wonderful is (G) love like (C) this?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Such love, such wondrous love" },
+                    { chord: "G", text: "(G) Such love, such wondrous love" },
+                    { chord: "C", text: "(C) That (F) God should love a (F) sinner such as (C) I" },
+                    { chord: "F", text: "(F) How wonderful is (G) love like (C) this?" }
+                ],
+                [
+                    { chord: "C", text: "(C) That for a willful (F) outcast such as (C) I" },
+                    { chord: "F", text: "(F) The Father (C) planned, the (D) Savior bled and (G) died" },
+                    { chord: "C", text: "(C) Redemption for a (F) worthless slave to (C) buy" },
+                    { chord: "F", text: "(F) Who long had law and (G) grace (C) defied." }
+                ],
+                [
+                    { chord: "C", text: "(C) And now He takes me (F) to His heart a (C) son" },
+                    { chord: "F", text: "(F) He asks me (C) not to (D) fill a servant's (G) place" },
+                    { chord: "C", text: "(C) The far-off country (F) wand'rings all are (C) done" },
+                    { chord: "F", text: "(F) Wide open are His (G) arms of (C) grace" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "THE LOVE OF GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/NafJoD8Mt94?si=CGK1J-IR70I6oyoF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) The love of God is (F) greater (C) far" },
+                    { chord: "C", text: "(C) Than tongue or (G) pen can ever (C) tell;" },
+                    { chord: "C", text: "(C) It goes beyond the (F) highest (C) star" },
+                    { chord: "C", text: "(C) And reaches (G) to the lowest (C) hell." },
+                    { chord: "C", text: "(C) The guilty (F) pair, bowed down with (C) care," },
+                    { chord: "C", text: "(C) God gave His (G) son to (C) win;" },
+                    { chord: "C", text: "(C) His erring (F) child He reconciled, (C) " },
+                    { chord: "C", text: "(C) And pardoned (G) from his (C) sin." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, love God, how rich and pure!" },
+                    { chord: "C", text: "(C) How measureless and strong!" },
+                    { chord: "C", text: "(C) It shall forevermore endure," },
+                    { chord: "F", text: "(F) The saints and angels song." }
+                ],
+                [
+                    { chord: "C", text: "(C) When hoary time shall (F) pass (C) away," },
+                    { chord: "C", text: "(C) And earthly (G) thrones and kingdoms (C) fall;" },
+                    { chord: "C", text: "(C) When men who here (F) refuse to (C) pray," },
+                    { chord: "C", text: "(C) On rocks and (G) hill and mountains (C) call;" },
+                    { chord: "C", text: "(C) God’s love, so (F) sure, shall still (C) endure," },
+                    { chord: "C", text: "(C) All (G) measureless and (C) strong;" },
+                    { chord: "C", text: "(C) Redeeming (F) grace to Adam’s race, (C) " },
+                    { chord: "C", text: "(C) The saint’ (G) and angels’ (C) song." },
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "L'AMOUR DE DIEU EST SI MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tct5CcZy5uo?si=xLu4_KysAPC6v3Yp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "G", text: "(G) L'amour de Dieu est si merveilleux" },
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" },
+                    { chord: "C", text: "(C) Comment il est ?" },
+                    { chord: "C", text: "(C) Il est si haut qu'on ne peut le surmonter" },
+                    { chord: "G", text: "(G) Il est si bas qu'on ne peut le renverser" },
+                    { chord: "C", text: "(C) Il est si large qu'on ne peut le contourner" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "I WILL PRAISE HIM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/J7hcG5347J0?si=PQ-sbYOr_0Uc3Lfj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I saw the cleansing (G) fountain," },
+                    { chord: "G", text: "(G) Open wide for all my (C) sin," },
+                    { chord: "C", text: "(C) I obeyed the Spirit’s (F) wooing" },
+                    { chord: "C", text: "(C) When He said, “Wilt (G) thou be (C) clean?”" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I will praise Him! I will praise Him!" },
+                    { chord: "C", text: "(C) Praise the Lamb for sinners (G) slain;" },
+                    { chord: "C", text: "(C) Give Him glory, all ye people," },
+                    { chord: "C", text: "(C) For His blood can wash (G) away each (C) stain." }
+                ],
+                [
+                    { chord: "C", text: "(C) Tho' the way seems straight and (G) narrow," },
+                    { chord: "G", text: "(G) All I claimed was swept (C) away;" },
+                    { chord: "C", text: "(C) My ambitions, plans and (F) wishes," },
+                    { chord: "C", text: "(C) At my feet (G) in ashes (C) lay." }
+                ],
+                [
+                    { chord: "C", text: "(C) Blessed be the name of (G) Jesus!" },
+                    { chord: "G", text: "(G) I’m so glad He took me (C) in;" },
+                    { chord: "C", text: "(C) He’s forgiven my (F) transgressions," },
+                    { chord: "C", text: "(C) He has cleansed my (G) heart from (C) sin." }
+                ],
+                [
+                    { chord: "C", text: "(C) Glory, glory to the (G) Father!" },
+                    { chord: "G", text: "(G) Glory, glory to the (C) Son!" },
+                    { chord: "C", text: "(C) Glory, glory to the (F) Spirit!" },
+                    { chord: "C", text: "(C) Glory to the (G) Three in (C) One!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "QUELLE BELLE LUMIERE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/h0C_Ur_sTAc?si=cK3uKhb6NctAJqTv",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quelle belle lumière sur le chemin de vie," },
+                    { chord: "C", text: "(C) Les sept tonnerres sont (D) venus me (G) chercher," },
+                    { chord: "C", text: "(C) La vie de Dieu est descendue en (F) moi." },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) J’ai retrouvé la paix qui vient de Toi," },
+                    { chord: "C", text: "(C) J’ai retrouvé la (D) joie de mon (G) salut," },
+                    { chord: "C", text: "(C) J’étais perdu, Tu m’as (F) récupéré," },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand le mystère a été dévoilé" },
+                    { chord: "C", text: "(C) J’ai vu mon nom dans le (D) livre de (G) l’Agneau," },
+                    { chord: "C", text: "(C) Je fis comme Jean, oui j’ai crié de (F) joie," },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Longtemps noyé dans les soucis du monde," },
+                    { chord: "C", text: "(C) Aussi lié par les (D) chaînes du (G) péché," },
+                    { chord: "C", text: "(C) En bon berger, Tu es venu à (F) moi;" },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) L’Epouse de Christ autour des sept tonnerres, " },
+                    { chord: "C", text: "(C) Reçoit le Saint-Esprit (D) et la (G) puissance." },
+                    { chord: "C", text: "(C) C’est par Ta grâce que je suis l’un d’entre (F) eux, " },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Merci Seigneur pour la lumière du soir," },
+                    { chord: "C", text: "(C) Qui a chassé en (D) moi tous les (G) démons." },
+                    { chord: "C", text: "(C) Mon cœur devient Ta maison de (F) prière " },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 22 Décembre 2024
         //Debut Cantiques Dimanche 15 Décembre 2024
         {
             key: "dim-15-12-2024",
