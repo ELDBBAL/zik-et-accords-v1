@@ -386,6 +386,85 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-22-12-2024",
+            title: "JESUS LOVES ME EVEN ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/TxAmTW-QKjw?si=dNuf2YtMCbJrPHj9",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am so glad that our Father in heaven" },
+                    { chord: "G", text: "(G) Tells of His love in the Book He has (C) given;" },
+                    { chord: "C", text: "(C) Wonderful things in the Bible I see," },
+                    { chord: "G", text: "(G) This is the dearest, that Jesus loves (C) me." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I am so glad that (F) Jesus loves me," },
+                    { chord: "G", text: "(G) Jesus loves me, Jesus loves (C) me;" },
+                    { chord: "C", text: "(C) I am so glad that (F) Jesus loves me," },
+                    { chord: "G", text: "(G) Jesus loves even (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Though I forget Him and wander away," },
+                    { chord: "G", text: "(G) Kindly He follows wherever I (C) stray;" },
+                    { chord: "C", text: "(C) Back to His dear loving arms would I flee," },
+                    { chord: "G", text: "(G) When I remember that Jesus loves (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) O, if there's only one song I can sing," },
+                    { chord: "G", text: "(G) When in His beauty I see the great (C) King," },
+                    { chord: "C", text: "(C) This shall my song in eternity be:" },
+                    { chord: "G", text: "(G) O, what a wonder that Jesus loves (C) me!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "HERE WE COME A-CAROLLING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/in6XgUNWlMM?si=2YpcKFyBXzLTiZ-r",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Here we come a-carolling," },
+                    { chord: "C", text: "(C) Among the leaves so green," },
+                    { chord: "F", text: "(F) Here we come (C) a-wand'ring," },
+                    { chord: "D", text: "(D) So fair to be (G) seen." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Love and joy come to you," },
+                    { chord: "C", text: "(C) And to you glad Christmas too," },
+                    { chord: "C", text: "(C) And God bless you and (G) send you," },
+                    { chord: "Am", text: "(Am) A Happy New (G) Year," },
+                    { chord: "G", text: "(G) And God (C) send you a (G) Happy New (C) Year." }
+                ],
+                [
+                    { chord: "C", text: "(C) We are not daily beggars," },
+                    { chord: "C", text: "(C) That beg from door to door," },
+                    { chord: "F", text: "(F) But we are (C) neighbours children," },
+                    { chord: "D", text: "(D) Whom you have seen (G) before." }
+                ],
+                [
+                    { chord: "C", text: "(C) Bring us out a table," },
+                    { chord: "C", text: "(C) And spread it with a cloth." },
+                    { chord: "F", text: "(F) Bring us out a (C) mouldy cheese," },
+                    { chord: "D", text: "(D) And some of your Christmas (G) loaf." }
+                ],
+                [
+                    { chord: "C", text: "(C) God bless the master of this house," },
+                    { chord: "C", text: "(C) Likewise the mistress too," },
+                    { chord: "F", text: "(F) And all the (C) little children," },
+                    { chord: "D", text: "(D) That round the table (G) go." }
+                ],
+                [
+                    { chord: "C", text: "(C) Good master and good mistress," },
+                    { chord: "C", text: "(C) While you're sitting by the fire," },
+                    { chord: "F", text: "(F) Pray think of us (C) poor children," },
+                    { chord: "D", text: "(D) Who are wandering in the (G) mire." }
+                ]
+            ]
+        },
         //Fin Cantiques Dimanche 22 Décembre 2024
         //Debut Cantiques Dimanche 15 Décembre 2024
         {
