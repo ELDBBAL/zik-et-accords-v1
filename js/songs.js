@@ -293,6 +293,99 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-22-12-2024",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "GLORY BE TO GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/drmL-zAfdtg?si=EzXxELDbStL9HUbW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Glory be to God in the Highest ! (F) halle (G) lujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) Every body sing hallelu ! (G) hallelujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) hallelujah! (G) hallelujah! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-12-2024",
+            title: "ONLY BELEIVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IAp158zTDU4?si=GbZ2834cmGkYkA1p",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, from the cross to the throne," },
+                    { chord: "C", text: "(C) From (F) death (C) into life (D) He went for His (G) own;" },
+                    { chord: "C", text: "(C) All power in earth, all power (F) above," },
+                    { chord: "F", text: "(F) Is given to (C) Him for the (G) flock of His (C) love." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) only (G) believe;" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) only (C) believe." },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) Lord I (G) believe;" },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) Lord I (C) believe" },
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, He goeth ahead," },
+                    { chord: "C", text: "(C) Your (F) Shepherd (C) selecteth the (D) path you must (G) tread;" },
+                    { chord: "C", text: "(C) The waters of Marah He’ll sweeten for (F) thee," },
+                    { chord: "F", text: "(F) He drank all the (C) bitter in (G) Gethsemane. (C) " }
+                ]
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, whatever your lot," },
+                    { chord: "C", text: "(C) He enters (F) all (C) rooms, (D) “the doors being (G) shut,”" },
+                    { chord: "C", text: "(C) He never forsakes; He never is (F) gone," },
+                    { chord: "F", text: "(F) So count on His (C) presence in (G) darkness and (C) dawn." }
+                ]
+            ]
+        },
         //Fin Cantiques Dimanche 22 Décembre 2024
         //Debut Cantiques Dimanche 15 Décembre 2024
         {
