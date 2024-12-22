@@ -377,7 +377,7 @@ const songs = [
                     { chord: "C", text: "(C) Your (F) Shepherd (C) selecteth the (D) path you must (G) tread;" },
                     { chord: "C", text: "(C) The waters of Marah He’ll sweeten for (F) thee," },
                     { chord: "F", text: "(F) He drank all the (C) bitter in (G) Gethsemane. (C) " }
-                ]
+                ],
                 [
                     { chord: "C", text: "(C) Fear not, little flock, whatever your lot," },
                     { chord: "C", text: "(C) He enters (F) all (C) rooms, (D) “the doors being (G) shut,”" },
