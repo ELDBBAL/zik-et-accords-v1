@@ -1,5 +1,237 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Mercredi 25 Décembre 2024
+        {
+            key: "dim-25-12-2024",
+            title: "BLESSED BE THE NAME OF THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LwnhKvjxXuQ?si=6s-4oMSG8BQ0lLxV",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All praise to Him who (F) reigns (C) above" },
+                    { chord: "C", text: "(C) In majesty (D) - (G) supreme," },
+                    { chord: "C", text: "(C) Who gave His Son for all to (F) die," },
+                    { chord: "F", text: "(F) That He might (G) man (C) redeem!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Blessed be the name! (F) Blessed be the (C) name!" },
+                    { chord: "G", text: "(G) Blessed be the (D) name of the (G) Lord!" },
+                    { chord: "C", text: "(C) Blessed be the name! (F) Blessed be the (C) name!" },
+                    { chord: "C", text: "(C) Blessed be the (G) name of the (C) Lord!" }
+                ],
+                [
+                    { chord: "C", text: "(C) His name above all (F) names shall (C) stand," },
+                    { chord: "C", text: "(C) Exalted (D) more and (G) more," },
+                    { chord: "C", text: "(C) At God the father's own right (F) hand," },
+                    { chord: "F", text: "(F) Where angel (G) hosts (C) adore." }
+                ],
+                [
+                    { chord: "C", text: "(C) Redeemer, Savior, (F) friend of (C) all," },
+                    { chord: "C", text: "(C) Once ruined (D) by the (G) fall," },
+                    { chord: "C", text: "(C) Thou hast devised salvation's (F) call," },
+                    { chord: "F", text: "(F) For thou hast (G) died for (C) all." }
+                ],
+                [
+                    { chord: "C", text: "(C) His name shall be the (F) Counselor, (C) " },
+                    { chord: "C", text: "(C) The mighty (D) Prince of (G) Peace," },
+                    { chord: "C", text: "(C) Of all earth’s kingdoms (F) conqueror," },
+                    { chord: "F", text: "(F) Whose reign (G) shall never (C) cease!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2024",
+            title: "TIS SO SWEET TO TRUST IN JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-DdgkvnsHjM?si=chjVAb7N0_HPFSXG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tis so sweet to (F) trust in (C) Jesus" },
+                    { chord: "C", text: "(C) Just to take Him (D) at His (G) Word" },
+                    { chord: "C", text: "(C) Just to rest (F) upon His (C) promise" },
+                    { chord: "Am", text: "(Am) Just to (F) know, Thus (G) saith the (C) Lord" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jesus, Jesus, how I trust Him" },
+                    { chord: "C", text: "(C) How I've proved Him (D) o'er and (G) o'er" },
+                    { chord: "C", text: "(C) Jesus, Jesus, (F) precious (C) Jesus" },
+                    { chord: "C", text: "(C) Oh, for (F) grace to (G) trust Him (C) more" }
+                ],
+                [
+                    { chord: "C", text: "(C) I'm so glad I (F) learned to (C) trust Him" },
+                    { chord: "C", text: "(C) Precious Jesus, (D) Savior, (G) Friend" },
+                    { chord: "C", text: "(C) And I know that (F) He is (C) with me" },
+                    { chord: "Am", text: "(Am) Will be (F) with me (G) to the (C) end" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2024",
+            title: "LORD, LORD, LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/d_f8YkHPgR8?si=Jz6OpPcyl9FNvjfr",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Lord, Lord, Lord" },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "F", text: "(F) Lord, Lord, Lord" },
+                    { chord: "F", text: "(F) You've surely been good to (C) me" },
+                    { chord: "C", text: "(C) Lord, Lord, Lord" },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "C", text: "(C) You have (F) done what this (G) world could not (C) do." },
+                ],
+                [
+                    { chord: "C", text: "(C) You saved my soul when I was lost" },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "F", text: "(F) You saved my soul when I was lost" },
+                    { chord: "F", text: "(F) You've surely been good to (C) me" },
+                    { chord: "C", text: "(C) You saved my soul when I was lost" },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "C", text: "(C) You have (F) done what this (G) world could not (C) do." },
+                ],
+                [
+                    { chord: "C", text: "(C) You filled me with the Holy Ghost," },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "F", text: "(F) You filled me with the Holy Ghost," },
+                    { chord: "F", text: "(F) You've surely been good to (C) me" },
+                    { chord: "C", text: "(C) You filled me with the Holy Ghost," },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "C", text: "(C) You have (F) done what this (G) world could not (C) do." },
+                ],
+                [
+                    { chord: "C", text: "(C) You healed my body when I was sick," },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "F", text: "(F) You healed my body when I was sick," },
+                    { chord: "F", text: "(F) You've surely been good to (C) me" },
+                    { chord: "C", text: "(C) You healed my body when I was sick," },
+                    { chord: "C", text: "(C) You've surely been good to me" },
+                    { chord: "C", text: "(C) You have (F) done what this (G) world could not (C) do." },
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2024",
+            title: "OH I LOVE THAT MAN FROM GALILEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QcyAxo7SxVM?si=7JvRbkN9BX2FsQHC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In a manger long ago, I know it's really (G) so," },
+                    { chord: "G", text: "(G) A Babe was born to (F) save men from their (C) sin." },
+                    { chord: "C", text: "(C) John saw Him on the shore, the Lamb forevermore, (G) " },
+                    { chord: "G", text: "(G) Oh (F) Christ, the (G) Crucified of (C) Calvary." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, I love that Man from (G) Galilee," },
+                    { chord: "G", text: "(G) For He's done so very much for (C) me." },
+                    { chord: "C", text: "(C) He's forgiven all my sins, placed the (F) Holy Ghost within;" },
+                    { chord: "F", text: "(F) Oh, I (C) love that (G) man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The publican went to pray in the temple there one (G) day," },
+                    { chord: "G", text: "(G) He cried, O (F) Lord be merciful to (C) me!" },
+                    { chord: "C", text: "(C) He was forgiven of every sin, and a deep peace placed (G) within;" },
+                    { chord: "G", text: "(G) He (F) said, Come (G) see this Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The lame was made to walk, the dumb was made to (G) talk," },
+                    { chord: "G", text: "(G) That power was (F) spoken with love upon the (C) sea;" },
+                    { chord: "C", text: "(C) The blind was made to see, I know it could (G) only be" },
+                    { chord: "G", text: "(G) The (F) mercy of (G) that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nicodemus came by night, to know the way of (G) right," },
+                    { chord: "G", text: "(G) He asked the Son (F) of Man what must he (C) do." },
+                    { chord: "C", text: "(C) These words He said to him, Ye must be born (G) again," },
+                    { chord: "G", text: "(G) By (F) the Spirit (G) of that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The woman at the well, He all her sins did (G) tell," },
+                    { chord: "G", text: "(G) How five husbands (F) she had at that (C) time," },
+                    { chord: "C", text: "(C) She was forgiven of every sin, and a deep peace came (G) within;" },
+                    { chord: "G", text: "(G) Then (F) she cried, (G) Come see that Man from (C) Galilee!" }
+                ],
+            ]
+        },
+        {
+            key: "dim-15-09-2024",
+            title: "THIS IS THE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cccJhMVFrLs?si=RHUXX4nAUJ205neC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (G) lord has made, that the lord has made" },
+                    { chord: "G", text: "(G) I will rejoice, I will rejoice" },
+                    { chord: "G", text: "(G) And be (C) glad in it, and be glad in it" },
+                    { chord: "F", text: "(F) This is the day that the (C) lord has made" },
+                    { chord: "F", text: "(F) I will rejoice and be (C) glad in it" },
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (F) lord (G) has (C) made" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2024",
+            title: "PRAISING THE LORD ALWAYS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/47OIw6etSv8?si=HAPWx7Xspopc2uS4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Praising the Lord always" },
+                    { chord: "C", text: "(C) Praising the (G) Lord (C) always" },
+                    { chord: "C", text: "(C) Praising the Lord with all (F) my heart" },
+                    { chord: "F", text: "(F) Praising the (C) Lord with all (G) my heart (C) always" },
+                    { chord: "C", text: "(C) My Lord is (G) good" },
+                    { chord: "G", text: "(G) My Lord is (C) good" },
+                    { chord: "C", text: "(C) My Lord is (F) good" },
+                    { chord: "G", text: "(G) Is good to (C) me" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2024",
+            title: "ON CHRIST, THE SOLID ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uhVwVHC6_n0?si=GFm_9vOymnNyg0_M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My hope is built on (G) nothing less" },
+                    { chord: "G", text: "(G) Than (F) Jesus Christ, my (C) righteousness;" },
+                    { chord: "C", text: "(C) I dare not trust the (G) sweetest frame," },
+                    { chord: "G", text: "(G) But (F) wholly lean on Jesus’ (C) name." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) On Christ, the solid Rock, I (F) stand;" },
+                    { chord: "C", text: "(C) All other ground is (G) sinking sand," },
+                    { chord: "C", text: "(C) All other ground is (F) sinking sand." }
+                ],
+                [
+                    { chord: "C", text: "(C) When darkness veils His (G) lovely face," },
+                    { chord: "G", text: "(G) I (F) rest on His unchanging (C) grace;" },
+                    { chord: "C", text: "(C) In every high and (G) stormy gale," },
+                    { chord: "G", text: "(G) My (F) anchor holds within the (C) veil." }
+                ],
+                [
+                    { chord: "C", text: "(C) His oath, His covenant, His (G) blood," },
+                    { chord: "F", text: "(F) Support me in the (C) whelming flood;" },
+                    { chord: "C", text: "(C) When all around my (G) soul gives way," },
+                    { chord: "F", text: "(F) He then is all my hope and (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) When He shall come with trumpet (G) sound," },
+                    { chord: "G", text: "(G) Oh, (F) may I then in Him (C) be found;" },
+                    { chord: "C", text: "(C) In Him, my (G) righteousness, alone," },
+                    { chord: "F", text: "(F) Faultless to stand before the (C) throne." }
+                ]
+            ]
+        },
+        
+        //Fin Cantiques Mercredi 25 Décembre 2024
         //Debut Cantiques Dimanche 22 Décembre 2024
         {
             key: "dim-22-12-2024",
@@ -466,6 +698,7 @@ const songs = [
             ]
         },
         //Fin Cantiques Dimanche 22 Décembre 2024
+        
         //Debut Cantiques Dimanche 15 Décembre 2024
         {
             key: "dim-15-12-2024",
