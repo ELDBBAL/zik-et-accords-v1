@@ -2,9 +2,14 @@
 // Tableau contenant les liens vers les cantiques de chaque dimanche
 const cantiques = [
     {
+        date: "29/12",
+        title: "Hymns of 29/12/2024",
+        link: "single.html?key=dim-29-12-2024"
+    },
+    {
         date: "25/12",
         title: "Hymns of 25/12/2024",
-        link: "single.html?key=dim-25-12-2024"
+        link: "single.html?key=mer-25-12-2024"
     },
     {
         date: "22/12",
@@ -31,12 +36,12 @@ const cantiques = [
         title: "Hymns of 28/11/2024",
         link: "single.html?key=jeu-28-11-2024"
     },
-    {
+    /*{
         date: "24/11",
         title: "Hymns of 24/11/2024",
         link: "single.html?key=dim-24-11-2024" 
     },
-    /*{
+    {
         date: "17/11",
         title: "Hymns of 17/11/2024",
         link: "single.html?key=dim-17-11-2024" 
