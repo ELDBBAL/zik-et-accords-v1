@@ -1,5 +1,188 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Mardi 31 Décembre 2024 (Dernier jour de l'année 2024)
+        {
+            key: "mar-31-12-2024",
+            title: "WHEN I THINK OF THE GOODNESS OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/GCxhlwvcRDo?si=25ImIMk91tWZA9Mk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I think of the goodness of Jesus," },
+                    { chord: "C", text: "(C) and what he has (D) done for (G) me," },
+                    { chord: "G", text: "(G) my (C) soul cries out, (F) Hallelujah!" },
+                    { chord: "F", text: "(F) Praise (C) God for (G) saving (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "mar-31-12-2024",
+            title: "COMMENT NE POURRAIS-JE TE LOUER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=2zJJhD8YI8GdElW4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole" },
+                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint Prophète (C) " },
+                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole" },
+                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint Prophète (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer" },
+                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour moi ? (C) " },
+                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours" },
+                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me combat. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais dans les (F) organisations" },
+                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept Tonnerres (C) " },
+                    { chord: "C", text: "(C) J’étais dans les (F) organisations" },
+                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept Tonnerres (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie" },
+                    { chord: "F", text: "(F) Tu as (G) compati et m’a guéri (C) " },
+                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie" },
+                    { chord: "F", text: "(F) Tu as (G) compati et m’a guéri (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation" },
+                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton Saint-Esprit (C) " },
+                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation" },
+                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton Saint-Esprit (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les gens parlaient tant, mal de (F) moi" },
+                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul Ami. (C) " },
+                    { chord: "C", text: "(C) JQuand les gens parlaient tant, mal de (F) moi" },
+                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul Ami. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut" },
+                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands mystères (C) " },
+                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut" },
+                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands mystères (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse" },
+                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la grâce (C) " },
+                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse" },
+                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la grâce (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté" },
+                    { chord: "F", text: "(F) Et comme David, (G) je veux Te louer. (C) " },
+                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté" },
+                    { chord: "F", text: "(F) Et comme David, (G) je veux Te louer. (C) " },
+                ],
+            ]
+        },
+        {
+            key: "mar-31-12-2024",
+            title: "COUNT YOUR BLESSINGS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Hb4JBNDWhOA?si=ExmdoRDWfCGbs2Le",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When upon life's billows" },
+                    { chord: "C", text: "(C) you are (G) tempest tossed," },
+                    { chord: "G", text: "(G) When you are discouraged," },
+                    { chord: "G", text: "(G) thinking (C) all is lost," },
+                    { chord: "C", text: "(C) Count your many blessings," },
+                    { chord: "C", text: "(C) name them (G) one by one," },
+                    { chord: "G", text: "(G) And it will surprise you" },
+                    { chord: "G", text: "(G) what the Lord has (C) done." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Count your blessings," },
+                    { chord: "C", text: "(C) name them (G) one by one;" },
+                    { chord: "G", text: "(G) Count your blessings," },
+                    { chord: "G", text: "(G) see what (C) God has done;" },
+                    { chord: "C", text: "(C) Count your (F) blessings," },
+                    { chord: "G", text: "(G) name them one by (C) one;" },
+                    { chord: "C", text: "(C) Count your many (F) blessings," },
+                    { chord: "F", text: "(F) see what (G) God has (C) done." }
+                ],
+                [
+                    { chord: "C", text: "(C) Are you ever burdened" },
+                    { chord: "C", text: "(C) with a (G) load of care?" },
+                    { chord: "G", text: "(G) Does the cross seem heavy" },
+                    { chord: "G", text: "(G) you are called to (C) bear?" },
+                    { chord: "C", text: "(C) Count your many blessings," },
+                    { chord: "C", text: "(C) ev'ry (G) doubt will fly," },
+                    { chord: "G", text: "(G) And you will be singing" },
+                    { chord: "G", text: "(G) as the days go (C) by." }
+                ],
+                [
+                    { chord: "C", text: "(C) When you look at others" },
+                    { chord: "C", text: "(C) with their (G) lands and gold" },
+                    { chord: "G", text: "(G) Think that Christ has promised" },
+                    { chord: "G", text: "(G) you His (C) wealth untold;" },
+                    { chord: "C", text: "(C) Count your many blessings," },
+                    { chord: "C", text: "(C) money (G) cannot buy" },
+                    { chord: "G", text: "(G) Your reward in Heaven" },
+                    { chord: "G", text: "(G) nor your home on (C) high" }
+                ],
+                [
+                    { chord: "C", text: "(C) So, amid the conflict," },
+                    { chord: "C", text: "(C) whether (G) great or small," },
+                    { chord: "G", text: "(G) Do not be discouraged," },
+                    { chord: "G", text: "(G) God is over (C) all;" },
+                    { chord: "C", text: "(C) Count your many blessings," },
+                    { chord: "C", text: "(C) angels (G) will attend," },
+                    { chord: "G", text: "(G) Help and comfort give you" },
+                    { chord: "G", text: "(G) to your journey's (C) end." }
+                ],
+            ]
+        },
+        {
+            key: "mar-31-12-2024",
+            title: "SHOWERS OF BLESSING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IrDwO0TQWjM?si=W319xDqC72nf1ef4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) This is the promise of (C) love;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) Sent from the Savior (G) above." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Showers of blessing," },
+                    { chord: "C", text: "(C) Showers of (D) blessing we (G) need;" },
+                    { chord: "C", text: "(C) Mercy-drops round us are falling," },
+                    { chord: "G", text: "(G) But for the showers we (C) plead." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Precious reviving (C) again;" },
+                    { chord: "F", text: "(F) Over the hills and the (C) valleys," },
+                    { chord: "D", text: "(D) Sound of abundance of (G) rain." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Send them upon us, (C) O Lord!" },
+                    { chord: "F", text: "(F) Grant to us now a (C) refreshing;" },
+                    { chord: "D", text: "(D) Come, and now honor Thy (G) Word." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) O that today they might (C) fall," },
+                    { chord: "F", text: "(F) Now as to God we’re (C) confessing," },
+                    { chord: "D", text: "(D) Now as on Jesus we (G) call!" }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) If we but trust and (C) obey;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) If we let God have His (G) way." }
+                ]
+            ]
+        },
+        //Fin Cantiques Mardi 31 Décembre 2024 (Dernier jour de l'année 2024)
         //Début Cantiques Dimanche 29 Décembre 2024 (Dernier du mois et de l'année 2024)
         {
             key: "dim-29-12-2024",
