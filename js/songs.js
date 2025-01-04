@@ -1,5 +1,241 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Dimanche 05 Janvier 2025 (Premier Dimanche de l'année 2025)
+        {
+            key: "dim-05-01-2025",
+            title: "MY FAITH LOOKS UP TO THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oGKLmThF2to?si=tKiGHOp3RtUe5SZY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My faith looks up to thee" },
+                    { chord: "G", text: "(G) Thou Lamb of Calvary" },
+                    { chord: "C", text: "(C) Savior (G) divine!" },
+                    { chord: "C", text: "(C) Now hear me while I pray" },
+                    { chord: "C", text: "(C) Take all my guilt away" },
+                    { chord: "C", text: "(C) O let me from this day" },
+                    { chord: "C", text: "(C) Be (F) wholly (G) thine! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) May thy rich grace impart" },
+                    { chord: "G", text: "(G) Strength to my fainting heart" },
+                    { chord: "C", text: "(C) My zeal (G) inspire!" },
+                    { chord: "C", text: "(C) As thou hast died for me" },
+                    { chord: "C", text: "(C) O may my love to thee" },
+                    { chord: "C", text: "(C) Pure, warm, and changeless be" },
+                    { chord: "F", text: "(F) A (G) living (C) fire!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When life's dark maze I tread" },
+                    { chord: "G", text: "(G) And griefs around me spread" },
+                    { chord: "C", text: "(C) Be thou my (G) guide" },
+                    { chord: "C", text: "(C) Bid darkness turn to day" },
+                    { chord: "C", text: "(C) Wipe sorrow's tears away" },
+                    { chord: "C", text: "(C) Nor let me ever stray" },
+                    { chord: "F", text: "(F) From (G) thee (C) aside" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "LA NUEE DE GLOIRE AVANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Sn7m3JFaTV4?si=0aRgj1PXDBwXn7UY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La nuée de gloire (F) avance (C) !" },
+                    { chord: "F", text: "(F) Avance avec (C) elle ! (G) Avance avec (C) elle !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que ton esprit (G) s’élève" },
+                    { chord: "Am", text: "(Am) Que ta force soit renouvelée, (C) " },
+                    { chord: "C", text: "(C) Viens, avançons (G) tous (Am) ensemble (G) " },
+                    { chord: "C", text: "(C) Si tu la suis (G) toujours," },
+                    { chord: "Am", text: "(Am) Tu vivras une vie d’amour, (C) " },
+                    { chord: "F", text: "(F) Si tu avances avec (C) elle ! (G) Avance avec (C) elle !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "I WOULD ENTER IN HIS COURT ",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/CLTBuaj-LCU?si=hEBPRiBjt6lrTvxd",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I will enter in His (F) court" },
+                    { chord: "C", text: "(C) With thanksgiving in my (Am) heart" },
+                    { chord: "C", text: "(C) I will enter His (F) gate with (G) praise" },
+                    { chord: "C", text: "(C) I would sing this is the (F) day" },
+                    { chord: "C", text: "(C) That The Lord has (Am) made" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He makes me (F) glad" },
+                    { chord: "C", text: "(C) He makes me (Am) glad" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad (G) " },
+                    { chord: "C", text: "(C) He makes me (F) glad" },
+                    { chord: "C", text: "(C) He makes me (Am) glad" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "PAR LA FOI NOUS MARCHERONS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "LOUEZ L'ETERNEL CAR IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/x2AMclxKHYs?si=tawOpWgKtiU2nUf3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Qui dira les hauts faits de (F) l’Eternel ? (C) " },
+                    { chord: "C", text: "(C) Qui publiera toute Sa (G) louange (C) ?" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (Am) bon" },
+                    { chord: "Am", text: "(Am) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                ],
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Il m’a révélé tous les mystères (F) cachés (C) " },
+                    { chord: "C", text: "(C) La révélation des sept (G) tonnerres (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui Dieu nous a bénis de (F) toutes bénédictions (C) " },
+                    { chord: "C", text: "(C) Il nous a envoyé la colonne (G) de feu (C) " },
+                    { chord: "C", text: "(C) Les signes, miracles et les (F) prodiges (C) " },
+                    { chord: "C", text: "(C) Louons l’Eternel car Il (G) est bon (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire, Gloire, gloire, (F) Oh ! Alléluia (C) !" },
+                    { chord: "C", text: "(C) Dans l’Eternité en (G) éternité, (C) " },
+                    { chord: "C", text: "(C) Qu’Il soit loué, béni et (F) glorifié (C) " },
+                    { chord: "C", text: "(C) Aux siècles des siècles et (G) à jamais. (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "JE VEUX ADORER SON NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 05 Janvier 2025 (Premier Dimanche de l'année 2025)
         //Début Cantiques Mardi 31 Décembre 2024 (Dernier jour de l'année 2024)
         {
             key: "mar-31-12-2024",
