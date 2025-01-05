@@ -235,6 +235,72 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-05-01-2025",
+            title: "DANS MON AME UN BEAU SOLEIL BRILLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pdxaZMWILfY?si=fkTnGjPk1xUjLytP",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans mon âme, un (F) beau (C) soleil brille !" },
+                    { chord: "C", text: "(C) Son rayon doux (D) et (G) joyeux" },
+                    { chord: "C", text: "(C) Répand un (F) éclat (C) qui scintille" },
+                    { chord: "C", text: "(C) C’est le (F) sourire (G) de (C) Dieu" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O, quel beau (F) soleil dans mon (C) âme !" },
+                    { chord: "C", text: "(C) Il resplendit, (D) illuminant (G) tout" },
+                    { chord: "C", text: "(C) A ses (F) rayons mon (C) cœur s’enflamme" },
+                    { chord: "C", text: "(C) Et je (F) vais (G) partout (C) chantant" },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon cœur était (F) plein (C) de ténèbres" },
+                    { chord: "C", text: "(C) Quand paru un (D) jour (G) nouveau" },
+                    { chord: "C", text: "(C) Au loin (F) fuyez, (C) ombres et ténèbres" },
+                    { chord: "C", text: "(C) Devant (F) un (G) soleil si (C) beau" },
+                ],
+                [
+                    { chord: "C", text: "(C) O, mon cœur (F) déborde (C) de joie !" },
+                    { chord: "C", text: "(C) Mon âme est (D) remplie (G) d’amour" },
+                    { chord: "C", text: "(C) Tous les (F) élus (C) avec le Roi" },
+                    { chord: "C", text: "(C) Le (F) loueront, (G) oui, (C) pour toujours !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-05-01-2025",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I’m (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I’m onward (F) bound," },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (G) stand," },
+                    { chord: "G", text: "(G) By faith, on heaven’s table (C) land," },
+                    { chord: "C", text: "(C) A higher plane than I have (F) found;" },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "C", text: "(C) My heart has no desire to (F) stay," },
+                    { chord: "F", text: "(F) Where doubts (C) arise and fears (G) dismay;" },
+                    { chord: "G", text: "(G) Tho’ some may (C) dwell where these (F) abound," },
+                    { chord: "F", text: "(F) My prayer, my (C) aim, is (G) higher (C) ground." },
+                ],
+                [
+                    { chord: "C", text: "(C) I want to scale the utmost (F) height," },
+                    { chord: "F", text: "(F) And catch a (C) gleam of glory (G) bright;" },
+                    { chord: "G", text: "(G) But still I’ll (C) pray till heav’n I’ve (F) found," },
+                    { chord: "F", text: "(F) “Lord, lead (C) me on to (G) higher (C) ground.”" },
+                ],
+            ]
+        },
         //Fin Cantiques Dimanche 05 Janvier 2025 (Premier Dimanche de l'année 2025)
         //Début Cantiques Mardi 31 Décembre 2024 (Dernier jour de l'année 2024)
         {
