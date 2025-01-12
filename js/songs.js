@@ -1,5 +1,392 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Dimanche 12 Janvier 2025 (Deuxième Dimanche de l'année 2025)
+        {
+            key: "dim-12-01-2025",
+            title: "WHEN JESUS COME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oMvBEuU8V2U?si=Yu5NpM2-AzJsAfPA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One sat alone beside the highway (G) begging," },
+                    { chord: "G", text: "(G) His eyes were blind, the light he could not (C) see." },
+                    { chord: "C", text: "(C) He clutched his (Bm) rags and shivered in the (C) shadows" },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) bade his darkness (C) flee." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tempter's power is (C) broken;" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tears are wiped (C) away," },
+                    { chord: "C", text: "(C) He takes the gloom and fills the life with (F) glory," },
+                    { chord: "F", text: "(F) For all is (C) changed when (G) Jesus comes to (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) From home and friends the evil spirits (G) drove him," },
+                    { chord: "G", text: "(G) Among the tombs he dwelt in (C) misery;" },
+                    { chord: "C", text: "(C) He cut himself (Bm) as demon powers possessed (C) him," },
+                    { chord: "F", text: "(F) Then Jesus (F) came and (G) set the captive (C) free." }
+                ],
+                [
+                    { chord: "C", text: "(C) 'Unclean, unclean!' the leper cried in (G) torment," },
+                    { chord: "G", text: "(G) The deaf, the dumb, in helplessness stood (C) near;" },
+                    { chord: "C", text: "(C) The fever raged, (Bm) disease had gripped its' (C) victim," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) cast out every (C) fear." }
+                ],
+                [
+                    { chord: "C", text: "(C) Their hearts were sad as in the tomb they (G) laid Him," },
+                    { chord: "G", text: "(G) For death had come and taken Him (C) away;" },
+                    { chord: "C", text: "(C) Their night was (Bm) dark and bitter tears were (C) falling," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) night was turned to (C) day." }
+                ],
+                [
+                    { chord: "C", text: "(C) So men today have found the Savior (G) able," },
+                    { chord: "G", text: "(G) They could not conquer passion, lust and (C) sin;" },
+                    { chord: "C", text: "(C) Their broken hearts (Bm) had left them sad and (C) lonely," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) dwelt, Himself, (C) within." }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "MA RICHESSE, MA GLOIRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/iCQlsxvfx8Q?si=uk3pyZrtRUXsJF0w",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ma (F) richesse, ma (C) gloire" },
+                    { chord: "C", text: "(C) Et ma (G) félicité," },
+                    { chord: "C", text: "(C) Ô (F) Jésus! C’est de (C) croire" },
+                    { chord: "C", text: "(C) Que tu (G) m’as racheté." },
+                    { chord: "C", text: "(C) Rempli (F) de confiance (C) " },
+                    { chord: "C", text: "(C) En toi, (G) divin Sauveur," },
+                    { chord: "C", text: "(C) Je (F) vis dans l’espérance" },
+                    { chord: "C", text: "(C) Et je (G) marche sans peur." }
+                ],
+                [
+                    { chord: "C", text: "(C) Rien (F) n’ôte les (C) souillures," },
+                    { chord: "C", text: "(C) Rien ne (G) guérit le coeur" },
+                    { chord: "C", text: "(C) Sinon (F) les meurtrissures (C) " },
+                    { chord: "C", text: "(C) Et le (G) sang du Sauveur." },
+                    { chord: "C", text: "(C) Oui, (F) Jésus seul nous (C) lave" },
+                    { chord: "C", text: "(C) De toute (G) iniquité," },
+                    { chord: "C", text: "(C) Et (F) procure à (C) l’esclave" },
+                    { chord: "C", text: "(C) L’heureuse (G) liberté." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh! (F) Que toute la (C) terre" },
+                    { chord: "C", text: "(C) Apporte à (G) ce Sauveur" },
+                    { chord: "C", text: "(C) Ses (F) péchés, sa (C) misère!" },
+                    { chord: "C", text: "(C) Il fait (G) grâce au pécheur" },
+                    { chord: "C", text: "(C) Son (F) amour insondable (C) " },
+                    { chord: "C", text: "(C) Lui fit (G) quitter le ciel," },
+                    { chord: "C", text: "(C) Pour (F) donner au (C) coupable" },
+                    { chord: "C", text: "(C) Un salut (G) éternel." }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "I’LL FLY AWAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bJWgpljckbA?si=p_zKTbwedxk4Em61",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Some glad morning when this life is o’er" },
+                    { chord: "F", text: "(F) I’ll fly away; (C) " },
+                    { chord: "C", text: "(C) To a home on God’s celestial shore," },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’ll fly away, O glory," },
+                    { chord: "F", text: "(F) I’ll fly away; (C) " },
+                    { chord: "C", text: "(C) I cannot die, hallelujah by and by !" },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away." }
+                ],
+                [
+                    { chord: "C", text: "(C) When the shadows of this life have grown" },
+                    { chord: "F", text: "(F) I'll fly away; (C) " },
+                    { chord: "C", text: "(C) Like a bird from prison bars have glow" },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away " }
+                ],
+                [
+                    { chord: "C", text: "(C) Just a few more weary days and then" },
+                    { chord: "F", text: "(F) I'll fly away; (C) " },
+                    { chord: "C", text: "(C) To a land where joy shall never end" },
+                    { chord: "F", text: "(F) I’ll (G) fly (C) away " }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "L'ANCIEN EVANGILE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/u_oBGLYyj0U?si=ufWbpdN5KdmTU6hI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) C’est toujours l’ancien Saint-Esprit," },
+                    { chord: "C", text: "(C) Et Satan (G) ne peut (C) l’approcher," },
+                    { chord: "C", text: "(C) C’est pourquoi les peuples (F) le craignent;" },
+                    { chord: "F", text: "(F) Mais Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi (G) l’ancien (C) Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien (F) Evangile" },
+                    { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il mettra fin à tes mensonges" },
+                    { chord: "C", text: "(C) Il te (G) sauvera de la (C) mort," },
+                    { chord: "C", text: "(C) Il fera s’enfuir les (F) démons ;" },
+                     { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il est bon, je n’en veux d’autre" },
+                    { chord: "C", text: "(C) Car Il me (G) fait aimer mon (C) frère," },
+                    { chord: "C", text: "(C) Il met toute chose à (F) découvert" },
+                     { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "THE OLD TIME RELIGION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JOI_HFvhINM?si=1N7zaH35NEn5MzmG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) It’s the old-time Holy Spirit," },
+                    { chord: "C", text: "(C) And the (G) devil won’t go (C) near It," },
+                    { chord: "C", text: "(C) That’s the reason people (F) fear It;" },
+                    { chord: "F", text: "(F) But (G) It’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Give me that old time religion," },
+                    { chord: "C", text: "(C) Give me that (G) old time (C) religion," },
+                    { chord: "C", text: "(C) Give me that old time (F) religion," },
+                    { chord: "F", text: "(F) It’s (G) good enough for (C) me" }
+                ],
+                [
+                    { chord: "C", text: "(C) It will make you stop your lying;" },
+                    { chord: "C", text: "(C) It will (G) save you when you’re (C) dying" },
+                    { chord: "C", text: "(C) It will start the devil (F) flying;" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It’s so good I want no other;" },
+                    { chord: "C", text: "(C) For It (G) makes me love my (C) brother;" },
+                    { chord: "C", text: "(C) And It brings things from under (F) cover," },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good in the fiery furnace" },
+                    { chord: "C", text: "(C) It was (G) good in the fiery (C) furnace" },
+                    { chord: "C", text: "(C) It was good in the fiery (F) furnace" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good for Paul and Silas" },
+                    { chord: "C", text: "(C) It was (G) good for Paul and (C) Silas" },
+                    { chord: "C", text: "(C) It was good for Paul and (F) Silas" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good for our fathers" },
+                    { chord: "C", text: "(C) It was (G) good for our (C) fathers" },
+                    { chord: "C", text: "(C) It was good for our (F) fathers" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It was good for Brother Branham " },
+                    { chord: "C", text: "(C) It was (G) good for Brother (C) Branham " },
+                    { chord: "C", text: "(C) It was good for Brother (F) Branham " },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) It will take us all to Heaven" },
+                    { chord: "C", text: "(C) It will (G) take us all to (C) Heaven" },
+                    { chord: "C", text: "(C) It will take us all to (F) Heaven" },
+                    { chord: "F", text: "(F) And (G) it’s good enough for (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "JE SUIS EN ROUTE POUR CANAAN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/xmCvSaKGCkw?si=pn7S5N0t7IJ9W7SI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je suis en route pour (G) Canaan," },
+                    { chord: "G", text: "(G) Je suis en route pour (C) Canaan," },
+                    { chord: "C", text: "(C) Je suis en route pour (F) Canaan," },
+                    { chord: "F", text: "(F) Je suis en (C) route pour Canaan," },
+                    { chord: "G", text: "(G) Oh ! Gloire à (C) Dieu" }
+                ],
+                [
+                    { chord: "C", text: "(C) Si tu ne vas pas, ne m'empeche (G) pas" },
+                    { chord: "G", text: "(G) Si tu ne vas pas, ne m'empeche (C) pas" },
+                    { chord: "C", text: "(C) Mais si tu vas allons-y (F) ensemble" },
+                    { chord: "F", text: "(F) Je suis en (C) route pour Canaan," },
+                    { chord: "G", text: "(G) Oh ! Gloire à (C) Dieu" }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "QUELLE BELLE LUMIERE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/h0C_Ur_sTAc?si=cK3uKhb6NctAJqTv",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quelle belle lumière sur le chemin de vie," },
+                    { chord: "C", text: "(C) Les sept tonnerres sont (D) venus me (G) chercher," },
+                    { chord: "C", text: "(C) La vie de Dieu est descendue en (F) moi." },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) J’ai retrouvé la paix qui vient de Toi," },
+                    { chord: "C", text: "(C) J’ai retrouvé la (D) joie de mon (G) salut," },
+                    { chord: "C", text: "(C) J’étais perdu, Tu m’as (F) récupéré," },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand le mystère a été dévoilé" },
+                    { chord: "C", text: "(C) J’ai vu mon nom dans le (D) livre de (G) l’Agneau," },
+                    { chord: "C", text: "(C) Je fis comme Jean, oui j’ai crié de (F) joie," },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Longtemps noyé dans les soucis du monde," },
+                    { chord: "C", text: "(C) Aussi lié par les (D) chaînes du (G) péché," },
+                    { chord: "C", text: "(C) En bon berger, Tu es venu à (F) moi;" },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) L’Epouse de Christ autour des sept tonnerres, " },
+                    { chord: "C", text: "(C) Reçoit le Saint-Esprit (D) et la (G) puissance." },
+                    { chord: "C", text: "(C) C’est par Ta grâce que je suis l’un d’entre (F) eux, " },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Merci Seigneur pour la lumière du soir," },
+                    { chord: "C", text: "(C) Qui a chassé en (D) moi tous les (G) démons." },
+                    { chord: "C", text: "(C) Mon cœur devient Ta maison de (F) prière " },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "PLUS PRECIEUX QUE L'OR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/d-n-tBhHHtY?si=SqvVJ2vc8hiwftNa",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Plus précieux que (G) l'or" },
+                    { chord: "G", text: "(G) Plus précieux que (C) l'or," },
+                    { chord: "C", text: "(C) L'esprit de Dieu, dans le (F) coeur de l'homme" },
+                    { chord: "F", text: "(F) Est (G) plus précieux que (C) l'or," }
+                ],
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "Jesus is the winner Man",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/qf_wClr8F0U?si=Yx7kj3y1K8loiobM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner Man! (G) Winner Man!" },
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "G", text: "(G) Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! " },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan is the (F) looser Man" },
+                    { chord: "C", text: "(C) Looser Man! (G) Looser Man!" },
+                    { chord: "C", text: "(C) Satan is the (F) Looser Man" },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "G", text: "(G) Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! " },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side! (G) Winning side!" },
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "G", text: "(G) Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-01-2025",
+            title: "NEAR THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5gong-PNmY?si=NbwWNE4mfBd8oI6z",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus, keep me (F) near the cross" },
+                    { chord: "C", text: "(C) There a precious (D) fountain, (G) " },
+                    { chord: "C", text: "(C) Free to all, a (F) healing stream," },
+                    { chord: "C", text: "(C) Flows from Calv'ry's (G) mountain. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the cross, (F) in the cross," },
+                    { chord: "C", text: "(C) Be my glory (D) ever; (G) " },
+                    { chord: "C", text: "(C) Till my raptured (F) soul shall find" },
+                    { chord: "C", text: "(C) Rest beyond the (G) river (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross, a (F) trembling soul," },
+                    { chord: "C", text: "(C) Love and mercy (D) found (G) me;" },
+                    { chord: "C", text: "(C) There the Bright and (F) Morning Star" },
+                    { chord: "C", text: "(C) Sheds its beams (G) around (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross! O (F) lamb of God," },
+                    { chord: "C", text: "(C) Bring its scenes (D) before (G) me;" },
+                    { chord: "C", text: "(C) Help me walk from (F) day to day," },
+                    { chord: "C", text: "(C) With its shadows (G) o'er (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross I'll (F) watch and wait," },
+                    { chord: "C", text: "(C) Hoping, trusting, (D) ever (G) " },
+                    { chord: "C", text: "(C) Till I reach the (F) golden strand," },
+                    { chord: "C", text: "(C) Just beyond the (G) river. (C) " }
+                ],
+            ]
+        },
+        //Fin Cantiques Dimanche 12 Janvier 2025 (Deuxième Dimanche de l'année 2025)
         //Début Cantiques Dimanche 05 Janvier 2025 (Premier Dimanche de l'année 2025)
         {
             key: "dim-05-01-2025",
