@@ -1,5 +1,172 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Dimanche 19 Janvier 2025 (Troisième Dimanche de l'année 2025)
+        {
+            key: "dim-19-01-2025",
+            title: "MISERICORDE INSONDABLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nPmv1Awq2-M?si=IkrGbM0MBpzIaAHW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Miséricorde (F) insondable !" },
+                    { chord: "G", text: "(G) Dieu peut-il tout pardonner ? (C) " },
+                    { chord: "C", text: "(C) Absoudre un si grand (F) coupable," },
+                    { chord: "G", text: "(G) Et mes péchés oubliés ? (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus je viens, je viens à (F) Toi" },
+                    { chord: "F", text: "(F) Tel que je (C) suis (Dm), je viens à (F) Toi (G) - (C) " },
+                    { chord: "C", text: "(C) Jésus je viens, je viens à (F) Toi" },
+                    { chord: "F", text: "(F) Tel je suis, (G) prends (C) moi" }
+                ],
+                [
+                    { chord: "C", text: "(C) Longtemps j’ai loin de sa (F) face" },
+                    { chord: "G", text: "(G) Provoqué son saint courroux (C) " },
+                    { chord: "C", text: "(C) Fermé mon cœur à sa (F) grâce" },
+                    { chord: "G", text: "(G) Blessé le sien devant tous. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) O, Jésus à Toi je (F) cède" },
+                    { chord: "G", text: "(G) Je veux être libéré (C) " },
+                    { chord: "C", text: "(C) De tout péché qui (F) m’obsède" },
+                    { chord: "G", text: "(G) Etre à jamais délivré. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Alléluia ! plus de (F) doute," },
+                    { chord: "G", text: "(G) Mon fardeau m’est enlevé (C) " },
+                    { chord: "C", text: "(C) Pour le ciel je suis en (F) route" },
+                    { chord: "G", text: "(G) Heureux pour l’éternité. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-01-2025",
+            title: "NE CRAINS RIEN JE T'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8eB4Yae9MFs?si=TyuQk6olAhFaJnP3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ne crains rien, je t'aime" },
+                    { chord: "F", text: "(F) Je suis avec (C) toi" },
+                    { chord: "G", text: "(G) Promesse suprême," },
+                    { chord: "G", text: "(G) Qui soutient ma (C) foi" },
+                    { chord: "C", text: "(C) La sombre vallée" },
+                    { chord: "F", text: "(F) N'a plus de (C) terreur" },
+                    { chord: "G", text: "(G) L'âme consolée," },
+                    { chord: "G", text: "(G) je marche avec mon (C) Sauveur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                ],
+                [
+                    { chord: "C", text: "(C) L'aube matinière" },
+                    { chord: "F", text: "(F) Ne luit qu'aux beaux (C) jours" },
+                    { chord: "G", text: "(G) Jésus ma lumière" },
+                    { chord: "G", text: "(G) M'éclaire (C) toujours" },
+                    { chord: "C", text: "(C) Quand je perds de vue" },
+                    { chord: "F", text: "(F) L'astre radieux (C) " },
+                    { chord: "G", text: "(G) A travers la nue" },
+                    { chord: "G", text: "(G) Jésus me montre les (C) cieux" },
+                ],
+                [
+                    { chord: "C", text: "(C) Les dangers accourent, " },
+                    { chord: "F", text: "(F) subtils, inconnus (C) " },
+                    { chord: "G", text: "(G) De près, ils m'entourent, " },
+                    { chord: "G", text: "(G) plus près est (C) Jésus " },
+                    { chord: "C", text: "(C) Qui dans le voyage" },
+                    { chord: "F", text: "(F) Me redit C'est (C) moi!" },
+                    { chord: "G", text: "(G) Ne crains rien Courage!" },
+                    { chord: "G", text: "(G) Je suis toujours avec (C) toi!" },
+                ]
+            ]
+        },
+        {
+            key: "dim-19-01-2025",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (Em) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-19-01-2025",
+            title: "À DIEU SOIT LA GLOIRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JHu2Q9Z6T1U?si=cvYQbCHrFnU6E2Ft",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À Dieu soit la gloire ! " },
+                    { chord: "C", text: "(C) Par (G) son Grand (C) Amour," },
+                    { chord: "C", text: "(C) Dans (F) mon âme (C) noire, " },
+                    { chord: "C", text: "(C) S'est (D) levé le (G) jour." },
+                    { chord: "C", text: "(C) Jésus, à ma place, " },
+                    { chord: "G", text: "(G) Mourut sur la (C) Croix," },
+                    { chord: "C", text: "(C) Il (F) m'offre sa (C) Grâce et (G) je la (C) reçois !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à Dieu ! Gloire à Dieu !" },
+                    { chord: "C", text: "(C) Terre, écoutez sa (G) voix !" },
+                    { chord: "G", text: "(G) Gloire à Dieu ! Gloire à Dieu !" },
+                    { chord: "G", text: "(G) Monde, réjouis (C) toi !" },
+                    { chord: "C", text: "(C) Oh ! Venez au Père, (G) Jésus est (C) vainqueur ;" },
+                    { chord: "C", text: "(C) Que (F) toute la (C) terre chante (G) en son (C) honneur !" },
+                ],
+                [
+                    { chord: "C", text: "(C) De Jésus, la joie, (G) remplit notre (C) cœur ;" },
+                    { chord: "F", text: "(F) Qu'importe qu'on (C) voie tout (D) notre (G) bonheur," },
+                    { chord: "C", text: "(C) Selon sa promesse, (G) Jésus changera (C) " },
+                    { chord: "C", text: "(C) Deuil (F) en allégresse (C) , quand (G) Il reviendra. (C) " },
+                ],
+            ]
+        },
+        //Fin Cantiques Dimanche 19 Janvier 2025 (Troisième Dimanche de l'année 2025)
         //Début Cantiques Dimanche 12 Janvier 2025 (Deuxième Dimanche de l'année 2025)
         {
             key: "dim-12-01-2025",
