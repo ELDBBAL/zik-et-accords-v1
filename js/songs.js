@@ -1,5 +1,167 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Dimanche 02 Février 2025 (Cinquième Dimanche de l'année 2025)
+        {
+            key: "dim-02-02-2025",
+            title: "MY FAITH LOOKS UP TO THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oGKLmThF2to?si=tKiGHOp3RtUe5SZY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My faith looks up to thee" },
+                    { chord: "G", text: "(G) Thou Lamb of Calvary" },
+                    { chord: "C", text: "(C) Savior (G) divine!" },
+                    { chord: "C", text: "(C) Now hear me while I pray" },
+                    { chord: "C", text: "(C) Take all my guilt away" },
+                    { chord: "C", text: "(C) O let me from this day" },
+                    { chord: "C", text: "(C) Be (F) wholly (G) thine! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) May thy rich grace impart" },
+                    { chord: "G", text: "(G) Strength to my fainting heart" },
+                    { chord: "C", text: "(C) My zeal (G) inspire!" },
+                    { chord: "C", text: "(C) As thou hast died for me" },
+                    { chord: "C", text: "(C) O may my love to thee" },
+                    { chord: "C", text: "(C) Pure, warm, and changeless be" },
+                    { chord: "F", text: "(F) A (G) living (C) fire!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When life's dark maze I tread" },
+                    { chord: "G", text: "(G) And griefs around me spread" },
+                    { chord: "C", text: "(C) Be thou my (G) guide" },
+                    { chord: "C", text: "(C) Bid darkness turn to day" },
+                    { chord: "C", text: "(C) Wipe sorrow's tears away" },
+                    { chord: "C", text: "(C) Nor let me ever stray" },
+                    { chord: "F", text: "(F) From (G) thee (C) aside" }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "CAR TA BONTE VAUT MIEUX QUE LA VIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QrCUM-la1Gk?si=EYVaEcEURoThxsa3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Car ta bonté vaut mieux que la (F) vie," },
+                    { chord: "G", text: "(G) Car ta bonté vaut mieux que la (C) vie," },
+                    { chord: "Am", text: "(Am) Mes lèvres (C) célèbrent tes (F) louanges," },
+                    { chord: "C", text: "(C) Car ta bonté vaut (G) mieux que la (C) vie." }
+                ],
+                [
+                    { chord: "C", text: "(C) J'élèverai mes mains en ton (F) nom," },
+                    { chord: "G", text: "(G) J'élèverai mes mains en ton (C) nom," },
+                    { chord: "Am", text: "(Am) Mes lèvres (C) célèbrent tes (F) louanges," },
+                    { chord: "C", text: "(C) Car ta bonté vaut (G) mieux que la (C) vie." }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "COMBIEN IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Sz1eFeV7O84?si=oYlXPk2aG_VbajYU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ecoute ô ciel et tout (F) ce que tu as" },
+                    { chord: "C", text: "(C) Combien Jésus-Christ est (D) riche en (G) bonté." },
+                    { chord: "C", text: "(C) Et toi terre des hommes et (F) bétail des champs" },
+                    { chord: "C", text: "(C) O louez-le (G) car Il est (C) bon." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Combien Il est bon" },
+                    { chord: "F", text: "(F) Combien Il est bon" },
+                    { chord: "C", text: "(C) Combien Il est bon" },
+                    { chord: "G", text: "(G) Mon Seigneur, mon Dieu" },
+                    { chord: "C", text: "(C) Combien Il est bon, (F) Alléluia," },
+                    { chord: "C", text: "(C) Oui je le (G) louerai (C) toujours." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il nous a créés pour la (F) Vie éternelle" },
+                    { chord: "C", text: "(C) Mais nous avons péché et (D) avons tout (G) perdu" },
+                    { chord: "C", text: "(C) Mais dans Sa bonté Il (F) se décida" },
+                    { chord: "C", text: "(C) De nous (G) ramener à la (C) vie." }
+                ],
+                [
+                    { chord: "C", text: "(C) Et comme un Agneau, Il (F) vint ici-bas" },
+                    { chord: "C", text: "(C) Et versa Son sang (D) pour nous (G) racheter" },
+                    { chord: "C", text: "(C) Et depuis ce jour-là, nous (F) pouvons crier :" },
+                    { chord: "C", text: "(C) « O mort, (G) où est ton (C) aiguillon ? »" }
+                ],
+                [
+                    { chord: "C", text: "(C) Pareil à un aigle,Il (F) veille sur nous." },
+                    { chord: "C", text: "(C) Il voit nos besoins, nul (D) n’est en (G) danger." },
+                    { chord: "C", text: "(C) Ainsi chaque jour, il (F) lance ce cri :" },
+                    { chord: "C", text: "(C) « Ne craignez (G) rien car Je suis (C) là. »" }
+                ],
+                [
+                    { chord: "C", text: "(C) Et comme une poule entoure (F) ses poussins" },
+                    { chord: "C", text: "(C) Jésus nous entoure et (D) prend soin de (G) nous" },
+                    { chord: "C", text: "(C) D’où viendra l’orage qu’il (F) saura calmer" },
+                    { chord: "C", text: "(C) Nous sommes (G) plus qu’en (C) sécurité." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je loue et j’adore mon (F) Seigneur Jésus" },
+                    { chord: "C", text: "(C) Pour tout ce qu’Il ne (D) cesse de faire (G) pour moi" },
+                    { chord: "C", text: "(C) Oh, je ne puis compter Ses (F) nombreux bienfaits," },
+                    { chord: "C", text: "(C) Oh combien (G) je vais (C) l’adorer!" }
+                ],
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "WE'RE MARCHING TO ZION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ONMOvdaOPhc?si=yud1TrABKH2tFSbx",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come, we that love the Lord," },
+                    { chord: "C", text: "(C) And let our joys be known;" },
+                    { chord: "C", text: "(C) Join in a song with sweet accord," },
+                    { chord: "C", text: "(C) And thus surround the throne." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) We’re marching to Zion," },
+                    { chord: "F", text: "(F) Beautiful, beautiful Zion;" },
+                    { chord: "C", text: "(C) We’re marching upward to Zion," },
+                    { chord: "G", text: "(G) The beautiful city of God." }
+                ],
+                [
+                    { chord: "C", text: "(C) The sorrows of the mind" },
+                    { chord: "C", text: "(C) Be banished from the place;" },
+                    { chord: "C", text: "(C) Religion never was designed" },
+                    { chord: "C", text: "(C) To make our pleasures less." }
+                ],
+                [
+                    { chord: "C", text: "(C) Let those refuse to sing," },
+                    { chord: "C", text: "(C) Who never knew our God;" },
+                    { chord: "C", text: "(C) But children of the heav’nly King" },
+                    { chord: "C", text: "(C) May speak their joys abroad." }
+                ],
+                [
+                    { chord: "C", text: "(C) The men of grace have found" },
+                    { chord: "C", text: "(C) Glory begun below;" },
+                    { chord: "C", text: "(C) Celestial fruits on earthly ground" },
+                    { chord: "C", text: "(C) From faith and hope may grow." }
+                ],
+                [
+                    { chord: "C", text: "(C) The hill of Zion yields" },
+                    { chord: "C", text: "(C) A thousand sacred sweets" },
+                    { chord: "C", text: "(C) Before we reach the heav’nly fields," },
+                    { chord: "C", text: "(C) Or walk the golden streets." }
+                ],
+                [
+                    { chord: "C", text: "(C) Then let our songs abound," },
+                    { chord: "C", text: "(C) And every tear be dry;" },
+                    { chord: "C", text: "(C) We’re marching through Immanuel’s ground" },
+                    { chord: "C", text: "(C) To fairer worlds on high." }
+                ],
+            ]
+        },
+        //Fin Cantiques Dimanche 02 Février 2025 (Cinquième Dimanche de l'année 2025)
+
         //Début Cantiques Dimanche 26 Janvier 2025 (Quatrième Dimanche de l'année 2025)
         {
             key: "dim-26-01-2025",
