@@ -160,6 +160,184 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-02-02-2025",
+            title: "LE SEIGNEUR M'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/vvHn3JaT_JQ?si=ERJS3rZhnodjpEgh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Seigneur m’aime," },
+                    { chord: "F", text: "(F) Bonheur (C) suprême," },
+                    { chord: "C", text: "(C) Le Seigneur (F) m’aime," },
+                    { chord: "G", text: "(G) Il est (C) amour !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je redirai (G) toujours :" },
+                    { chord: "G", text: "(G) Le Seigneur (C) m’aime," },
+                    { chord: "C", text: "(C) Le Seigneur (F) m’aime," },
+                    { chord: "G", text: "(G) Il est (C) amour !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans la misère" },
+                    { chord: "F", text: "(F) La plus (C) amère," },
+                    { chord: "C", text: "(C) Dans la (F) misère" },
+                    { chord: "G", text: "(G) J’étais (C) plongé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans la souffrance" },
+                    { chord: "F", text: "(F) Sans (C) espérance," },
+                    { chord: "C", text: "(C) Dans la (F) souffrance" },
+                    { chord: "G", text: "(G) Je (C) gémissais." }
+                ],
+                [
+                    { chord: "C", text: "(C) Portant ma peine," },
+                    { chord: "F", text: "(F) Ma lourde (C) chaîne," },
+                    { chord: "C", text: "(C) Portant ma (F) peine," },
+                    { chord: "G", text: "(G) J’étais (C) perdu." }
+                ],
+                [
+                    { chord: "C", text: "(C) En sacrifice" },
+                    { chord: "F", text: "(F) À la (C) justice," },
+                    { chord: "C", text: "(C) En (F) sacrifice" },
+                    { chord: "G", text: "(G) Il vint (C) s’offrir." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le poids immense" },
+                    { chord: "F", text: "(F) De mon (C) offense," },
+                    { chord: "C", text: "(C) Le poids (F) immense" },
+                    { chord: "G", text: "(G) Tomba sur (C) lui." }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "I AM HAPPY TODAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5itJJ44h6k4?si=loRPrSSOLo2c7RWM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am happy today" },
+                    { chord: "F", text: "(F) I am happy today" },
+                    { chord: "C", text: "(C) With Jesus my Lord, I am happy" },
+                    { chord: "G", text: "(G) He takes all my sins away" },
+                    { chord: "G", text: "(G) And that’s why I’m happy today" }
+                ],
+                [
+                    { chord: "C", text: "(C) Je suis heureux" },
+                    { chord: "F", text: "(F) Je suis heureux" },
+                    { chord: "C", text: "(C) Jésus m’a rendu heureux," },
+                    { chord: "G", text: "(G) Il me sanctifia de tous mes péchés" },
+                    { chord: "G", text: "(G) C’est pourquoi je suis heureux." }
+                ],
+                [
+                    { chord: "C", text: "(C) Mele dzido kpom" },
+                    { chord: "F", text: "(F) Mele dzido kpom" },
+                    { chord: "C", text: "(C) Nye Afetf Yesu nam dzidzo" },
+                    { chord: "G", text: "(G) Eklo nye nuvowo kata da" },
+                    { chord: "G", text: "(G) Eyata makpo dzidzo." }
+                ],
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "JE VEUX ADORER SON NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                    { chord: "F", text: "(F) Je veux adorer son Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
+                    { chord: "G", text: "(G) Je veux adorer son Nom" }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "IL EST MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il est merveilleux ! Il est Tout-puissant" },
+                    { chord: "F", text: "(F) Le monde entier le loue ! Il est merveilleux !" },
+                    { chord: "C", text: "(C) Les rachetés Le louent ! Il est merveilleux" }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "QUI ME RELEVE DE MES CHUTES",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Qui me relève dans mes chutes?" },
+                    { chord: "F", text: "(F) C'est Jésus-Christ;" },
+                    { chord: "C", text: "(C) Qui combat pour moi dans les luttes?" },
+                    { chord: "C", text: "(C) C'est Jésus-Christ." },
+                    { chord: "C", text: "(C) Jésus a parlé, je veux le croire" },
+                    { chord: "C", text: "(C) Que je puis lutter pour sa gloire," },
+                    { chord: "C", text: "(C) Car mon bouclier, ma victoire," },
+                    { chord: "C", text: "(C) C'est Jésus-Christ." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je vais à mon Père, et ma voie" },
+                    { chord: "F", text: "(F) C'est Jésus-Christ;" },
+                    { chord: "C", text: "(C) Je suis bienheureux, et ma joie" },
+                    { chord: "C", text: "(C) C'est Jésus-Christ." },
+                    { chord: "C", text: "(C) Et si, même dans la souffrance," },
+                    { chord: "C", text: "(C) Mon coeur me parle d'espérance," },
+                    { chord: "C", text: "(C) C'est que j'ai mis ma confiance" },
+                    { chord: "C", text: "(C) En Jésus-Christ." }
+                ],
+                [
+                    { chord: "C", text: "(C) Sauvé, je ne me glorifie" },
+                    { chord: "F", text: "(F) Qu'en Jésus-Christ;" },
+                    { chord: "C", text: "(C) Pour la terre et le ciel, ma vie" },
+                    { chord: "C", text: "(C) C'est Jésus-Christ." },
+                    { chord: "C", text: "(C) Bientôt adieu, choses mortelles!" },
+                    { chord: "C", text: "(C) Loin de vous, je prendrai des ailes" },
+                    { chord: "C", text: "(C) Vers les demeures éternelles." },
+                    { chord: "C", text: "(C) Vers Jésus-Christ." }
+                ],
+            ]
+        },
+        {
+            key: "dim-02-02-2025",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I’m (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I’m onward (F) bound," },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (G) stand," },
+                    { chord: "G", text: "(G) By faith, on heaven’s table (C) land," },
+                    { chord: "C", text: "(C) A higher plane than I have (F) found;" },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "C", text: "(C) My heart has no desire to (F) stay," },
+                    { chord: "F", text: "(F) Where doubts (C) arise and fears (G) dismay;" },
+                    { chord: "G", text: "(G) Tho’ some may (C) dwell where these (F) abound," },
+                    { chord: "F", text: "(F) My prayer, my (C) aim, is (G) higher (C) ground." },
+                ],
+                [
+                    { chord: "C", text: "(C) I want to scale the utmost (F) height," },
+                    { chord: "F", text: "(F) And catch a (C) gleam of glory (G) bright;" },
+                    { chord: "G", text: "(G) But still I’ll (C) pray till heav’n I’ve (F) found," },
+                    { chord: "F", text: "(F) “Lord, lead (C) me on to (G) higher (C) ground.”" },
+                ],
+            ]
+        },
         //Fin Cantiques Dimanche 02 Février 2025 (Cinquième Dimanche de l'année 2025)
 
         //Début Cantiques Dimanche 26 Janvier 2025 (Quatrième Dimanche de l'année 2025)
