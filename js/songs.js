@@ -117,46 +117,58 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Come, we that love the Lord," },
-                    { chord: "C", text: "(C) And let our joys be known;" },
-                    { chord: "C", text: "(C) Join in a song with sweet accord," },
-                    { chord: "C", text: "(C) And thus surround the throne." }
+                    { chord: "C", text: "(C) And let our (D) joys be (G) known;" },
+                    { chord: "C", text: "(C) Join in a song with (Dm) sweet accord," },
+                    { chord: "Dm", text: "(Dm) Join in a song with (C) sweet accord," },
+                    { chord: "C", text: "(C) And thus (G) surround (Am) the (F) throne." },
+                    { chord: "C", text: "(C) And thus (G) surround the (C) throne." }
                 ],
                 [
                     { chord: "C", text: "CHORUS:" },
                     { chord: "C", text: "(C) We’re marching to Zion," },
-                    { chord: "F", text: "(F) Beautiful, beautiful Zion;" },
-                    { chord: "C", text: "(C) We’re marching upward to Zion," },
-                    { chord: "G", text: "(G) The beautiful city of God." }
+                    { chord: "C", text: "(C) Beautiful, (D) beautiful (G) Zion;" },
+                    { chord: "C", text: "(C) We’re marching upward to (F) Zion," },
+                    { chord: "C", text: "(C) The beautiful (G) city of (C) God." }
                 ],
                 [
                     { chord: "C", text: "(C) The sorrows of the mind" },
-                    { chord: "C", text: "(C) Be banished from the place;" },
-                    { chord: "C", text: "(C) Religion never was designed" },
-                    { chord: "C", text: "(C) To make our pleasures less." }
+                    { chord: "C", text: "(C) Be banished (D) from the (G) place;" },
+                    { chord: "C", text: "(C) Religion never (Dm) was designed" },
+                    { chord: "Dm", text: "(Dm) Religion never (C) was designed" },
+                    { chord: "C", text: "(C) To make (G) our (Am) pleasures (F) less." },
+                    { chord: "C", text: "(C) To make (G) our pleasures (C) less." }
                 ],
                 [
                     { chord: "C", text: "(C) Let those refuse to sing," },
-                    { chord: "C", text: "(C) Who never knew our God;" },
-                    { chord: "C", text: "(C) But children of the heav’nly King" },
-                    { chord: "C", text: "(C) May speak their joys abroad." }
+                    { chord: "C", text: "(C) Who never (D) knew our (G) God;" },
+                    { chord: "C", text: "(C) But children of the (Dm) heav’nly King" },
+                    { chord: "Dm", text: "(Dm) But children of the (C) heav’nly King" },
+                    { chord: "C", text: "(C) May speak (G) their (Am) joys (F) abroad." },
+                    { chord: "C", text: "(C) May speak (G) their joys (C) abroad." }
                 ],
                 [
                     { chord: "C", text: "(C) The men of grace have found" },
-                    { chord: "C", text: "(C) Glory begun below;" },
-                    { chord: "C", text: "(C) Celestial fruits on earthly ground" },
-                    { chord: "C", text: "(C) From faith and hope may grow." }
+                    { chord: "C", text: "(C) Glory (D) begun (G) below;" },
+                    { chord: "C", text: "(C) Celestial fruits on (Dm) earthly ground" },
+                    { chord: "Dm", text: "(Dm) Celestial fruits on (C) earthly ground" },
+                    { chord: "C", text: "(C) From faith (G) and hope (Am) may (F) grow." },
+                    { chord: "C", text: "(C) From faith (G) and hope may (C) grow." }
                 ],
                 [
                     { chord: "C", text: "(C) The hill of Zion yields" },
-                    { chord: "C", text: "(C) A thousand sacred sweets" },
-                    { chord: "C", text: "(C) Before we reach the heav’nly fields," },
-                    { chord: "C", text: "(C) Or walk the golden streets." }
+                    { chord: "C", text: "(C) A thousand (D) sacred (G) sweets" },
+                    { chord: "C", text: "(C) Before we reach the (Dm) heav’nly fields," },
+                    { chord: "Dm", text: "(Dm) Before we reach the (C) heav’nly fields," },
+                    { chord: "C", text: "(C) Or walk (G) the (Am) golden (F) streets." },
+                    { chord: "C", text: "(C) Or walk (G) the golden (C) streets." }
                 ],
                 [
                     { chord: "C", text: "(C) Then let our songs abound," },
-                    { chord: "C", text: "(C) And every tear be dry;" },
-                    { chord: "C", text: "(C) We’re marching through Immanuel’s ground" },
-                    { chord: "C", text: "(C) To fairer worlds on high." }
+                    { chord: "C", text: "(C) And every (D) tear be (G) dry;" },
+                    { chord: "C", text: "(C) We’re marching through (Dm) Immanuel’s ground" },
+                    { chord: "Dm", text: "(Dm) We’re marching through (C) Immanuel’s ground" },
+                    { chord: "C", text: "(C) To fairer (G) worlds (Am) on (F) high." },
+                    { chord: "C", text: "(C) To fairer (G) worlds on (C) high." }
                 ],
             ]
         },
@@ -261,9 +273,14 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Il est merveilleux ! Il est Tout-puissant" },
-                    { chord: "F", text: "(F) Le monde entier le loue ! Il est merveilleux !" },
-                    { chord: "C", text: "(C) Les rachetés Le louent ! Il est merveilleux" }
+                    { chord: "C", text: "(C) Il est (F) merveilleux (C) !" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Il est (F) Tout-puissant (C) !" },
+                    { chord: "C", text: "(C) Il est (G) Tout-puissant (C)" },
+                    { chord: "C", text: "(C) Le monde (F) entier le (C) loue" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Les rachetés (F) entier le (C) louent" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" }
                 ]
             ]
         },
