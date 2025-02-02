@@ -288,37 +288,37 @@ const songs = [
             key: "dim-02-02-2025",
             title: "QUI ME RELEVE DE MES CHUTES",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/h7JrmtsA-es?si=dBacIpJFWT10oA3U",
             verses: [
                 [
                     { chord: "C", text: "(C) Qui me relève dans mes chutes?" },
-                    { chord: "F", text: "(F) C'est Jésus-Christ;" },
+                    { chord: "F", text: "(F) C'est (G) Jésus (C) Christ;" },
                     { chord: "C", text: "(C) Qui combat pour moi dans les luttes?" },
-                    { chord: "C", text: "(C) C'est Jésus-Christ." },
+                    { chord: "F", text: "(F) C'est (G) Jésus (C) Christ;" },
                     { chord: "C", text: "(C) Jésus a parlé, je veux le croire" },
-                    { chord: "C", text: "(C) Que je puis lutter pour sa gloire," },
+                    { chord: "G", text: "(G) Que je puis lutter pour sa (C) gloire," },
                     { chord: "C", text: "(C) Car mon bouclier, ma victoire," },
-                    { chord: "C", text: "(C) C'est Jésus-Christ." }
+                    { chord: "F", text: "(F) C'est (G) Jésus (C) Christ;" },
                 ],
                 [
                     { chord: "C", text: "(C) Je vais à mon Père, et ma voie" },
-                    { chord: "F", text: "(F) C'est Jésus-Christ;" },
+                    { chord: "F", text: "(F) C'est (G) Jésus (C) Christ;" },
                     { chord: "C", text: "(C) Je suis bienheureux, et ma joie" },
-                    { chord: "C", text: "(C) C'est Jésus-Christ." },
+                    { chord: "F", text: "(F) C'est (G) Jésus (C) Christ;" },,
                     { chord: "C", text: "(C) Et si, même dans la souffrance," },
-                    { chord: "C", text: "(C) Mon coeur me parle d'espérance," },
+                    { chord: "G", text: "(G) Mon coeur me parle (C) d'espérance," },
                     { chord: "C", text: "(C) C'est que j'ai mis ma confiance" },
-                    { chord: "C", text: "(C) En Jésus-Christ." }
+                    { chord: "F", text: "(F) En (G) Jésus (C) Christ." }
                 ],
                 [
                     { chord: "C", text: "(C) Sauvé, je ne me glorifie" },
-                    { chord: "F", text: "(F) Qu'en Jésus-Christ;" },
+                    { chord: "F", text: "(F) Qu'en (G) Jésus (C) Christ;" },
                     { chord: "C", text: "(C) Pour la terre et le ciel, ma vie" },
-                    { chord: "C", text: "(C) C'est Jésus-Christ." },
+                    { chord: "F", text: "(F) C'est (G) Jésus (C) Christ;" },,
                     { chord: "C", text: "(C) Bientôt adieu, choses mortelles!" },
-                    { chord: "C", text: "(C) Loin de vous, je prendrai des ailes" },
+                    { chord: "G", text: "(G) Loin de vous, je prendrai des (C) ailes" },
                     { chord: "C", text: "(C) Vers les demeures éternelles." },
-                    { chord: "C", text: "(C) Vers Jésus-Christ." }
+                    { chord: "F", text: "(F) Vers (G) Jésus (C) Christ." }
                 ],
             ]
         },
