@@ -1,5 +1,288 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Dimanche 09 Février 2025 (Sixième Dimanche de l'année 2025)
+        {
+            key: "dim-09-02-2025",
+            title: "HOLD TO GOD'S UNCHANGING HAND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-eubf6dHP-U?si=Sa3zPatQYgaeg0HU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Time is filled with swift transition" },
+                    { chord: "C", text: "(C) Naught of (D) earth unmoved can (G) stand" },
+                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Hold to God's unchanging hand!" },
+                    { chord: "C", text: "(C) Hold to (D) God's unchanging (G) hand!" },
+                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Trust in Him who will not leave you" },
+                    { chord: "C", text: "(C) Whatsoever (D) years may (G) bring" },
+                    { chord: "C", text: "(C) If by earthly friends forsaken, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Still more (G) closely to Him (C) cling!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Covet not this world's vain riches" },
+                    { chord: "C", text: "(C) That so (D) rapidly (G) decay" },
+                    { chord: "C", text: "(C) Seek to gain the heavenly treasures, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) They will (G) never pass (C) away!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When your journey is completed," },
+                    { chord: "C", text: "(C) If to God (D) you have been (G) true," },
+                    { chord: "C", text: "(C) Fair and bright the home in glory, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Your enraptured (G) soul will (C) view!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "CE N'EST PAS PAR LA FORCE NI LA PUISSANCE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Time is filled with swift transition" },
+                    { chord: "C", text: "(C) Naught of (D) earth unmoved can (G) stand" },
+                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Hold to God's unchanging hand!" },
+                    { chord: "C", text: "(C) Hold to (D) God's unchanging (G) hand!" },
+                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Trust in Him who will not leave you" },
+                    { chord: "C", text: "(C) Whatsoever (D) years may (G) bring" },
+                    { chord: "C", text: "(C) If by earthly friends forsaken, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Still more (G) closely to Him (C) cling!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Covet not this world's vain riches" },
+                    { chord: "C", text: "(C) That so (D) rapidly (G) decay" },
+                    { chord: "C", text: "(C) Seek to gain the heavenly treasures, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) They will (G) never pass (C) away!" }
+                ],
+                [
+                    { chord: "C", text: "(C) When your journey is completed," },
+                    { chord: "C", text: "(C) If to God (D) you have been (G) true," },
+                    { chord: "C", text: "(C) Fair and bright the home in glory, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Your enraptured (G) soul will (C) view!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "I'M SO GLAD JESUS SET ME FREE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/huecQwO6Xzo?si=V9LTvXj1yz-BhlMe",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "I HAVE DECIDED TO FOLLOW JESUS",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "LORD LORD LORD YOU'VE SURELY BEEN GOOD TO ME",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "AT CALVARY",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "DANS UN MONDE DURE ET FORT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "SI RICHE, SI PROFOND",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "LES NATIONS SE DISLOQUENT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 09 Février 2025 (Sixième Dimanche de l'année 2025)
         //Début Cantiques Dimanche 02 Février 2025 (Cinquième Dimanche de l'année 2025)
         {
             key: "dim-02-02-2025",
