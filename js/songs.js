@@ -44,38 +44,33 @@ const songs = [
             key: "dim-09-02-2025",
             title: "CE N'EST PAS PAR LA FORCE NI LA PUISSANCE",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/BDUtd_aEJxA?si=Ooa9cM4yYfmliApn",
             verses: [
                 [
-                    { chord: "C", text: "(C) Time is filled with swift transition" },
-                    { chord: "C", text: "(C) Naught of (D) earth unmoved can (G) stand" },
-                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
-                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                    { chord: "C", text: "(C) Ce n'est pas par la force" },
+                    { chord: "C", text: "(C) Ni la puissance" },
+                    { chord: "C", text: "(C) Mais par (F) mon esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Hold to God's unchanging hand!" },
-                    { chord: "C", text: "(C) Hold to (D) God's unchanging (G) hand!" },
-                    { chord: "C", text: "(C) Build your hopes on things eternal, (C) - (Em) - (Am)" },
-                    { chord: "F", text: "(F) Hold to (G) God's unchanging (C) hand!" }
+                    { chord: "C", text: "(C) Cette (F) montagne (G) se déplacera (C) - (Am) " },
+                    { chord: "C", text: "(C) Cette (F) montagne (G) se déplacera, (C) ah ah ah" },
+                    { chord: "C", text: "(C) Cette (F) montagne (G) se déplacera (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Par mon (F) esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
                 ],
                 [
-                    { chord: "C", text: "(C) Trust in Him who will not leave you" },
-                    { chord: "C", text: "(C) Whatsoever (D) years may (G) bring" },
-                    { chord: "C", text: "(C) If by earthly friends forsaken, (C) - (Em) - (Am)" },
-                    { chord: "F", text: "(F) Still more (G) closely to Him (C) cling!" }
+                    { chord: "C", text: "(C) Quelques soit les problèmes" },
+                    { chord: "C", text: "(C) Les peines, les souffrances" },
+                    { chord: "C", text: "(C) Par mon (F) esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
                 ],
                 [
-                    { chord: "C", text: "(C) Covet not this world's vain riches" },
-                    { chord: "C", text: "(C) That so (D) rapidly (G) decay" },
-                    { chord: "C", text: "(C) Seek to gain the heavenly treasures, (C) - (Em) - (Am)" },
-                    { chord: "F", text: "(F) They will (G) never pass (C) away!" }
-                ],
-                [
-                    { chord: "C", text: "(C) When your journey is completed," },
-                    { chord: "C", text: "(C) If to God (D) you have been (G) true," },
-                    { chord: "C", text: "(C) Fair and bright the home in glory, (C) - (Em) - (Am)" },
-                    { chord: "F", text: "(F) Your enraptured (G) soul will (C) view!" }
+                    { chord: "C", text: "(C) A tes pieds je les déposes" },
+                    { chord: "C", text: "(C) Tu as le pouvoir de tout changer" },
+                    { chord: "C", text: "(C) Par mon (F) esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
                 ]
             ]
         },
@@ -112,29 +107,38 @@ const songs = [
             key: "dim-09-02-2025",
             title: "I HAVE DECIDED TO FOLLOW JESUS",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/L7XHeCZB5KU?si=33tM4JC8vZwdFZXW",
             verses: [
                 [
-                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
-                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
-                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) I have decided to follow Jesus;" },
+                    { chord: "C", text: "(C) I have (F) decided to follow (C) Jesus;" },
+                    { chord: "C", text: "(C) I have decided to follow (C) / (Em) / (Am)  Jesus;" },
+                    { chord: "F", text: "(F) No turning back, (G) no turning (C) back." }
                 ],
                 [
-                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
-                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
-                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) The cross before me, the world behind me;" },
+                    { chord: "C", text: "(C) The cross (F) before me, the world (C) behind me;" },
+                    { chord: "C", text: "(C) The cross before me, the world (C) / (Em) / (Am) behind me;" },
+                    { chord: "F", text: "(F) No turning back, (G) no turning (C) back." }
                 ],
                 [
-                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
-                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
-                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ]
+                    { chord: "C", text: "(C) Take this whole world, but give me Jesus" },
+                    { chord: "C", text: "(C) Take this (F) whole world, but give me (C) Jesus" },
+                    { chord: "C", text: "(C) Take this whole world, but give me (C) / (Em) / (Am) Jesus" },
+                    { chord: "F", text: "(F) I won't turn back, (G) I won't turn (C) back" }
+                ],
+                [
+                    { chord: "C", text: "(C) I have started for the kingdom" },
+                    { chord: "C", text: "(C) I have (F) started for the (C) kingdom" },
+                    { chord: "C", text: "(C) I have started for the (C) / (Em) / (Am) kingdom" },
+                    { chord: "F", text: "(F) I won't turn back, (G) I won't turn (C) back" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though none go with me, still will I follow" },
+                    { chord: "C", text: "(C) Though none (F) go with me, still will I (C) follow" },
+                    { chord: "C", text: "(C) Though none go with me, still will I (C) / (Em) / (Am) follow" },
+                    { chord: "F", text: "(F) No turning back, (G) no turning (C) back." }
+                ],
             ]
         },
         {
@@ -144,26 +148,35 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
-                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
-                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) I have decided to follow Jesus;" },
+                    { chord: "C", text: "(C) I have (F) decided to follow (C) Jesus;" },
+                    { chord: "C", text: "(C) I have decided to follow (C) / (E7) / Am  Jesus;" },
+                    { chord: "F", text: "(F) No turning back, no turning back." }
                 ],
                 [
-                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
-                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
-                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) The cross before me, the world behind me;" },
+                    { chord: "G", text: "(G) The cross before me, the world behind me;" },
+                    { chord: "C", text: "(C) The cross before me, the world behind me;" },
+                    { chord: "F", text: "(F) No turning back, no turning back." }
                 ],
                 [
-                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
-                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
-                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ]
+                    { chord: "C", text: "(C) Take this whole world, but give me Jesus" },
+                    { chord: "G", text: "(G) Take this whole world, but give me Jesus" },
+                    { chord: "C", text: "(C) Take this whole world, but give me Jesus" },
+                    { chord: "F", text: "(F) I won't turn back, I won't turn back" }
+                ],
+                [
+                    { chord: "C", text: "(C) I have started for the kingdom" },
+                    { chord: "G", text: "(G) I have started for the kingdom" },
+                    { chord: "C", text: "(C) I have started for the kingdom" },
+                    { chord: "F", text: "(F) I won't turn back, I won't turn back" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though none go with me, still will I follow" },
+                    { chord: "G", text: "(G) Though none go with me, still will I follow" },
+                    { chord: "C", text: "(C) Though none go with me, still will I follow" },
+                    { chord: "F", text: "(F) No turning back, no turning back." }
+                ],
             ]
         },
         {
