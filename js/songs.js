@@ -260,28 +260,28 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) J'errais dans un monde dur et froid" },
-                    { chord: "G", text: "(G) Sans savoir que par amour pour moi," },
+                    { chord: "G", text: "(G) Sans savoir que par amour pour (C) moi," },
                     { chord: "C", text: "(C) Jésus s'était donné sur la croix" },
-                    { chord: "F", text: "(F) À Golgotha !" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) C'est là que mes fardeaux sont tombés," },
-                    { chord: "G", text: "(G) C'est là que Jésus m'a tout donné," },
-                    { chord: "C", text: "(C) Le pardon, la paix, la liberté :" },
-                    { chord: "F", text: "(F) À Golgotha !" },
+                    { chord: "F", text: "(F) C'est là que mes fardeaux sont (C) tombés," },
+                    { chord: "G", text: "(G) C'est là que Jésus m'a tout (C) donné," },
+                    { chord: "F", text: "(F) Le pardon, la paix, la (C) liberté :" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
                 [
                     { chord: "C", text: "(C) Ployant sous le poids de mon péché," },
-                    { chord: "G", text: "(G) Redoutant la mort, l'éternité," },
+                    { chord: "G", text: "(G) Redoutant la mort, (C) l'éternité," },
                     { chord: "C", text: "(C) À Christ enfin j'ai tout confessé" },
-                    { chord: "F", text: "(F) À Golgotha !" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
                 [
                     { chord: "C", text: "(C) Maintenant à Christ j'ai tout donné," },
-                    { chord: "G", text: "(G) Maintenant tout en moi peut chanter" },
+                    { chord: "G", text: "(G) Maintenant tout en moi peut (C) chanter" },
                     { chord: "C", text: "(C) Maintenant la vie a commencé" },
-                    { chord: "F", text: "(F) À Golgotha !" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
             ]
         },
