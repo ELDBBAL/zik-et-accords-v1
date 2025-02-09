@@ -287,7 +287,7 @@ const songs = [
         },
         {
             key: "dim-09-02-2025",
-            title: "LES NATIONS SE DISLOQUENT",
+            title: "LE TEMPS EST DEJA LA",
             keySignature: "C",
             youtubeLink: "#",
             verses: [
