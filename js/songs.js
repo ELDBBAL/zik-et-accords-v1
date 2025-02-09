@@ -145,95 +145,44 @@ const songs = [
             key: "dim-09-02-2025",
             title: "LORD LORD LORD YOU'VE SURELY BEEN GOOD TO ME",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/lbu6Gq3yObw?si=YnJzRARM7ssc5iPI",
             verses: [
                 [
-                    { chord: "C", text: "(C) I have decided to follow Jesus;" },
-                    { chord: "C", text: "(C) I have (F) decided to follow (C) Jesus;" },
-                    { chord: "C", text: "(C) I have decided to follow (C) / (E7) / Am  Jesus;" },
-                    { chord: "F", text: "(F) No turning back, no turning back." }
+                    { chord: "C", text: "(C) You saved my soul when I was lost" },
+                    { chord: "C", text: "(C) You've surely been good to (G) me;" },
+                    { chord: "G", text: "(G) You saved my soul when I was lost" },
+                    { chord: "G", text: "(G) You've surely been good to (C) me;" },
+                    { chord: "C", text: "(C) You saved my soul when I was lost" },
+                    { chord: "C", text: "(C) You've surely been good to (F) me;" },
+                    { chord: "F", text: "(F) You have (C) done what this (G) world could not (C) do." },
                 ],
                 [
-                    { chord: "C", text: "(C) The cross before me, the world behind me;" },
-                    { chord: "G", text: "(G) The cross before me, the world behind me;" },
-                    { chord: "C", text: "(C) The cross before me, the world behind me;" },
-                    { chord: "F", text: "(F) No turning back, no turning back." }
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, Lord, Lord" },
+                    { chord: "C", text: "(C) You've surely been good to (G) me;" },
+                    { chord: "G", text: "(G) Lord, Lord, Lord" },
+                    { chord: "G", text: "(G) You've surely been good to (C) me;" },
+                    { chord: "C", text: "(C) Lord, Lord, Lord" },
+                    { chord: "C", text: "(C) You've surely been good to (F) me;" },
+                    { chord: "F", text: "(F) You have (C) done what this (G) world could not (C) do." },
                 ],
                 [
-                    { chord: "C", text: "(C) Take this whole world, but give me Jesus" },
-                    { chord: "G", text: "(G) Take this whole world, but give me Jesus" },
-                    { chord: "C", text: "(C) Take this whole world, but give me Jesus" },
-                    { chord: "F", text: "(F) I won't turn back, I won't turn back" }
+                    { chord: "C", text: "(C) You filled me with th Holy Ghost" },
+                    { chord: "C", text: "(C) You've surely been good to (G) me;" },
+                    { chord: "G", text: "(G) You filled me with th Holy Ghost" },
+                    { chord: "G", text: "(G) You've surely been good to (C) me;" },
+                    { chord: "C", text: "(C) You filled me with th Holy Ghost" },
+                    { chord: "C", text: "(C) You've surely been good to (F) me;" },
+                    { chord: "F", text: "(F) You have (C) done what this (G) world could not (C) do." },
                 ],
                 [
-                    { chord: "C", text: "(C) I have started for the kingdom" },
-                    { chord: "G", text: "(G) I have started for the kingdom" },
-                    { chord: "C", text: "(C) I have started for the kingdom" },
-                    { chord: "F", text: "(F) I won't turn back, I won't turn back" }
-                ],
-                [
-                    { chord: "C", text: "(C) Though none go with me, still will I follow" },
-                    { chord: "G", text: "(G) Though none go with me, still will I follow" },
-                    { chord: "C", text: "(C) Though none go with me, still will I follow" },
-                    { chord: "F", text: "(F) No turning back, no turning back." }
-                ],
-            ]
-        },
-        {
-            key: "dim-09-02-2025",
-            title: "AT CALVARY",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
-                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
-                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ],
-                [
-                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
-                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
-                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ],
-                [
-                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
-                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
-                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ]
-            ]
-        },
-        {
-            key: "dim-09-02-2025",
-            title: "DANS UN MONDE DURE ET FORT",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
-                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
-                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ],
-                [
-                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
-                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
-                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ],
-                [
-                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
-                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
-                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) You healed my body When I was sick" },
+                    { chord: "C", text: "(C) You've surely been good to (G) me;" },
+                    { chord: "G", text: "(G) You healed my body When I was sick" },
+                    { chord: "G", text: "(G) You've surely been good to (C) me;" },
+                    { chord: "C", text: "(C) You healed my body When I was sick" },
+                    { chord: "C", text: "(C) You've surely been good to (F) me;" },
+                    { chord: "F", text: "(F) You have (C) done what this (G) world could not (C) do." },
                 ]
             ]
         },
@@ -241,29 +190,99 @@ const songs = [
             key: "dim-09-02-2025",
             title: "SI RICHE, SI PROFOND",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/EZ0j2sBJ-9A?si=jfEMCvQvTo29ADym",
             verses: [
                 [
-                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
-                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
-                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) Si riche, si profond Insondable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
-                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
-                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi" },
+                    { chord: "F", text: "(F) Indigne sauvé par (G) grâce. " },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi " },
+                    { chord: "F", text: "(F) L’amour (G) rédempteur (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
-                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
-                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) Immuable, incomparable Inexprimable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Comme c’est beau, comme c’est doux " },
+                    { chord: "C", text: "(C) De fredonner de l’agneau Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "AT CALVARY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/aVwBKV_OYBc?si=elPcV5zi-J2fZoSH",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Years I spent in vanity and pride," },
+                    { chord: "G", text: "(G) Caring not my Lord (F) was (C) crucified," },
+                    { chord: "C", text: "(C) Knowing not it was for me He died" },
+                    { chord: "F", text: "(F) On (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Mercy there was great, and grace was (C) free;" },
+                    { chord: "G", text: "(G) Pardon there was multiplied to (C) me;" },
+                    { chord: "F", text: "(F) There my burdened soul found (C) liberty," },
+                    { chord: "F", text: "(F) At (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) By God’s Word at last my sin I learned;" },
+                    { chord: "G", text: "(G) Then I trembled at the law I’d (C) spurned," },
+                    { chord: "C", text: "(C) Till my guilty soul imploring turned" },
+                    { chord: "F", text: "(F) To (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Now I’ve giv’n to Jesus everything," },
+                    { chord: "G", text: "(G) Now I gladly own Him as my (C) King," },
+                    { chord: "C", text: "(C) Now my raptured soul can only sing" },
+                    { chord: "F", text: "(F) Of (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, the love that drew salvation’s plan!" },
+                    { chord: "G", text: "(G) Oh, the grace that brought it down to (C) man!" },
+                    { chord: "C", text: "(C) Oh, the mighty gulf that God did span" },
+                    { chord: "F", text: "(F) At (G) Calvary! (C) " },
                 ]
+            ]
+        },
+        {
+            key: "dim-09-02-2025",
+            title: "DANS UN MONDE DURE ET FORT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Je4vSonp8pE?si=9ra_yN22l7dF9im1",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'errais dans un monde dur et froid" },
+                    { chord: "G", text: "(G) Sans savoir que par amour pour moi," },
+                    { chord: "C", text: "(C) Jésus s'était donné sur la croix" },
+                    { chord: "F", text: "(F) À Golgotha !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) C'est là que mes fardeaux sont tombés," },
+                    { chord: "G", text: "(G) C'est là que Jésus m'a tout donné," },
+                    { chord: "C", text: "(C) Le pardon, la paix, la liberté :" },
+                    { chord: "F", text: "(F) À Golgotha !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Ployant sous le poids de mon péché," },
+                    { chord: "G", text: "(G) Redoutant la mort, l'éternité," },
+                    { chord: "C", text: "(C) À Christ enfin j'ai tout confessé" },
+                    { chord: "F", text: "(F) À Golgotha !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Maintenant à Christ j'ai tout donné," },
+                    { chord: "G", text: "(G) Maintenant tout en moi peut chanter" },
+                    { chord: "C", text: "(C) Maintenant la vie a commencé" },
+                    { chord: "F", text: "(F) À Golgotha !" },
+                ],
             ]
         },
         {
