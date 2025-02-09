@@ -292,26 +292,35 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
-                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
-                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) Le temps est déjà là" },
+                    { chord: "G", text: "(G) Les moqueurs nous entourent" },
+                    { chord: "C", text: "(C) Les guerres et bruits de guerre " },
+                    { chord: "F", text: "(F) Sont des signes prédits" },
                 ],
                 [
-                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
-                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
-                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                    { chord: "C", text: "(C) Changé en un clin d’œil" },
+                    { chord: "G", text: "(G) J’irai vers ce beau palais" },
+                    { chord: "C", text: "(C) Où il n’y a que la joie" },
+                    { chord: "F", text: "(F) Jésus est sa lumière" },
                 ],
                 [
-                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
-                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
-                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
-                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
-                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
-                ]
+                    { chord: "C", text: "(C) Les nations se disloquent" },
+                    { chord: "G", text: "(G) Israël se réveille" },
+                    { chord: "C", text: "(C) L’église cherche de l’huile" },
+                    { chord: "F", text: "(F) L’Epouse allume ses flambeaux" },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus est revenu" },
+                    { chord: "G", text: "(G) Dans un profond mystère" },
+                    { chord: "C", text: "(C) Le monde ne Le voit pas" },
+                    { chord: "F", text: "(F) Mais l’Epouse tous les jours" },
+                ],
+                [
+                    { chord: "C", text: "(C) Croyons aux sept tonnerres" },
+                    { chord: "G", text: "(G) Ils ouvrent la parole" },
+                    { chord: "C", text: "(C) C’est Christ la pierre de faîte" },
+                    { chord: "F", text: "(F) Acclamons pour Sa gloire" },
+                ],
             ]
         },
         //Fin Cantiques Dimanche 09 Février 2025 (Sixième Dimanche de l'année 2025)
