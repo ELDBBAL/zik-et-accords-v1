@@ -42,7 +42,7 @@ const songs = [
         },
         {
             key: "dim-16-02-2025",
-            title: "O HAPPY DAY THAT",
+            title: "O HAPPY DAY",
             keySignature: "C",
             youtubeLink: "https://youtu.be/-afm-sFp9qE?si=oWQT5L5_SFZBX5q6",
             verses: [
