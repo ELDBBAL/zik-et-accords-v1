@@ -163,47 +163,122 @@ const songs = [
             key: "dim-16-02-2025",
             title: "HE ABIDES",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/nTmzQaDa2i8?si=_hvZ63lJQTEIzM9c",
             verses: [
                 [
                     { chord: "C", text: "(C) I’m rejoicing night and day" },
-                    { chord: "G", text: "(G) As I walk the narrow way," },
-                    { chord: "C", text: "(C) For the hand of God in all my life I see;" },
-                    { chord: "F", text: "(F) And the reason of my bliss," },
-                    { chord: "F", text: "(F) Yes, the secret all is this:" },
-                    { chord: "F", text: "(F) That the Comforter abides with me." }
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the hand of God in all my life I (C) see;" },
+                    { chord: "C", text: "(C) And the reason of my bliss," },
+                    { chord: "C", text: "(C) Yes, (F) the secret all is this:" },
+                    { chord: "G", text: "(G) That the Comforter abides with (C) me." }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
                     { chord: "C", text: "(C) He abides, He abides;" },
-                    { chord: "G", text: "(G) Hallelujah, He abides with me!" },
+                    { chord: "F", text: "(F) Hallelujah, (G) He abides with (C) me!" },
                     { chord: "C", text: "(C) I’m rejoicing night and day" },
-                    { chord: "F", text: "(F) As I walk the narrow way," },
-                    { chord: "F", text: "(F) For the Comforter abides with me." }
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the Comforter abides with (C) me." }
                 ],
                 [
                     { chord: "C", text: "(C) Once my heart was full of sin," },
-                    { chord: "G", text: "(G) Once I had no peace within," },
-                    { chord: "C", text: "(C) Till I heard how Jesus died upon the tree;" },
-                    { chord: "F", text: "(F) Then I fell down at His feet," },
-                    { chord: "F", text: "(F) And there came a peace so sweet;" },
-                    { chord: "F", text: "(F) Now the Comforter abides with me." },
+                    { chord: "C", text: "(C) Once I (F) had no peace within," },
+                    { chord: "G", text: "(G) Till I heard how Jesus died upon the (C) tree;" },
+                    { chord: "C", text: "(C) Then I fell down at His feet," },
+                    { chord: "C", text: "(C) And there (F) came a peace so sweet;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." },
                 ],
                 [
                     { chord: "C", text: "(C) He is with me everywhere," },
-                    { chord: "G", text: "(G) And He knows my every care;" },
-                    { chord: "C", text: "(C) I’m as happy as a bird and just as free;" },
-                    { chord: "F", text: "(F) For the Spirit has control;" },
-                    { chord: "F", text: "(F) Jesus satisfies my soul," },
-                    { chord: "F", text: "(F) Since the Comforter abides with me." }
+                    { chord: "C", text: "(C) And He (F) knows my every care;" },
+                    { chord: "G", text: "(G) I’m as happy as a bird and just as (C) free;" },
+                    { chord: "C", text: "(C) For the Spirit has control;" },
+                    { chord: "C", text: "(C) Jesus (F) satisfies my soul," },
+                    { chord: "G", text: "(G) Since the Comforter abides with (C) me." }
                 ],
                 [
                     { chord: "C", text: "(C) There’s no thirsting for the things" },
-                    { chord: "G", text: "(G) Of the world—they’ve taken wings;" },
-                    { chord: "C", text: "(C) Long ago I gave them up, and instantly" },
-                    { chord: "F", text: "(F) All my night was turned to day," },
-                    { chord: "F", text: "(F) All my burdens rolled away;" },
-                    { chord: "F", text: "(F) Now the Comforter abides with me." }
+                    { chord: "C", text: "(C) Of the (F) world—they’ve taken wings;" },
+                    { chord: "G", text: "(G) Long ago I gave them up, and (C) instantly" },
+                    { chord: "C", text: "(C) All my night was turned to day," },
+                    { chord: "C", text: "(C) All my (F) burdens rolled away;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "WHEN THE SAVIOR CALLS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Jah_YZs4MDc?si=p_TVkecA-2LAzJz5",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) When He (G) calls for me I will (C) hear him" },
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) If my heart (G) is right, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) If my robe (G) is white, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "WHEN THE ROLL IS CALLED UP YONDER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_LjZfjuOASs?si=kGt_wHSvusTlXpKx",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When the trumpet of the Lord " },
+                    { chord: "C", text: "(C) Shall sound and (F) time shall be no (C) more," },
+                    { chord: "C", text: "(C) And the morning breaks, (D) eternal," },
+                    { chord: "D", text: "(D) bright and (G) fair;" },
+                    { chord: "C", text: "(C) When the saved of earth shall gather" },
+                    { chord: "C", text: "(C) Over on (F) the other (C) shore," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the roll is called up yonder," },
+                    { chord: "G", text: "(G) When the roll is called up yonder," },
+                    { chord: "C", text: "(C) When the roll is called up (F) yonder," },
+                    { chord: "F", text: "(F) When the (C) roll is called up (G) yonder, I'll be (C) there." }
+                ],
+                [
+                    { chord: "C", text: "(C) On that bright and cloudless morning" },
+                    { chord: "C", text: "(C) When the (F) dead in Christ shall (C) rise," },
+                    { chord: "C", text: "(C) And the glory of his (D) resurrection (G) share;" },
+                    { chord: "C", text: "(C) When his chosen ones shall gather" },
+                    { chord: "C", text: "(C) To their (F) home beyond the (C) skies," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ],
+                [
+                    { chord: "C", text: "(C) Let us labor for the Master" },
+                    { chord: "C", text: "(C) From the (F) dawn till setting (C) sun;" },
+                    { chord: "C", text: "(C) Let us talk of all his (D) wondrous love and (G) care." },
+                    { chord: "C", text: "(C) Then when all of life is over" },
+                    { chord: "C", text: "(C) And our (F) work on earth is (C) done," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
                 ]
             ]
         },
