@@ -246,7 +246,7 @@ const songs = [
             key: "dim-16-02-2025",
             title: "WHEN THE ROLL IS CALLED UP YONDER",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/_LjZfjuOASs?si=kGt_wHSvusTlXpKx",
+            youtubeLink: "https://youtu.be/_LjZfjuOASs?si=57pUu5xvIHi8pq0C",
             verses: [
                 [
                     { chord: "C", text: "(C) When the trumpet of the Lord " },
@@ -279,6 +279,56 @@ const songs = [
                     { chord: "C", text: "(C) Then when all of life is over" },
                     { chord: "C", text: "(C) And our (F) work on earth is (C) done," },
                     { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ]
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "WHAT MANNER OF MAN IS JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KTpzgW89k68?si=z5NugJjaxy0M9J3l",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What manner of man is Jesus (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) What manner of man is Jesus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "I AM BOUND FOR THE PROMISE LAND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/388bXLcbw_4?si=D_I1f-nUlHszCVBQ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) On Jordan's stormy banks I stand," },
+                    { chord: "C", text: "(C) And cast a wishful eye" },
+                    { chord: "C", text: "(C) To Canaan's fair and happy land," },
+                    { chord: "D", text: "(D) Where my possessions lie." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I am bound for the promised land," },
+                    { chord: "G", text: "(G) I am bound for the promised land," },
+                    { chord: "C", text: "(C) Oh, who will come and go with me?" },
+                    { chord: "F", text: "(F) I am bound for the promised land." }
+                ],
+                [
+                    { chord: "C", text: "(C) O'er all those wide extended plains" },
+                    { chord: "C", text: "(C) Shines one eternal day;" },
+                    { chord: "C", text: "(C) There God the Son forever reigns," },
+                    { chord: "C", text: "(C) And scatters night away." }
+                ],
+                [
+                    { chord: "C", text: "(C) No chilling winds or poisonous breath" },
+                    { chord: "C", text: "(C) Can reach that healthful shore;" },
+                    { chord: "C", text: "(C) Sickness and sorrow, pain and death," },
+                    { chord: "C", text: "(C) Are felt and feared no more." }
                 ]
             ]
         },
