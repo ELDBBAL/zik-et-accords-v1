@@ -1,5 +1,214 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Dimanche 16 Février 2025 (Septième Dimanche de l'année 2025)
+        {
+            key: "dim-16-02-2025",
+            title: "PASS ME NOT O GENTLE SAVIOR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Br8c0Kkx6vs?si=TFhs2rPcoD8kdvyj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pass me (F) not, O gentle (C) Savior" },
+                    { chord: "G", text: "(G) Hear my humble (C) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Savior, (F) Savior" },
+                    { chord: "C", text: "(C) Hear my (D) humble (G) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let me (F) at Thy throne of (C) mercy" },
+                    { chord: "G", text: "(G) Find a sweet (C) relief" },
+                    { chord: "C", text: "(C) Kneeling (F) there in deep (C) contrition (Am) " },
+                    { chord: "F", text: "(F) Help (G) my unbelief (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Trusting (F) only in Thy (C) merit" },
+                    { chord: "G", text: "(G) Would I seek Thy (C) face" },
+                    { chord: "C", text: "(C) Heal my (F) wounded, broken (C) spirit (Am) " },
+                    { chord: "F", text: "(F) Save (G) me by Thy (C) grace" }
+                ],
+                [
+                    { chord: "C", text: "(C) Thou the (F) spring of all my (C) comfort" },
+                    { chord: "G", text: "(G) More than life to (C) me" },
+                    { chord: "C", text: "(C) Whom have (F) I on earth beside (C) Thee? (Am) " },
+                    { chord: "F", text: "(F) Whom (G) in Heav'n but (C) Thee?" }
+                ],
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "O HAPPY DAY THAT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-afm-sFp9qE?si=oWQT5L5_SFZBX5q6",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O happy day that fixed my choice" },
+                    { chord: "C", text: "(C) On Thee, my (F) Savior (G) and my (C) God!" },
+                    { chord: "C", text: "(C) Well may this glowing heart rejoice," },
+                    { chord: "C", text: "(C) And tell its (G) raptures all (C) abroad." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Happy day, (G) happy (C) day," },
+                    { chord: "C", text: "(C) When Jesus (F) washed (G) my sins (C) away!" },
+                    { chord: "C", text: "(C) He taught me how to (F) watch and (C) pray," },
+                    { chord: "C", text: "(C) And live rejoicing (F) every (C) day;" },
+                    { chord: "C", text: "(C) Happy day, (F) happy (C) day," },
+                    { chord: "C", text: "(C) When Jesus (F) washed (G) my sins (C) away!" }
+                ],
+                [
+                    { chord: "C", text: "(C) O happy bond, that seals my vows" },
+                    { chord: "C", text: "(C) To Him who (F) merits (G) all my (C) love;" },
+                    { chord: "C", text: "(C) Let cheerful anthems fill His house," },
+                    { chord: "C", text: "(C) While to that (G) sacred shrine I (C) move." }
+                ],
+                [
+                    { chord: "C", text: "(C) Tis done, the great transaction’s done," },
+                    { chord: "C", text: "(C) I am my (F) Lord’s, (G) and He is (C) mine;" },
+                    { chord: "C", text: "(C) He drew me, and I followed on," },
+                    { chord: "C", text: "(C) Charmed to (G) confess the voice (C) divine." }
+                ],
+                [
+                    { chord: "C", text: "(C) High Heaven, that heard that solemn vow," },
+                    { chord: "C", text: "(C) That vow (F) renewed (G) shall daily (C) hear;" },
+                    { chord: "C", text: "(C) Till in life’s latest hour I bow," },
+                    { chord: "C", text: "(C) And bless in (G) death a bond so (C) dear." }
+                ],
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "I AM RESOLVED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/u-exN3kKtvA?si=izzO_eGrPo3JQETz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am resolved no (F) longer to linger," },
+                    { chord: "C", text: "(C) Charmed by the (D) world’s (G) delight," },
+                    { chord: "C", text: "(C) Things that are higher, (F) things that are nobler," },
+                    { chord: "C", text: "(C) These have (G) allured my (C) sight." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I will (F) hasten to Him," },
+                    { chord: "C", text: "(C) Hasten so (D) glad and (G) free;" },
+                    { chord: "C", text: "(C) Jesus, (F) greatest, highest," },
+                    { chord: "C", text: "(C) I will (G) come to (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved to (F) go to the Savior," },
+                    { chord: "C", text: "(C) Leaving my (D) sin and (G) strife;" },
+                    { chord: "C", text: "(C) He is the true One, He (F) is the just One," },
+                    { chord: "C", text: "(C) He hath (G) the words of (C) life." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved to (F) follow the Savior," },
+                    { chord: "C", text: "(C) Faithful and (D) true each (G) day;" },
+                    { chord: "C", text: "(C) Heed what He sayeth, do (F) what He willeth," },
+                    { chord: "C", text: "(C) He is (G) the living (C) Way." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved to (F) enter the kingdom," },
+                    { chord: "C", text: "(C) Leaving the (D) paths of (G) sin;" },
+                    { chord: "C", text: "(C) Friends may oppose me, (F) foes may beset me," },
+                    { chord: "C", text: "(C) Still (G) will I enter (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved, and (F) who will go with me?" },
+                    { chord: "C", text: "(C) Come, friends, (D) without (G) delay;" },
+                    { chord: "C", text: "(C) Taught by the Bible, (F) led by the Spirit," },
+                    { chord: "C", text: "(C) We’ll (G) walk the heav’nly (C) way." }
+                ],
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "I SHALL NOT BE MOVED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bbAntGcJOWY?si=fy6fIErLpm7WOVio",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is my Savior, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love and favor, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I shall not be, (G) I shall not be moved." },
+                    { chord: "G", text: "(G) I shall not be, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) In my Christ abiding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love I’m hiding, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) On His word I'm feeding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) He's the one that's leading, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-02-2025",
+            title: "HE ABIDES",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "G", text: "(G) As I walk the narrow way," },
+                    { chord: "C", text: "(C) For the hand of God in all my life I see;" },
+                    { chord: "F", text: "(F) And the reason of my bliss," },
+                    { chord: "F", text: "(F) Yes, the secret all is this:" },
+                    { chord: "F", text: "(F) That the Comforter abides with me." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He abides, He abides;" },
+                    { chord: "G", text: "(G) Hallelujah, He abides with me!" },
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "F", text: "(F) As I walk the narrow way," },
+                    { chord: "F", text: "(F) For the Comforter abides with me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Once my heart was full of sin," },
+                    { chord: "G", text: "(G) Once I had no peace within," },
+                    { chord: "C", text: "(C) Till I heard how Jesus died upon the tree;" },
+                    { chord: "F", text: "(F) Then I fell down at His feet," },
+                    { chord: "F", text: "(F) And there came a peace so sweet;" },
+                    { chord: "F", text: "(F) Now the Comforter abides with me." },
+                ],
+                [
+                    { chord: "C", text: "(C) He is with me everywhere," },
+                    { chord: "G", text: "(G) And He knows my every care;" },
+                    { chord: "C", text: "(C) I’m as happy as a bird and just as free;" },
+                    { chord: "F", text: "(F) For the Spirit has control;" },
+                    { chord: "F", text: "(F) Jesus satisfies my soul," },
+                    { chord: "F", text: "(F) Since the Comforter abides with me." }
+                ],
+                [
+                    { chord: "C", text: "(C) There’s no thirsting for the things" },
+                    { chord: "G", text: "(G) Of the world—they’ve taken wings;" },
+                    { chord: "C", text: "(C) Long ago I gave them up, and instantly" },
+                    { chord: "F", text: "(F) All my night was turned to day," },
+                    { chord: "F", text: "(F) All my burdens rolled away;" },
+                    { chord: "F", text: "(F) Now the Comforter abides with me." }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 16 Février 2025 (Septième Dimanche de l'année 2025)
+
         //Début Cantiques Dimanche 09 Février 2025 (Sixième Dimanche de l'année 2025)
         {
             key: "dim-09-02-2025",
