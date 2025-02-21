@@ -1,5 +1,356 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Début Cantiques Dimanche 23 Février 2025 (Huitième Dimanche de l'année 2025)
+        {
+            key: "dim-23-02-2025",
+            title: "HOW GREAT THOU ART",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Cc0QVWzCv9k?si=t73ORISSWDcqCOjD",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Oh Lord, my God " },
+                    { chord: "C", text: "(C) When I, in awesome (F) wonder" },
+                    { chord: "F", text: "(F) Consider (C) all the (G) worlds Thy hands have (C) made" },
+                    { chord: "C", text: "(C) I see the stars, I hear the rolling (F) thunder" },
+                    { chord: "F", text: "(F) Thy power (C) throughout the (G) universe (C) displayed" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Then sings my soul, my Savior God to (C) Thee" },
+                    { chord: "C", text: "(C) How great Thou (G) art, how great Thou (C) art" },
+                    { chord: "C", text: "(C) Then sings my soul, my Savior God to Thee (Am) " },
+                    { chord: "C", text: "(C) How great Thou (F) art, how (G) great Thou (C) art" },
+                ],
+                [
+                    { chord: "C", text: "(C) And when I think that God, " },
+                    { chord: "C", text: "(C) His Son not (F) sparing" },
+                    { chord: "F", text: "(F) Sent Him to (C) die, I (G) scarce can take it (C) in" },
+                    { chord: "C", text: "(C) That on the cross, my burden gladly (F) bearing" },
+                    { chord: "F", text: "(F) He bled (C) and died to (G) take away my (C) sin" }
+                ],
+                [
+                    { chord: "C", text: "(C) When Christ shall come, " },
+                    { chord: "C", text: "(C) with shout of (F) acclamation" },
+                    { chord: "F", text: "(F) And take (C) me home, (G) what joy shall fill my (C) heart" },
+                    { chord: "C", text: "(C) Then I shall bow, in humble (F) adoration" },
+                    { chord: "F", text: "(F) And then (C) proclaim, my God, (G) how great Thou (C) art" }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "DIEU TOUT PUISSANT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/CG9vzpC8spY?si=qRGFuTd9UXpXqyFX",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dieu tout puissant" },
+                    { chord: "C", text: "(C) Quand mon cœur (F) considère" },
+                    { chord: "F", text: "(F) Tout l'univers (C) - (G) créer par ton (C) pouvoir" },
+                    { chord: "C", text: "(C) Le ciel d'azur, les éclairs, le tonnerre (F) " },
+                    { chord: "F", text: "(F) Le clair (C) matin ou les (G) ombres du (C) soir" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) De tout mon être alors s'élève un chant" },
+                    { chord: "C", text: "(C) Dieu tout (G) puissant que tu es (C) grand" },
+                    { chord: "C", text: "(C) De tout mon être alors s'élève un chant (Am) " },
+                    { chord: "C", text: "(C) Dieu tout (F) puissant que (G) tu es (C) grand" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mais quand je songe au sublime (F) mystère" },
+                    { chord: "F", text: "(F) Qu'un Dieu si (C) grand a (G) pu penser à (C) moi" },
+                    { chord: "C", text: "(C) Que son cher fils est devenu mon (F) frère" },
+                    { chord: "F", text: "(F) Et que je (C) suis (G) l'héritier du grand (C) roi" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alors mon cœur veut dire à lui le jour " },
+                    { chord: "C", text: "(C) Que tu es (G) bon, oh Dieu (C) d'amour" },
+                    { chord: "C", text: "(C) Alors mon cœur redit la nuit, le jour (Am) " },
+                    { chord: "C", text: "(C) Que tu es (F) bon, oh (G) Dieu (C) d'amour" }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand mon sauveur éclatant de (F) lumière " },
+                    { chord: "F", text: "(F) Se (C) lèvera de son (G) trône (C) éternel" },
+                    { chord: "C", text: "(C) Et que laissant les douleurs de la (F) terre" },
+                    { chord: "F", text: "(F) Je pourrai (C) voir (G) les splendeurs de son (C) ciel" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je redirai à son divin séjour" },
+                    { chord: "C", text: "(C) Rien n'est plus (G) grand que ton (C) amour" },
+                    { chord: "C", text: "(C) Je redirai dans son divin séjour (Am) " },
+                    { chord: "C", text: "(C) Rien n'est plus (F) grand (G) que ton (C) amour" }
+                ],
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "WE’RE TOGETHER AGAIN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We’re together again, just praising the Lord" },
+                    { chord: "C", text: "(C) We’re together again in one accord" },
+                    { chord: "F", text: "(F) Something good is going to happen" },
+                    { chord: "C", text: "(C) Something good is in store" },
+                    { chord: "F", text: "(F) We’re together again, just praising the Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "FILL MY WAY EVERYDAY WITH LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/K8O3R77nU2w?si=ks9UYPbp8-VYu_fS",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Let me walk, blessed Lord, in the (F) way" },
+                    { chord: "F", text: "(F) Thou has (C) gone, Leading straight to the (D) land (G) above;" },
+                    { chord: "G", text: "(G) Giving (C) cheer everywhere, to the (F) sad and the (C) lone, " },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Fill my way every day with love," },
+                    { chord: "C", text: "(C) As I walk with the (D) heavenly (G) Dove" },
+                    { chord: "C", text: "(C) Let me go all the while, with a (F) song and a (C) smile," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "C", text: "(C) Keep me close to the side of my (F) Savior and (C) guide" },
+                    { chord: "F", text: "(F) Let me never in (D) darkness (G) rove." },
+                    { chord: "G", text: "(G) Keep my path free from wrath, and my (F) soul, (C) satisfied," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "REMPLIS-MOI CHAQUE JOUR D'AMOUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/E-0P6uMOpQY?si=ZdGqXOBUyZMauFnu",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Laisse-moi marcher Seigneur, Par où (F) Tu es (C) passé," },
+                    { chord: "C", text: "(C) Chemin conduisant (D) vers le (G) ciel." },
+                    { chord: "C", text: "(C) Partout donnant la joie; (F) Aux gens (C) abandonnés " },
+                    { chord: "F", text: "(F) Remplis-moi chaque (G) jour (C) d’amour." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Remplis-moi chaque jour d’amour" },
+                    { chord: "C", text: "(C) Comme je marche avec la (D) colombe, (G)" },
+                    { chord: "C", text: "(C) Laisse-moi marcher toujours, Avec (F) chants et (C) sourire" },
+                    { chord: "F", text: "(F) Remplis-moi chaque (G) jour (C) d’amour." }
+                ],
+                [
+                    { chord: "C", text: "(C) Garde-moi à côté, De mon (F) Sauveur et (C) guide," },
+                    { chord: "C", text: "(C) Ne me laisse pas dans (D) les ténèbres. (G) " },
+                    { chord: "C", text: "(C) Garde-moi du courroux. Et (F) satisfait mon (C) âme" },
+                    { chord: "F", text: "(F) Remplis-moi chaque (G) jour (C) d’amour." }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "MY SINS ARE GONE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You ask me why I’m happy" },
+                    { chord: "C", text: "(C) So I’ll just tell you why," },
+                    { chord: "C", text: "(C) Because my sins are gone." },
+                    { chord: "F", text: "(F) And when I meet the scoffers" },
+                    { chord: "F", text: "(F) Who ask me where they are," },
+                    { chord: "F", text: "(F) I say, “my sins are gone”." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) They’re underneath the blood," },
+                    { chord: "C", text: "(C) On the cross of Calvary," },
+                    { chord: "C", text: "(C) As far removed as darkness I from dawn;" },
+                    { chord: "F", text: "(F) In the sea of God’s forgetfulness," },
+                    { chord: "F", text: "(F) That’s good enough for me," },
+                    { chord: "F", text: "(F) Praise God ! My sins are gone." },
+                ]
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "WHO I AM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O glorious victory" },
+                    { chord: "C", text: "(C) That day He set me free," },
+                    { chord: "C", text: "(C) And made my heart His very throne" },
+                    { chord: "F", text: "(F) My life is no longer mine;" },
+                    { chord: "F", text: "(F) I’m a prisoner of love divine," },
+                    { chord: "F", text: "(F) And now I live to praise His name." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Who I am, Lord, who I am," },
+                    { chord: "C", text: "(C) On the cross of Calvary," },
+                    { chord: "C", text: "(C) A part of my savior," },
+                    { chord: "F", text: "(F) A part of His word." },
+                    { chord: "F", text: "(F) It’s a revelation 'It’s predestination'" },
+                    { chord: "F", text: "(F) O who I am" },
+                ],
+                [
+                    { chord: "C", text: "(C) On Calvary He died" },
+                    { chord: "C", text: "(C) To redeem His lost Bride" },
+                    { chord: "C", text: "(C) The King of kings" },
+                    { chord: "F", text: "(F) Became my Savior," },
+                    { chord: "F", text: "(F) This is God’s great mystery" },
+                    { chord: "F", text: "(F) Of love expressed to me," },
+                    { chord: "F", text: "(F) That Christ and I" },
+                    { chord: "F", text: "(F) Might be made one!" },
+                ],
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "JE DESIRE LE VOIR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je chante sur le chemin" },
+                    { chord: "C", text: "(C) Conduisant les coeurs" },
+                    { chord: "C", text: "(C) Au calvaire où coule à plein" },
+                    { chord: "F", text: "(F) Le ruisseau vainqueur" },
+                    { chord: "F", text: "(F) Bien des flèches m’ont blessé" },
+                    { chord: "F", text: "(F) Mon Seigneur le sait" },
+                    { chord: "F", text: "(F) Il dirige, Il conduit" },
+                    { chord: "F", text: "(F) Et moi je Le suis." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je désire le voir," },
+                    { chord: "C", text: "(C) Le voir face à face" },
+                    { chord: "C", text: "(C) Et chanter pour toujours" },
+                    { chord: "F", text: "(F) Sa divine grâce" },
+                    { chord: "F", text: "(F) Dans les rues pavées d’or" },
+                    { chord: "F", text: "(F) Elever ma voix" },
+                    { chord: "F", text: "(F) Mes soucis sont finis" },
+                    { chord: "F", text: "(F) Je suis à l’abri" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les flots rugissent encore" },
+                    { chord: "C", text: "(C) Du fond de l’abîme," },
+                    { chord: "C", text: "(C) Le Sauveur prend en main" },
+                    { chord: "F", text: "(F) La barre divine" },
+                    { chord: "F", text: "(F) Lui seul me dirigera" },
+                    { chord: "F", text: "(F) En vallée, d’en-bas ;" },
+                    { chord: "F", text: "(F) Mais je serai bientôt arrivé là-haut" },
+                ],
+                [
+                    { chord: "C", text: "(C) Au service de mon Dieu" },
+                    { chord: "C", text: "(C) La nuit peut sembler" },
+                    { chord: "C", text: "(C) Si sombre que je ne peux" },
+                    { chord: "F", text: "(F) Plus voir mon sentier" },
+                    { chord: "F", text: "(F) Je me rapproche de Lui" },
+                    { chord: "F", text: "(F) Il m’éclaire alors" },
+                    { chord: "F", text: "(F) Unissant nos efforts" },
+                    { chord: "F", text: "(F) Me conduit au port" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du fin fond de la vallée" },
+                    { chord: "C", text: "(C) Je vois les glaciers" },
+                    { chord: "C", text: "(C) Il m’est donné d’entrevoir" },
+                    { chord: "F", text: "(F) Le Seigneur de Gloire" },
+                    { chord: "F", text: "(F) Il est armée de l’épée," },
+                    { chord: "F", text: "(F) Conduit la mêlée," },
+                    { chord: "F", text: "(F) Et je suis protégé :" },
+                    { chord: "F", text: "(F) Gloire à mon Roche" },
+                ],
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "TOUT EST EN LUI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IM9LhW7S-_w?si=ZTe2tEZfXOEwVIF8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Dieu puissant, c’est Jésus c’est le (F) Prince de (C) paix" },
+                    { chord: "C", text: "(C) Le Père de l’Eternité et (D) le Roi de (G) beauté." },
+                    { chord: "C", text: "(C) Le Merveilleux en sagesse Par (F) qui toute chose est (C) faite," },
+                    { chord: "C", text: "(C) La plénitude (F) divine en (G) Jésus (C) incarnée." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                    { chord: "C", text: "(C) La plénitude divine est (D) toute en (G) Lui." },
+                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                    { chord: "C", text: "(C) Jésus est Dieu (F) Tout-puissant et (G) tout est en (C) Lui." }
+                ],
+                [
+                    { chord: "C", text: "(C) Emmanuel : Dieu avec nous, (F) Jéhovah (C) l’Eternel" },
+                    { chord: "C", text: "(C) L’Esprit tout omniprésent qui (D) remplit (G) l’univers," },
+                    { chord: "C", text: "(C) Le grand Sacrificateur et (F) l’Agneau des (C) pécheurs," },
+                    { chord: "C", text: "(C) L’auteur de la (F) Rédemption, que (G) béni soit Son (C) Nom" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le commencement et la fin, (F) l’Alpha et (G) l’Omega," },
+                    { chord: "C", text: "(C) La Vraie Parole incarnée, (D) l’Ami des (G) rachetés." },
+                    { chord: "C", text: "(C) La sagesse et perfection, ma (F) justice et (C) puissance" },
+                    { chord: "C", text: "(C) Tout ce dont j’ai le (F) besoin: je (G) le trouve en Sa (C) main." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Dieu que nous attendions (F) sera la gaie (C) chanson" },
+                    { chord: "C", text: "(C) De l’Israël revenu, quand (D) paraîtra (G) Jésus." },
+                    { chord: "C", text: "(C) Il viendra nous délivrer notre (F) Agneau (C) immolé," },
+                    { chord: "C", text: "(C) La plénitude est (F) en Lui, Le (G) Vainqueur de la (C) nuit." }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "VIEUX PELERIN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Vieux pèlerin qui vagabonde" },
+                    { chord: "C", text: "(C) Je suis partout un étranger" },
+                    { chord: "C", text: "(C) Mais je suis sûr qu’en l’autre Monde" },
+                    { chord: "C", text: "(C) Dieu va m’offrir où me loger." },
+                    { chord: "C", text: "(C) Je vais là-bas revoir mon Père ;" },
+                    { chord: "C", text: "(C) Fini pour moi de cheminer !" },
+                    { chord: "C", text: "(C) A l’autre bord de la Rivière" },
+                    { chord: "C", text: "(C) Maison à moi je vais trouver." },
+                ],
+                [
+                    { chord: "C", text: "(C) J’achèverai bientôt ma route" },
+                    { chord: "C", text: "(C) J’entends tout proche le Jourdain" },
+                    { chord: "C", text: "(C) La mort n’a rien que je redoute" },
+                    { chord: "C", text: "(C) J’y laisserai tous mes chagrins." },
+                    { chord: "C", text: "(C) Je vais là-bas revoir mon Père" },
+                    { chord: "C", text: "(C) Près de Lui enfin me consoler" },
+                    { chord: "C", text: "(C) A l’autre bord de la Rivière" },
+                    { chord: "C", text: "(C) A la maison me reposer" },
+                ],
+                [
+                    { chord: "C", text: "(C) Voici la fin de mes souffrances" },
+                    { chord: "C", text: "(C) Et le repos de mon vieux corps" },
+                    { chord: "C", text: "(C) Voici venir la récompense" },
+                    { chord: "C", text: "(C) Par Dieu promise à mes efforts !" },
+                    { chord: "C", text: "(C) Je vais là-bas parmi les Anges" },
+                    { chord: "C", text: "(C) En oubliant mes vieux soucis" },
+                    { chord: "C", text: "(C) Passer mon temps à sa louange" },
+                    { chord: "C", text: "(C) Dire à Jésus, sans fin, merci." },
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 23 Février 2025 (Huitième Dimanche de l'année 2025)
+
         //Début Cantiques Dimanche 16 Février 2025 (Septième Dimanche de l'année 2025)
         {
             key: "dim-16-02-2025",
