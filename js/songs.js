@@ -92,11 +92,11 @@ const songs = [
             youtubeLink: "https://youtu.be/JHvKrHsAeW0?si=liQMALz1E9phwiwI",
             verses: [
                 [
-                    { chord: "C", text: "(C) We’re together again, just praising the Lord" },
-                    { chord: "C", text: "(C) We’re together again in one accord" },
-                    { chord: "F", text: "(F) Something good is going to happen" },
-                    { chord: "C", text: "(C) Something good is in store" },
-                    { chord: "F", text: "(F) We’re together again, just praising the Lord" }
+                    { chord: "C", text: "(C) We’re together again, just praising the (F) Lord" },
+                    { chord: "F", text: "(F) We’re together (G) again in one (C) accord (G) " },
+                    { chord: "C", text: "(C) Something good is going to happen" },
+                    { chord: "C", text: "(C) Something good is in (F) store" },
+                    { chord: "F", text: "(F) We’re together (G) again, just praising the (C) Lord" }
                 ]
             ]
         },
