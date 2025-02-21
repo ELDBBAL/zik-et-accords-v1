@@ -89,7 +89,7 @@ const songs = [
             key: "dim-23-02-2025",
             title: "WE’RE TOGETHER AGAIN",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/JHvKrHsAeW0?si=liQMALz1E9phwiwI",
             verses: [
                 [
                     { chord: "C", text: "(C) We’re together again, just praising the Lord" },
@@ -158,7 +158,7 @@ const songs = [
             key: "dim-23-02-2025",
             title: "MY SINS ARE GONE",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/UqHixv5zuJs?si=6IYqegTU-phEWkL-",
             verses: [
                 [
                     { chord: "C", text: "(C) You ask me why I’m happy" },
