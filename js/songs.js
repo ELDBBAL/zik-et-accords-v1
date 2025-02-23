@@ -375,6 +375,48 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-23-02-2025",
+            title: "HAPPY BIRTHDAY",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Happy Birthday to (G) You," },
+                    { chord: "G", text: "(G) Happy Birthday to (C) You," },
+                    { chord: "C", text: "(C) Happy Birthday to (F) You," },
+                    { chord: "Dm", text: "(Dm) Happy Birthday (G) to (C) You." },
+                ],
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "JOYEUX ANNIVERSAIRE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Joyeux Anniver -- (G) saire," },
+                    { chord: "G", text: "(G) Joyeux Anniver -- (C) saire," },
+                    { chord: "C", text: "(C) Joyeux Anniver -- (F) saire," },
+                    { chord: "Dm", text: "(Dm) Joyeux An -- (G) niver -- (C) saire." },
+                ],
+            ]
+        },
+        {
+            key: "dim-23-02-2025",
+            title: "DZIGBE ZA NYUIE NA WO",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dzigbe zã nyuie na (G) wò," },
+                    { chord: "G", text: "(G) Dzigbe zã nyuie na (C) wò," },
+                    { chord: "C", text: "(C) Dzigbe zã nyuie na (F) wò," },
+                    { chord: "Dm", text: "(Dm) Dzigbe zã nyuie (G) na (C) wò." },
+                ],
+            ]
+        },
         //Fin Cantiques Dimanche 23 Février 2025 (Huitième Dimanche de l'année 2025)
 
         //Début Cantiques Dimanche 16 Février 2025 (Septième Dimanche de l'année 2025)
