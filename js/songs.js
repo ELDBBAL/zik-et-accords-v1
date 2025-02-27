@@ -2,7 +2,7 @@
 const songs = [
         //Debut Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
         {
-            key: "mar-31-12-2024",
+            key: "dim-02-03-2025",
             title: "WHEN I THINK OF THE GOODNESS OF JESUS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/GCxhlwvcRDo?si=25ImIMk91tWZA9Mk",
@@ -16,7 +16,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-13-10-2024",
+            key: "dim-02-03-2025",
             title: "HE IS LORD",
             keySignature: "C",
             youtubeLink: "https://youtu.be/OTbhnTeF4yE?si=oTn23PDHOGvgxliv",
@@ -27,6 +27,100 @@ const songs = [
                     { chord: "C", text: "(C) Ev'ry knee shall bow, ev'ry (F) tongue confess" },
                     { chord: "F", text: "(F) That (C) Jesus (G) Christ is (C) Lord." }
                 ]
+            ]
+        },
+        {
+            key: "dim-02-03-2025",
+            title: "YES I KNOW",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come, ye sinners, lost and hopeless" },
+                    { chord: "C", text: "(C) Jesus' blood can make you free" },
+                    { chord: "C", text: "(C) For He saved the worst among you" },
+                    { chord: "F", text: "(F) When He saved a wretch like me" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) And I know, yes, I know" },
+                    { chord: "C", text: "(C) Jesus' blood can make the vilest sinner clean" },
+                    { chord: "C", text: "(C) And I know, yes, I know" },
+                    { chord: "C", text: "(C) Jesus' blood can make the vilest sinner clean" },
+                ],
+                [
+                    { chord: "C", text: "(C) To the faint He giveth power" },
+                    { chord: "C", text: "(C) Through the mountains makes a way" },
+                    { chord: "C", text: "(C) Findeth water in the desert" },
+                    { chord: "F", text: "(F) Turns the night to golden day" }
+                ],
+                [
+                    { chord: "C", text: "(C) In temptation He is near thee" },
+                    { chord: "C", text: "(C) Holds the pow'rs of hell at bay" },
+                    { chord: "C", text: "(C) Guides you to the path of safety" },
+                    { chord: "F", text: "(F) Gives you grace for ev'ry day" }
+                ],
+                [
+                    { chord: "C", text: "(C) He will keep thee while the" },
+                    { chord: "C", text: "(C) Ages Roll throughout eternity" },
+                    { chord: "C", text: "(C) Though earth hinders and hell rages" },
+                    { chord: "F", text: "(F) All must work for good to thee" }
+                ],
+            ]
+        },
+        {
+            key: "dim-02-03-2025",
+            title: "NOE A BIEN NAVIGUE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Noé a bien navigué," },
+                    { chord: "C", text: "(C) Sur les eaux plusieurs jours," },
+                    { chord: "C", text: "(C) Il chercha une terre," },
+                    { chord: "C", text: "(C) De plusieurs manières," },
+                    { chord: "C", text: "(C) Des ennuis il en a bien eu," },
+                    { chord: "C", text: "(C) Mais non pas du ciel." },
+                    { chord: "F", text: "(F) Dieu lui donna Son signe," },
+                    { chord: "F", text: "(F) Sur les ailes d’une colombe." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Sur les ailes d’une colombe" },
+                    { chord: "C", text: "(C) Blanche comme neige" },
+                    { chord: "C", text: "(C) Dieu envoya Son amour doux, pur" },
+                    { chord: "C", text: "(C) Un signe du ciel," },
+                    { chord: "C", text: "(C) Un signe du ciel," },
+                    { chord: "C", text: "(C) Sur les ailes d’une colombe." },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus notre sauveur," },
+                    { chord: "C", text: "(C) Vint un jour sur la terre," },
+                    { chord: "C", text: "(C) Né dans une étable" },
+                    { chord: "C", text: "(C) Dans une crèche de paille," },
+                    { chord: "C", text: "(C) Ici-bas rejeté," },
+                    { chord: "C", text: "(C) Mais non pas du ciel," },
+                    { chord: "F", text: "(F) Dieu nous donna Son signe" },
+                    { chord: "F", text: "(F) Donna Son signe" },
+                    { chord: "F", text: "(F) Sur les ailes d’une colombe." }
+                ],
+                [
+                    { chord: "C", text: "(C) Bien qu’ayant beaucoup souffert" },
+                    { chord: "C", text: "(C) De bien des manières" },
+                    { chord: "C", text: "(C) Je criai pour la guérison" },
+                    { chord: "C", text: "(C) La nuit comme le jour," },
+                    { chord: "C", text: "(C) Mais la foi ne fut pas oubliée" },
+                    { chord: "F", text: "(F) Par le Père du ciel" },
+                    { chord: "F", text: "(F) Il me donna Son signe," },
+                    { chord: "F", text: "(F) Donna Son signe," },
+                    { chord: "F", text: "(F) Sur les ailes d’une colombe." }
+                ],
+                [
+                    { chord: "C", text: "(C) He will keep thee while the" },
+                    { chord: "C", text: "(C) Ages Roll throughout eternity" },
+                    { chord: "C", text: "(C) Though earth hinders and hell rages" },
+                    { chord: "F", text: "(F) All must work for good to thee" }
+                ],
             ]
         },
         //Fin Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
