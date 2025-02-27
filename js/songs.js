@@ -165,6 +165,78 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-02-03-2025",
+            title: "A L'OUEST, LE SOLEIL SE COUCHE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À l’ouest le soleil se couche" },
+                    { chord: "C", text: "(C) Il arrive à la fin de sa course" },
+                    { chord: "C", text: "(C) Et je vois combien ce temps est là," },
+                    { chord: "C", text: "(C) Où sur le temps le soleil se couche.." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
+                    { chord: "C", text: "(C) C’est la fin de la course" },
+                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
+                    { chord: "C", text: "(C) C’est la fin de toute chose." },
+                ],
+                [
+                    { chord: "C", text: "(C) Et voici que la lumière du soir" },
+                    { chord: "C", text: "(C) A l’ouest pour moi a paru" },
+                    { chord: "C", text: "(C) Elle manifeste le Fils de l’homme" },
+                    { chord: "C", text: "(C) Et je crois, c’est vrai je le crois." },
+                ],
+                [
+                    { chord: "C", text: "(C) Pèlerin c’est la fin de la course" },
+                    { chord: "C", text: "(C) Il faut vaincre le monde et partir" },
+                    { chord: "C", text: "(C) Attention ! Quelle heure est-il ?" },
+                    { chord: "C", text: "(C) Il faut vaincre le monde et partir." },
+                ],
+            ]
+        },
+        {
+            key: "dim-02-03-2025",
+            title: "SEND THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a call comes ringing o'er the restless wave," },
+                    { chord: "C", text: "(C) 'Send the (G) light! Send the (C) light'" },
+                    { chord: "C", text: "(C) There are souls to rescue, there are souls to save," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                    { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We have heard the Macedonian call today, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a golden off'ring at the cross we lay," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us pray that grace may ev'rywhere abound," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a Christ-like spirit ev'rywhere be found," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us not grow weary in the work of love, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) Let us gather jewels for a crown above," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ]
+            ]
+        },
         //Fin Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
 
         //Début Cantiques Dimanche 23 Février 2025 (Huitième Dimanche de l'année 2025)
