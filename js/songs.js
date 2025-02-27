@@ -1,5 +1,36 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
+        {
+            key: "mar-31-12-2024",
+            title: "WHEN I THINK OF THE GOODNESS OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/GCxhlwvcRDo?si=25ImIMk91tWZA9Mk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I think of the goodness of Jesus," },
+                    { chord: "C", text: "(C) and what he has (D) done for (G) me," },
+                    { chord: "G", text: "(G) my (C) soul cries out, (F) Hallelujah!" },
+                    { chord: "F", text: "(F) Praise (C) God for (G) saving (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-10-2024",
+            title: "HE IS LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/OTbhnTeF4yE?si=oTn23PDHOGvgxliv",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He is (G) Lord, He is (C) Lord!" },
+                    { chord: "C", text: "(C) He is risen from the (D) dead and he is (G) Lord!" },
+                    { chord: "C", text: "(C) Ev'ry knee shall bow, ev'ry (F) tongue confess" },
+                    { chord: "F", text: "(F) That (C) Jesus (G) Christ is (C) Lord." }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
+
         //Début Cantiques Dimanche 23 Février 2025 (Huitième Dimanche de l'année 2025)
         {
             key: "dim-23-02-2025",
