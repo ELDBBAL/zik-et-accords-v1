@@ -115,11 +115,53 @@ const songs = [
                     { chord: "F", text: "(F) Donna Son signe," },
                     { chord: "F", text: "(F) Sur les ailes d’une colombe." }
                 ],
+            ]
+        },
+        {
+            key: "dim-02-03-2025",
+            title: "CONNAIS-TU CETTE CITE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
                 [
-                    { chord: "C", text: "(C) He will keep thee while the" },
-                    { chord: "C", text: "(C) Ages Roll throughout eternity" },
-                    { chord: "C", text: "(C) Though earth hinders and hell rages" },
-                    { chord: "F", text: "(F) All must work for good to thee" }
+                    { chord: "C", text: "(C) Connais-tu cette cité," },
+                    { chord: "C", text: "(C) La cité céleste?" },
+                    { chord: "C", text: "(C) Dans ses murs tout est clarté," },
+                    { chord: "C", text: "(C) Plus d’ombre funeste." },
+                    { chord: "C", text: "(C) Pèlerins et voyageurs," },
+                    { chord: "C", text: "(C) Ici-bas dans les douleurs,." },
+                    { chord: "F", text: "(F) Toujours ce trésor nous reste," },
+                    { chord: "F", text: "(F) La cité céleste." }
+                ],
+                [
+                    { chord: "C", text: "(C) Connais-tu cette cité," },
+                    { chord: "C", text: "(C) La cité bénie?" },
+                    { chord: "C", text: "(C) Où tout est félicité," },
+                    { chord: "C", text: "(C) Sublime harmonie." },
+                    { chord: "C", text: "(C) L’agneau seul est son soleil," },
+                    { chord: "C", text: "(C) et son éclat sans pareil" },
+                    { chord: "C", text: "(C) Illumine et vivifie" },
+                    { chord: "C", text: "(C) La cité bénie." },
+                ],
+                [
+                    { chord: "C", text: "(C) D’or, de perles et d’azur" },
+                    { chord: "C", text: "(C) Est notre patrie." },
+                    { chord: "C", text: "(C) Connais-tu le fleuve pur," },
+                    { chord: "C", text: "(C) L’arbre de vie?" },
+                    { chord: "C", text: "(C) Plus de fardeaux à jamais," },
+                    { chord: "C", text: "(C) Pour les élus tout est paix." },
+                    { chord: "F", text: "(F) De Dieu la cité chérie," },
+                    { chord: "F", text: "(F) C’est notre patrie." },
+                ],
+                [
+                    { chord: "C", text: "(C) Ô Salem, repos si doux," },
+                    { chord: "C", text: "(C) Mon coeur te désire!" },
+                    { chord: "C", text: "(C) Après son chef, son époux," },
+                    { chord: "C", text: "(C) L’Église soupire!" },
+                    { chord: "C", text: "(C) Être à toujours devant toi," },
+                    { chord: "F", text: "(F) Mon Seigneur, mon divin Roi," },
+                    { chord: "F", text: "(F) Pour te chanter et te dire :" },
+                    { chord: "F", text: "(F) Mon coeur te désire." },
                 ],
             ]
         },
