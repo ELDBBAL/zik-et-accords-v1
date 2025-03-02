@@ -31,89 +31,89 @@ const songs = [
         },
         {
             key: "dim-02-03-2025",
-            title: "YES I KNOW",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) Come, ye sinners, lost and hopeless" },
-                    { chord: "C", text: "(C) Jesus' blood can make you free" },
-                    { chord: "C", text: "(C) For He saved the worst among you" },
-                    { chord: "F", text: "(F) When He saved a wretch like me" }
-                ],
-                [
-                    { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) And I know, yes, I know" },
-                    { chord: "C", text: "(C) Jesus' blood can make the vilest sinner clean" },
-                    { chord: "C", text: "(C) And I know, yes, I know" },
-                    { chord: "C", text: "(C) Jesus' blood can make the vilest sinner clean" },
-                ],
-                [
-                    { chord: "C", text: "(C) To the faint He giveth power" },
-                    { chord: "C", text: "(C) Through the mountains makes a way" },
-                    { chord: "C", text: "(C) Findeth water in the desert" },
-                    { chord: "F", text: "(F) Turns the night to golden day" }
-                ],
-                [
-                    { chord: "C", text: "(C) In temptation He is near thee" },
-                    { chord: "C", text: "(C) Holds the pow'rs of hell at bay" },
-                    { chord: "C", text: "(C) Guides you to the path of safety" },
-                    { chord: "F", text: "(F) Gives you grace for ev'ry day" }
-                ],
-                [
-                    { chord: "C", text: "(C) He will keep thee while the" },
-                    { chord: "C", text: "(C) Ages Roll throughout eternity" },
-                    { chord: "C", text: "(C) Though earth hinders and hell rages" },
-                    { chord: "F", text: "(F) All must work for good to thee" }
-                ],
-            ]
-        },
-        {
-            key: "dim-02-03-2025",
             title: "NOE A BIEN NAVIGUE",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/LHqCNf62YTU?si=pI_mmzpKhb5uyiC3",
             verses: [
                 [
-                    { chord: "C", text: "(C) Noé a bien navigué," },
-                    { chord: "C", text: "(C) Sur les eaux plusieurs jours," },
-                    { chord: "C", text: "(C) Il chercha une terre," },
-                    { chord: "C", text: "(C) De plusieurs manières," },
+                    { chord: "C", text: "(C) Noé a bien (F) navigué, (C) " },
+                    { chord: "C", text: "(C) Sur les eaux plusieurs (F) jours," },
+                    { chord: "F", text: "(F) Il chercha une (G) terre," },
+                    { chord: "G", text: "(G) De plusieurs (C) manières," },
                     { chord: "C", text: "(C) Des ennuis il en a bien eu," },
-                    { chord: "C", text: "(C) Mais non pas du ciel." },
-                    { chord: "F", text: "(F) Dieu lui donna Son signe," },
-                    { chord: "F", text: "(F) Sur les ailes d’une colombe." }
+                    { chord: "C", text: "(C) Mais non pas du (F) ciel." },
+                    { chord: "F", text: "(F) Dieu lui donna Son (C) signe," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
                 ],
                 [
                     { chord: "C", text: "CHORUS:" },
                     { chord: "C", text: "(C) Sur les ailes d’une colombe" },
                     { chord: "C", text: "(C) Blanche comme neige" },
-                    { chord: "C", text: "(C) Dieu envoya Son amour doux, pur" },
-                    { chord: "C", text: "(C) Un signe du ciel," },
-                    { chord: "C", text: "(C) Un signe du ciel," },
-                    { chord: "C", text: "(C) Sur les ailes d’une colombe." },
+                    { chord: "C", text: "(C) Dieu envoya Son (F) amour doux, pur" },
+                    { chord: "F", text: "(F) Un signe du (C) ciel," },
+                    { chord: "C", text: "(C) Un signe du (G) ciel," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." },
                 ],
                 [
                     { chord: "C", text: "(C) Jésus notre sauveur," },
-                    { chord: "C", text: "(C) Vint un jour sur la terre," },
-                    { chord: "C", text: "(C) Né dans une étable" },
-                    { chord: "C", text: "(C) Dans une crèche de paille," },
+                    { chord: "C", text: "(C) Vint un jour sur la (F) terre," },
+                    { chord: "F", text: "(F) Né dans une (G) étable" },
+                    { chord: "G", text: "(G) Dans une crèche de (C) paille," },
                     { chord: "C", text: "(C) Ici-bas rejeté," },
-                    { chord: "C", text: "(C) Mais non pas du ciel," },
-                    { chord: "F", text: "(F) Dieu nous donna Son signe" },
-                    { chord: "F", text: "(F) Donna Son signe" },
-                    { chord: "F", text: "(F) Sur les ailes d’une colombe." }
+                    { chord: "C", text: "(C) Mais non pas du (F) ciel," },
+                    { chord: "F", text: "(F) Dieu nous donna Son (C) signe" },
+                    { chord: "C", text: "(C) Donna Son (G) signe" },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
                 ],
                 [
                     { chord: "C", text: "(C) Bien qu’ayant beaucoup souffert" },
-                    { chord: "C", text: "(C) De bien des manières" },
-                    { chord: "C", text: "(C) Je criai pour la guérison" },
-                    { chord: "C", text: "(C) La nuit comme le jour," },
+                    { chord: "C", text: "(C) De bien des (F) manières" },
+                    { chord: "F", text: "(F) Je criai pour la (G) guérison" },
+                    { chord: "G", text: "(G) La nuit comme le (C) jour," },
                     { chord: "C", text: "(C) Mais la foi ne fut pas oubliée" },
-                    { chord: "F", text: "(F) Par le Père du ciel" },
-                    { chord: "F", text: "(F) Il me donna Son signe," },
-                    { chord: "F", text: "(F) Donna Son signe," },
-                    { chord: "F", text: "(F) Sur les ailes d’une colombe." }
+                    { chord: "C", text: "(C) Par le Père du (F) ciel" },
+                    { chord: "F", text: "(F) Il me donna Son (C) signe," },
+                    { chord: "C", text: "(C) Donna Son (G) signe," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
+                ],
+            ]
+        },
+        {
+            key: "dim-02-03-2025",
+            title: "YES I KNOW",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/CqLxtfkMILA?si=PA1DkYFdmixNiBod",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come, ye sinners, (F) lost and (C) hopeless" },
+                    { chord: "C", text: "(C) Jesus' (G) blood can make you (C) free" },
+                    { chord: "C", text: "(C) For He saved the (F) worst (C) among you" },
+                    { chord: "C", text: "(C) When He (G) saved a wretch like (C) me" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) And I know, yes, I (C) know" },
+                    { chord: "C", text: "(C) Jesus' (G) blood can make the vilest sinner (C) clean" },
+                    { chord: "G", text: "(G) And I know, yes, I (C) know" },
+                    { chord: "C", text: "(C) Jesus' (G) blood can make the vilest sinner (C) clean" },
+                ],
+                [
+                    { chord: "C", text: "(C) To the faint He (F) giveth (C) power" },
+                    { chord: "C", text: "(C) Through the (G) mountains makes a (C) way" },
+                    { chord: "C", text: "(C) Findeth water (F) in the (C) desert" },
+                    { chord: "C", text: "(C) Turns the (G) night to golden (C) day" }
+                ],
+                [
+                    { chord: "C", text: "(C) In temptation He (F) is near (C) thee" },
+                    { chord: "C", text: "(C) Holds the (G) pow'rs of hell at (C) bay" },
+                    { chord: "C", text: "(C) Guides you to (F) the path of (C) safety" },
+                    { chord: "C", text: "(C) Gives you (G) grace for ev'ry (C) day" }
+                ],
+                [
+                    { chord: "C", text: "(C) He will keep (F) thee while (C) the" },
+                    { chord: "C", text: "(C) Ages Roll (G) throughout (C) eternity" },
+                    { chord: "C", text: "(C) Though earth (F) hinders and hell (C) rages" },
+                    { chord: "C", text: "(C) All must (G) work for good to (C) thee" }
                 ],
             ]
         },
@@ -121,47 +121,47 @@ const songs = [
             key: "dim-02-03-2025",
             title: "CONNAIS-TU CETTE CITE",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/699eaSYQOP8?si=bAxMjEA0HixlHdfK",
             verses: [
                 [
                     { chord: "C", text: "(C) Connais-tu cette cité," },
-                    { chord: "C", text: "(C) La cité céleste?" },
-                    { chord: "C", text: "(C) Dans ses murs tout est clarté," },
-                    { chord: "C", text: "(C) Plus d’ombre funeste." },
-                    { chord: "C", text: "(C) Pèlerins et voyageurs," },
-                    { chord: "C", text: "(C) Ici-bas dans les douleurs,." },
-                    { chord: "F", text: "(F) Toujours ce trésor nous reste," },
-                    { chord: "F", text: "(F) La cité céleste." }
+                    { chord: "C", text: "(C) La cité (G) céleste? (C) " },
+                    { chord: "C", text: "(C) Dans ses murs (F) tout est (C) clarté," },
+                    { chord: "C", text: "(C) Plus d’ombre (G) funeste. (C) " },
+                    { chord: "C", text: "(C) Pèlerins et (F) voyageurs," },
+                    { chord: "F", text: "(F) Ici-bas (G) dans les (C) douleurs." },
+                    { chord: "C", text: "(C) Toujours ce trésor nous (F) reste," },
+                    { chord: "C", text: "(C) La cité (G) céleste. (C) " }
                 ],
                 [
                     { chord: "C", text: "(C) Connais-tu cette cité," },
-                    { chord: "C", text: "(C) La cité bénie?" },
+                    { chord: "C", text: "(C) La cité (G) bénie? (C) " },
                     { chord: "C", text: "(C) Où tout est félicité," },
-                    { chord: "C", text: "(C) Sublime harmonie." },
-                    { chord: "C", text: "(C) L’agneau seul est son soleil," },
-                    { chord: "C", text: "(C) et son éclat sans pareil" },
-                    { chord: "C", text: "(C) Illumine et vivifie" },
-                    { chord: "C", text: "(C) La cité bénie." },
+                    { chord: "C", text: "(C) Sublime (G) harmonie. (C) " },
+                    { chord: "C", text: "(C) L’agneau seul est son (F) soleil," },
+                    { chord: "F", text: "(F) et son éclat sans (C) pareil" },
+                    { chord: "C", text: "(C) Illumine et (F) vivifie" },
+                    { chord: "C", text: "(C) La cité (G) bénie. (C) " },
                 ],
                 [
                     { chord: "C", text: "(C) D’or, de perles et d’azur" },
-                    { chord: "C", text: "(C) Est notre patrie." },
+                    { chord: "C", text: "(C) Est notre (G) patrie. (C) " },
                     { chord: "C", text: "(C) Connais-tu le fleuve pur," },
-                    { chord: "C", text: "(C) L’arbre de vie?" },
-                    { chord: "C", text: "(C) Plus de fardeaux à jamais," },
-                    { chord: "C", text: "(C) Pour les élus tout est paix." },
-                    { chord: "F", text: "(F) De Dieu la cité chérie," },
-                    { chord: "F", text: "(F) C’est notre patrie." },
+                    { chord: "C", text: "(C) L’arbre de (G) vie? (C) " },
+                    { chord: "C", text: "(C) Plus de fardeaux à (F) jamais," },
+                    { chord: "F", text: "(F) Pour les élus tout est (C) paix." },
+                    { chord: "C", text: "(C) De Dieu la cité (F) chérie," },
+                    { chord: "C", text: "(C) C’est notre (G) patrie. (C) " },
                 ],
                 [
                     { chord: "C", text: "(C) Ô Salem, repos si doux," },
-                    { chord: "C", text: "(C) Mon coeur te désire!" },
+                    { chord: "C", text: "(C) Mon coeur te (G) désire! (C) " },
                     { chord: "C", text: "(C) Après son chef, son époux," },
-                    { chord: "C", text: "(C) L’Église soupire!" },
-                    { chord: "C", text: "(C) Être à toujours devant toi," },
-                    { chord: "F", text: "(F) Mon Seigneur, mon divin Roi," },
-                    { chord: "F", text: "(F) Pour te chanter et te dire :" },
-                    { chord: "F", text: "(F) Mon coeur te désire." },
+                    { chord: "C", text: "(C) L’Église (G) soupire! (C) " },
+                    { chord: "C", text: "(C) Être à toujours devant (F) toi," },
+                    { chord: "F", text: "(F) Mon Seigneur, mon divin (C) Roi," },
+                    { chord: "C", text: "(C) Pour te chanter et te (F) dire :" },
+                    { chord: "C", text: "(C) Mon coeur te (G) désire. (C) " },
                 ],
             ]
         },
