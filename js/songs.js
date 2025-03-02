@@ -167,34 +167,48 @@ const songs = [
         },
         {
             key: "dim-02-03-2025",
-            title: "A L'OUEST, LE SOLEIL SE COUCHE",
+            title: "COMMENT NE POURRAI-JE TE LOUER",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
             verses: [
                 [
-                    { chord: "C", text: "(C) À l’ouest le soleil se couche" },
-                    { chord: "C", text: "(C) Il arrive à la fin de sa course" },
-                    { chord: "C", text: "(C) Et je vois combien ce temps est là," },
-                    { chord: "C", text: "(C) Où sur le temps le soleil se couche.." },
-                ],
-                [
                     { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
-                    { chord: "C", text: "(C) C’est la fin de la course" },
-                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
-                    { chord: "C", text: "(C) C’est la fin de toute chose." },
+                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer " },
+                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour (C) moi ?" },
+                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours " },
+                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me (C) combat. " },
                 ],
                 [
-                    { chord: "C", text: "(C) Et voici que la lumière du soir" },
-                    { chord: "C", text: "(C) A l’ouest pour moi a paru" },
-                    { chord: "C", text: "(C) Elle manifeste le Fils de l’homme" },
-                    { chord: "C", text: "(C) Et je crois, c’est vrai je le crois." },
+                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole " },
+                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint (C) Prophète" },
                 ],
                 [
-                    { chord: "C", text: "(C) Pèlerin c’est la fin de la course" },
-                    { chord: "C", text: "(C) Il faut vaincre le monde et partir" },
-                    { chord: "C", text: "(C) Attention ! Quelle heure est-il ?" },
-                    { chord: "C", text: "(C) Il faut vaincre le monde et partir." },
+                    { chord: "C", text: "(C) J’étais dans les (F) organisations " },
+                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept (C) Tonnerres " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie " },
+                    { chord: "F", text: "(F) Tu as (G) compati et m’a (C) guéri" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation " },
+                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton (C) Saint-Esprit" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les gens parlaient tant mal de (F) moi, " },
+                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul (C) Ami." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut " },
+                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands (C) mystères" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse " },
+                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la (C) grâce" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté " },
+                    { chord: "F", text: "(F) Et comme David, (G) je veux Te (C) louer." },
                 ],
             ]
         },
@@ -235,6 +249,93 @@ const songs = [
                     { chord: "C", text: "(C) Let us gather jewels for a crown above," },
                     { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
                 ]
+            ]
+        },
+        {
+            key: "dim-02-03-2025",
+            title: "LE GRAND JOUR S'EST LEVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZZ3ex794OKI?si=DJnanWJ8YkhXz3nA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le grand jour s'est levé" },
+                    { chord: "C", text: "(C) Dieu (F) nous a visités" },
+                    { chord: "C", text: "(C) Voici des temps nouveaux" },
+                    { chord: "D", text: "(D) Chantons gloire à (G) l'Agneau" },
+                    { chord: "C", text: "(C) Nous recevons de Christ" },
+                    { chord: "C", text: "(C) Ce (F) qu'Il avait promis" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Le Saint-Esprit est là" },
+                    { chord: "C", text: "(C) Le (F) Saint-Esprit est là" },
+                    { chord: "C", text: "(C) La mort a disparu" },
+                    { chord: "C", text: "(C) Dieu (D) donne un plein (G) salut" },
+                    { chord: "C", text: "(C) Et sur le monde entier" },
+                    { chord: "C", text: "(C) Le (F) grand jour s'est levé" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) L'obscurité s'enfuit" },
+                    { chord: "C", text: "(C) La (F) lumière a jailli" },
+                    { chord: "C", text: "(C) Chassé de cœurs troublés" },
+                    { chord: "D", text: "(D) Toute (G) incrédulité" },
+                    { chord: "C", text: "(C) Car Christ le Roi des Rois" },
+                    { chord: "C", text: "(C) Répand (F) l'Esprit de foi" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Grand Consolateur " },
+                    { chord: "C", text: "(C) Vient (F) remplir tous les cœurs" },
+                    { chord: "C", text: "(C) L'Esprit de vérité" },
+                    { chord: "D", text: "(D) Nous met en (G) liberté" },
+                    { chord: "C", text: "(C) Il ouvre les prisons" },
+                    { chord: "C", text: "(C) Répand (F) la guérison" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Que tous les rachetés " },
+                    { chord: "C", text: "(C) Chantent (F) leur liberté" },
+                    { chord: "C", text: "(C) Christ a tout accompli" },
+                    { chord: "D", text: "(D) Il a donné (G) l'Esprit" },
+                    { chord: "C", text: "(C) Voyez trembler l'enfer" },
+                    { chord: "C", text: "(C) Car (F) dans tout l'univers" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ]
+            ]
+        },
+        {
+            key: "dav-02-03-2025",
+            title: "A L'OUEST, LE SOLEIL SE COUCHE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À l’ouest le soleil se couche" },
+                    { chord: "C", text: "(C) Il arrive à la fin de sa course" },
+                    { chord: "C", text: "(C) Et je vois combien ce temps est là," },
+                    { chord: "C", text: "(C) Où sur le temps le soleil se couche.." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
+                    { chord: "C", text: "(C) C’est la fin de la course" },
+                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
+                    { chord: "C", text: "(C) C’est la fin de toute chose." },
+                ],
+                [
+                    { chord: "C", text: "(C) Et voici que la lumière du soir" },
+                    { chord: "C", text: "(C) A l’ouest pour moi a paru" },
+                    { chord: "C", text: "(C) Elle manifeste le Fils de l’homme" },
+                    { chord: "C", text: "(C) Et je crois, c’est vrai je le crois." },
+                ],
+                [
+                    { chord: "C", text: "(C) Pèlerin c’est la fin de la course" },
+                    { chord: "C", text: "(C) Il faut vaincre le monde et partir" },
+                    { chord: "C", text: "(C) Attention ! Quelle heure est-il ?" },
+                    { chord: "C", text: "(C) Il faut vaincre le monde et partir." },
+                ],
             ]
         },
         //Fin Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
