@@ -1,5 +1,297 @@
 // songs.js // Liste des cantiques
 const songs = [
+
+        //Debut Cantiques Dimanche 09 Mars 2025 (Dixième Dimanche de l'année 2025)
+        {
+            key: "dim-09-03-2025",
+            title: "JUST AS I AM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7lxqhPC1mNA?si=LGqstnGXXpBgGVP7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) without one (C) plea" },
+                    { chord: "G", text: "(G) But that Thy blood was (F) shed for (C) me" },
+                    { chord: "C", text: "(C) And that Thou bid'st me (F) come to Thee" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) though tossed (C) about" },
+                    { chord: "G", text: "(G) With many a conflict, (F) many a (C) doubt" },
+                    { chord: "C", text: "(C) Fighting and fears (F) within without" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) Thou wilt (C) receive" },
+                    { chord: "G", text: "(G) Wilt welcome, pardon, (F) cleanse, (C) relieve" },
+                    { chord: "C", text: "(C) Because Thy (F) promise I believe" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-03-2025",
+            title: "QUEL JOUR ÇA SERA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/N6wCZ7fTk7k?si=V-2XzUuFusHA6-OC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un jour qui vient," },
+                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
+                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
+                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
+                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
+                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
+                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
+                    { chord: "C", text: "(C) Et je (G) vois de face " },
+                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
+                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
+                    { chord: "C", text: "(C) Me conduit à la terre promise" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
+                    { chord: "C", text: "(C) Ni fardeau à porter," },
+                    { chord: "C", text: "(C) Non plus (G) la maladie," },
+                    { chord: "C", text: "(C) Douleurs et séparation" },
+                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
+                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-03-2025",
+            title: "THIS WORLD IS NOT MY HOME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_fIly2AtV4U?si=-k4IiPgYweKnT3o7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) This world is not my home" },
+                    { chord: "C", text: "(C) I'm (F) just a-passing (C) through" },
+                    { chord: "C", text: "(C) My treasures are laid up" },
+                    { chord: "D", text: "(D) Somewhere beyond the (G) blue" },
+                    { chord: "C", text: "(C) The angels beckon me" },
+                    { chord: "C", text: "(C) From (F) heaven's open (C) door" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh Lord, you know" },
+                    { chord: "C", text: "(C) I (F) have no friend like (C) you" },
+                    { chord: "C", text: "(C) If heaven's not my home" },
+                    { chord: "D", text: "(D) Then Lord, what will I (G) do?" },
+                    { chord: "C", text: "(C) The angels beckon me" },
+                    { chord: "C", text: "(C) From (F) heaven's open (C) door" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) They're all expecting me" },
+                    { chord: "C", text: "(C) And (F) that's one thing I (C) know" },
+                    { chord: "C", text: "(C) My savior pardoned me" },
+                    { chord: "D", text: "(D) and now I onward (G) go" },
+                    { chord: "C", text: "(C) I know He'll take me through" },
+                    { chord: "C", text: "(C) Though (F) I am weak and (C) poor" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Just up in Glory Land" },
+                    { chord: "C", text: "(C) We'll (F) live eternally (C) " },
+                    { chord: "C", text: "(C) The Saints on every hand" },
+                    { chord: "D", text: "(D) Are shouting (G) victory" },
+                    { chord: "C", text: "(C) their song of sweetest praise" },
+                    { chord: "C", text: "(C) Drifts (F) back from Heaven's (C) shore" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+            ]
+        },
+        {
+            key: "dim-09-03-2025",
+            title: "I SHALL NOT BE MOVED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bbAntGcJOWY?si=fy6fIErLpm7WOVio",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is my Savior, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love and favor, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I shall not be, (G) I shall not be moved." },
+                    { chord: "G", text: "(G) I shall not be, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) In my Christ abiding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love I’m hiding, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) On His word I'm feeding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) He's the one that's leading, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-03-2025",
+            title: "ONE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/NCt_dRKaz-Y?si=aPlHcbKV_HnKpvbN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One day when heaven was filled with His praises," },
+                    { chord: "C", text: "(C) One day when (G) sin was as black as could (C) be," },
+                    { chord: "C", text: "(C) Jesus came forth to be born of a virgin" },
+                    { chord: "C", text: "(C) Dwelt among (G) men, my example is He!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Living, He loved me; dying, He (C) saved me;" },
+                    { chord: "C", text: "(C) Buried, He (F) carried my sins far (G) away;" },
+                    { chord: "G", text: "(G) Rising, He justified freely (C) forever:" },
+                    { chord: "C", text: "(C) One day He’s (F) coming (G) O glorious (C) day!" }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they led Him up Calvary’s mountain," },
+                    { chord: "C", text: "(C) One day they (G) nailed Him to die on the (C) tree;" },
+                    { chord: "C", text: "(C) Suffering anguish, despised and rejected;" },
+                    { chord: "C", text: "(C) Bearing our (G) sins, my Redeemer is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they left Him alone in the garden," },
+                    { chord: "C", text: "(C) One day He (G) rested, from suffering (C) free;" },
+                    { chord: "C", text: "(C) Angels came down o’er His tomb to keep vigil;" },
+                    { chord: "C", text: "(C) Hope of the (G) hopeless, my Savior is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the grave could conceal Him no longer," },
+                    { chord: "C", text: "(C) One day the (G) stone rolled away from the (C) door;" },
+                    { chord: "C", text: "(C) Then He arose, over death He had conquered;" },
+                    { chord: "C", text: "(C) Now is (G) ascended, my Lord evermore." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the trumpet will sound for His coming," },
+                    { chord: "C", text: "(C) One day the (G) skies with His glory will (C) shine;" },
+                    { chord: "C", text: "(C) Wonderful day, my beloved ones bringing;" },
+                    { chord: "C", text: "(C) Glorious (G) Savior, this Jesus is mine!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-03-2025",
+            title: "IN THE SWEET",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a land that is (F) fairer than (C) day," },
+                    { chord: "C", text: "(C) And by faith we can (D) see it a (G) far," },
+                    { chord: "C", text: "(C) For the Father waits (F) over the (C) way" },
+                    { chord: "C", text: "(C) To prepare us a (G) dwelling place (C) there!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the sweet by and (G) by," },
+                    { chord: "G", text: "(G) We shall (F) meet on that beautiful (C) shore;" },
+                    { chord: "C", text: "(C) In the sweet by and (F) by," },
+                    { chord: "F", text: "(F) We shall (C) meet on that (G) beautiful (C) shore." }
+                ],
+                [
+                    { chord: "C", text: "(C) We shall sing on that (F) beautiful (C) shore" },
+                    { chord: "C", text: "(C) The melodious (D) songs of the (G) blest;" },
+                    { chord: "C", text: "(C) And our spirits (F) shall sorrow no (C) more" },
+                    { chord: "C", text: "(C) Not a sigh for the (G) blessing of (C) rest." }
+                ],
+                [
+                    { chord: "C", text: "(C) To our bountiful (F) Father (C) above" },
+                    { chord: "C", text: "(C) We will offer our (D) tribute of (G) praise" },
+                    { chord: "C", text: "(C) For the glorious (F) gift of His (C) love" },
+                    { chord: "C", text: "(C) And the blessings that (G) hallow our (C) days." }
+                ]
+            ]
+        },
+        {
+            key: "dim-09-03-2025",
+            title: "PAR LA FOI NOUS MARCHERONS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-09-03-2025",
+            title: "A L'OUEST, LE SOLEIL SE COUCHE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À l’ouest le soleil se couche" },
+                    { chord: "C", text: "(C) Il arrive à la fin de sa course" },
+                    { chord: "C", text: "(C) Et je vois combien ce temps est là," },
+                    { chord: "C", text: "(C) Où sur le temps le soleil se couche.." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
+                    { chord: "C", text: "(C) C’est la fin de la course" },
+                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
+                    { chord: "C", text: "(C) C’est la fin de toute chose." },
+                ],
+                [
+                    { chord: "C", text: "(C) Et voici que la lumière du soir" },
+                    { chord: "C", text: "(C) A l’ouest pour moi a paru" },
+                    { chord: "C", text: "(C) Elle manifeste le Fils de l’homme" },
+                    { chord: "C", text: "(C) Et je crois, c’est vrai je le crois." },
+                ],
+                [
+                    { chord: "C", text: "(C) Pèlerin c’est la fin de la course" },
+                    { chord: "C", text: "(C) Il faut vaincre le monde et partir" },
+                    { chord: "C", text: "(C) Attention ! Quelle heure est-il ?" },
+                    { chord: "C", text: "(C) Il faut vaincre le monde et partir." },
+                ],
+            ]
+        },
+        //Fin Cantiques Dimanche 09 Mars 2025 (Dixième Dimanche de l'année 2025)
+
         //Debut Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
         {
             key: "dim-02-03-2025",
@@ -303,39 +595,6 @@ const songs = [
                     { chord: "C", text: "(C) Car (F) dans tout l'univers" },
                     { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
                 ]
-            ]
-        },
-        {
-            key: "dav-02-03-2025",
-            title: "A L'OUEST, LE SOLEIL SE COUCHE",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) À l’ouest le soleil se couche" },
-                    { chord: "C", text: "(C) Il arrive à la fin de sa course" },
-                    { chord: "C", text: "(C) Et je vois combien ce temps est là," },
-                    { chord: "C", text: "(C) Où sur le temps le soleil se couche.." },
-                ],
-                [
-                    { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
-                    { chord: "C", text: "(C) C’est la fin de la course" },
-                    { chord: "C", text: "(C) C’est la fin, c’est la fin," },
-                    { chord: "C", text: "(C) C’est la fin de toute chose." },
-                ],
-                [
-                    { chord: "C", text: "(C) Et voici que la lumière du soir" },
-                    { chord: "C", text: "(C) A l’ouest pour moi a paru" },
-                    { chord: "C", text: "(C) Elle manifeste le Fils de l’homme" },
-                    { chord: "C", text: "(C) Et je crois, c’est vrai je le crois." },
-                ],
-                [
-                    { chord: "C", text: "(C) Pèlerin c’est la fin de la course" },
-                    { chord: "C", text: "(C) Il faut vaincre le monde et partir" },
-                    { chord: "C", text: "(C) Attention ! Quelle heure est-il ?" },
-                    { chord: "C", text: "(C) Il faut vaincre le monde et partir." },
-                ],
             ]
         },
         //Fin Cantiques Dimanche 02 Mars 2025 (Neuvième Dimanche de l'année 2025)
