@@ -1,6 +1,131 @@
 // songs.js // Liste des cantiques
 const songs = [
 
+        //Debut Cantiques Dimanche 16 Mars 2025 (Onzième Dimanche de l'année 2025)
+        {
+            key: "dim-16-03-2025",
+            title: "WHEN HE REACHED DOWN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/R8T2gx9yCSE?si=GWohU3MxkoSjnfY7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Once my soul was astray from the heavenly way" },
+                    { chord: "C", text: "(C) I was wretched and blind as could be" },
+                    { chord: "G", text: "(G) But my Savior in love gave me peace from above" },
+                    { chord: "C", text: "(C) When he reached down his hand for me" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the Savior reached down for me" },
+                    { chord: "F", text: "(F) When he reached down his hand for me" },
+                    { chord: "C", text: "(C) I was lost and undone without God or his Son" },
+                    { chord: "C", text: "(C) When he reached down his hand for me" }
+                ],
+                [
+                    { chord: "C", text: "(C) OI was nearing despair, when He came to me there," },
+                    { chord: "C", text: "(C) And he showed me that I could be free;" },
+                    { chord: "G", text: "(G) Then He lifted my feet, gave me glory complete," },
+                    { chord: "C", text: "(C) When He reach’d down His hand for me." }
+                ],
+                [
+                    { chord: "C", text: "(C) How my heart does rejoice when I hear his sweet voice" },
+                    { chord: "C", text: "(C) In a tempest to him I can cling" },
+                    { chord: "G", text: "(G) I can lean on his arm safe and sure from all harm" },
+                    { chord: "C", text: "(C) When he reaches down his hand for me" }
+                ],
+                [
+                    { chord: "C", text: "(C) Since the Lord gave me peace heav’nly joys never cease," },
+                    { chord: "C", text: "(C) Lord, I give all my life unto Thee;" },
+                    { chord: "G", text: "(G) Guide my feet, hold my hand, grant with Thee I may stand," },
+                    { chord: "C", text: "(C) For you reach’d down your hand for me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-03-2025",
+            title: "TIS TRUE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/zhSsarB9M3Y?si=fdpio6UelZmOzSX_",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Tis true, oh, yes, 'tis true," },
+                    { chord: "F", text: "(F) God's wonderful promise is true;" },
+                    { chord: "C", text: "(C) For I've trusted, and tested, and tried it," },
+                    { chord: "C", text: "(C) And I know God's promise is true." }
+                ],
+            ]
+        },
+        {
+            key: "dim-16-03-2025",
+            title: "HE IS ABLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KZuSqKOZQbQ?si=g2yGSJQPirmvDrQU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He’s able, He’s able," },
+                    { chord: "C", text: "(C) I know He’s able," },
+                    { chord: "G", text: "(G) I know my Lord is able" },
+                    { chord: "C", text: "(C) To carry me through." },
+                    { chord: "C", text: "(C) He’s able, He’s able," },
+                    { chord: "C", text: "(C) I know He’s able," },
+                    { chord: "G", text: "(G) I know my Lord is able" },
+                    { chord: "C", text: "(C) To carry me through." }
+                ],
+                [
+                    { chord: "C", text: "(C) He healed the broken-hearted," },
+                    { chord: "C", text: "(C) And set the captive free," },
+                    { chord: "G", text: "(G) He made the lame to walk again" },
+                    { chord: "C", text: "(C) And calmed the trouble sea." },
+                    { chord: "C", text: "(C) He’s able, He’s able," },
+                    { chord: "C", text: "(C) I know He’s able," },
+                    { chord: "G", text: "(G) I know my Lord is able" },
+                    { chord: "C", text: "(C) To carry me through." }
+                ],
+            ]
+        },
+        {
+            key: "dim-16-03-2025",
+            title: "WHEN THE SAINTS MARCH IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m a pilgrim and a (F) stranger " },
+                    { chord: "F", text: "(F) Wand’ring (C) through this (D) world of (G) sin," },
+                    { chord: "G", text: "(G) On my (C) way to that fair (F) city," },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, I know I’ll see my (F) Savior" },
+                    { chord: "F", text: "(F) If my (C) life is (D) free from (G) sin," },
+                    { chord: "G", text: "(G) Heaven’s (C) doors will open for (F) me" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) When we gather ‘round the (F) Throne" },
+                    { chord: "F", text: "(F) And the (C) gates are (D) closed (G) within," },
+                    { chord: "G", text: "(G) I’ll (C) be shouting “Glory, (F) Glory” " },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’m waiting for the (F) chariot" },
+                    { chord: "F", text: "(F) To (C) swing low (D) and I’ll (G) step in," },
+                    { chord: "G", text: "(G) On the (C) clouds I’ll ride to (F) Heaven" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 16 Mars 2025 (Onzième Dimanche de l'année 2025)
+
+
         //Debut Cantiques Dimanche 09 Mars 2025 (Dixième Dimanche de l'année 2025)
         {
             key: "dim-09-03-2025",
