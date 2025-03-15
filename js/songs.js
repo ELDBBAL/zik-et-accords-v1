@@ -9,7 +9,7 @@ const songs = [
             youtubeLink: "https://youtu.be/R8T2gx9yCSE?si=GWohU3MxkoSjnfY7",
             verses: [
                 [
-                    { chord: "C", text: "(C) Once my soul was astray from the heavenly way" },
+                    { chord: "C", text: "(C) Once my soul was astray from the (G) heavenly (C) way" },
                     { chord: "C", text: "(C) I was wretched and blind as could be" },
                     { chord: "G", text: "(G) But my Savior in love gave me peace from above" },
                     { chord: "C", text: "(C) When he reached down his hand for me" }
@@ -49,10 +49,10 @@ const songs = [
             verses: [
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Tis true, oh, yes, 'tis true," },
-                    { chord: "F", text: "(F) God's wonderful promise is true;" },
-                    { chord: "C", text: "(C) For I've trusted, and tested, and tried it," },
-                    { chord: "C", text: "(C) And I know God's promise is true." }
+                    { chord: "C", text: "(C) Tis true, oh, (G) yes, tis (C) true," },
+                    { chord: "C", text: "(C) God's wonderful (D) promise is (G) true;" },
+                    { chord: "C", text: "(C) For I've trusted, and tested, and (F) tried it," },
+                    { chord: "C", text: "(C) And I know God's (G) promise is (C) true." }
                 ],
             ]
         },
@@ -63,24 +63,24 @@ const songs = [
             youtubeLink: "https://youtu.be/KZuSqKOZQbQ?si=g2yGSJQPirmvDrQU",
             verses: [
                 [
-                    { chord: "C", text: "(C) He’s able, He’s able," },
-                    { chord: "C", text: "(C) I know He’s able," },
-                    { chord: "G", text: "(G) I know my Lord is able" },
-                    { chord: "C", text: "(C) To carry me through." },
-                    { chord: "C", text: "(C) He’s able, He’s able," },
-                    { chord: "C", text: "(C) I know He’s able," },
-                    { chord: "G", text: "(G) I know my Lord is able" },
-                    { chord: "C", text: "(C) To carry me through." }
+                    { chord: "C", text: "(C) He’s able, (G) He’s able," },
+                    { chord: "C", text: "(C) I know He’s (F) able," },
+                    { chord: "C", text: "(C) I know my Lord is (G) able" },
+                    { chord: "G", text: "(G) To carry me (C) through." },
+                    { chord: "C", text: "(C) He’s able, (G) He’s able," },
+                    { chord: "C", text: "(C) I know He’s (F) able," },
+                    { chord: "C", text: "(C) I know my Lord is (G) able" },
+                    { chord: "G", text: "(G) To carry me (C) through." }
                 ],
                 [
-                    { chord: "C", text: "(C) He healed the broken-hearted," },
+                    { chord: "F", text: "(F) He healed the broken-hearted," },
                     { chord: "C", text: "(C) And set the captive free," },
-                    { chord: "G", text: "(G) He made the lame to walk again" },
-                    { chord: "C", text: "(C) And calmed the trouble sea." },
-                    { chord: "C", text: "(C) He’s able, He’s able," },
-                    { chord: "C", text: "(C) I know He’s able," },
-                    { chord: "G", text: "(G) I know my Lord is able" },
-                    { chord: "C", text: "(C) To carry me through." }
+                    { chord: "D", text: "(D) He made the lame to walk again" },
+                    { chord: "G", text: "(G) And calmed the trouble sea." },
+                    { chord: "C", text: "(C) He’s able, (G) He’s able," },
+                    { chord: "C", text: "(C) I know He’s (F) able," },
+                    { chord: "C", text: "(C) I know my Lord is (G) able" },
+                    { chord: "G", text: "(G) To carry me (C) through." }
                 ],
             ]
         },
