@@ -10,34 +10,34 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Once my soul was astray from the (G) heavenly (C) way" },
-                    { chord: "C", text: "(C) I was wretched and blind as could be" },
-                    { chord: "G", text: "(G) But my Savior in love gave me peace from above" },
-                    { chord: "C", text: "(C) When he reached down his hand for me" }
+                    { chord: "C", text: "(C) I was wretched and (G) blind as (C) could be" },
+                    { chord: "C", text: "(C) But my Savior in love gave me (F) peace from (C) above" },
+                    { chord: "C", text: "(C) When he reached down his (G) hand for (C) me" }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) When the Savior reached down for me" },
-                    { chord: "F", text: "(F) When he reached down his hand for me" },
-                    { chord: "C", text: "(C) I was lost and undone without God or his Son" },
-                    { chord: "C", text: "(C) When he reached down his hand for me" }
+                    { chord: "C", text: "(C) When the Savior (F) reached down for (C) me" },
+                    { chord: "C", text: "(C) When he reached (D) down his hand for (G) me" },
+                    { chord: "C", text: "(C) I was lost and undone (F) without God or his (C) Son" },
+                    { chord: "C", text: "(C) When he reached down his (G) hand for (C) me" }
                 ],
                 [
-                    { chord: "C", text: "(C) OI was nearing despair, when He came to me there," },
-                    { chord: "C", text: "(C) And he showed me that I could be free;" },
-                    { chord: "G", text: "(G) Then He lifted my feet, gave me glory complete," },
-                    { chord: "C", text: "(C) When He reach’d down His hand for me." }
+                    { chord: "C", text: "(C) I was nearing despair, when He (G) came to me (C) there," },
+                    { chord: "C", text: "(C) And he showed me that (G) I could (C) be free;" },
+                    { chord: "C", text: "(C) Then He lifted my feet, gave (F) me glory (C) complete," },
+                    { chord: "C", text: "(C) When He reach’d down His (G) hand for (C) me." }
                 ],
                 [
-                    { chord: "C", text: "(C) How my heart does rejoice when I hear his sweet voice" },
-                    { chord: "C", text: "(C) In a tempest to him I can cling" },
-                    { chord: "G", text: "(G) I can lean on his arm safe and sure from all harm" },
-                    { chord: "C", text: "(C) When he reaches down his hand for me" }
+                    { chord: "C", text: "(C) How my heart does rejoice when I (G) hear his sweet (C) voice" },
+                    { chord: "C", text: "(C) In a tempest to him I (G) can (C) cling" },
+                    { chord: "C", text: "(C) I can lean on his arm safe and (F) sure from all (C) harm" },
+                    { chord: "C", text: "(C) When he reaches down his (G) hand for (C) me" }
                 ],
                 [
-                    { chord: "C", text: "(C) Since the Lord gave me peace heav’nly joys never cease," },
-                    { chord: "C", text: "(C) Lord, I give all my life unto Thee;" },
-                    { chord: "G", text: "(G) Guide my feet, hold my hand, grant with Thee I may stand," },
-                    { chord: "C", text: "(C) For you reach’d down your hand for me." }
+                    { chord: "C", text: "(C) Since the Lord gave me peace (G) heav’nly joys never (C) cease," },
+                    { chord: "C", text: "(C) Lord, I give all my (G) life unto (C) Thee;" },
+                    { chord: "C", text: "(C) Guide my feet, hold my hand, grant (F) with Thee I may (C) stand," },
+                    { chord: "C", text: "(C) For you reach’d down your (G) hand for (C) me." }
                 ]
             ]
         },
