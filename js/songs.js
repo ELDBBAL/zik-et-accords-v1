@@ -123,6 +123,179 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-16-03-2025",
+            title: "I LIKE THE OLD TIME WAY",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I like the old time singing, shouting," },
+                    { chord: "F", text: "(F) I like the old time way," },
+                    { chord: "G", text: "(G) I like the old time singing, shouting" },
+                    { chord: "F", text: "(F) preaching, praying" },
+                    { chord: "F", text: "(F) I like the old time way." }
+                ],
+                [
+                    { chord: "C", text: "(C) I sing about my savior everywhere I go," },
+                    { chord: "C", text: "(C) Everywhere I go, everywhere I go," },
+                    { chord: "G", text: "(G) I sing about my savior everywhere I go," },
+                    { chord: "F", text: "(F) For there's joy, oy in my soul." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-03-2025",
+            title: "GLOIRE A TON NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ton amour nous environne" },
+                    { chord: "F", text: "(F) O, Seigneur, (C) " },
+                    { chord: "C", text: "(C) Ta gloire resplendit tout (D) comme le soleil (G) " },
+                    { chord: "G", text: "(G) Ton amour nous (C) environne" },
+                    { chord: "C", text: "(C) O, Seigneur, (F) " },
+                    { chord: "F", text: "(F) C'est pourquoi nous (C) espérons," },
+                    { chord: "G", text: "(G) tous en (C) Toi." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à ton Nom !" },
+                    { chord: "C", text: "(C) O, Seigneur notre (G) Roi" },
+                    { chord: "G", text: "(G) Gloire à ton Nom !" },
+                    { chord: "G", text: "(G) Toi qui nous as (C) sauvés" },
+                    { chord: "C", text: "(C) Gloire à ton Nom !" },
+                    { chord: "C", text: "(C) Toi qui nous aimes (F) tant" },
+                    { chord: "F", text: "(F) C'est pourquoi nous (C) espérons," },
+                    { chord: "G", text: "(G) tous en (C) Toi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Tu n'as exigé de (F) garantie (C) " },
+                    { chord: "C", text: "(C) Avant de manifester (D) cet amour (G) " },
+                    { chord: "G", text: "(G) Ton bras de Père (C) Tu l'as tendu (F) " },
+                    { chord: "F", text: "(F) vers nous" },
+                    { chord: "F", text: "(F) Pour nous (C) arracher du (G) feu de l'enfer (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Tu n'as pas caché à (F) ton Epouse (C) " },
+                    { chord: "C", text: "(C) Les mystères de Dieu sont (D) tous révélés (G) " },
+                    { chord: "G", text: "(G) Nous voyons le (C) 7è sceau ouvert (F) " },
+                    { chord: "F", text: "(F) C'est pourquoi nous (C) attendons (G) le départ. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-03-2025",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-03-2025",
+            title: "JESUS IS THE WINNER MAN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/qf_wClr8F0U?si=Yx7kj3y1K8loiobM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner Man! (G) Winner Man!" },
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "G", text: "(G) Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! " },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan is the (F) looser Man" },
+                    { chord: "C", text: "(C) Looser Man! (G) Looser Man!" },
+                    { chord: "C", text: "(C) Satan is the (F) Looser Man" },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "G", text: "(G) Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! " },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side! (G) Winning side!" },
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "G", text: "(G) Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-03-2025",
+            title: "ON CHRIST, THE SOLID ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uhVwVHC6_n0?si=GFm_9vOymnNyg0_M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My hope is built on (G) nothing less" },
+                    { chord: "G", text: "(G) Than (F) Jesus Christ, my (C) righteousness;" },
+                    { chord: "C", text: "(C) I dare not trust the (G) sweetest frame," },
+                    { chord: "G", text: "(G) But (F) wholly lean on Jesus’ (C) name." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) On Christ, the solid Rock, I (F) stand;" },
+                    { chord: "C", text: "(C) All other ground is (G) sinking sand," },
+                    { chord: "C", text: "(C) All other ground is (F) sinking sand." }
+                ],
+                [
+                    { chord: "C", text: "(C) When darkness veils His (G) lovely face," },
+                    { chord: "G", text: "(G) I (F) rest on His unchanging (C) grace;" },
+                    { chord: "C", text: "(C) In every high and (G) stormy gale," },
+                    { chord: "G", text: "(G) My (F) anchor holds within the (C) veil." }
+                ],
+                [
+                    { chord: "C", text: "(C) His oath, His covenant, His (G) blood," },
+                    { chord: "F", text: "(F) Support me in the (C) whelming flood;" },
+                    { chord: "C", text: "(C) When all around my (G) soul gives way," },
+                    { chord: "F", text: "(F) He then is all my hope and (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) When He shall come with trumpet (G) sound," },
+                    { chord: "G", text: "(G) Oh, (F) may I then in Him (C) be found;" },
+                    { chord: "C", text: "(C) In Him, my (G) righteousness, alone," },
+                    { chord: "F", text: "(F) Faultless to stand before the (C) throne." }
+                ]
+            ]
+        },
         //Fin Cantiques Dimanche 16 Mars 2025 (Onzième Dimanche de l'année 2025)
 
 
@@ -5247,7 +5420,7 @@ const songs = [
                     { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
                 ],
                 [
-                    { chord: "C", text: "(C) Mon ame âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(C) Mon âme (Am) soupire après Toi" },
                     { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
                     { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
                     { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
@@ -6814,7 +6987,7 @@ const songs = [
                     { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
                 ],
                 [
-                    { chord: "C", text: "(C) Mon ame âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(C) Mon âme (Am) soupire après Toi" },
                     { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
                     { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
                     { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
