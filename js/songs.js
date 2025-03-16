@@ -148,7 +148,7 @@ const songs = [
             key: "dim-16-03-2025",
             title: "GLOIRE A TON NOM",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/HR0e4WVTw-k?si=Y6aa2m0nnfAqrO3P",
             verses: [
                 [
                     { chord: "C", text: "(C) Ton amour nous environne" },
@@ -189,7 +189,7 @@ const songs = [
             key: "dim-16-03-2025",
             title: "QUAND JE VOIS LA BONTE DE MON DIEU",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
             verses: [
                 [
                     { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
