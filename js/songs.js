@@ -127,20 +127,20 @@ const songs = [
             key: "dim-16-03-2025",
             title: "I LIKE THE OLD TIME WAY",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/jlnkIAs2Zf4?si=DHIupdWP6u5MKZqZ",
             verses: [
                 [
-                    { chord: "C", text: "(C) I like the old time singing, shouting," },
-                    { chord: "F", text: "(F) I like the old time way," },
-                    { chord: "G", text: "(G) I like the old time singing, shouting" },
+                    { chord: "C", text: "(C) I like the old time (F) singing, shouting," },
+                    { chord: "C", text: "(C) I like the (D) old time (G) way," },
+                    { chord: "C", text: "(C) I like the old time (F) singing, shouting" },
                     { chord: "F", text: "(F) preaching, praying" },
-                    { chord: "F", text: "(F) I like the old time way." }
+                    { chord: "C", text: "(C) I like the (G) old time (C) way." }
                 ],
                 [
-                    { chord: "C", text: "(C) I sing about my savior everywhere I go," },
-                    { chord: "C", text: "(C) Everywhere I go, everywhere I go," },
-                    { chord: "G", text: "(G) I sing about my savior everywhere I go," },
-                    { chord: "F", text: "(F) For there's joy, oy in my soul." }
+                    { chord: "F", text: "(F) I sing about my savior (C) everywhere I go," },
+                    { chord: "G", text: "(G) Everywhere I go, (C) everywhere I go," },
+                    { chord: "F", text: "(F) I sing about my savior (C) everywhere I (Am) go," },
+                    { chord: "Dm", text: "(Dm) For there's joy, (G) oy in my (C) soul." }
                 ]
             ]
         },
