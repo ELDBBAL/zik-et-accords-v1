@@ -1,6 +1,110 @@
 // songs.js // Liste des cantiques
 const songs = [
 
+        // Cantiques du 23 Mars 2025 Proposé avant d'être rechangé !
+        {
+            key: "dav-23-03-2025",
+            title: "EN CHRIST SEUL",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) En Christ seul est mon espérance," },
+                    { chord: "C", text: "(C) Lui, ma lumière, ma force, mon chant;" },
+                    { chord: "C", text: "(C) Pierre angulaire, Rocher solide," },
+                    { chord: "C", text: "(C) Contre les vagues et les tempêtes;" },
+                    { chord: "C", text: "(C) Amour sublime, quelle paix profonde," },
+                    { chord: "C", text: "(C) Finies mes peurs, finies mes luttes;" },
+                    { chord: "C", text: "(C) Mon Réconfort, mon Tout en tout," },
+                    { chord: "C", text: "(C) Je compte sur l'Amour de Christ." }
+                ],
+                [
+                    { chord: "C", text: "(C) En Christ seul, qui devient homme," },
+                    { chord: "C", text: "(C) Tout le plénitude de Dieu ;" },
+                    { chord: "C", text: "(C) Ce Don d'Amour et de justice," },
+                    { chord: "C", text: "(C) Méprisé par l'humanité;" },
+                    { chord: "C", text: "(C) Et sur la croix, Jésus mourut," },
+                    { chord: "C", text: "(C) La colère de Dieu s'apaisa;" },
+                    { chord: "C", text: "(C) Mes péchés furent placés sur Lui," },
+                    { chord: "C", text: "(C) Et je vis par la mort de Christ." }
+                ],
+                [
+                    { chord: "C", text: "(C) Là, dans la terre, son corps gisait," },
+                    { chord: "C", text: "(C) Lui qui est la lumière du monde;" },
+                    { chord: "C", text: "(C) Un glorieux jour Il s'avança," },
+                    { chord: "C", text: "(C) Il réssuscita de la tombe ;" },
+                    { chord: "C", text: "(C) Comme il sortit victorieux," },
+                    { chord: "C", text: "(C) Le péché ne règne plus sur moi ;" },
+                    { chord: "C", text: "(C) Je suis à Lui, Il est à moi," },
+                    { chord: "C", text: "(C) Le Sang de Christ m'a racheté." }
+                ],
+                [
+                    { chord: "C", text: "(C) N'y a plus de crainte de la mort," },
+                    { chord: "C", text: "(C) C'est la puissance de Christ en moi;" },
+                    { chord: "C", text: "(C) Sur le parcours de toute ma vie," },
+                    { chord: "C", text: "(C) C'est Jésus qui tient mon destin;" },
+                    { chord: "C", text: "(C) Ni l'enfer ni le projet d'hommes," },
+                    { chord: "C", text: "(C) Ne peuvent m'arracher de Sa main ;" },
+                    { chord: "C", text: "(C) Soit qu'Il retourne ou que je meure," },
+                    { chord: "C", text: "(C) Je tiendrai bon par Sa puissance." }
+                ]
+            ]
+        },
+        {
+            key: "dav-23-03-2025",
+            title: "RAMENE RAMENE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ramène, ramène seigneur," },
+                    { chord: "F", text: "(F) Ramène ces beaux jours," },
+                    { chord: "C", text: "(C) Ces jours heureux," },
+                    { chord: "C", text: "(C) Quand le saint esprit tombait en tout lieu," },
+                    { chord: "C", text: "(C) Et l'amour de Dieu était dans les coeurs," },
+                    { chord: "C", text: "(C) Oh ramène ces jours heureux" },
+                ]
+            ]
+        },
+        {
+            key: "dav-23-03-2025",
+            title: "JE VEUX MONTER SUR LA MONTAGNE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je veux monter sur la montagne" },
+                    { chord: "F", text: "(F) C'est là que l'on rencontre Dieu," },
+                    { chord: "C", text: "(C) C'est là que la joie nous inonde," },
+                    { chord: "C", text: "(C) Et que pour nous, s'ouvrent les Cieux." },
+                    { chord: "C", text: "(C) Je veux laisser les joies du monde," },
+                    { chord: "C", text: "(C) Et me tenir tout près de Dieu ;" },
+                    { chord: "C", text: "(C) Je veux monter sur la montagne" },
+                    { chord: "C", text: "(C) C'est là qu'on est heureux !" }
+                ],
+                [
+                    { chord: "G", text: "(G) Si le chemin est rocailleux" },
+                    { chord: "F", text: "(F) Si les cailloux ne blessent un peu" },
+                    { chord: "C", text: "(C) Le Saint-Esprit me guidera" },
+                    { chord: "C", text: "(C) Et Jésus me consolera" }
+                ],
+                [
+                    { chord: "C", text: "(C) Sur ce chemin, Jésus monta," },
+                    { chord: "F", text: "(F) Et mon Sauveur me précéda;" },
+                    { chord: "C", text: "(C) Avec Lui je veux m'élever" },
+                    { chord: "C", text: "(C) Jusque sur les plus hauts sommets" }
+                ],
+                [
+                    { chord: "C", text: "(C) Vivre pour Dieu, nous le pouvons," },
+                    { chord: "F", text: "(F) Car ce n'est plus nous qui vivons," },
+                    { chord: "C", text: "(C) Mais c'est Jésus qui vit en nous," },
+                    { chord: "C", text: "(C) Et nous fait triompher partout." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 23 Mars 2025 Proposé avant d'être rechangé !
+
         //Debut Cantiques Dimanche 23 Mars 2025 (Douzième Dimanche de l'année 2025)
         {
             key: "dim-23-03-2025",
@@ -57,7 +161,7 @@ const songs = [
         },
         {
             key: "dim-23-03-2025",
-            title: "OH, HOW I LOVE JESUS",
+            title: "OH HOW I LOVE JESUS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/t-6n0Zdnw3U?si=aSml3pqOaw6gOymL",
             verses: [
@@ -85,54 +189,6 @@ const songs = [
                     { chord: "C", text: "(C) Can (G) feel my deepest (C) woe," },
                     { chord: "C", text: "(C) Who in each sorrow bears a part" },
                     { chord: "C", text: "(C) That (F) none (G) can bear (C) below" }
-                ]
-            ]
-        },
-        {
-            key: "dim-23-03-2025",
-            title: "EN CHRIST SEUL",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) En Christ seul est mon espérance," },
-                    { chord: "C", text: "(C) Lui, ma lumière, ma force, mon chant;" },
-                    { chord: "C", text: "(C) Pierre angulaire, Rocher solide," },
-                    { chord: "C", text: "(C) Contre les vagues et les tempêtes;" },
-                    { chord: "C", text: "(C) Amour sublime, quelle paix profonde," },
-                    { chord: "C", text: "(C) Finies mes peurs, finies mes luttes;" },
-                    { chord: "C", text: "(C) Mon Réconfort, mon Tout en tout," },
-                    { chord: "C", text: "(C) Je compte sur l'Amour de Christ." }
-                ],
-                [
-                    { chord: "C", text: "(C) En Christ seul, qui devient homme," },
-                    { chord: "C", text: "(C) Tout le plénitude de Dieu ;" },
-                    { chord: "C", text: "(C) Ce Don d'Amour et de justice," },
-                    { chord: "C", text: "(C) Méprisé par l'humanité;" },
-                    { chord: "C", text: "(C) Et sur la croix, Jésus mourut," },
-                    { chord: "C", text: "(C) La colère de Dieu s'apaisa;" },
-                    { chord: "C", text: "(C) Mes péchés furent placés sur Lui," },
-                    { chord: "C", text: "(C) Et je vis par la mort de Christ." }
-                ],
-                [
-                    { chord: "C", text: "(C) Là, dans la terre, son corps gisait," },
-                    { chord: "C", text: "(C) Lui qui est la lumière du monde;" },
-                    { chord: "C", text: "(C) Un glorieux jour Il s'avança," },
-                    { chord: "C", text: "(C) Il réssuscita de la tombe ;" },
-                    { chord: "C", text: "(C) Comme il sortit victorieux," },
-                    { chord: "C", text: "(C) Le péché ne règne plus sur moi ;" },
-                    { chord: "C", text: "(C) Je suis à Lui, Il est à moi," },
-                    { chord: "C", text: "(C) Le Sang de Christ m'a racheté." }
-                ],
-                [
-                    { chord: "C", text: "(C) N'y a plus de crainte de la mort," },
-                    { chord: "C", text: "(C) C'est la puissance de Christ en moi;" },
-                    { chord: "C", text: "(C) Sur le parcours de toute ma vie," },
-                    { chord: "C", text: "(C) C'est Jésus qui tient mon destin;" },
-                    { chord: "C", text: "(C) Ni l'enfer ni le projet d'hommes," },
-                    { chord: "C", text: "(C) Ne peuvent m'arracher de Sa main ;" },
-                    { chord: "C", text: "(C) Soit qu'Il retourne ou que je meure," },
-                    { chord: "C", text: "(C) Je tiendrai bon par Sa puissance." }
                 ]
             ]
         },
@@ -210,6 +266,39 @@ const songs = [
                     { chord: "C", text: "(C) To our fathers who were true;" },
                     { chord: "G", text: "(G) This is promised to believers," },
                     { chord: "G", text: "(G) And we all may have it too." }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-03-2025",
+            title: "WONDERFUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O my heart sings today, sings for joy and (G) gladness," },
+                    { chord: "G", text: "(G) Jesus saves, satisfies, banishes my (C) sadness;" },
+                    { chord: "C", text: "(C) Guilt is gone, peace is mine, peace like to a (F) river," },
+                    { chord: "F", text: "(F) Jesus is (C) wonderful, mighty (G) to deliver. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Wonderful, wonderful, Jesus is to (G) me," },
+                    { chord: "G", text: "(G) Counselor, Prince of Peace, Mighty God is (C) He;" },
+                    { chord: "C", text: "(C) Saving me, keeping me from all sin and (F) shame," },
+                    { chord: "F", text: "(F) Wonderful is (C) my Redeemer, (G) praise His (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Once a slave, now I’m free, free from (G) condemnation," },
+                    { chord: "G", text: "(G) Jesus gives liberty and a full (C) salvation;" },
+                    { chord: "C", text: "(C) Now the sins of the past have been all (F) forgiven," },
+                    { chord: "F", text: "(F) And my name is (C) inscribed on the (G) book of (C) heaven." }
+                ],
+                [
+                    { chord: "C", text: "(C) Living here with my Lord in a holy (G) union," },
+                    { chord: "G", text: "(G) Day by day, all the way holding sweet (C) communion;" },
+                    { chord: "C", text: "(C) O what change grace hath wrought in my lowly (F) station!" },
+                    { chord: "F", text: "(F) Since my soul has (C) received full (G) and free (C) salvation." }
                 ]
             ]
         },
@@ -307,54 +396,40 @@ const songs = [
         },
         {
             key: "dim-23-03-2025",
-            title: "RAMENE RAMENE SEIGNEUR",
+            title: "THERE'S NO DISAPPOINTMENT IN HEAVEN",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
             verses: [
                 [
-                    { chord: "C", text: "(C) Ramène, ramène seigneur," },
-                    { chord: "F", text: "(F) Ramène ces beaux jours," },
-                    { chord: "C", text: "(C) Ces jours heureux," },
-                    { chord: "C", text: "(C) Quand le saint esprit tombait en tout lieu," },
-                    { chord: "C", text: "(C) Et l'amour de Dieu était dans les coeurs," },
-                    { chord: "C", text: "(C) Oh ramène ces jours heureux" },
-                ]
-            ]
-        },
-        {
-            key: "dim-23-03-2025",
-            title: "JE VEUX MONTER SUR LA MONTAGNE",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Je veux monter sur la montagne" },
-                    { chord: "F", text: "(F) C'est là que l'on rencontre Dieu," },
-                    { chord: "C", text: "(C) C'est là que la joie nous inonde," },
-                    { chord: "C", text: "(C) Et que pour nous, s'ouvrent les Cieux." },
-                    { chord: "C", text: "(C) Je veux laisser les joies du monde," },
-                    { chord: "C", text: "(C) Et me tenir tout près de Dieu ;" },
-                    { chord: "C", text: "(C) Je veux monter sur la montagne" },
-                    { chord: "C", text: "(C) C'est là qu'on est heureux !" }
+                    { chord: "C", text: "(C) There’s no disappointment in heaven," },
+                    { chord: "C", text: "(C) No (G) weariness, sorrow or (C) pain;" },
+                    { chord: "C", text: "(C) No hearts that are bleeding and broken," },
+                    { chord: "C", text: "(C) No (G) song with a minor (C) refrain." },
+                    { chord: "C", text: "(C) The (F) clouds of our earthly (C) horizon" },
+                    { chord: "C", text: "(C) Will (G) never appear in the (C) sky, " },
+                    { chord: "C", text: "(C) For (F) all will be sunshine and (C) gladness," },
+                    { chord: "C", text: "(C) With (G) never a sob nor a (C) sigh." }
                 ],
                 [
-                    { chord: "G", text: "(G) Si le chemin est rocailleux" },
-                    { chord: "F", text: "(F) Si les cailloux ne blessent un peu" },
-                    { chord: "C", text: "(C) Le Saint-Esprit me guidera" },
-                    { chord: "C", text: "(C) Et Jésus me consolera" }
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’m bound for that beautiful city" },
+                    { chord: "C", text: "(C) My Lord has prepared for His (G) own;" },
+                    { chord: "G", text: "(G) Where all the redeemed of all ages" },
+                    { chord: "G", text: "(G) Sing “Glory!” around the white (C) throne;" },
+                    { chord: "C", text: "(C) Sometimes I grow homesick for heaven," },
+                    { chord: "C", text: "(C) And the glories I there shall (F) behold;" },
+                    { chord: "F", text: "(F) What a joy that will be when my (C) Savior I (F) see," },
+                    { chord: "F", text: "(F) In (C) that beautiful (G) city of (C) gold!" }
                 ],
                 [
-                    { chord: "C", text: "(C) Sur ce chemin, Jésus monta," },
-                    { chord: "F", text: "(F) Et mon Sauveur me précéda;" },
-                    { chord: "C", text: "(C) Avec Lui je veux m'élever" },
-                    { chord: "C", text: "(C) Jusque sur les plus hauts sommets" }
-                ],
-                [
-                    { chord: "C", text: "(C) Vivre pour Dieu, nous le pouvons," },
-                    { chord: "F", text: "(F) Car ce n'est plus nous qui vivons," },
-                    { chord: "C", text: "(C) Mais c'est Jésus qui vit en nous," },
-                    { chord: "C", text: "(C) Et nous fait triompher partout." }
+                    { chord: "C", text: "(C) We’ll never pay rent for our mansion, " },
+                    { chord: "C", text: "(C) The (G) taxes will never come (C) due;" },
+                    { chord: "C", text: "(C) Our garments will never grow threadbare, " },
+                    { chord: "C", text: "(C) But (G) always be fadeless and (C) new" },
+                    { chord: "C", text: "(C) We’ll (F) never be hungry nor (C) thirsty" },
+                    { chord: "C", text: "(C) Nor (G) languish in poverty (C) there." },
+                    { chord: "C", text: "(C) For (F) all the rich bounties of (C) heaven" },
+                    { chord: "C", text: "(C) His (G) sanctified children will (C) share." }
                 ]
             ]
         },
