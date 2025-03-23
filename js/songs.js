@@ -240,32 +240,32 @@ const songs = [
             key: "dim-23-03-2025",
             title: "THE OLD TIME POWER",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/eP1XPFr0-IM?si=W7YGFv6Pt1CYZNWq",
             verses: [
                 [
                     { chord: "C", text: "(C) They were in an upper chamber," },
-                    { chord: "C", text: "(C) They were all with one accord," },
-                    { chord: "F", text: "(F) When the Holy Ghost descended," },
-                    { chord: "G", text: "(G) As was promised by the Lord." }
+                    { chord: "C", text: "(C) They (F) were all with (G) one (C) accord, " },
+                    { chord: "C", text: "(C) When the Holy Ghost descended," },
+                    { chord: "C", text: "(C) As (F) was promised (G) by the (C) Lord." }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
                     { chord: "C", text: "(C) O Lord, send the pow'r just now," },
-                    { chord: "C", text: "(C) O Lord, send the pow'r just now," },
-                    { chord: "G", text: "(G) O Lord, send the pow'r just now," },
-                    { chord: "G", text: "(G) And baptize ev'ry one." }
+                    { chord: "G", text: "(G) O Lord, send the (C) pow'r just now," },
+                    { chord: "C", text: "(C) O Lord, send the pow'r (Em) just (Am) now," },
+                    { chord: "C", text: "(C) And (F) baptize (G) ev'ry (C) one." }
                 ],
                 [
                     { chord: "C", text: "(C) Yes, this pow'r from heav’n descended," },
-                    { chord: "C", text: "(C) With the sound of rushing wind;" },
-                    { chord: "G", text: "(G) Tongues of fire came down upon them," },
-                    { chord: "G", text: "(G) As the Lord said He would send." }
+                    { chord: "C", text: "(C) With (F) the sound of (G) rushing (C) wind;" },
+                    { chord: "C", text: "(C) Tongues of fire came down upon them," },
+                    { chord: "C", text: "(C) As (F) the Lord (G) said He would (C) send." }
                 ],
                 [
                     { chord: "C", text: "(C) Yes, this 'old-time' pow'r was given" },
-                    { chord: "C", text: "(C) To our fathers who were true;" },
-                    { chord: "G", text: "(G) This is promised to believers," },
-                    { chord: "G", text: "(G) And we all may have it too." }
+                    { chord: "C", text: "(C) To (F) our fathers (G) who were (C) true;" },
+                    { chord: "C", text: "(C) This is promised to believers," },
+                    { chord: "C", text: "(C) And (F) we all (G) may have it (C) too." }
                 ]
             ]
         },
