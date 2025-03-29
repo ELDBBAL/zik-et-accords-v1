@@ -1,6 +1,344 @@
 // songs.js // Liste des cantiques
 const songs = [
 
+        // Debut Cantiques du 30 Mars 2025 (Treisième Dimanche de l'année 2025)
+        {
+            key: "dim-30-03-2025",
+            title: "I SURRENDER ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/j04Bx9pKwpU?si=7XqpFng3Ms25bjXR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) All to (F) Him I (G) freely (C) give" },
+                    { chord: "C", text: "(C) I will ever (G) love and trust Him" },
+                    { chord: "Am", text: "(Am) In His (F) presence (G) daily (C) live" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I surrender (F) all" },
+                    { chord: "G", text: "(G) I surrender (C) all" },
+                    { chord: "C", text: "(C) All to Thee my blessed (F) Savior" },
+                    { chord: "G", text: "(G) I surrender (C) all" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Humbly (F) at His (G) feet I (C) bow" },
+                    { chord: "C", text: "(C) Worldly pleasures (G) all forsaken" },
+                    { chord: "Am", text: "(Am) Take me, (F) Jesus, (G) take me (C) now" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Make me (F) Savior (G) wholly (C) thine" },
+                    { chord: "C", text: "(C) May Thy Holy (G) Spirit fill me" },
+                    { chord: "Am", text: "(Am) May I (F) know Thy (G) power (C) divine" }
+                ]
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "THE BLESSED ASSURANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bxYMvo8PGOM?si=hkzflxBslZiYyBUT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Blessed assurance, (F) Jesus is (C) mine" },
+                    { chord: "C", text: "(C) Oh, what a foretaste of (D) glory (G) divine" },
+                    { chord: "G", text: "(G) Heir of (C) salvation, (F) purchase of (C) God" },
+                    { chord: "C", text: "(C) Born of his (F) Spirit, (G) washed in His (C) blood" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) This is my story, (F) this is my (C) song" },
+                    { chord: "C", text: "(C) Praising my (F) Savior all the day (G) long" },
+                    { chord: "G", text: "(G) This is my (C) story, (F) this is my (C) song" },
+                    { chord: "C", text: "(C) Praising my (F) Savior (G) all the day (C) long" }
+                ],
+                [
+                    { chord: "C", text: "(C) Perfect submission, (F) perfect (C) delight" },
+                    { chord: "C", text: "(C) Visions of rapture now (D) burst on my (G) sight" },
+                    { chord: "G", text: "(G) Angels (C) descending (F) bring from (C) above" },
+                    { chord: "C", text: "(C) Echoes of (F) mercy, (G) whispers of (C) love" }
+                ]
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "JE NE SAIS POURQUOI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IwVX50lYEWk?si=lXjU_vNwnlOavtqB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je ne sais pourquoi dans sa (F) grâce (C) " },
+                    { chord: "C", text: "(C) Jésus m’a (D) tant (G) aimé" },
+                    { chord: "C", text: "(C) Pourquoi par son sang Il (F) efface (C) " },
+                    { chord: "C", text: "(C) Ma dette, (G) mon (C) péché" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Mais je sais qu’en Lui j’ai la (C) vie" },
+                    { chord: "C", text: "(C) Il m’a (G) sauvé par son (C) amour" },
+                    { chord: "F", text: "(F) Et gardé par sa main (C) meurtrie" },
+                    { chord: "C", text: "(C) J’attends (G) l’heure de son (C) retour" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne sais comment la (F) lumière (C) " },
+                    { chord: "C", text: "(C) Eclaire (D) tout mon (G) coeur" },
+                    { chord: "C", text: "(C) Comment je compris ma (F) misère (C) " },
+                    { chord: "C", text: "(C) Et reçus (G) mon (C) Sauveur" }
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne sais qu’elle est la (F) mesure (C) " },
+                    { chord: "C", text: "(C) De joie (D) de (G) douleur" },
+                    { chord: "C", text: "(C) Que pour moi faible (F) créature (C) " },
+                    { chord: "C", text: "(C) Réserve (G) mon (C) Sauveur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) But “I know whom I have (C) believed," },
+                    { chord: "C", text: "(C) And am (G) persuaded that He is (C) able" },
+                    { chord: "F", text: "(F) To keep that which I’ve (C) committed" },
+                    { chord: "C", text: "(C) Unto (G) Him against that (C) day.”" }
+                ]
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "QUEL EST CET HOMME DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "HE ABIDES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nTmzQaDa2i8?si=_hvZ63lJQTEIzM9c",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the hand of God in all my life I (C) see;" },
+                    { chord: "C", text: "(C) And the reason of my bliss," },
+                    { chord: "C", text: "(C) Yes, (F) the secret all is this:" },
+                    { chord: "G", text: "(G) That the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He abides, He abides;" },
+                    { chord: "F", text: "(F) Hallelujah, (G) He abides with (C) me!" },
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Once my heart was full of sin," },
+                    { chord: "C", text: "(C) Once I (F) had no peace within," },
+                    { chord: "G", text: "(G) Till I heard how Jesus died upon the (C) tree;" },
+                    { chord: "C", text: "(C) Then I fell down at His feet," },
+                    { chord: "C", text: "(C) And there (F) came a peace so sweet;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) He is with me everywhere," },
+                    { chord: "C", text: "(C) And He (F) knows my every care;" },
+                    { chord: "G", text: "(G) I’m as happy as a bird and just as (C) free;" },
+                    { chord: "C", text: "(C) For the Spirit has control;" },
+                    { chord: "C", text: "(C) Jesus (F) satisfies my soul," },
+                    { chord: "G", text: "(G) Since the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) There’s no thirsting for the things" },
+                    { chord: "C", text: "(C) Of the (F) world—they’ve taken wings;" },
+                    { chord: "G", text: "(G) Long ago I gave them up, and (C) instantly" },
+                    { chord: "C", text: "(C) All my night was turned to day," },
+                    { chord: "C", text: "(C) All my (F) burdens rolled away;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "WHEN THE SAINTS MARCH IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m a pilgrim and a (F) stranger " },
+                    { chord: "F", text: "(F) Wand’ring (C) through this (D) world of (G) sin," },
+                    { chord: "G", text: "(G) On my (C) way to that fair (F) city," },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, I know I’ll see my (F) Savior" },
+                    { chord: "F", text: "(F) If my (C) life is (D) free from (G) sin," },
+                    { chord: "G", text: "(G) Heaven’s (C) doors will open for (F) me" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) When we gather ‘round the (F) Throne" },
+                    { chord: "F", text: "(F) And the (C) gates are (D) closed (G) within," },
+                    { chord: "G", text: "(G) I’ll (C) be shouting “Glory, (F) Glory” " },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’m waiting for the (F) chariot" },
+                    { chord: "F", text: "(F) To (C) swing low (D) and I’ll (G) step in," },
+                    { chord: "G", text: "(G) On the (C) clouds I’ll ride to (F) Heaven" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "DANS MON AME UN BEAU SOLEIL BRILLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pdxaZMWILfY?si=fkTnGjPk1xUjLytP",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans mon âme, un (F) beau (C) soleil brille !" },
+                    { chord: "C", text: "(C) Son rayon doux (D) et (G) joyeux" },
+                    { chord: "C", text: "(C) Répand un (F) éclat (C) qui scintille" },
+                    { chord: "C", text: "(C) C’est le (F) sourire (G) de (C) Dieu" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O, quel beau (F) soleil dans mon (C) âme !" },
+                    { chord: "C", text: "(C) Il resplendit, (D) illuminant (G) tout" },
+                    { chord: "C", text: "(C) A ses (F) rayons mon (C) cœur s’enflamme" },
+                    { chord: "C", text: "(C) Et je (F) vais (G) partout (C) chantant" },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon cœur était (F) plein (C) de ténèbres" },
+                    { chord: "C", text: "(C) Quand paru un (D) jour (G) nouveau" },
+                    { chord: "C", text: "(C) Au loin (F) fuyez, (C) ombres et ténèbres" },
+                    { chord: "C", text: "(C) Devant (F) un (G) soleil si (C) beau" },
+                ],
+                [
+                    { chord: "C", text: "(C) O, mon cœur (F) déborde (C) de joie !" },
+                    { chord: "C", text: "(C) Mon âme est (D) remplie (G) d’amour" },
+                    { chord: "C", text: "(C) Tous les (F) élus (C) avec le Roi" },
+                    { chord: "C", text: "(C) Le (F) loueront, (G) oui, (C) pour toujours !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "JESUS PRENDS MA VIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/1gT8gNC_7lY?si=uAzk67-93d2QjTCq",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Qu’il fait beau à ton service (F) " },
+                    { chord: "C", text: "(C) Jésus (D) mon (G) Sauveur ! " },
+                    { chord: "C", text: "(C) Qu’il m’est doux en sacrifice (F) " },
+                    { chord: "Dm", text: "(Dm) De t’offrir (G) mon (C) cœur ! " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Prends ô, (F) Jésus ! prends ma (C) vie " },
+                    { chord: "C", text: "(C) Elle est (D) toute à (G) Toi" },
+                    { chord: "C", text: "(C) Et dans (F) ta grâce (C) infinie (Am) " },
+                    { chord: "F", text: "(F) Du mal (G) sauve (C) moi" },
+                ],
+                [
+                    { chord: "C", text: "(C) Pour me posséder toi-même (F) " },
+                    { chord: "C", text: "(C) Tu m’as (D) racheté (G) " },
+                    { chord: "C", text: "(C) Fais que désormais je (F) n’aime " },
+                    { chord: "Dm", text: "(Dm) Que ta (G) volonté (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme l’Ange au vol rapide (F) " },
+                    { chord: "C", text: "(C) Je veux (D) te servir (G) " },
+                    { chord: "C", text: "(C) Je veux te servir ô, mon (F) guide " },
+                    { chord: "Dm", text: "(Dm) Toujours (G) t’obéir. (C) " },
+                ],
+            ]
+        },
+        {
+            key: "dim-30-03-2025",
+            title: "THEN JESUS CAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oMvBEuU8V2U?si=Yu5NpM2-AzJsAfPA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One sat alone beside the highway (G) begging," },
+                    { chord: "G", text: "(G) His eyes were blind, the light he could not (C) see." },
+                    { chord: "C", text: "(C) He clutched his (Bm) rags and shivered in the (C) shadows" },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) bade his darkness (C) flee." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tempter's power is (C) broken;" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tears are wiped (C) away," },
+                    { chord: "C", text: "(C) He takes the gloom and fills the life with (F) glory," },
+                    { chord: "F", text: "(F) For all is (C) changed when (G) Jesus comes to (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) From home and friends the evil spirits (G) drove him," },
+                    { chord: "G", text: "(G) Among the tombs he dwelt in (C) misery;" },
+                    { chord: "C", text: "(C) He cut himself (Bm) as demon powers possessed (C) him," },
+                    { chord: "F", text: "(F) Then Jesus (F) came and (G) set the captive (C) free." }
+                ],
+                [
+                    { chord: "C", text: "(C) 'Unclean, unclean!' the leper cried in (G) torment," },
+                    { chord: "G", text: "(G) The deaf, the dumb, in helplessness stood (C) near;" },
+                    { chord: "C", text: "(C) The fever raged, (Bm) disease had gripped its' (C) victim," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) cast out every (C) fear." }
+                ],
+                [
+                    { chord: "C", text: "(C) Their hearts were sad as in the tomb they (G) laid Him," },
+                    { chord: "G", text: "(G) For death had come and taken Him (C) away;" },
+                    { chord: "C", text: "(C) Their night was (Bm) dark and bitter tears were (C) falling," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) night was turned to (C) day." }
+                ],
+                [
+                    { chord: "C", text: "(C) So men today have found the Savior (G) able," },
+                    { chord: "G", text: "(G) They could not conquer passion, lust and (C) sin;" },
+                    { chord: "C", text: "(C) Their broken hearts (Bm) had left them sad and (C) lonely," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) dwelt, Himself, (C) within." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 30 Mars 2025 (Treisième Dimanche de l'année 2025)
+
         // Cantiques du 23 Mars 2025 Proposé avant d'être rechangé !
         {
             key: "dav-23-03-2025",
