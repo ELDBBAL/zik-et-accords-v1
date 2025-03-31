@@ -2,6 +2,11 @@
 // Tableau contenant les liens vers les cantiques de chaque dimanche
 const cantiques = [
     {
+        date: "06/04",
+        title: "Hymns of 06/04/2025",
+        link: "single.html?key=dim-06-04-2025"
+    },
+    {
         date: "30/03",
         title: "Hymns of 30/03/2025",
         link: "single.html?key=dim-30-03-2025"
@@ -21,12 +26,12 @@ const cantiques = [
         title: "Hymns of 09/03/2025",
         link: "single.html?key=dim-09-03-2025"
     },
-    {
+    /*{
         date: "02/03",
         title: "Hymns of 02/03/2025",
         link: "single.html?key=dim-02-03-2025"
     },
-    /*{
+    {
         date: "23/02",
         title: "Hymns of 23/02/2025",
         link: "single.html?key=dim-23-02-2025"

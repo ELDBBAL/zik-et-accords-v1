@@ -1,6 +1,283 @@
 // songs.js // Liste des cantiques
 const songs = [
 
+        // Debut Cantiques du 06 Avril 2025 (Quartozième Dimanche de l'année 2025)
+        {
+            key: "dim-06-04-2025",
+            title: "WHITER THAN THE SNOW",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/yu6HHBbCN00?si=C2u6Oe8XdToVZI_4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Blessed be the fountain of blood" },
+                    { chord: "C", text: "(C) To a (G) world of sinners revealed" },
+                    { chord: "C", text: "(C) Blessed be the dear Son of God" },
+                    { chord: "C", text: "(C) Only (G) by His stripes we are (C) healed" },
+                    { chord: "F", text: "(F) Tho I've wandered far from His (C) fold" },
+                    { chord: "F", text: "(F) Bringing to my heart pain and (G) woe" },
+                    { chord: "C", text: "(C) Wash me in the blood of the Lamb" },
+                    { chord: "C", text: "(C) And I (G) shall be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Whiter than the (G) snow" },
+                    { chord: "F", text: "(F) Whiter than the (C) snow" },
+                    { chord: "C", text: "(C) Wash me in the blood of the (F) Lamb" },
+                    { chord: "C", text: "(C) And I shall (G) be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus par ton sang précieux " },
+                    { chord: "C", text: "(C) Enlève (G) mon iniquité" },
+                    { chord: "C", text: "(C) Regarde-moi du haut des cieux" },
+                    { chord: "C", text: "(C) Dis-moi (G) que Tu m’as (C) pardonné" },
+                    { chord: "F", text: "(F) J’ai longtemps erré coeur (C) rebelle" },
+                    { chord: "F", text: "(F) Mais j’entends Ta voix qui (G) m’appelle" },
+                    { chord: "C", text: "(C) Au pied de Ta croix maintenant" },
+                    { chord: "C", text: "(C) Tout confus, (G) brisé, je me (C) rends." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Blanc, plus blanc que (G) neige " },
+                    { chord: "F", text: "(F) Blanc, plus blanc que (C) neige" },
+                    { chord: "C", text: "(C) Lavé dans le sang de (F) l’Agneau" },
+                    { chord: "C", text: "(C) Je serai plus (G) blanc que la (C) neige" }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
+            title: "NOTHING BUT THE BLOOD OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cJnD272vmns?si=pC-uARa09fGnTfUh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What can wash away my sin?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) What can make me whole again?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, precious is the flow" },
+                    { chord: "G", text: "(G) That makes me white as (C) snow; " },
+                    { chord: "C", text: "(C) No other fount I know," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C)" }
+                ],
+                [
+                    { chord: "C", text: "(C) For my cleansing this I see," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) For my pardon this my plea," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing can for sin atone," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) Naught of good that I have done" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
+            title: "QUEL JOUR ÇA SERA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/N6wCZ7fTk7k?si=V-2XzUuFusHA6-OC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un jour qui vient," },
+                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
+                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
+                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
+                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
+                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
+                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
+                    { chord: "C", text: "(C) Et je (G) vois de face " },
+                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
+                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
+                    { chord: "C", text: "(C) Me conduit à la terre promise" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
+                    { chord: "C", text: "(C) Ni fardeau à porter," },
+                    { chord: "C", text: "(C) Non plus (G) la maladie," },
+                    { chord: "C", text: "(C) Douleurs et séparation" },
+                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
+                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
+            title: "A L'OUEST, LE SOLEIL SE COUCHE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/o-rAxDFaVn4?si=lcDT5WGM1uAVceGZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À l’ouest le soleil se (G) couche" },
+                    { chord: "G", text: "(G) Il arrive à la fin de sa (C) course" },
+                    { chord: "C", text: "(C) Et je vois combien ce temps est (G) là," },
+                    { chord: "G", text: "(G) Où sur le temps le soleil se (C) couche." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) C’est la fin, (G) c’est la fin," },
+                    { chord: "G", text: "(G) C’est la fin de la (C) course" },
+                    { chord: "C", text: "(C) C’est la fin, (G) c’est la fin," },
+                    { chord: "G", text: "(G) C’est la fin de toute (C) chose." },
+                ],
+                [
+                    { chord: "C", text: "(C) Et voici que la lumière du (G) soir" },
+                    { chord: "G", text: "(G) A l’ouest pour moi a (C) paru" },
+                    { chord: "C", text: "(C) Elle manifeste le Fils de (G) l’homme" },
+                    { chord: "G", text: "(G) Et je crois, c’est vrai je le (C) crois." },
+                ],
+                [
+                    { chord: "C", text: "(C) Pèlerin c’est la fin de la (G) course" },
+                    { chord: "G", text: "(G) Il faut vaincre le monde et (C) partir" },
+                    { chord: "C", text: "(C) Attention ! Quelle heure (G) est-il ?" },
+                    { chord: "G", text: "(G) Il faut vaincre le monde et (C) partir." },
+                ],
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
+            title: "DEBOUT SAINTE COHORTE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/6KTAvm7fteI?si=oGx4secqmzcUW1HG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Debout, sainte (F) cohorte," },
+                    { chord: "C", text: "(C) soldats du (D) Roi des (G) rois!" },
+                    { chord: "C", text: "(C) Tenez d’une main (F) forte" },
+                    { chord: "C", text: "(C) l’étendard (G) de la (C) croix." },
+                    { chord: "G", text: "(G) Au sentier de la (C) gloire" },
+                    { chord: "F", text: "(F) Jésus-Christ nous conduit; (G) " },
+                    { chord: "C", text: "(C) De victoire en (F) victoire" },
+                    { chord: "C", text: "(C) Il (F) mène (G) qui Le (C) suit." }
+                ],
+                [
+                    { chord: "C", text: "(C) La trompette (F) résonne:" },
+                    { chord: "C", text: "(C) debout, (D) vaillants (G) soldats!" },
+                    { chord: "C", text: "(C) L’immortelle (F) couronne" },
+                    { chord: "C", text: "(C) est le (G) prix des (C) combats." },
+                    { chord: "G", text: "(G) Si l’ennemi fait (C) rage," },
+                    { chord: "F", text: "(F) soyez fermes et forts; (G) " },
+                    { chord: "C", text: "(C) Redoublez de (F) courage" },
+                    { chord: "C", text: "(C) s’il (F) redouble (G) d’efforts. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Debout pour la (F) bataille," },
+                    { chord: "C", text: "(C) point de trêve (D) aux (G) vaincus!" },
+                    { chord: "C", text: "(C) Si votre bras (F) défaille" },
+                    { chord: "C", text: "(C) regardez (G) à Jésus! (C) " },
+                    { chord: "G", text: "(G) De l’armure (C) invincible" },
+                    { chord: "F", text: "(F) soldats, revêtez-vous; (G) " },
+                    { chord: "C", text: "(C) Le triomphe est (F) possible" },
+                    { chord: "C", text: "(C) pour (F) qui (G) lutte à (C) genoux." }
+                ],
+                [
+                    { chord: "C", text: "(C) Debout, debout (F) encore!" },
+                    { chord: "C", text: "(C) Luttez, (D) jusqu’au (G) matin;" },
+                    { chord: "C", text: "(C) Déjà brille (F) l’aurore," },
+                    { chord: "C", text: "(C) à (G) l’horizon (C) lointain." },
+                    { chord: "G", text: "(G) Bientôt jetant nos (C) armes" },
+                    { chord: "F", text: "(F) aux pieds du Roi des (G) rois" },
+                    { chord: "C", text: "(C) Les chants après les (F) armes," },
+                    { chord: "C", text: "(C) le (F) trône (G) après la (C) croix." }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
+            title: "QUEL EST CET HOMME DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
+            title: "A LA CROIX, AU PIEDS DU MAITRE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À la croix aux pieds du Maître," },
+                    { chord: "G", text: "(G) À genoux, j’ai fait mon choix." },
+                    { chord: "C", text: "(C) Son disciple je veux être" },
+                    { chord: "G", text: "(G) Tout près de Lui par la foi." },
+                    { chord: "G", text: "(G) Brebis de Sa bergerie," },
+                    { chord: "G", text: "(G) Nul ne m’ôte de Sa main" },
+                    { chord: "G", text: "(G) Sur les monts dans les prairies," },
+                    { chord: "G", text: "(G) Oui, mon bonheur est divin." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) À la croix aux pieds du Maître," },
+                    { chord: "G", text: "(G) À genoux, j’ai fait mon choix." },
+                    { chord: "C", text: "(C) Son disciple je veux être," },
+                    { chord: "G", text: "(G) Tout près de Lui par la foi." },
+                ],
+                [
+                    { chord: "C", text: "(C) Depuis lors, ô choix splendide," },
+                    { chord: "G", text: "(G) La joie demeure dans mon cœur." },
+                    { chord: "C", text: "(C) Adieu les soucis perfides," },
+                    { chord: "G", text: "(G) Par Jésus je suis vainqueur." },
+                    { chord: "G", text: "(G) Adieu vaines convoitises" },
+                    { chord: "G", text: "(G) Du monde qui me tenta" },
+                    { chord: "G", text: "(G) J’ai trouvé la paix promise" },
+                    { chord: "G", text: "(G) Dans le sang de Golgotha." },
+                ],
+                [
+                    { chord: "C", text: "(C) Bientôt ma tâche accomplie" },
+                    { chord: "G", text: "(G) J’entrerai tout droit au port" },
+                    { chord: "C", text: "(C) Où m’attend, douce patrie," },
+                    { chord: "G", text: "(G) Le Grand Vainqueur de la mort." },
+                    { chord: "G", text: "(G) Là je chanterai Ta gloire," },
+                    { chord: "G", text: "(G) Ô Toi qui m’as tant aimé" },
+                    { chord: "G", text: "(G) Et dont l’œuvre expiatoire" },
+                    { chord: "G", text: "(G) Pour toujours m’a racheté." },
+                ],
+            ]
+        },
+        // Fin Cantiques du 06 Avril 2025 (Quartozième Dimanche de l'année 2025)
+
         // Debut Cantiques du 30 Mars 2025 (Treisième Dimanche de l'année 2025)
         {
             key: "dim-30-03-2025",
