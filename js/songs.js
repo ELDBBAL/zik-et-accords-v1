@@ -115,6 +115,29 @@ const songs = [
         },
         {
             key: "dim-06-04-2025",
+            title: "NAVIGUANT SUR L'OCEAN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "Navigant sur l’océan de la vie" },
+                    { chord: "C", text: "Les flots peuvent m’entraîner au loin" },
+                    { chord: "C", text: "Mais j’espère voir mon pilote face à face" },
+                    { chord: "G", text: "Oh ! la tempête peut rugir" },
+                    { chord: "C", text: "Sur l’océan déchaîné, Jésus me gardera" }
+                ],
+                [
+                    { chord: "C", text: "Bientôt, nous arriverons chez nous" },
+                    { chord: "F", text: "Dans cette belle cité" },
+                    { chord: "C", text: "Jésus et son épouse rachetée" },
+                    { chord: "G", text: "Après les combats, tourments, déceptions" },
+                    { chord: "C", text: "Nous arriverons chez nous" },
+                    { chord: "C", text: "Oh  pèlerins, du courage !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
             title: "A L'OUEST, LE SOLEIL SE COUCHE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/o-rAxDFaVn4?si=lcDT5WGM1uAVceGZ",
@@ -148,6 +171,26 @@ const songs = [
         },
         {
             key: "dim-06-04-2025",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dav-06-04-2025",
             title: "DEBOUT SAINTE COHORTE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/6KTAvm7fteI?si=oGx4secqmzcUW1HG",
@@ -195,7 +238,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-06-04-2025",
+            key: "dav-06-04-2025",
             title: "QUEL EST CET HOMME DE JESUS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
