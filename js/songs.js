@@ -91,6 +91,7 @@ const songs = [
                     { chord: "C", text: "(C) Sur l’océan déchaîné, (G) Jésus me (C) gardera" }
                 ],
                 [
+                    { chord: "C", text: "CHORUS:" },
                     { chord: "C", text: "(C) Bientôt, nous arriverons chez nous" },
                     { chord: "C", text: "(C) Dans (F) cette (G) belle (C) cité" },
                     { chord: "C", text: "(C) Jésus et son (G) épouse rachetée" },
