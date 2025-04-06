@@ -79,60 +79,24 @@ const songs = [
         },
         {
             key: "dim-06-04-2025",
-            title: "QUEL JOUR ÇA SERA",
-            keySignature: "C",
-            youtubeLink: "https://youtu.be/N6wCZ7fTk7k?si=V-2XzUuFusHA6-OC",
-            verses: [
-                [
-                    { chord: "C", text: "(C) Il y a un jour qui vient," },
-                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
-                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
-                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
-                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
-                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
-                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
-                ],
-                [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
-                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
-                    { chord: "C", text: "(C) Et je (G) vois de face " },
-                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
-                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
-                    { chord: "C", text: "(C) Me conduit à la terre promise" },
-                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
-                ],
-                [
-                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
-                    { chord: "C", text: "(C) Ni fardeau à porter," },
-                    { chord: "C", text: "(C) Non plus (G) la maladie," },
-                    { chord: "C", text: "(C) Douleurs et séparation" },
-                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
-                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
-                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
-                ]
-            ]
-        },
-        {
-            key: "dim-06-04-2025",
             title: "NAVIGUANT SUR L'OCEAN",
             keySignature: "C",
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "Navigant sur l’océan de la vie" },
-                    { chord: "C", text: "Les flots peuvent m’entraîner au loin" },
-                    { chord: "C", text: "Mais j’espère voir mon pilote face à face" },
-                    { chord: "G", text: "Oh ! la tempête peut rugir" },
-                    { chord: "C", text: "Sur l’océan déchaîné, Jésus me gardera" }
+                    { chord: "C", text: "(C) Navigant sur l’océan de la vie" },
+                    { chord: "C", text: "(C) Les flots peuvent (F) m’entraîner au (C) loin" },
+                    { chord: "C", text: "(C) Mais j’espère voir mon (G) pilote face à face" },
+                    { chord: "G", text: "(G) Oh ! la tempête peut (C) rugir" },
+                    { chord: "C", text: "(C) Sur l’océan déchaîné, (G) Jésus me (C) gardera" }
                 ],
                 [
-                    { chord: "C", text: "Bientôt, nous arriverons chez nous" },
-                    { chord: "F", text: "Dans cette belle cité" },
-                    { chord: "C", text: "Jésus et son épouse rachetée" },
-                    { chord: "G", text: "Après les combats, tourments, déceptions" },
-                    { chord: "C", text: "Nous arriverons chez nous" },
-                    { chord: "C", text: "Oh  pèlerins, du courage !" }
+                    { chord: "C", text: "(C) Bientôt, nous arriverons chez nous" },
+                    { chord: "C", text: "(C) Dans (F) cette (G) belle (C) cité" },
+                    { chord: "C", text: "(C) Jésus et son (G) épouse rachetée" },
+                    { chord: "G", text: "(G) Après les combats, (C) tourments, déceptions" },
+                    { chord: "C", text: "(C) Nous arriverons chez (G) nous" },
+                    { chord: "F", text: "(F) Oh  pèlerins, (G) du courage ! (C) " }
                 ]
             ]
         },
@@ -171,6 +135,63 @@ const songs = [
         },
         {
             key: "dim-06-04-2025",
+            title: "QUEL JOUR ÇA SERA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/N6wCZ7fTk7k?si=V-2XzUuFusHA6-OC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un jour qui vient," },
+                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
+                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
+                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
+                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
+                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
+                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
+                    { chord: "C", text: "(C) Et je (G) vois de face " },
+                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
+                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
+                    { chord: "C", text: "(C) Me conduit à la terre promise" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
+                    { chord: "C", text: "(C) Ni fardeau à porter," },
+                    { chord: "C", text: "(C) Non plus (G) la maladie," },
+                    { chord: "C", text: "(C) Douleurs et séparation" },
+                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
+                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
+            title: "CHANTONS EBENEZER",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Chantons Ebenezer," },
+                    { chord: "C", text: "(C) La grâce (D) infinie de (G) Dieu," },
+                    { chord: "C", text: "(C) Souviens-toi de l'amour (F) de Dieu" },
+                    { chord: "F", text: "(F) Et (C) béni le (G) Roi des (C) Rois" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Eben - (F) ezer," },
+                    { chord: "F", text: "(F) La (C) grâce (D) infinie de (G) Dieu," },
+                    { chord: "C", text: "(C) Souviens-toi de l'amour (F) de Dieu" },
+                    { chord: "F", text: "(F) Et (C) béni le (G) Roi des (C) Rois" }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-04-2025",
             title: "QUAND JE VOIS LA BONTE DE MON DIEU",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
@@ -190,87 +211,23 @@ const songs = [
             ]
         },
         {
-            key: "dav-06-04-2025",
-            title: "DEBOUT SAINTE COHORTE",
+            key: "dim-06-04-2025",
+            title: "LA LOUANGE APPARTIENT A DIEU",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/6KTAvm7fteI?si=oGx4secqmzcUW1HG",
+            youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Debout, sainte (F) cohorte," },
-                    { chord: "C", text: "(C) soldats du (D) Roi des (G) rois!" },
-                    { chord: "C", text: "(C) Tenez d’une main (F) forte" },
-                    { chord: "C", text: "(C) l’étendard (G) de la (C) croix." },
-                    { chord: "G", text: "(G) Au sentier de la (C) gloire" },
-                    { chord: "F", text: "(F) Jésus-Christ nous conduit; (G) " },
-                    { chord: "C", text: "(C) De victoire en (F) victoire" },
-                    { chord: "C", text: "(C) Il (F) mène (G) qui Le (C) suit." }
+                    { chord: "C", text: "(C) La louange appartient à (G) Dieu" },
+                    { chord: "G", text: "(G) La louange appartient à (C) Dieu" },
+                    { chord: "C", text: "(C) La louange appartient à (F) Dieu" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
                 ],
                 [
-                    { chord: "C", text: "(C) La trompette (F) résonne:" },
-                    { chord: "C", text: "(C) debout, (D) vaillants (G) soldats!" },
-                    { chord: "C", text: "(C) L’immortelle (F) couronne" },
-                    { chord: "C", text: "(C) est le (G) prix des (C) combats." },
-                    { chord: "G", text: "(G) Si l’ennemi fait (C) rage," },
-                    { chord: "F", text: "(F) soyez fermes et forts; (G) " },
-                    { chord: "C", text: "(C) Redoublez de (F) courage" },
-                    { chord: "C", text: "(C) s’il (F) redouble (G) d’efforts. (C) " }
-                ],
-                [
-                    { chord: "C", text: "(C) Debout pour la (F) bataille," },
-                    { chord: "C", text: "(C) point de trêve (D) aux (G) vaincus!" },
-                    { chord: "C", text: "(C) Si votre bras (F) défaille" },
-                    { chord: "C", text: "(C) regardez (G) à Jésus! (C) " },
-                    { chord: "G", text: "(G) De l’armure (C) invincible" },
-                    { chord: "F", text: "(F) soldats, revêtez-vous; (G) " },
-                    { chord: "C", text: "(C) Le triomphe est (F) possible" },
-                    { chord: "C", text: "(C) pour (F) qui (G) lutte à (C) genoux." }
-                ],
-                [
-                    { chord: "C", text: "(C) Debout, debout (F) encore!" },
-                    { chord: "C", text: "(C) Luttez, (D) jusqu’au (G) matin;" },
-                    { chord: "C", text: "(C) Déjà brille (F) l’aurore," },
-                    { chord: "C", text: "(C) à (G) l’horizon (C) lointain." },
-                    { chord: "G", text: "(G) Bientôt jetant nos (C) armes" },
-                    { chord: "F", text: "(F) aux pieds du Roi des (G) rois" },
-                    { chord: "C", text: "(C) Les chants après les (F) armes," },
-                    { chord: "C", text: "(C) le (F) trône (G) après la (C) croix." }
-                ]
-            ]
-        },
-        {
-            key: "dav-06-04-2025",
-            title: "QUEL EST CET HOMME DE JESUS",
-            keySignature: "C",
-            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
-            verses: [
-                [
-                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
-                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
-                ],
-                [
-                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
-                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
-                ],
-                [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
-                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
-                ],
-                [
-                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
-                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
-                ],
-                [
-                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
-                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
-                ],
-                [
-                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
-                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
-                ],
-                [
-                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
-                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Merci, merci, (G) merci Oh Seigneur" },
+                    { chord: "G", text: "(G) Merci, merci, (C) merci Oh mon Roi" },
+                    { chord: "C", text: "(C) Merci, merci, (F) merci Oh Seigneur" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
                 ]
             ]
         },
