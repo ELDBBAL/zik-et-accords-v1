@@ -1,5 +1,348 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 13 Avril 2025 (Quinzième Dimanche de l'année 2025)
+        {
+            key: "dim-13-04-2025",
+            title: "THE OLD RUGGED CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5aKbGzQzp30?si=bFo7Klev24LzJZQk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) On a hill far away stood an (F) old rugged (Dm) cross," },
+                    { chord: "G", text: "(G) The emblem of suff'ring and (C) shame;" },
+                    { chord: "C", text: "(C) And I love that old cross where the (F) Dearest and (Dm) Best" },
+                    { chord: "G", text: "(G) For a world of lost sinners was (C) slain." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) So (G) I'll cherish the old rugged (C) cross," },
+                    { chord: "C", text: "(C) Till my (F) trophies at last I lay (C) down;" },
+                    { chord: "C", text: "(C) I will cling to the old rugged (F) cross," },
+                    { chord: "F", text: "(F) And (C) exchange it (G) someday for a (C) crown." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, that old rugged cross, so (F) despised by the (Dm) world," },
+                    { chord: "G", text: "(G) Has a wondrous attraction for (C) me;" },
+                    { chord: "C", text: "(C) For the dear Lamb of God left (F) His glory (Dm) above" },
+                    { chord: "G", text: "(G) To bear it to dark (C) Calvary." },
+                ],
+                [
+                    { chord: "C", text: "(C) In that old rugged cross, stained (F) with blood so (Dm) divine," },
+                    { chord: "G", text: "(G) A wondrous beauty I (F) see," },
+                    { chord: "C", text: "(C) For 'twas on that old cross Jesus (F) suffered and (Dm) died," },
+                    { chord: "G", text: "(G) To pardon and sanctify (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) To the old rugged cross I will (F) ever be (Dm) true;" },
+                    { chord: "G", text: "(G) Its shame and reproach gladly (F) bear;" },
+                    { chord: "C", text: "(C) Then He'll call me someday to (F) my home far (Dm) away," },
+                    { chord: "G", text: "(G) Where His glory forever I'll (C) share." },
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "COMME LA COLOMBE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Comme la colombe qui toujours est pur" },
+                    { chord: "G", text: "(G) Garde-moi, Seigneur" },
+                    { chord: "C", text: "(C) Sur cette terre remplie de souillures" },
+                    { chord: "G", text: "(G) Conduis-moi, oh Seigneur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la puissance des sept tonnerres," },
+                    { chord: "C", text: "(C) Je marche vers le ciel ;" },
+                    { chord: "C", text: "(C) Tous mes soucis et mes fardeaux" },
+                    { chord: "F", text: "(F) Je les remets à Toi." },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme un agneau si simple et doux," },
+                    { chord: "G", text: "(G) Garde-moi, Seigneur ;" },
+                    { chord: "C", text: "(C) Toujours soumis et obéissant" },
+                    { chord: "G", text: "(G) Conduis-moi au ciel." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, dans le feu je veux demeurer" },
+                    { chord: "G", text: "(G) Pour toujours Seigneur ;" },
+                    { chord: "C", text: "(C) Comme une flamme, brûlant pour Ta gloire," },
+                    { chord: "G", text: "(G) Pour toujours Seigneur." },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon âme soupire après ton Esprit" },
+                    { chord: "G", text: "(G) Scelle-moi Seigneur ;" },
+                    { chord: "C", text: "(C) Et que j’aie l’assurance d’être là" },
+                    { chord: "G", text: "(G) Dans le glorieux millénium." },
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "AT THE CROSS",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Alas, and did my Savior bleed?" },
+                    { chord: "G", text: "(G) And did my Sovereign die?" },
+                    { chord: "C", text: "(C) Would He devote that sacred head" },
+                    { chord: "G", text: "(G) For such a worm as I?" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) At the cross, at the cross where" },
+                    { chord: "C", text: "(C) I first saw the light," },
+                    { chord: "C", text: "(C) And the burden of my heart rolled away," },
+                    { chord: "F", text: "(F) It was there by faith I received my sight," },
+                    { chord: "F", text: "(F) And now I am happy all the day!" },
+                ],
+                [
+                    { chord: "C", text: "(C) Was it for sins that I had done" },
+                    { chord: "G", text: "(G) He groaned upon the tree?" },
+                    { chord: "C", text: "(C) Amazing pity! grace unknown!" },
+                    { chord: "G", text: "(G) And love beyond degree!" },
+                ],
+                [
+                    { chord: "C", text: "(C) Well might the sun in darkness hide," },
+                    { chord: "G", text: "(G) And shut His glories in," },
+                    { chord: "C", text: "(C) When Christ, the mighty Maker, died" },
+                    { chord: "G", text: "(G) For man, His creature’s sin." },
+                ],
+                [
+                    { chord: "C", text: "(C) Thus might I hide my blushing face" },
+                    { chord: "G", text: "(G) While His dear cross appears." },
+                    { chord: "C", text: "(C) Dissolve my heart in thankfulness," },
+                    { chord: "G", text: "(G) And melt mine eyes to tears." },
+                ],
+                [
+                    { chord: "C", text: "(C) But drops of grief can ne’er repay" },
+                    { chord: "G", text: "(G) The debt of love I owe;" },
+                    { chord: "C", text: "(C) Here, Lord, I give myself away," },
+                    { chord: "G", text: "(G) ’Tis all that I can do." },
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "SEND THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a call comes ringing o'er the restless wave," },
+                    { chord: "C", text: "(C) 'Send the (G) light! Send the (C) light'" },
+                    { chord: "C", text: "(C) There are souls to rescue, there are souls to save," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                    { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We have heard the Macedonian call today, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a golden off'ring at the cross we lay," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us pray that grace may ev'rywhere abound," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a Christ-like spirit ev'rywhere be found," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us not grow weary in the work of love, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) Let us gather jewels for a crown above," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "JE VEUX ADORER SON NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
+                    { chord: "C", text: "(C) Je veux adorer son Nom" }
+                ],
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "STAND UP FOR JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/TbnhUlj2PZ4?si=gDBuog-iMc-F_G0F",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                    { chord: "C", text: "(C) ye soldiers (D) of the (G) cross;" },
+                    { chord: "C", text: "(C) lift high his royal (F) banner," },
+                    { chord: "C", text: "(C) it must not (G) suffer (C) loss." },
+                    { chord: "G", text: "(G) From vict'ry unto (C) vict'ry" },
+                    { chord: "F", text: "(F) his army he shall (C) lead (G) " },
+                    { chord: "C", text: "(C) till ev'ry foe is (F) vanquished" },
+                    { chord: "C", text: "(C) and Christ is (G) Lord (C) indeed." }
+                ],
+                [
+                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                    { chord: "C", text: "(C) the trumpet (D) call (G) obey;" },
+                    { chord: "C", text: "(C) forth to the mighty (F) conflict" },
+                    { chord: "C", text: "(C) in this his (G) glorious (C) day." },
+                    { chord: "G", text: "(G) From vict'Ye that are men now serve (C) him" },
+                    { chord: "F", text: "(F) against unnumbered (C) foes; (G) " },
+                    { chord: "C", text: "(C) let courage rise with (F) danger" },
+                    { chord: "C", text: "(C) and strength to (G) strength (C) oppose." }
+                ],
+                [
+                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                    { chord: "C", text: "(C) stand in his (D) strength (G) alone;" },
+                    { chord: "C", text: "(C) the arm of flesh will fail (F) you," },
+                    { chord: "C", text: "(C) ye dare not (G) trust your (C) own." },
+                    { chord: "G", text: "(G) Put on the gospel (C) armor," },
+                    { chord: "F", text: "(F) each piece put on with (C) prayer; (G) " },
+                    { chord: "C", text: "(C) where duty calls or (F) danger," },
+                    { chord: "C", text: "(C) be never (G) wanting (C) there." }
+                ],
+                [
+                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
+                    { chord: "C", text: "(C) the strife will (D) not be (G) long;" },
+                    { chord: "C", text: "(C) this day the noise of (F) battle," },
+                    { chord: "C", text: "(C) the next, the (G) victor's (C) song." },
+                    { chord: "G", text: "(G) To him that (C) overcometh" },
+                    { chord: "F", text: "(F) a crown of life shall (C) be; (G) " },
+                    { chord: "C", text: "(C) he with the King of (F) glory" },
+                    { chord: "C", text: "(C) shall (G) reign (C) eternally." }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "DEBOUT SAINTE COHORTE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/6KTAvm7fteI?si=oGx4secqmzcUW1HG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Debout, sainte (F) cohorte," },
+                    { chord: "C", text: "(C) soldats du (D) Roi des (G) rois!" },
+                    { chord: "C", text: "(C) Tenez d’une main (F) forte" },
+                    { chord: "C", text: "(C) l’étendard (G) de la (C) croix." },
+                    { chord: "G", text: "(G) Au sentier de la (C) gloire" },
+                    { chord: "F", text: "(F) Jésus-Christ nous conduit; (G) " },
+                    { chord: "C", text: "(C) De victoire en (F) victoire" },
+                    { chord: "C", text: "(C) Il (F) mène (G) qui Le (C) suit." }
+                ],
+                [
+                    { chord: "C", text: "(C) La trompette (F) résonne:" },
+                    { chord: "C", text: "(C) debout, (D) vaillants (G) soldats!" },
+                    { chord: "C", text: "(C) L’immortelle (F) couronne" },
+                    { chord: "C", text: "(C) est le (G) prix des (C) combats." },
+                    { chord: "G", text: "(G) Si l’ennemi fait (C) rage," },
+                    { chord: "F", text: "(F) soyez fermes et forts; (G) " },
+                    { chord: "C", text: "(C) Redoublez de (F) courage" },
+                    { chord: "C", text: "(C) s’il (F) redouble (G) d’efforts. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Debout pour la (F) bataille," },
+                    { chord: "C", text: "(C) point de trêve (D) aux (G) vaincus!" },
+                    { chord: "C", text: "(C) Si votre bras (F) défaille" },
+                    { chord: "C", text: "(C) regardez (G) à Jésus! (C) " },
+                    { chord: "G", text: "(G) De l’armure (C) invincible" },
+                    { chord: "F", text: "(F) soldats, revêtez-vous; (G) " },
+                    { chord: "C", text: "(C) Le triomphe est (F) possible" },
+                    { chord: "C", text: "(C) pour (F) qui (G) lutte à (C) genoux." }
+                ],
+                [
+                    { chord: "C", text: "(C) Debout, debout (F) encore!" },
+                    { chord: "C", text: "(C) Luttez, (D) jusqu’au (G) matin;" },
+                    { chord: "C", text: "(C) Déjà brille (F) l’aurore," },
+                    { chord: "C", text: "(C) à (G) l’horizon (C) lointain." },
+                    { chord: "G", text: "(G) Bientôt jetant nos (C) armes" },
+                    { chord: "F", text: "(F) aux pieds du Roi des (G) rois" },
+                    { chord: "C", text: "(C) Les chants après les (F) armes," },
+                    { chord: "C", text: "(C) le (F) trône (G) après la (C) croix." }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I’m (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I’m onward (F) bound," },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (G) stand," },
+                    { chord: "G", text: "(G) By faith, on heaven’s table (C) land," },
+                    { chord: "C", text: "(C) A higher plane than I have (F) found;" },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "C", text: "(C) My heart has no desire to (F) stay," },
+                    { chord: "F", text: "(F) Where doubts (C) arise and fears (G) dismay;" },
+                    { chord: "G", text: "(G) Tho’ some may (C) dwell where these (F) abound," },
+                    { chord: "F", text: "(F) My prayer, my (C) aim, is (G) higher (C) ground." },
+                ],
+                [
+                    { chord: "C", text: "(C) I want to scale the utmost (F) height," },
+                    { chord: "F", text: "(F) And catch a (C) gleam of glory (G) bright;" },
+                    { chord: "G", text: "(G) But still I’ll (C) pray till heav’n I’ve (F) found," },
+                    { chord: "F", text: "(F) “Lord, lead (C) me on to (G) higher (C) ground.”" },
+                ],
+            ]
+        },
+        // Fin Cantiques du 13 Avril 2025 (Quinzième Dimanche de l'année 2025)
 
         // Debut Cantiques du 06 Avril 2025 (Quartozième Dimanche de l'année 2025)
         {
