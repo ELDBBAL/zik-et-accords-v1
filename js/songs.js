@@ -215,97 +215,66 @@ const songs = [
         },
         {
             key: "dim-13-04-2025",
-            title: "STAND UP FOR JESUS",
+            title: "IL M'A FAIT GRACE INFINIE",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/TbnhUlj2PZ4?si=gDBuog-iMc-F_G0F",
+            youtubeLink: "https://youtu.be/Uo83A2e0VLA?si=Vpkk3rUD6-Y_c0cn",
             verses: [
                 [
-                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
-                    { chord: "C", text: "(C) ye soldiers (D) of the (G) cross;" },
-                    { chord: "C", text: "(C) lift high his royal (F) banner," },
-                    { chord: "C", text: "(C) it must not (G) suffer (C) loss." },
-                    { chord: "G", text: "(G) From vict'ry unto (C) vict'ry" },
-                    { chord: "F", text: "(F) his army he shall (C) lead (G) " },
-                    { chord: "C", text: "(C) till ev'ry foe is (F) vanquished" },
-                    { chord: "C", text: "(C) and Christ is (G) Lord (C) indeed." }
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "G", text: "(G) celui-là est (C) mon rocher" },
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
-                    { chord: "C", text: "(C) the trumpet (D) call (G) obey;" },
-                    { chord: "C", text: "(C) forth to the mighty (F) conflict" },
-                    { chord: "C", text: "(C) in this his (G) glorious (C) day." },
-                    { chord: "G", text: "(G) From vict'Ye that are men now serve (C) him" },
-                    { chord: "F", text: "(F) against unnumbered (C) foes; (G) " },
-                    { chord: "C", text: "(C) let courage rise with (F) danger" },
-                    { chord: "C", text: "(C) and strength to (G) strength (C) oppose." }
-                ],
-                [
-                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
-                    { chord: "C", text: "(C) stand in his (D) strength (G) alone;" },
-                    { chord: "C", text: "(C) the arm of flesh will fail (F) you," },
-                    { chord: "C", text: "(C) ye dare not (G) trust your (C) own." },
-                    { chord: "G", text: "(G) Put on the gospel (C) armor," },
-                    { chord: "F", text: "(F) each piece put on with (C) prayer; (G) " },
-                    { chord: "C", text: "(C) where duty calls or (F) danger," },
-                    { chord: "C", text: "(C) be never (G) wanting (C) there." }
-                ],
-                [
-                    { chord: "C", text: "(C) Stand up, stand up for (F) Jesus" },
-                    { chord: "C", text: "(C) the strife will (D) not be (G) long;" },
-                    { chord: "C", text: "(C) this day the noise of (F) battle," },
-                    { chord: "C", text: "(C) the next, the (G) victor's (C) song." },
-                    { chord: "G", text: "(G) To him that (C) overcometh" },
-                    { chord: "F", text: "(F) a crown of life shall (C) be; (G) " },
-                    { chord: "C", text: "(C) he with the King of (F) glory" },
-                    { chord: "C", text: "(C) shall (G) reign (C) eternally." }
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il m’a libéré," },
+                    { chord: "C", text: "(C) ô Il m’a libéré (G) " },
+                    { chord: "G", text: "(G) O Il m’a pardonné, (C)" },
+                    { chord: "C", text: "(C) ô Il m’a racheté (F) " },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
                 ]
             ]
         },
         {
             key: "dim-13-04-2025",
-            title: "DEBOUT SAINTE COHORTE",
+            title: "LOUEZ LOUEZ LOUEZ…",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/6KTAvm7fteI?si=oGx4secqmzcUW1HG",
+            youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Debout, sainte (F) cohorte," },
-                    { chord: "C", text: "(C) soldats du (D) Roi des (G) rois!" },
-                    { chord: "C", text: "(C) Tenez d’une main (F) forte" },
-                    { chord: "C", text: "(C) l’étendard (G) de la (C) croix." },
-                    { chord: "G", text: "(G) Au sentier de la (C) gloire" },
-                    { chord: "F", text: "(F) Jésus-Christ nous conduit; (G) " },
-                    { chord: "C", text: "(C) De victoire en (F) victoire" },
-                    { chord: "C", text: "(C) Il (F) mène (G) qui Le (C) suit." }
+                    { chord: "C", text: "(C) Louez, louez, louez" },
+                    { chord: "C", text: "(C) Louez l’Eternel ! (G) " },
+                    { chord: "G", text: "(G) Louez, louez, louez" },
+                    { chord: "G", text: "(G) Louez l’Eternel ! (C) " },
+                    { chord: "C", text: "(C) Louez, louez, louez" },
+                    { chord: "C", text: "(C) Louez l’Eternel ! (F) " },
+                    { chord: "F", text: "(F) Louez l’Eternel ! (C) " },
+                    { chord: "C", text: "(C) Louez (G) l’Eternel ! (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) La trompette (F) résonne:" },
-                    { chord: "C", text: "(C) debout, (D) vaillants (G) soldats!" },
-                    { chord: "C", text: "(C) L’immortelle (F) couronne" },
-                    { chord: "C", text: "(C) est le (G) prix des (C) combats." },
-                    { chord: "G", text: "(G) Si l’ennemi fait (C) rage," },
-                    { chord: "F", text: "(F) soyez fermes et forts; (G) " },
-                    { chord: "C", text: "(C) Redoublez de (F) courage" },
-                    { chord: "C", text: "(C) s’il (F) redouble (G) d’efforts. (C) " }
-                ],
+                    { chord: "C", text: "(C) David était un grand roi" },
+                    { chord: "C", text: "(C) Il s’est levé pour danser (G) " },
+                    { chord: "G", text: "(G) David était un grand roi" },
+                    { chord: "G", text: "(G) Il s’est levé pour danser (C) " },
+                    { chord: "C", text: "(C) David était un grand roi" },
+                    { chord: "C", text: "(C) Il s’est levé pour danser (F) " },
+                    { chord: "F", text: "(F) Il s’est levé pour danser (C) " },
+                    { chord: "C", text: "(C) Il s’est (G) levé pour danser (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-04-2025",
+            title: "GLORY BE TO GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/drmL-zAfdtg?si=EzXxELDbStL9HUbW",
+            verses: [
                 [
-                    { chord: "C", text: "(C) Debout pour la (F) bataille," },
-                    { chord: "C", text: "(C) point de trêve (D) aux (G) vaincus!" },
-                    { chord: "C", text: "(C) Si votre bras (F) défaille" },
-                    { chord: "C", text: "(C) regardez (G) à Jésus! (C) " },
-                    { chord: "G", text: "(G) De l’armure (C) invincible" },
-                    { chord: "F", text: "(F) soldats, revêtez-vous; (G) " },
-                    { chord: "C", text: "(C) Le triomphe est (F) possible" },
-                    { chord: "C", text: "(C) pour (F) qui (G) lutte à (C) genoux." }
-                ],
-                [
-                    { chord: "C", text: "(C) Debout, debout (F) encore!" },
-                    { chord: "C", text: "(C) Luttez, (D) jusqu’au (G) matin;" },
-                    { chord: "C", text: "(C) Déjà brille (F) l’aurore," },
-                    { chord: "C", text: "(C) à (G) l’horizon (C) lointain." },
-                    { chord: "G", text: "(G) Bientôt jetant nos (C) armes" },
-                    { chord: "F", text: "(F) aux pieds du Roi des (G) rois" },
-                    { chord: "C", text: "(C) Les chants après les (F) armes," },
-                    { chord: "C", text: "(C) le (F) trône (G) après la (C) croix." }
+                    { chord: "C", text: "(C) Glory be to God in the Highest ! (F) halle (G) lujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) Every body sing hallelu ! (G) hallelujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) hallelujah! (G) hallelujah! (C) " }
                 ]
             ]
         },
