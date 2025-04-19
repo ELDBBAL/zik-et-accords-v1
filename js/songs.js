@@ -77,21 +77,21 @@ const songs = [
         },
         {
             key: "dim-20-04-2025",
-            title: "ALIVE FOREVERMOE",
+            title: "ALIVE FOREVERMORE",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/oYiwkP0yX3s?si=uQpn_8CT4qQvfmkz",
             verses: [
                 [
                     { chord: "C", text: "(C) Alive, alive, alive forevermore!" },
-                    { chord: "C", text: "(C) My Jesus is alive, alive forevermore!" },
+                    { chord: "C", text: "(C) My (G) Jesus is alive, (C) alive forevermore!" },
                     { chord: "C", text: "(C) Alive, alive, alive forevermore!" },
-                    { chord: "C", text: "(C) My Jesus is alive." }
+                    { chord: "C", text: "(C) My (G) Jesus is (C) alive." }
                 ],
                 [
-                    { chord: "C", text: "(C) Sing hallelujah! Sing hallelujah!" },
-                    { chord: "C", text: "(C) My Jesus is alive forevermore!" },
-                    { chord: "C", text: "(C) Sing hallelujah! Sing hallelujah!" },
-                    { chord: "C", text: "(C) My Jesus is alive!" }
+                    { chord: "C", text: "(C) Sing (F) hallelujah! Sing (C) hallelujah!" },
+                    { chord: "C", text: "(C) My (G) Jesus is alive, (C) alive forevermore!" },
+                    { chord: "C", text: "(C) Sing (F) hallelujah! Sing (C) hallelujah!" },
+                    { chord: "C", text: "(C) My (G) Jesus is (C) alive." }
                 ]
             ]
         },
