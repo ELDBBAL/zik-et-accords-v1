@@ -53,21 +53,25 @@ const songs = [
             key: "dim-20-04-2025",
             title: "DANS LE TOMBEAU, JESUS EST",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/Nd7XD8OePTk?si=YRQLCJzFZ8WssO8i",
             verses: [
                 [
-                    { chord: "C", text: "(C) Mon âme bénit le Seigneur," },
-                    { chord: "C", text: "(C) Et mon esprit magnifie son Nom." },
-                    { chord: "C", text: "(C) Car la mort n’a pas pu Le retenir ;" },
-                    { chord: "C", text: "(C) Même dans le tombeau, " },
-                    { chord: "C", text: "(C) Jésus est Seigneur." }
+                    { chord: "C", text: "(C) Mon âme (G) bénit le (C) Seigneur," },
+                    { chord: "C", text: "(C) Et mon (F) esprit magnifie son (G) Nom." },
+                    { chord: "C", text: "(C) Car la mort n’a pas pu Le (F) retenir ;" },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." }
                 ],
                 [
-                    { chord: "C", text: "(C) My soul doth magnify the LORD" },
-                    { chord: "C", text: "(C) And my spirit praise his name" },
-                    { chord: "C", text: "(C) Even death could not hold him captive" },
-                    { chord: "C", text: "(C) Even in the grave Jesus is LORD" },
-                    { chord: "C", text: "(C) Even in the grave Jesus is LORD" },
+                    { chord: "C", text: "(C) My soul (G) doth magnify the (C) LORD" },
+                    { chord: "C", text: "(C) And my (F) spirit praise his (G) name" },
+                    { chord: "C", text: "(C) Even death could not hold him (F) captive" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
                 ]
             ]
         },
