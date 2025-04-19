@@ -11,7 +11,7 @@ const songs = [
                     { chord: "C", text: "(C) Jesus paid it (F) all," },
                     { chord: "C", text: "(C) all to Him I (G) owe;" },
                     { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
-                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                    { chord: "F", text: "(F) He (C) washed (G) it white as (C) snow." }
                 ],
                 [
                     { chord: "C", text: "(C) J’entends le Sauveur dire :" },
@@ -24,7 +24,7 @@ const songs = [
                     { chord: "C", text: "(C) Jésus paya (F) tout" },
                     { chord: "C", text: "(C) Et je Lui dois (G) tout;" },
                     { chord: "C", text: "(C) De mes péchés (F) cramoisis" },
-                    { chord: "C", text: "(C) Il (F) m’a (G) lavé comme (C) neige" }
+                    { chord: "F", text: "(F) Il (C) m’a (G) lavé comme (C) neige" }
                 ],
             ]
         },
@@ -32,20 +32,20 @@ const songs = [
             key: "dim-20-04-2025",
             title: "JESUS, THE LIGHT",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/6UsxxAYReP4?si=Q7Vj52aOg5-BbxRJ",
             verses: [
                 [
                     { chord: "", text: "CHORUS:" },
                     { chord: "C", text: "(C) We’ll walk in the light, beautiful light," },
-                    { chord: "C", text: "(C) Come where the dewdrops of mercy are bright;" },
-                    { chord: "C", text: "(C) Shine all around us by day and by night," },
-                    { chord: "C", text: "(C) Jesus, the light of the world." }
+                    { chord: "C", text: "(C) Come where the dewdrops (D) of mercy are (G) bright;" },
+                    { chord: "C", text: "(C) Shine all around us by day and by (F) night," },
+                    { chord: "C", text: "(C) Jesus, the (G) light of the (C) world." }
                 ],
                 [
                     { chord: "C", text: "(C) Oui, nous marcherons, dans la lumière," },
-                    { chord: "C", text: "(C) Là où la miséricorde est versée;" },
-                    { chord: "C", text: "(C) Brille autour de nous le jour et la nuit," },
-                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                    { chord: "C", text: "(C) Là où la miséri (D) corde est (G) versée;" },
+                    { chord: "C", text: "(C) Brille autour de nous le jour et la (F) nuit," },
+                    { chord: "C", text: "(C) Jésus, la (G) lumière du (C) monde." }
                 ]
             ]
         },
