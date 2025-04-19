@@ -1,5 +1,284 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 20 Avril 2025 (Seizième Dimanche de l'année 2025)
+        {
+            key: "dim-20-04-2025",
+            title: "JESUS PAID IT ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JWPC4clWLbQ?si=KNKkqmVuB85IK1xZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus paid it (F) all," },
+                    { chord: "C", text: "(C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) J’entends le Sauveur dire :" },
+                    { chord: "G", text: "(G) «Malgré ta moindre (C) force," },
+                    { chord: "C", text: "(C) Faible enfant veille et prie," },
+                    { chord: "C", text: "(C) Trouve (F) en (G) moi tout ton (C) Tout.»" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus paya (F) tout" },
+                    { chord: "C", text: "(C) Et je Lui dois (G) tout;" },
+                    { chord: "C", text: "(C) De mes péchés (F) cramoisis" },
+                    { chord: "C", text: "(C) Il (F) m’a (G) lavé comme (C) neige" }
+                ],
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "JESUS, THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) We’ll walk in the light, beautiful light," },
+                    { chord: "C", text: "(C) Come where the dewdrops of mercy are bright;" },
+                    { chord: "C", text: "(C) Shine all around us by day and by night," },
+                    { chord: "C", text: "(C) Jesus, the light of the world." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oui, nous marcherons, dans la lumière," },
+                    { chord: "C", text: "(C) Là où la miséricorde est versée;" },
+                    { chord: "C", text: "(C) Brille autour de nous le jour et la nuit," },
+                    { chord: "C", text: "(C) He (F) washed (G) it white as (C) snow." }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "DANS LE TOMBEAU, JESUS EST",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon âme bénit le Seigneur," },
+                    { chord: "C", text: "(C) Et mon esprit magnifie son Nom." },
+                    { chord: "C", text: "(C) Car la mort n’a pas pu Le retenir ;" },
+                    { chord: "C", text: "(C) Même dans le tombeau, " },
+                    { chord: "C", text: "(C) Jésus est Seigneur." }
+                ],
+                [
+                    { chord: "C", text: "(C) My soul doth magnify the LORD" },
+                    { chord: "C", text: "(C) And my spirit praise his name" },
+                    { chord: "C", text: "(C) Even death could not hold him captive" },
+                    { chord: "C", text: "(C) Even in the grave Jesus is LORD" },
+                    { chord: "C", text: "(C) Even in the grave Jesus is LORD" },
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "ALIVE FOREVERMOE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Alive, alive, alive forevermore!" },
+                    { chord: "C", text: "(C) My Jesus is alive, alive forevermore!" },
+                    { chord: "C", text: "(C) Alive, alive, alive forevermore!" },
+                    { chord: "C", text: "(C) My Jesus is alive." }
+                ],
+                [
+                    { chord: "C", text: "(C) Sing hallelujah! Sing hallelujah!" },
+                    { chord: "C", text: "(C) My Jesus is alive forevermore!" },
+                    { chord: "C", text: "(C) Sing hallelujah! Sing hallelujah!" },
+                    { chord: "C", text: "(C) My Jesus is alive!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" },
+                    { chord: "C", text: "(C) If that (G) spirit dwell in (C) you." },
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "THE OLD TIME RELIGION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JOI_HFvhINM?si=1N7zaH35NEn5MzmG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Give me that old time religion," },
+                    { chord: "C", text: "(C) Give me that (G) old time (C) religion," },
+                    { chord: "C", text: "(C) Give me that old time (F) religion," },
+                    { chord: "F", text: "(F) It’s (G) good enough for (C) me" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi (G) l’ancien (C) Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien (F) Evangile" },
+                    { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) C’est toujours l’ancien Saint-Esprit," },
+                    { chord: "C", text: "(C) Et Satan (G) ne peut (C) l’approcher," },
+                    { chord: "C", text: "(C) C’est pourquoi les peuples (F) le craignent;" },
+                    { chord: "F", text: "(F) Mais Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Evangile de grâce," },
+                    { chord: "G", text: "(G) Evangile de (C) salut" },
+                    { chord: "C", text: "(C) Evangile (F) d’enlèvement" },
+                    { chord: "F", text: "(F) C’est (G) bon, c’est bon pour (C) moi" }
+                ],
+                [
+                    { chord: "C", text: "(C) L’évangile est prêché" },
+                    { chord: "G", text: "(G) Les malades sont (C) guéris" },
+                    { chord: "C", text: "(C) Les morts (F) ressuscités" },
+                    { chord: "F", text: "(F) C’est (G) bon, c’est bon pour (C) moi" }
+                ],
+                [
+                    { chord: "C", text: "(C) Les mystères sont prêchés" },
+                    { chord: "G", text: "(G) L’épouse s’est (C) préparée" },
+                    { chord: "C", text: "(C) Attendant (F) l’enlèvement " },
+                    { chord: "F", text: "(F) C’est (G) bon, c’est bon pour (C) moi" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "AMEN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Amen! Amen! Amen! Amen, Amen!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Are you going to love Him? Amen!" },
+                    { chord: "C", text: "(C) Are you going to praise Him? Amen!" },
+                    { chord: "C", text: "(C) Are you going to worship Him? Amen!" },
+                    { chord: "F", text: "(F) Amen, Amen!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Do you love Him? Amen!" },
+                    { chord: "C", text: "(C) Will you serve Him? Amen!" },
+                    { chord: "C", text: "(C) Do you believe Him? Amen!" },
+                    { chord: "F", text: "(F) Amen, Amen!" }
+                ],
+                [
+                    { chord: "C", text: "(C) The Bible’s true. Amen!" },
+                    { chord: "C", text: "(C) I believe It. Amen! " },
+                    { chord: "C", text: "(C) It’s the Word of God. Amen!" },
+                    { chord: "F", text: "(F) Amen, Amen!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "L'AMOUR DE DIEU EST SI MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tct5CcZy5uo?si=xLu4_KysAPC6v3Yp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "G", text: "(G) L'amour de Dieu est si merveilleux" },
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" },
+                    { chord: "C", text: "(C) Comment il est ?" },
+                    { chord: "C", text: "(C) Il est si haut qu'on ne peut le surmonter" },
+                    { chord: "G", text: "(G) Il est si bas qu'on ne peut le renverser" },
+                    { chord: "C", text: "(C) Il est si large qu'on ne peut le contourner" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "VICTOIRE, ALLELUIA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0Iib9hqDwQ8?si=VVPXhh69AM4qJOce",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Victoire, alléluia ! " },
+                    { chord: "F", text: "(F) Chantons, crions de (C) joie !" },
+                    { chord: "C", text: "(C) Jésus (F) Christ est (G) sorti du (C) tombeau" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Galilée, Galilée, " },
+                    { chord: "F", text: "(F) Galilée (C) je viens de (D) la (G) Galilée" },
+                    { chord: "C", text: "(C) Jésus m'a chargé (F) d'annoncer à tous ses (C) frères" },
+                    { chord: "G", text: "(G) Qu'Il est ressuscité. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "LE GRAND JOUR S'EST LEVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZZ3ex794OKI?si=DJnanWJ8YkhXz3nA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le grand jour s'est levé" },
+                    { chord: "C", text: "(C) Dieu (F) nous a visités" },
+                    { chord: "C", text: "(C) Voici des temps nouveaux" },
+                    { chord: "D", text: "(D) Chantons gloire à (G) l'Agneau" },
+                    { chord: "C", text: "(C) Nous recevons de Christ" },
+                    { chord: "C", text: "(C) Ce (F) qu'Il avait promis" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Le Saint-Esprit est là" },
+                    { chord: "C", text: "(C) Le (F) Saint-Esprit est là" },
+                    { chord: "C", text: "(C) La mort a disparu" },
+                    { chord: "C", text: "(C) Dieu (D) donne un plein (G) salut" },
+                    { chord: "C", text: "(C) Et sur le monde entier" },
+                    { chord: "C", text: "(C) Le (F) grand jour s'est levé" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) L'obscurité s'enfuit" },
+                    { chord: "C", text: "(C) La (F) lumière a jailli" },
+                    { chord: "C", text: "(C) Chassé de cœurs troublés" },
+                    { chord: "D", text: "(D) Toute (G) incrédulité" },
+                    { chord: "C", text: "(C) Car Christ le Roi des Rois" },
+                    { chord: "C", text: "(C) Répand (F) l'Esprit de foi" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Grand Consolateur " },
+                    { chord: "C", text: "(C) Vient (F) remplir tous les cœurs" },
+                    { chord: "C", text: "(C) L'Esprit de vérité" },
+                    { chord: "D", text: "(D) Nous met en (G) liberté" },
+                    { chord: "C", text: "(C) Il ouvre les prisons" },
+                    { chord: "C", text: "(C) Répand (F) la guérison" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Que tous les rachetés " },
+                    { chord: "C", text: "(C) Chantent (F) leur liberté" },
+                    { chord: "C", text: "(C) Christ a tout accompli" },
+                    { chord: "D", text: "(D) Il a donné (G) l'Esprit" },
+                    { chord: "C", text: "(C) Voyez trembler l'enfer" },
+                    { chord: "C", text: "(C) Car (F) dans tout l'univers" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ]
+            ]
+        },
+        // Debut Cantiques du 20 Avril 2025 (Seizième Dimanche de l'année 2025)
+
         // Debut Cantiques du 13 Avril 2025 (Quinzième Dimanche de l'année 2025)
         {
             key: "dim-13-04-2025",
