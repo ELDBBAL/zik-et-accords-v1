@@ -166,25 +166,25 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Amen! Amen! Amen! Amen, Amen!" }
+                    { chord: "C", text: "(C) Amen! Amen! Amen! Amen, (G) Amen! (C) " }
                 ],
                 [
                     { chord: "C", text: "(C) Are you going to love Him? Amen!" },
                     { chord: "C", text: "(C) Are you going to praise Him? Amen!" },
                     { chord: "C", text: "(C) Are you going to worship Him? Amen!" },
-                    { chord: "F", text: "(F) Amen, Amen!" }
+                    { chord: "C", text: "(C) Amen, (G) Amen! (C) " }
                 ],
                 [
                     { chord: "C", text: "(C) Do you love Him? Amen!" },
                     { chord: "C", text: "(C) Will you serve Him? Amen!" },
                     { chord: "C", text: "(C) Do you believe Him? Amen!" },
-                    { chord: "F", text: "(F) Amen, Amen!" }
+                    { chord: "C", text: "(C) Amen, (G) Amen! (C) " }
                 ],
                 [
                     { chord: "C", text: "(C) The Bible’s true. Amen!" },
                     { chord: "C", text: "(C) I believe It. Amen! " },
                     { chord: "C", text: "(C) It’s the Word of God. Amen!" },
-                    { chord: "F", text: "(F) Amen, Amen!" }
+                    { chord: "C", text: "(C) Amen, (G) Amen! (C) " }
                 ]
             ]
         },
