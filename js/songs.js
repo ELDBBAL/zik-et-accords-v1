@@ -51,7 +51,21 @@ const songs = [
         },
         {
             key: "dim-20-04-2025",
-            title: "DANS LE TOMBEAU, JESUS EST",
+            title: "WE GIVE ALL THE GLORY TO JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5lzPhJfD18?si=QkJG9uv3S2Xl6J1M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (G) tell of His love His (C) wonderful love" },
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (F) tell of His (G) wonderful (C) love" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "DANS LE TOMBEAU, JESUS EST SEIGNEUR",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Nd7XD8OePTk?si=YRQLCJzFZ8WssO8i",
             verses: [
@@ -160,7 +174,7 @@ const songs = [
         },
         {
             key: "dim-20-04-2025",
-            title: "AMEN",
+            title: "AMEN ALLELUJAH, AMEN ALLELUJAH",
             keySignature: "C",
             youtubeLink: "#",
             verses: [
@@ -212,6 +226,26 @@ const songs = [
             title: "VICTOIRE, ALLELUIA",
             keySignature: "C",
             youtubeLink: "https://youtu.be/0Iib9hqDwQ8?si=VVPXhh69AM4qJOce",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Victoire, alléluia ! " },
+                    { chord: "F", text: "(F) Chantons, crions de (C) joie !" },
+                    { chord: "C", text: "(C) Jésus (F) Christ est (G) sorti du (C) tombeau" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Galilée, Galilée, " },
+                    { chord: "F", text: "(F) Galilée (C) je viens de (D) la (G) Galilée" },
+                    { chord: "C", text: "(C) Jésus m'a chargé (F) d'annoncer à tous ses (C) frères" },
+                    { chord: "G", text: "(G) Qu'Il est ressuscité. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "MON SEIGNEUR EST PLUS QUE VAINQUEUR",
+            keySignature: "C",
+            youtubeLink: "#",
             verses: [
                 [
                     { chord: "C", text: "(C) Victoire, alléluia ! " },
