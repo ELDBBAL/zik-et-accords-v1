@@ -248,16 +248,16 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Victoire, alléluia ! " },
-                    { chord: "F", text: "(F) Chantons, crions de (C) joie !" },
-                    { chord: "C", text: "(C) Jésus (F) Christ est (G) sorti du (C) tombeau" }
+                    { chord: "C", text: "(C) ------------------------------" },
+                    { chord: "F", text: "(F) ------------------------------" },
+                    { chord: "C", text: "(C) ------------------------------" }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Galilée, Galilée, " },
-                    { chord: "F", text: "(F) Galilée (C) je viens de (D) la (G) Galilée" },
-                    { chord: "C", text: "(C) Jésus m'a chargé (F) d'annoncer à tous ses (C) frères" },
-                    { chord: "G", text: "(G) Qu'Il est ressuscité. (C) " }
+                    { chord: "C", text: "(C) --------------------" },
+                    { chord: "F", text: "(F) --------------------" },
+                    { chord: "C", text: "(C) --------------------" },
+                    { chord: "G", text: "(G) --------------------" }
                 ]
             ]
         },
