@@ -250,7 +250,7 @@ const songs = [
                 [
                     { chord: "C", text: "(C) Mon Seigneur Jésus est plus (F) que vainqueur (C)" },
                     { chord: "C", text: "(C) Il est (F) Roi, il est (G) vraiment (C) Roi" },
-                    { chord: "C", text: "(C) Mon Seigneur Jésus est plus que vainqueur" },
+                    { chord: "C", text: "(C) Mon Seigneur Jésus est plus (F) que vainqueur (C)" },
                     { chord: "C", text: "(C) Il est (F) Roi, il est (G) vraiment (C) Roi" }
                 ],
                 [
