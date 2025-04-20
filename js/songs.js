@@ -284,26 +284,6 @@ const songs = [
         },
         {
             key: "dim-20-04-2025",
-            title: "MON SEIGNEUR EST PLUS QUE VAINQUEUR",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) ------------------------------" },
-                    { chord: "F", text: "(F) ------------------------------" },
-                    { chord: "C", text: "(C) ------------------------------" }
-                ],
-                [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) --------------------" },
-                    { chord: "F", text: "(F) --------------------" },
-                    { chord: "C", text: "(C) --------------------" },
-                    { chord: "G", text: "(G) --------------------" }
-                ]
-            ]
-        },
-        {
-            key: "dim-20-04-2025",
             title: "LE GRAND JOUR S'EST LEVE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/ZZ3ex794OKI?si=DJnanWJ8YkhXz3nA",
