@@ -204,6 +204,41 @@ const songs = [
         },
         {
             key: "dim-20-04-2025",
+            title: "IL EST ROI, IL EST VRAIMENT ROI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/EfN0Kq_jbvM?si=Co7LABGOYALr2KMs",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Son royaume est sur son épaule" },
+                    { chord: "C", text: "(C) Son Nom c'est le Dieu (D) Tout puissant (G) " },
+                    { chord: "C", text: "(C) Merveilleux, Conseillers, le (F) Prince de (C) paix" },
+                    { chord: "C", text: "(C) Il est (F) Roi, il est (G) vraiment (C) Roi" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
+            title: "IL N’Y A PERSONNE QUI SOIT COMME JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LT39rNlpr4g?si=f-HYxhyBvpY2pZGy",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (G) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ],
+                [
+                    { chord: "C", text: "(C) J’ai longtemps marché" },
+                    { chord: "C", text: "(C) marché marché (F) personne personne" },
+                    { chord: "C", text: "(C) J’ai tourné en rond (G) personne personne" },
+                    { chord: "C", text: "(C) J’ai fouillé fouilléé... (F) " },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-04-2025",
             title: "L'AMOUR DE DIEU EST SI MERVEILLEUX",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Tct5CcZy5uo?si=xLu4_KysAPC6v3Yp",
