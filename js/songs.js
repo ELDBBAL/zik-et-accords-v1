@@ -55,6 +55,60 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-27-04-2025",
+            title: "DRAW ME NEARER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-tBXjed7ykA?si=7ypsIo_LHBLpWCtH",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am (G) Thine, O Lord, I have (C) heard Thy voice," },
+                    { chord: "C", text: "(C) And it (F) told Thy love to (C) me;" },
+                    { chord: "C", text: "(C) But I (G) long to rise in the (C) arms of faith," },
+                    { chord: "C", text: "(C) And be (F) closer (G) drawn to (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Draw me nearer, (F) nearer, blessed (C) Lord," },
+                    { chord: "C", text: "(C) To the (F) cross where Thou hast (G) died;" },
+                    { chord: "C", text: "(C) Draw me nearer, nearer, blessed (F) Lord," },
+                    { chord: "C", text: "(C) To Thy precious, (G) bleeding (C) side." }
+                ],
+                [
+                    { chord: "G", text: "(G) Consecrate me now to Thy (Am) service, Lord," },
+                    { chord: "C", text: "(C) By the (F) pow’r of grace (C) divine;" },
+                    { chord: "C", text: "(C) Let my (G) soul look up with a (Am) steadfast hope," },
+                    { chord: "C", text: "(C) And my (F) will be (G) lost in (C) Thine." }
+                ],
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "ATTIRE-MOI PLUS PRES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/os9XtenILuo?si=m0s6A-B3Z8veN67j",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je suis (G) Tien, Seigneur, J’ai saisi (C) Ta Voix," },
+                    { chord: "C", text: "(C) Me (F) parlant de Ton amour (C) ;" },
+                    { chord: "C", text: "(C) Mon ardent (G) désir, Grandir dans la (C) foi" },
+                    { chord: "C", text: "(C) Et (F) être plus (G) près de (C) Toi." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Attire-moi plus près, (F) Seigneur (C) béni," },
+                    { chord: "C", text: "(C) De la (F) croix où Tu mourus; (G) " },
+                    { chord: "C", text: "(C) Attire-moi plus près, Seigneur (F) béni," },
+                    { chord: "C", text: "(C) De Ton précieux (G) flanc saignant. (C) " }
+                ],
+                [
+                    { chord: "G", text: "(G) Seigneur, consacre-moi à (Am) Ton service," },
+                    { chord: "C", text: "(C) Par la (F) puissance de Ta (C) grace;" },
+                    { chord: "C", text: "(C) Que mon (G) âme T’invoques, Avec (Dm) ferme espoir," },
+                    { chord: "C", text: "(C) Que Ta (F) volonté (G) soit (C) mienne" }
+                ],
+            ]
+        },
         // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
 
         // Debut Cantiques du 20 Avril 2025 (Seizième Dimanche de l'année 2025)
