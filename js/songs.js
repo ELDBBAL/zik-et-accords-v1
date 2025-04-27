@@ -109,6 +109,158 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-27-04-2025",
+            title: "YOU ARE ALPHA AND OMEGA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/rC_qYfBSI34?si=24gMILZY68eJ5b6o",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You are Alpha and (G) Omega (C) " },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ],
+                [
+                    { chord: "C", text: "(C) We give you (F) all (G) the (C) glory" },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tu es l'Alpha et (G) l'Oméga (C) " },
+                    { chord: "C", text: "(C) Nous (F) t'adorons (C) Seigneur" },
+                    { chord: "C", text: "(C) Tu es (G) digne de (C) louange" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous te (F) rendons (G) la gloire (C) " },
+                    { chord: "C", text: "(C) Nous (F) t'adorons (C) Seigneur" },
+                    { chord: "C", text: "(C) Tu es (G) digne de (C) louange" }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "I CAN SEE IN YOU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QEy8wE8BQXU?si=1ilhIbM379ItGM7j",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I love you with the love of the Lord" },
+                    { chord: "C", text: "(C) I love you with the love of the (G) Lord" },
+                    { chord: "C", text: "(C) I can (F) see in (Dm) you, the (Em) glory of the (Am) Lord" },
+                    { chord: "Dm", text: "(Dm) I love you with the (G) love of the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je t'aime de l'amour du Seigneur" },
+                    { chord: "C", text: "(C) Je t'aime de l'amour du (G) Seigneur" },
+                    { chord: "C", text: "(C) Je peux (F) voir en (Dm) toi la (Em) gloire de (Am) l'Eternel" },
+                    { chord: "Dm", text: "(Dm) Je t'aime de (G) l'amour du Seigneur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "I WOULD ENTER IN HIS COURT ",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/CLTBuaj-LCU?si=hEBPRiBjt6lrTvxd",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I will enter in His (F) court" },
+                    { chord: "C", text: "(C) With thanksgiving in my (Am) heart" },
+                    { chord: "C", text: "(C) I will enter His (F) gate with (G) praise" },
+                    { chord: "C", text: "(C) I would sing this is the (F) day" },
+                    { chord: "C", text: "(C) That The Lord has (Am) made" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He makes me (F) glad" },
+                    { chord: "C", text: "(C) He makes me (Am) glad" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad (G) " },
+                    { chord: "C", text: "(C) He makes me (F) glad" },
+                    { chord: "C", text: "(C) He makes me (Am) glad" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad" }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "GLORY BE TO GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/drmL-zAfdtg?si=EzXxELDbStL9HUbW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Glory be to God in the Highest ! (F) halle (G) lujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) Every body sing hallelu ! (G) hallelujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) hallelujah! (G) hallelujah! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-12-2024",
+            title: "AMAZING GRACE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tvt6E9N7AQw?si=8zkXY4GH66SnRODV",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Amazing grace how (F) sweet the (C) sound" },
+                    { chord: "C", text: "(C) that saved a wretch like (G) me!" },
+                    { chord: "C", text: "(C) I once was lost, but (F) now am (C) found," },
+                    { chord: "C", text: "(C) was blind, but (G) now I (C) see." }
+                ],
+                [
+                    { chord: "C", text: "(C) IT was grace that taught my (F) heart to (C) fear," },
+                    { chord: "C", text: "(C) and grace my fears (G) relieved;" },
+                    { chord: "C", text: "(C) how precious did that (F) grace (C) appear" },
+                    { chord: "C", text: "(C) the hour I (G) first (C) believed!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Through many dangers, (F) toils and (C) snares" },
+                    { chord: "C", text: "(C) I have already (G) come:" },
+                    { chord: "C", text: "(C) This grace has brought me (F) safe thus (C) far," },
+                    { chord: "C", text: "(C) and grace will (G) lead me (C) home" }
+                ],
+                [
+                    { chord: "C", text: "(C) The Lord has promised (F) good to (C) me," },
+                    { chord: "C", text: "(C) his word my hope (G) secures;" },
+                    { chord: "C", text: "(C) he will my shield and (F) portion (C) be" },
+                    { chord: "C", text: "(C) as long as (G) life (C) endures." }
+                ],
+                [
+                    { chord: "C", text: "(C) Yes, when this flesh and (F) heart shall (C) fail," },
+                    { chord: "C", text: "(C) and mortal life shall (G) cease:" },
+                    { chord: "C", text: "(C) I shall possess, (F) within the (C) veil," },
+                    { chord: "C", text: "(C) a life of (G) joy and (C) peace." }
+                ],
+                [
+                    { chord: "C", text: "(C) The earth shall soon (F) dissolve like (C) snow," },
+                    { chord: "C", text: "(C) the sun forbear to (G) shine;" },
+                    { chord: "C", text: "(C) but God, who (F) called me here (C) below," },
+                    { chord: "C", text: "(C) will be (G) forever (C) mine." }
+                ]
+            ]
+        },
         // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
 
         // Debut Cantiques du 20 Avril 2025 (Seizième Dimanche de l'année 2025)
@@ -9247,7 +9399,7 @@ const songs = [
             youtubeLink: "https://youtu.be/rC_qYfBSI34?si=24gMILZY68eJ5b6o",
             verses: [
                 [
-                    { chord: "C", text: "(C) You are Alpha and (F) Omega (C) " },
+                    { chord: "C", text: "(C) You are Alpha and (G) Omega (C) " },
                     { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
                     { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
                 ],
