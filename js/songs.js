@@ -1,5 +1,62 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
+        {
+            key: "dim-27-04-2025",
+            title: "NEAR THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5gong-PNmY?si=NbwWNE4mfBd8oI6z",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus, keep me (F) near the cross" },
+                    { chord: "C", text: "(C) There a precious (D) fountain, (G) " },
+                    { chord: "C", text: "(C) Free to all, a (F) healing stream," },
+                    { chord: "C", text: "(C) Flows from Calv'ry's (G) mountain. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the cross, (F) in the cross," },
+                    { chord: "C", text: "(C) Be my glory (D) ever; (G) " },
+                    { chord: "C", text: "(C) Till my raptured (F) soul shall find" },
+                    { chord: "C", text: "(C) Rest beyond the (G) river (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross, a (F) trembling soul," },
+                    { chord: "C", text: "(C) Love and mercy (D) found (G) me;" },
+                    { chord: "C", text: "(C) There the Bright and (F) Morning Star" },
+                    { chord: "C", text: "(C) Sheds its beams (G) around (C) me." }
+                ],
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "PRES DE LA CROIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZFhxi75jEHI?si=7q0qG9sFi1FJwfkZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Près de la croix, (F) garde-moi" },
+                    { chord: "C", text: "(C) La fontaine (D) précieuse (G) " },
+                    { chord: "C", text: "(C) Gratuite et (F) guérissante" },
+                    { chord: "C", text: "(C) Coule (Am) du (G) calvaire (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) A la croix, (F) à la croix" },
+                    { chord: "C", text: "(C) Sois ma gloire (D) à jamais (G) " },
+                    { chord: "C", text: "(C) Jusqu'à ce que mon (F) âme" },
+                    { chord: "C", text: "(C) Trouve (Am) pardon (G) et repos (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Près de la croix (F) tout tremblant" },
+                    { chord: "C", text: "(C) Amour, grâce me (D) trouvent (G) " },
+                    { chord: "C", text: "(C) Là l'étoile du (F) matin" },
+                    { chord: "C", text: "(C) Rayonne (Am) autour (G) de moi(C) " }
+                ],
+            ]
+        },
+        // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
+
         // Debut Cantiques du 20 Avril 2025 (Seizième Dimanche de l'année 2025)
         {
             key: "dim-20-04-2025",
