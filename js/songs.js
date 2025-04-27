@@ -218,7 +218,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-01-12-2024",
+            key: "dim-27-04-2025",
             title: "AMAZING GRACE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Tvt6E9N7AQw?si=8zkXY4GH66SnRODV",
@@ -259,6 +259,54 @@ const songs = [
                     { chord: "C", text: "(C) but God, who (F) called me here (C) below," },
                     { chord: "C", text: "(C) will be (G) forever (C) mine." }
                 ]
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "IN MOMENTS LIKE THESE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KhmdktJiWdE?si=LYNadRnUxk6xgV17",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In moments like these I (F) sing out a song," },
+                    { chord: "F", text: "(F) I (Dm) sing out a (G) love song to (C) Jesus." },
+                    { chord: "C", text: "(C) In moments like these" },
+                    { chord: "C", text: "(C) I (F) lift up my hands," },
+                    { chord: "C", text: "(C) I (Dm) lift up my (G) hands to the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Singing I (G) love (C) You, Lord." },
+                    { chord: "F", text: "(F) Singing I (G) love (C) You, Lord." },
+                    { chord: "F", text: "(F) Singing I (G) love (Am) You, (F) Lord." },
+                    { chord: "C", text: "(C) I (G) love (C) you.." }
+                ],
+            ]
+        },
+        {
+            key: "dim-27-04-2025",
+            title: "QUE C'EST BEAU LE MARIAGE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/qdTEeTj2t7s?si=XN2M6y7rN973WbyE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Que c'est beau le mariage" },
+                    { chord: "C", text: "(C) Comme Dieu l'a (F) voulu" },
+                    { chord: "F", text: "(F) Que c'est beau le (G) mariage" },
+                    { chord: "G", text: "(G) Oh oui ! Réjouissons (C) nous" }
+                ],
+                [
+                    { chord: "C", text: "(C) L'homme et la femme doivent (F) s'unir" },
+                    { chord: "F", text: "(F) Pour le (G) meilleur comme pour le (C) pire" },
+                    { chord: "C", text: "(C) L'homme et la femme doivent (F) s'unir" },
+                    { chord: "C", text: "(C) Pour le (G) meilleur comme pour le (C) pire" }
+                ],
+                [
+                    { chord: "C", text: "(C) Ils seront féconds, a dit (F) l'Eternel" },
+                    { chord: "F", text: "(F) Et des (G) enfants combleront leur (C) joie." },
+                    { chord: "C", text: "(C) Ils seront féconds, a dit (F) l'Eternel" },
+                    { chord: "F", text: "(F) Et des (G) enfants combleront leur (C) joie." },
+                ],
             ]
         },
         // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
