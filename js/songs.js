@@ -290,6 +290,7 @@ const songs = [
             youtubeLink: "https://youtu.be/qdTEeTj2t7s?si=XN2M6y7rN973WbyE",
             verses: [
                 [
+                    { chord: "C", text: "CHORUS:" },
                     { chord: "C", text: "(C) Que c'est beau le mariage" },
                     { chord: "C", text: "(C) Comme Dieu l'a (F) voulu" },
                     { chord: "F", text: "(F) Que c'est beau le (G) mariage" },
