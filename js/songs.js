@@ -241,6 +241,66 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-04-05-2025",
+            title: "ALL THE OTHER GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/q4KzCrpcLjo?si=XLKFxqc6tTH8osHN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All the other gods" },
+                    { chord: "C", text: "(C) They are the works of (F) man" },
+                    { chord: "F", text: "(F) You are the most High (G) God" },
+                    { chord: "G", text: "(G) There is none like (C) You" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-05-2025",
+            title: "MISERICORDE INSONDABLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nPmv1Awq2-M?si=IkrGbM0MBpzIaAHW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Miséricorde (F) insondable !" },
+                    { chord: "G", text: "(G) Dieu peut-il tout pardonner ? (C) " },
+                    { chord: "C", text: "(C) Absoudre un si grand (F) coupable," },
+                    { chord: "G", text: "(G) Et mes péchés oubliés ? (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus je viens, je viens à (F) Toi" },
+                    { chord: "F", text: "(F) Tel que je (C) suis (Dm), je viens à (F) Toi (G) - (C) " },
+                    { chord: "C", text: "(C) Jésus je viens, je viens à (F) Toi" },
+                    { chord: "F", text: "(F) Tel je suis, (G) prends (C) moi" }
+                ],
+                [
+                    { chord: "C", text: "(C) Longtemps j’ai loin de sa (F) face" },
+                    { chord: "G", text: "(G) Provoqué son saint courroux (C) " },
+                    { chord: "C", text: "(C) Fermé mon cœur à sa (F) grâce" },
+                    { chord: "G", text: "(G) Blessé le sien devant tous. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) O, Jésus à Toi je (F) cède" },
+                    { chord: "G", text: "(G) Je veux être libéré (C) " },
+                    { chord: "C", text: "(C) De tout péché qui (F) m’obsède" },
+                    { chord: "G", text: "(G) Etre à jamais délivré. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Alléluia ! plus de (F) doute," },
+                    { chord: "G", text: "(G) Mon fardeau m’est enlevé (C) " },
+                    { chord: "C", text: "(C) Pour le ciel je suis en (F) route" },
+                    { chord: "G", text: "(G) Heureux pour l’éternité. (C) " }
+                ]
+            ]
+        },
         // Fin Cantiques du 04 Mai 2025 (Dix-Huitième Dimanche de l'année 2025)
 
         // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
