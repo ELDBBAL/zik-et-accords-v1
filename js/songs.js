@@ -1,5 +1,92 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 04 Mai 2025 (Dix-Huitième Dimanche de l'année 2025)
+        {
+            key: "dim-04-05-2025",
+            title: "PASS ME NOT O GENTLE SAVIOR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Br8c0Kkx6vs?si=TFhs2rPcoD8kdvyj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pass me (F) not, O gentle (C) Savior" },
+                    { chord: "G", text: "(G) Hear my humble (C) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Savior, (F) Savior" },
+                    { chord: "C", text: "(C) Hear my (D) humble (G) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let me (F) at Thy throne of (C) mercy" },
+                    { chord: "G", text: "(G) Find a sweet (C) relief" },
+                    { chord: "C", text: "(C) Kneeling (F) there in deep (C) contrition (Am) " },
+                    { chord: "F", text: "(F) Help (G) my unbelief (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Trusting (F) only in Thy (C) merit" },
+                    { chord: "G", text: "(G) Would I seek Thy (C) face" },
+                    { chord: "C", text: "(C) Heal my (F) wounded, broken (C) spirit (Am) " },
+                    { chord: "F", text: "(F) Save (G) me by Thy (C) grace" }
+                ],
+                [
+                    { chord: "C", text: "(C) Thou the (F) spring of all my (C) comfort" },
+                    { chord: "G", text: "(G) More than life to (C) me" },
+                    { chord: "C", text: "(C) Whom have (F) I on earth beside (C) Thee? (Am) " },
+                    { chord: "F", text: "(F) Whom (G) in Heav'n but (C) Thee?" }
+                ],
+            ]
+        },
+        {
+            key: "dim-04-05-2025",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (Em) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        // Fin Cantiques du 04 Mai 2025 (Dix-Huitième Dimanche de l'année 2025)
+
         // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
         {
             key: "dim-27-04-2025",
