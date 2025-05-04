@@ -55,7 +55,7 @@ const songs = [
                 [
                     { chord: "", text: "CHORUS:" },
                     { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
-                    { chord: "C", text: "(C) J'aime l'écho de (Em) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
                     { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
                     { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
                 ],
@@ -5129,7 +5129,7 @@ const songs = [
                 [
                     { chord: "", text: "CHORUS:" },
                     { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
-                    { chord: "C", text: "(C) J'aime l'écho de (Em) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
                     { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
                     { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
                 ],
