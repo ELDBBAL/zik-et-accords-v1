@@ -85,6 +85,162 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-04-05-2025",
+            title: "TOUT JOYEUX BENISSONS LE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kZc_Pyf5hLI?si=gpZeFAU9FJkZZUTK",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout joyeux (F) bénissons le (C) Seigneur," },
+                    { chord: "C", text: "(C) Chantons et (D) célébrons ses (G) louanges," },
+                    { chord: "C", text: "(C) Adorons avec (F) foi le (C) Sauveur," },
+                    { chord: "C", text: "(C) Nous joignant aux (G) célestes (C) phalanges." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (G) Dieu !" },
+                    { chord: "G", text: "(G) Que ce (F) chant (G) retentisse en tout (C) lieu !" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (F) Dieu !" },
+                    { chord: "F", text: "(F) Que ce (C) chant (G) retentisse en tout (C) lieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu, dans son (F) incomparable (C) amour," },
+                    { chord: "C", text: "(C) Du ciel envoya son (D) Fils (G) unique," },
+                    { chord: "C", text: "(C) Et la terre et les (F) cieux, dans ce (C) jour," },
+                    { chord: "C", text: "(C) S'unissent pour (G) chanter ce (C) cantique" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le châtiment qui (F) produit la (C) paix," },
+                    { chord: "C", text: "(C) Jésus-Christ l'a (D) subi pour mon (G) âme" },
+                    { chord: "C", text: "(C) Il voulut (F) expier nos (C) forfaits," },
+                    { chord: "C", text: "(C) En mourant, lui, (G) sur le bois (C) infâme." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous voulons en (F) retour, bon (C) Sauveur," },
+                    { chord: "C", text: "(C) T'aimer par-dessus (D) tout autre (G) chose ;" },
+                    { chord: "C", text: "(C) Forme ton (F) amour dans notre (C) coeur," },
+                    { chord: "C", text: "(C) Et puis, de (G) chacun de nous, (C) dispose !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-04-05-2025",
+            title: "LOUONS LE SEIGNEUR NOTRE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/1yjdifCfy5Y?si=fJudw3_3Lrg-v6oG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louons le Seigneur notre Dieu" },
+                    { chord: "F", text: "(F) Bénissions le Nom du Tout- (G) Puissant" },
+                    { chord: "C", text: "(C) Célébrons à jamais notre Roi" },
+                    { chord: "F", text: "(F) Amen (G) alléluia (C) " },
+                    { chord: "C", text: "(C) Nous serons bien" },
+                    { chord: "G", text: "(G) Haïs, haïs, ici bas, ici bas," },
+                    { chord: "G", text: "(G) Par les hommes, par les hommes," },
+                    { chord: "C", text: "(C) Mais là-haut nous serons heureux" },
+                    { chord: "F", text: "(F) Amen (G) alléluia (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-05-2025",
+            title: "HE ABIDES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nTmzQaDa2i8?si=_hvZ63lJQTEIzM9c",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the hand of God in all my life I (C) see;" },
+                    { chord: "C", text: "(C) And the reason of my bliss," },
+                    { chord: "C", text: "(C) Yes, (F) the secret all is this:" },
+                    { chord: "G", text: "(G) That the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He abides, He abides;" },
+                    { chord: "F", text: "(F) Hallelujah, (G) He abides with (C) me!" },
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Once my heart was full of sin," },
+                    { chord: "C", text: "(C) Once I (F) had no peace within," },
+                    { chord: "G", text: "(G) Till I heard how Jesus died upon the (C) tree;" },
+                    { chord: "C", text: "(C) Then I fell down at His feet," },
+                    { chord: "C", text: "(C) And there (F) came a peace so sweet;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) He is with me everywhere," },
+                    { chord: "C", text: "(C) And He (F) knows my every care;" },
+                    { chord: "G", text: "(G) I’m as happy as a bird and just as (C) free;" },
+                    { chord: "C", text: "(C) For the Spirit has control;" },
+                    { chord: "C", text: "(C) Jesus (F) satisfies my soul," },
+                    { chord: "G", text: "(G) Since the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) There’s no thirsting for the things" },
+                    { chord: "C", text: "(C) Of the (F) world—they’ve taken wings;" },
+                    { chord: "G", text: "(G) Long ago I gave them up, and (C) instantly" },
+                    { chord: "C", text: "(C) All my night was turned to day," },
+                    { chord: "C", text: "(C) All my (F) burdens rolled away;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-05-2025",
+            title: "DANS MON AME UN BEAU SOLEIL BRILLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pdxaZMWILfY?si=fkTnGjPk1xUjLytP",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans mon âme, un (F) beau (C) soleil brille !" },
+                    { chord: "C", text: "(C) Son rayon doux (D) et (G) joyeux" },
+                    { chord: "C", text: "(C) Répand un (F) éclat (C) qui scintille" },
+                    { chord: "C", text: "(C) C’est le (F) sourire (G) de (C) Dieu" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O, quel beau (F) soleil dans mon (C) âme !" },
+                    { chord: "C", text: "(C) Il resplendit, (D) illuminant (G) tout" },
+                    { chord: "C", text: "(C) A ses (F) rayons mon (C) cœur s’enflamme" },
+                    { chord: "C", text: "(C) Et je (F) vais (G) partout (C) chantant" },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon cœur était (F) plein (C) de ténèbres" },
+                    { chord: "C", text: "(C) Quand paru un (D) jour (G) nouveau" },
+                    { chord: "C", text: "(C) Au loin (F) fuyez, (C) ombres et ténèbres" },
+                    { chord: "C", text: "(C) Devant (F) un (G) soleil si (C) beau" },
+                ],
+                [
+                    { chord: "C", text: "(C) O, mon cœur (F) déborde (C) de joie !" },
+                    { chord: "C", text: "(C) Mon âme est (D) remplie (G) d’amour" },
+                    { chord: "C", text: "(C) Tous les (F) élus (C) avec le Roi" },
+                    { chord: "C", text: "(C) Le (F) loueront, (G) oui, (C) pour toujours !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-04-05-2025",
+            title: "LE MESSIE EST LE ROI DES ROIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Il est (F) le (C) Roi, (Am) Seigneur des (G) seigneurs" },
+                    { chord: "F", text: "(F) Le Messie est le (G) Roi des (Em) rois (Am) " },
+                    { chord: "Dm", text: "(Dm) Il est le Seigneur (G) des Seigneurs. (C) "}
+                ]
+            ]
+        },
         // Fin Cantiques du 04 Mai 2025 (Dix-Huitième Dimanche de l'année 2025)
 
         // Debut Cantiques du 27 Avril 2025 (Dix-Septième Dimanche de l'année 2025)
