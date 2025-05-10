@@ -181,6 +181,113 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-11-05-2025",
+            title: "I AM HAPPY TODAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5itJJ44h6k4?si=loRPrSSOLo2c7RWM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am happy today" },
+                    { chord: "F", text: "(F) I am happy today" },
+                    { chord: "C", text: "(C) With Jesus my Lord, I am happy" },
+                    { chord: "G", text: "(G) He takes all my sins away" },
+                    { chord: "G", text: "(G) And that’s why I’m happy today" }
+                ],
+                [
+                    { chord: "C", text: "(C) Je suis heureux" },
+                    { chord: "F", text: "(F) Je suis heureux" },
+                    { chord: "C", text: "(C) Jésus m’a rendu heureux," },
+                    { chord: "G", text: "(G) Il me sanctifia de tous mes péchés" },
+                    { chord: "G", text: "(G) C’est pourquoi je suis heureux." }
+                ],
+                [
+                    { chord: "C", text: "(C) Mele dzido kpom" },
+                    { chord: "F", text: "(F) Mele dzido kpom" },
+                    { chord: "C", text: "(C) Nye Afetf Yesu nam dzidzo" },
+                    { chord: "G", text: "(G) Eklo nye nuvowo kata da" },
+                    { chord: "G", text: "(G) Eyata makpo dzidzo." }
+                ],
+            ]
+        },
+        {
+            key: "dim-11-05-2025",
+            title: "LOUEZ L'ETERNEL CAR IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/x2AMclxKHYs?si=tawOpWgKtiU2nUf3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Qui dira les hauts faits de (F) l’Eternel ? (C) " },
+                    { chord: "C", text: "(C) Qui publiera toute Sa (G) louange (C) ?" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (Am) bon" },
+                    { chord: "Am", text: "(Am) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                ],
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Il m’a révélé tous les mystères (F) cachés (C) " },
+                    { chord: "C", text: "(C) La révélation des sept (G) tonnerres (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui Dieu nous a bénis de (F) toutes bénédictions (C) " },
+                    { chord: "C", text: "(C) Il nous a envoyé la colonne (G) de feu (C) " },
+                    { chord: "C", text: "(C) Les signes, miracles et les (F) prodiges (C) " },
+                    { chord: "C", text: "(C) Louons l’Eternel car Il (G) est bon (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire, Gloire, gloire, (F) Oh ! Alléluia (C) !" },
+                    { chord: "C", text: "(C) Dans l’Eternité en (G) éternité, (C) " },
+                    { chord: "C", text: "(C) Qu’Il soit loué, béni et (F) glorifié (C) " },
+                    { chord: "C", text: "(C) Aux siècles des siècles et (G) à jamais. (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-11-05-2025",
+            title: "THERE'S NO DISAPPOINTMENT IN HEAVEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There’s no disappointment in heaven," },
+                    { chord: "C", text: "(C) No (G) weariness, sorrow or (C) pain;" },
+                    { chord: "C", text: "(C) No hearts that are bleeding and broken," },
+                    { chord: "C", text: "(C) No (G) song with a minor (C) refrain." },
+                    { chord: "C", text: "(C) The (F) clouds of our earthly (C) horizon" },
+                    { chord: "C", text: "(C) Will (G) never appear in the (C) sky, " },
+                    { chord: "C", text: "(C) For (F) all will be sunshine and (C) gladness," },
+                    { chord: "C", text: "(C) With (G) never a sob nor a (C) sigh." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’m bound for that beautiful city" },
+                    { chord: "C", text: "(C) My Lord has prepared for His (G) own;" },
+                    { chord: "G", text: "(G) Where all the redeemed of all ages" },
+                    { chord: "G", text: "(G) Sing “Glory!” around the white (C) throne;" },
+                    { chord: "C", text: "(C) Sometimes I grow homesick for heaven," },
+                    { chord: "C", text: "(C) And the glories I there shall (F) behold;" },
+                    { chord: "F", text: "(F) What a joy that will be when my (C) Savior I (F) see," },
+                    { chord: "F", text: "(F) In (C) that beautiful (G) city of (C) gold!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We’ll never pay rent for our mansion, " },
+                    { chord: "C", text: "(C) The (G) taxes will never come (C) due;" },
+                    { chord: "C", text: "(C) Our garments will never grow threadbare, " },
+                    { chord: "C", text: "(C) But (G) always be fadeless and (C) new" },
+                    { chord: "C", text: "(C) We’ll (F) never be hungry nor (C) thirsty" },
+                    { chord: "C", text: "(C) Nor (G) languish in poverty (C) there." },
+                    { chord: "C", text: "(C) For (F) all the rich bounties of (C) heaven" },
+                    { chord: "C", text: "(C) His (G) sanctified children will (C) share." }
+                ]
+            ]
+        },
         // Fin Cantiques du 11 Mai 2025 (Dix-Neuvième Dimanche de l'année 2025)
 
         // Debut Cantiques du 04 Mai 2025 (Dix-Huitième Dimanche de l'année 2025)
