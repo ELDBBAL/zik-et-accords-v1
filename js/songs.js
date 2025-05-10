@@ -1,5 +1,188 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 11 Mai 2025 (Dix-Neuvième Dimanche de l'année 2025)
+        {
+            key: "dim-11-05-2025",
+            title: "THEN JESUS CAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oMvBEuU8V2U?si=Yu5NpM2-AzJsAfPA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One sat alone beside the highway (G) begging," },
+                    { chord: "G", text: "(G) His eyes were blind, the light he could not (C) see." },
+                    { chord: "C", text: "(C) He clutched his (Bm) rags and shivered in the (C) shadows" },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) bade his darkness (C) flee." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tempter's power is (C) broken;" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tears are wiped (C) away," },
+                    { chord: "C", text: "(C) He takes the gloom and fills the life with (F) glory," },
+                    { chord: "F", text: "(F) For all is (C) changed when (G) Jesus comes to (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) From home and friends the evil spirits (G) drove him," },
+                    { chord: "G", text: "(G) Among the tombs he dwelt in (C) misery;" },
+                    { chord: "C", text: "(C) He cut himself (Bm) as demon powers possessed (C) him," },
+                    { chord: "F", text: "(F) Then Jesus (F) came and (G) set the captive (C) free." }
+                ],
+                [
+                    { chord: "C", text: "(C) 'Unclean, unclean!' the leper cried in (G) torment," },
+                    { chord: "G", text: "(G) The deaf, the dumb, in helplessness stood (C) near;" },
+                    { chord: "C", text: "(C) The fever raged, (Bm) disease had gripped its' (C) victim," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) cast out every (C) fear." }
+                ],
+                [
+                    { chord: "C", text: "(C) Their hearts were sad as in the tomb they (G) laid Him," },
+                    { chord: "G", text: "(G) For death had come and taken Him (C) away;" },
+                    { chord: "C", text: "(C) Their night was (Bm) dark and bitter tears were (C) falling," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) night was turned to (C) day." }
+                ],
+                [
+                    { chord: "C", text: "(C) So men today have found the Savior (G) able," },
+                    { chord: "G", text: "(G) They could not conquer passion, lust and (C) sin;" },
+                    { chord: "C", text: "(C) Their broken hearts (Bm) had left them sad and (C) lonely," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) dwelt, Himself, (C) within." }
+                ]
+            ]
+        },
+        {
+            key: "dim-11-05-2025",
+            title: "SHOWERS OF BLESSING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IrDwO0TQWjM?si=W319xDqC72nf1ef4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) This is the promise of (C) love;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) Sent from the Savior (G) above." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Showers of blessing," },
+                    { chord: "C", text: "(C) Showers of (D) blessing we (G) need;" },
+                    { chord: "C", text: "(C) Mercy-drops round us are falling," },
+                    { chord: "G", text: "(G) But for the showers we (C) plead." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Precious reviving (C) again;" },
+                    { chord: "F", text: "(F) Over the hills and the (C) valleys," },
+                    { chord: "D", text: "(D) Sound of abundance of (G) rain." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Send them upon us, (C) O Lord!" },
+                    { chord: "F", text: "(F) Grant to us now a (C) refreshing;" },
+                    { chord: "D", text: "(D) Come, and now honor Thy (G) Word." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) O that today they might (C) fall," },
+                    { chord: "F", text: "(F) Now as to God we’re (C) confessing," },
+                    { chord: "D", text: "(D) Now as on Jesus we (G) call!" }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) If we but trust and (C) obey;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) If we let God have His (G) way." }
+                ]
+            ]
+        },
+        {
+            key: "dim-11-05-2025",
+            title: "IN THE NAME OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/34g8m5hPTnA?si=S9flvmCnAjflKPxu",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) We have the victory, (G) " },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) Demons will have to (C) flee" },
+                    { chord: "F", text: "(F) When we stand in the (C) Name of Jesus," },
+                    { chord: "G", text: "(G) Tell me who can stand (C) before" },
+                    { chord: "F", text: "(F) In the Precious Name of (C) Jesus," },
+                    { chord: "G", text: "(G) We have the (C) victory." },
+                ],
+                [
+                    { chord: "C", text: "(C) Par le nom de Jésus," },
+                    { chord: "C", text: "(C) Par le nom de Jésus," },
+                    { chord: "C", text: "(C) Dieu donne la victoire, (G) " },
+                    { chord: "G", text: "(G) Par le nom de Jésus," },
+                    { chord: "G", text: "(G) Par le nom de Jésus" },
+                    { chord: "G", text: "(G) Tous les démons (C) s’enfuient" },
+                    { chord: "F", text: "(F) Qui peut dire’ ce que (C) Dieu peut faire ?" },
+                    { chord: "G", text: "(G) Qui peut dire’ Son amour pour (C) nous ?" },
+                    { chord: "F", text: "(F) C’est au nom du Seigneur (C) Jésus," },
+                    { chord: "G", text: "(G) Nous avons la (C) victoire." },
+                ],
+                [
+                    { chord: "G", text: "(G) Quand satan nous tend un (C) piège," },
+                    { chord: "F", text: "(F) C’est ce nom qui nous (C) protège," },
+                    { chord: "G", text: "(G) Ce beau nom de la (C) victoire" },
+                    { chord: "F", text: "(F) Que chantent tous les (C) Élus!" }
+                ],
+            ]
+        },
+        {
+            key: "dim-11-05-2025",
+            title: "VICTORY IS MINE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VlBaX19B-jY?si=dx6WhAI6f3IfPS37",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Victory is mine" },
+                    { chord: "C", text: "(C) Victory is mine" },
+                    { chord: "C", text: "(C) Victory (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) Victory today is (C) mine" },
+                ],
+                [
+                    { chord: "C", text: "(C) Peace is mine" },
+                    { chord: "C", text: "(C) Peace is mine" },
+                    { chord: "C", text: "(C) Peace (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) Peace today is (C) mine" },
+                ],
+                [
+                    { chord: "C", text: "(C) Healing is mine" },
+                    { chord: "C", text: "(C) Healing is mine" },
+                    { chord: "C", text: "(C) Healing (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) Healing today is (C) mine" },
+                ],
+                [
+                    { chord: "C", text: "(C) The Spoken Word is mine" },
+                    { chord: "C", text: "(C) The Spoken Word is mine" },
+                    { chord: "C", text: "(C) The Spoken Word (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) The Spoken Word today is (C) mine" },
+                ],
+            ]
+        },
+        {
+            key: "dim-11-05-2025",
+            title: "GLORY TO THE LORD",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Oh glory glory (F) glory (G) to the (C) Lord, " },
+                    { chord: "C", text: "(C) Oh glory glory (F) glory (G) to the (C) Lord, " },
+                    { chord: "F", text: "(F) Hosanna, (C) Hosanna, Hosanna" },
+                    { chord: "G", text: "(G) Blessed be the name of the (C) Lord" },
+                    { chord: "F", text: "(F) Hosanna, (C) Hosanna, Hosanna" },
+                    { chord: "G", text: "(G) Blessed be the name of the (C) Lord" },
+                ]
+            ]
+        },
+        // Fin Cantiques du 11 Mai 2025 (Dix-Neuvième Dimanche de l'année 2025)
+
         // Debut Cantiques du 04 Mai 2025 (Dix-Huitième Dimanche de l'année 2025)
         {
             key: "dim-04-05-2025",
