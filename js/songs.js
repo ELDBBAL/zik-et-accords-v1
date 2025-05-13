@@ -1,5 +1,219 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du Samedi 17 Mai 2025
+        {
+            key: "sam-17-05-2025",
+            title: "ROCK OF AGES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for (C) me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee;" },
+                    { chord: "C", text: "(C) Let the (G) water and the (C) blood," },
+                    { chord: "C", text: "(C) From Thy (G) wounded side which (C) flowed," },
+                    { chord: "C", text: "(C) Be of sin the (F) double (C) cure," },
+                    { chord: "C", text: "(C) Save from wrath and (G) make me (C) pure." }
+                ],
+                [
+                    { chord: "C", text: "(C) Not the labors (F) of my (C) hands" },
+                    { chord: "C", text: "(C) Can fulfill thy (G) law's (C) commands;" },
+                    { chord: "C", text: "(C) Could my (G) tears forever (C) flow," },
+                    { chord: "C", text: "(C) Could my (G) zeal no languor (C) know," },
+                    { chord: "C", text: "(C) These for sin could (F) not (C) atone;" },
+                    { chord: "C", text: "(C) Thou must save, (G) and Thou (C) alone;" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing in my (F) hand I (C) bring" },
+                    { chord: "C", text: "(C) Simply to Thy (G) cross I (C) cling" },
+                    { chord: "C", text: "(C) Naked, (G) come to Thee for (C) dress" },
+                    { chord: "C", text: "(C) Helpless (G) look to Thee for (C) grace" },
+                    { chord: "C", text: "(C) Foul, I to the (F) foutain (C) fly" },
+                    { chord: "C", text: "(C) Wash me, (G) Savior or I (C) die" }
+                ],
+                [
+                    { chord: "C", text: "(C) While I draw this (F) fleeting (C) breath," },
+                    { chord: "C", text: "(C) When my eyes (G) shall close in (C) death," },
+                    { chord: "C", text: "(C) When I (G) rise to worlds (C) unknown," },
+                    { chord: "C", text: "(C) And (G) behold Thee on Thy (C) throne," },
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee." }
+                ]
+            ]
+        },
+        {
+            key: "sam-17-05-2025",
+            title: "ILS VIENNENT DE L’EST ET DE L’OUEST",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/GVcXmO3l9mI?si=v__dkhzuv6n32EUE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ils viennent de l’Est et de l’Ouest," },
+                    { chord: "C", text: "(C) Ils viennent de lointains (G) pays" },
+                    { chord: "G", text: "(G) A la fête du Roi, manger à Sa table " },
+                    { chord: "G", text: "(G) Que ces pèlerins sont (C) bénis." },
+                    { chord: "C", text: "(C) Contemplant Son saint visage, " },
+                    { chord: "C", text: "(C) Brillant d’un éclat (F) divin," },
+                    { chord: "F", text: "(F) Participants de Sa (C) grâce, " },
+                    { chord: "G", text: "(G) Les joyaux de Sa (C) couronne." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je suis si heureux depuis" },
+                    { chord: "C", text: "(C) Que Jésus m’a (G) libéré" },
+                    { chord: "G", text: "(G) Il n’y a pas longtemps," },
+                    { chord: "G", text: "(G) J’étais si chargé" },
+                    { chord: "G", text: "(G) Son joug est très doux pour (C) moi" },
+                    { chord: "C", text: "(C) Mon âme était plus que nuit " },
+                    { chord: "C", text: "(C) Mais tout s’est (F) envolé," },
+                    { chord: "F", text: "(F) Maintenant je crie (C) victoire," },
+                    { chord: "C", text: "(C) Car (G) Jésus m’a (C) libéré." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je regarde le trône blanc " },
+                    { chord: "C", text: "(C) Devant se tiennent les (G) sauvés" },
+                    { chord: "G", text: "(G) Maintenant plus de larmes " },
+                    { chord: "G", text: "(G) Ni chagrins connus,ni morts dans cette (C) Cité." },
+                    { chord: "C", text: "(C) Mon Sauveur m’a précédé " },
+                    { chord: "C", text: "(C) Prépare la voie pour (F) moi" },
+                    { chord: "F", text: "(F) Bientôt nous serons (C) ensemble " },
+                    { chord: "G", text: "(G) Là-haut dans (C) l’éternité." },
+                ],
+                [
+                    { chord: "C", text: "(C) Les portails de ce lieu saint " },
+                    { chord: "C", text: "(C) Restent ouverts nuit et (G) jour" },
+                    { chord: "G", text: "(G) Regarde au Seigneur," },
+                    { chord: "G", text: "(G) Qui donne plus de grâce " },
+                    { chord: "G", text: "(G) Dont l’amour a (C) préparé" },
+                    { chord: "C", text: "(C) Une place dans ces belles demeures " },
+                    { chord: "C", text: "(C) Qu’Il réserva pour (F) moi" },
+                    { chord: "F", text: "(F) Pour préparer les (C) noces" },
+                    { chord: "G", text: "(G) Obéit à cet (C) appel." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, Jésus revient bientôt," },
+                    { chord: "C", text: "(C) Alors nos peines seront (G) finies," },
+                    { chord: "G", text: "(G) Si notre Seigneur" },
+                    { chord: "G", text: "(G) Venait maintenant " },
+                    { chord: "G", text: "(G) Pour ceux qui sont sans (C) péchés," },
+                    { chord: "C", text: "(C) Seriez-vous alors dans la joie " },
+                    { chord: "C", text: "(C) Ou le chagrin, la (F) peine ?" },
+                    { chord: "F", text: "(F) Quand Il viendra dans Sa (C) gloire," },
+                    { chord: "G", text: "(G) Nous le rencontrerons (C) là-haut" },
+                ],
+            ]
+        },
+        {
+            key: "sam-17-05-2025",
+            title: "OH I LOVE THAT MAN FROM GALILEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QcyAxo7SxVM?si=7JvRbkN9BX2FsQHC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In a manger long ago, I know it's really (G) so," },
+                    { chord: "G", text: "(G) A Babe was born to (F) save men from their (C) sin." },
+                    { chord: "C", text: "(C) John saw Him on the shore, the Lamb forevermore, (G) " },
+                    { chord: "G", text: "(G) Oh (F) Christ, the (G) Crucified of (C) Calvary." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, I love that Man from (G) Galilee," },
+                    { chord: "G", text: "(G) For He's done so very much for (C) me." },
+                    { chord: "C", text: "(C) He's forgiven all my sins, placed the (F) Holy Ghost within;" },
+                    { chord: "F", text: "(F) Oh, I (C) love that (G) man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The publican went to pray in the temple there one (G) day," },
+                    { chord: "G", text: "(G) He cried, O (F) Lord be merciful to (C) me!" },
+                    { chord: "C", text: "(C) He was forgiven of every sin, and a deep peace placed (G) within;" },
+                    { chord: "G", text: "(G) He (F) said, Come (G) see this Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The lame was made to walk, the dumb was made to (G) talk," },
+                    { chord: "G", text: "(G) That power was (F) spoken with love upon the (C) sea;" },
+                    { chord: "C", text: "(C) The blind was made to see, I know it could (G) only be" },
+                    { chord: "G", text: "(G) The (F) mercy of (G) that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nicodemus came by night, to know the way of (G) right," },
+                    { chord: "G", text: "(G) He asked the Son (F) of Man what must he (C) do." },
+                    { chord: "C", text: "(C) These words He said to him, Ye must be born (G) again," },
+                    { chord: "G", text: "(G) By (F) the Spirit (G) of that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The woman at the well, He all her sins did (G) tell," },
+                    { chord: "G", text: "(G) How five husbands (F) she had at that (C) time," },
+                    { chord: "C", text: "(C) She was forgiven of every sin, and a deep peace came (G) within;" },
+                    { chord: "G", text: "(G) Then (F) she cried, (G) Come see that Man from (C) Galilee!" }
+                ],
+            ]
+        },
+        {
+            key: "sam-17-05-2025",
+            title: "SI RICHE, SI PROFOND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/EZ0j2sBJ-9A?si=jfEMCvQvTo29ADym",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Si riche, si profond Insondable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi" },
+                    { chord: "F", text: "(F) Indigne sauvé par (G) grâce. " },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi " },
+                    { chord: "F", text: "(F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Immuable, incomparable Inexprimable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Comme c’est beau, comme c’est doux " },
+                    { chord: "C", text: "(C) De fredonner de l’agneau Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "sam-17-05-2025",
+            title: "QUEL EST CET HOMME DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                ]
+            ]
+        },
+        // Fin Cantiques du Samedi 17 Mai 2025
+
         // Debut Cantiques du 11 Mai 2025 (Dix-Neuvième Dimanche de l'année 2025)
         {
             key: "dim-11-05-2025",
