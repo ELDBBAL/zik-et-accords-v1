@@ -220,30 +220,30 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) When noah had drifted" },
-                    { chord: "C", text: "(C) On the flood many days" },
-                    { chord: "C", text: "(C) He searched for land (he searched for land)" },
-                    { chord: "C", text: "(C) In various ways (various ways)" },
+                    { chord: "C", text: "(C) On the flood many (F) days" },
+                    { chord: "F", text: "(F) He searched for (G) land (he searched for land)" },
+                    { chord: "G", text: "(G) In various (C) ways ( (F) various (C) ways)" },
                     { chord: "C", text: "(C) Troubles, he had some" },
-                    { chord: "C", text: "(C) But wasn't forgotten" },
-                    { chord: "C", text: "(C) He sent him His love (sent him His love)" },
-                    { chord: "C", text: "(C) On the wings of a dove (wings of a dove)" }
+                    { chord: "C", text: "(C) But wasn't (F) forgotten" },
+                    { chord: "F", text: "(F) He sent him His (C) love (sent him His (G) love)" },
+                    { chord: "G", text: "(G) On the wings of a (C) dove ( (F) wings of a (C) dove)" }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
                     { chord: "C", text: "(C) On the wings of a snow-white dove" },
-                    { chord: "C", text: "(C) He sends His pure sweet love" },
-                    { chord: "C", text: "(C) A sign from above (sign from above)" },
-                    { chord: "C", text: "(C) On the wings of a dove (wings of a dove)" }
+                    { chord: "C", text: "(C) He sends His (F) pure sweet love" },
+                    { chord: "F", text: "(F) A sign from (C) above (sign from (G) above)" },
+                    { chord: "G", text: "(G) On the wings of a (C) dove ( (F) wings of a (C) dove)" }
                 ],
                 [
                     { chord: "C", text: "(C) Jesus, our Savior" },
-                    { chord: "C", text: "(C) Came to earth one day;" },
-                    { chord: "C", text: "(C) He was born in a stable (born in a stable)" },
-                    { chord: "C", text: "(C) In a manger of hay (manger of hay)" },
+                    { chord: "C", text: "(C) Came to earth one (F) day;" },
+                    { chord: "F", text: "(F) He was born in a (G) stable (born in a stable)" },
+                    { chord: "G", text: "(G) In a manger of (C) hay ( (F) manger of (C) hay)" },
                     { chord: "C", text: "(C) Though here rejected" },
-                    { chord: "C", text: "(C) But not from above," },
-                    { chord: "C", text: "(C) God gave us His sign (gave us His sign)" },
-                    { chord: "C", text: "(C) On the wings of a dove (wings of a dove)" }
+                    { chord: "C", text: "(C) But not from (F) above," },
+                    { chord: "F", text: "(F) God gave us His (C) sign (gave us His (G) sign)" },
+                    { chord: "G", text: "(G) On the wings of a (C) dove ( (F) wings of a (C) dove)" }
                 ]
             ]
         },
