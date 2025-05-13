@@ -212,6 +212,41 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "sam-17-05-2025",
+            title: "WINGS OF A DOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/qBZUP1yerpk?si=EcWFmFGurP-1jFmy",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When noah had drifted" },
+                    { chord: "C", text: "(C) On the flood many days" },
+                    { chord: "C", text: "(C) He searched for land (he searched for land)" },
+                    { chord: "C", text: "(C) In various ways (various ways)" },
+                    { chord: "C", text: "(C) Troubles, he had some" },
+                    { chord: "C", text: "(C) But wasn't forgotten" },
+                    { chord: "C", text: "(C) He sent him His love (sent him His love)" },
+                    { chord: "C", text: "(C) On the wings of a dove (wings of a dove)" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) On the wings of a snow-white dove" },
+                    { chord: "C", text: "(C) He sends His pure sweet love" },
+                    { chord: "C", text: "(C) A sign from above (sign from above)" },
+                    { chord: "C", text: "(C) On the wings of a dove (wings of a dove)" }
+                ],
+                [
+                    { chord: "C", text: "(C) Jesus, our Savior" },
+                    { chord: "C", text: "(C) Came to earth one day;" },
+                    { chord: "C", text: "(C) He was born in a stable (born in a stable)" },
+                    { chord: "C", text: "(C) In a manger of hay (manger of hay)" },
+                    { chord: "C", text: "(C) Though here rejected" },
+                    { chord: "C", text: "(C) But not from above," },
+                    { chord: "C", text: "(C) God gave us His sign (gave us His sign)" },
+                    { chord: "C", text: "(C) On the wings of a dove (wings of a dove)" }
+                ]
+            ]
+        },
         // Fin Cantiques du Samedi 17 Mai 2025
 
         // Debut Cantiques du 11 Mai 2025 (Dix-Neuvième Dimanche de l'année 2025)
