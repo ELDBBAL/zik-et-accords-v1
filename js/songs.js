@@ -1,5 +1,217 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 18 Mai 2025 (Vingtième Dimanche de l'année 2025)
+        {
+            key: "dim-18-05-2025",
+            title: "JESUS PAID IT ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JWPC4clWLbQ?si=KNKkqmVuB85IK1xZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus paid it (F) all," },
+                    { chord: "C", text: "(C) all to Him I (G) owe;" },
+                    { chord: "C", text: "(C) Sin had left a (F) crimson stain," },
+                    { chord: "F", text: "(F) He (C) washed (G) it white as (C) snow." }
+                ],
+                [
+                    { chord: "C", text: "(C) J’entends le Sauveur dire :" },
+                    { chord: "G", text: "(G) «Malgré ta moindre (C) force," },
+                    { chord: "C", text: "(C) Faible enfant veille et prie," },
+                    { chord: "C", text: "(C) Trouve (F) en (G) moi tout ton (C) Tout.»" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus paya (F) tout" },
+                    { chord: "C", text: "(C) Et je Lui dois (G) tout;" },
+                    { chord: "C", text: "(C) De mes péchés (F) cramoisis" },
+                    { chord: "F", text: "(F) Il (C) m’a (G) lavé comme (C) neige" }
+                ],
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
+            title: "HE ABIDES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nTmzQaDa2i8?si=_hvZ63lJQTEIzM9c",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the hand of God in all my life I (C) see;" },
+                    { chord: "C", text: "(C) And the reason of my bliss," },
+                    { chord: "C", text: "(C) Yes, (F) the secret all is this:" },
+                    { chord: "G", text: "(G) That the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He abides, He abides;" },
+                    { chord: "F", text: "(F) Hallelujah, (G) He abides with (C) me!" },
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Once my heart was full of sin," },
+                    { chord: "C", text: "(C) Once I (F) had no peace within," },
+                    { chord: "G", text: "(G) Till I heard how Jesus died upon the (C) tree;" },
+                    { chord: "C", text: "(C) Then I fell down at His feet," },
+                    { chord: "C", text: "(C) And there (F) came a peace so sweet;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) He is with me everywhere," },
+                    { chord: "C", text: "(C) And He (F) knows my every care;" },
+                    { chord: "G", text: "(G) I’m as happy as a bird and just as (C) free;" },
+                    { chord: "C", text: "(C) For the Spirit has control;" },
+                    { chord: "C", text: "(C) Jesus (F) satisfies my soul," },
+                    { chord: "G", text: "(G) Since the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) There’s no thirsting for the things" },
+                    { chord: "C", text: "(C) Of the (F) world—they’ve taken wings;" },
+                    { chord: "G", text: "(G) Long ago I gave them up, and (C) instantly" },
+                    { chord: "C", text: "(C) All my night was turned to day," },
+                    { chord: "C", text: "(C) All my (F) burdens rolled away;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
+            title: "IN THE SWEET",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a land that is (F) fairer than (C) day," },
+                    { chord: "C", text: "(C) And by faith we can (D) see it a (G) far," },
+                    { chord: "C", text: "(C) For the Father waits (F) over the (C) way" },
+                    { chord: "C", text: "(C) To prepare us a (G) dwelling place (C) there!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the sweet by and (G) by," },
+                    { chord: "G", text: "(G) We shall (F) meet on that beautiful (C) shore;" },
+                    { chord: "C", text: "(C) In the sweet by and (F) by," },
+                    { chord: "F", text: "(F) We shall (C) meet on that (G) beautiful (C) shore." }
+                ],
+                [
+                    { chord: "C", text: "(C) We shall sing on that (F) beautiful (C) shore" },
+                    { chord: "C", text: "(C) The melodious (D) songs of the (G) blest;" },
+                    { chord: "C", text: "(C) And our spirits (F) shall sorrow no (C) more" },
+                    { chord: "C", text: "(C) Not a sigh for the (G) blessing of (C) rest." }
+                ],
+                [
+                    { chord: "C", text: "(C) To our bountiful (F) Father (C) above" },
+                    { chord: "C", text: "(C) We will offer our (D) tribute of (G) praise" },
+                    { chord: "C", text: "(C) For the glorious (F) gift of His (C) love" },
+                    { chord: "C", text: "(C) And the blessings that (G) hallow our (C) days." }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
+            title: "COMMENT NE POURRAI-JE TE LOUER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer " },
+                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour (C) moi ?" },
+                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours " },
+                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me (C) combat. " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole " },
+                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint (C) Prophète" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais dans les (F) organisations " },
+                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept (C) Tonnerres " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie " },
+                    { chord: "F", text: "(F) Tu as (G) compati et m’a (C) guéri" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation " },
+                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton (C) Saint-Esprit" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les gens parlaient tant mal de (F) moi, " },
+                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul (C) Ami." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut " },
+                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands (C) mystères" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse " },
+                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la (C) grâce" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté " },
+                    { chord: "F", text: "(F) Et comme David, (G) je veux Te (C) louer." },
+                ],
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
+            title: "IL EST MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il est (F) merveilleux (C) !" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Il est (F) Tout-puissant (C) !" },
+                    { chord: "C", text: "(C) Il est (G) Tout-puissant (C)" },
+                    { chord: "C", text: "(C) Le monde (F) entier le (C) loue" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Les rachetés (F) entier le (C) louent" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
+            title: "RAMENE RAMENE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ramène, ramène seigneur," },
+                    { chord: "F", text: "(F) Ramène ces beaux jours," },
+                    { chord: "C", text: "(C) Ces jours heureux," },
+                    { chord: "C", text: "(C) Quand le saint esprit tombait en tout lieu," },
+                    { chord: "C", text: "(C) Et l'amour de Dieu était dans les coeurs," },
+                    { chord: "C", text: "(C) Oh ramène ces jours heureux" },
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 18 Mai 2025 (Vingtième Dimanche de l'année 2025)
+
         // Debut Cantiques du Samedi 17 Mai 2025
         {
             key: "sam-17-05-2025",
