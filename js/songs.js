@@ -35,42 +35,42 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
-                    { chord: "C", text: "(C) Où tous les hommes de Dieu d'antan" },
-                    { chord: "C", text: "(C) Ont tant voulu vivre et contempler" },
-                    { chord: "F", text: "(F) II est un temps très glorieux." }
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où tous les hommes (D) de Dieu (G) d'antan" },
+                    { chord: "C", text: "(C) Ont tant voulu vivre et (F) contempler (C) " },
+                    { chord: "C", text: "(C) Oui c'est un temps (G) très glorieux. (C) " }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
                     { chord: "C", text: "(C) Quel temps glorieux" },
-                    { chord: "C", text: "(C) Quel temps glorieux" },
-                    { chord: "C", text: "(C) Ne pouvez-vous pas le voir?" },
-                    { chord: "C", text: "(C) Quel temps gloriuex qu'est celui-ci" },
-                    { chord: "F", text: "(F) II est si glorieux pour moi." }
+                    { chord: "F", text: "(F) Quel temps (C) glorieux" },
+                    { chord: "C", text: "(C) Ne pouvez-vous (D) pas le (G) voir?" },
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) II (F) est si (G) glorieux pour (C) moi." }
                 ],
                 [
-                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
-                    { chord: "G", text: "(G) Où le mystère caché de tous les âges" },
-                    { chord: "C", text: "(C) Jésus-Christ, l'Epoux, le seul vrai Dieu," },
-                    { chord: "C", text: "(C) A été accompli." }
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où le mystère caché (D) de tous les (G) âges" },
+                    { chord: "C", text: "(C) Jésus-Christ, l'Epoux, le seul (F) vrai (C) Dieu," },
+                    { chord: "C", text: "(C) A été (G) accompli. (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
-                    { chord: "G", text: "(G) Où toutes choses ont été rétablies" },
-                    { chord: "C", text: "(C) Christ est descendu Lui l'Ange puissant" },
-                    { chord: "C", text: "(C) Pour réclamer Ses rachetés." }
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où toutes choses (D) ont été (G) rétablies" },
+                    { chord: "C", text: "(C) Christ est descendu Lui (F) l'Ange (C) puissant" },
+                    { chord: "C", text: "(C) Pour réclamer (G) Ses rachetés. (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
-                    { chord: "G", text: "(G) Où l'homme et Dieu deviennent un" },
-                    { chord: "C", text: "(C) Où la tête s'unit à son corps" },
-                    { chord: "C", text: "(C) Oh quel temps glorieux." }
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où l'homme et Dieu (D) deviennent (G) un" },
+                    { chord: "C", text: "(C) Où la tête s'unit à (F) son (C) corps" },
+                    { chord: "C", text: "(C) Oh quel (G) temps glorieux. (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
-                    { chord: "G", text: "(G) Où ce que Jean vit, et n'écrivit pas" },
-                    { chord: "C", text: "(C) A été révélé pour donner la foi" },
-                    { chord: "C", text: "(C) Du glorieux enlèvement." }
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où ce que Jean vit, et (D) n'écrivit (G) pas" },
+                    { chord: "C", text: "(C) A été révélé pour (F) donner la (C) foi" },
+                    { chord: "C", text: "(C) Du glorieux (G) enlèvement. (C) " }
                 ],
             ]
         },
