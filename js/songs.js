@@ -30,6 +30,52 @@ const songs = [
         },
         {
             key: "dim-18-05-2025",
+            title: "QUEL TEMPS GLORIEUX",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
+                    { chord: "C", text: "(C) Où tous les hommes de Dieu d'antan" },
+                    { chord: "C", text: "(C) Ont tant voulu vivre et contempler" },
+                    { chord: "F", text: "(F) II est un temps très glorieux." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Quel temps glorieux" },
+                    { chord: "C", text: "(C) Quel temps glorieux" },
+                    { chord: "C", text: "(C) Ne pouvez-vous pas le voir?" },
+                    { chord: "C", text: "(C) Quel temps gloriuex qu'est celui-ci" },
+                    { chord: "F", text: "(F) II est si glorieux pour moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
+                    { chord: "G", text: "(G) Où le mystère caché de tous les âges" },
+                    { chord: "C", text: "(C) Jésus-Christ, l'Epoux, le seul vrai Dieu," },
+                    { chord: "C", text: "(C) A été accompli." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
+                    { chord: "G", text: "(G) Où toutes choses ont été rétablies" },
+                    { chord: "C", text: "(C) Christ est descendu Lui l'Ange puissant" },
+                    { chord: "C", text: "(C) Pour réclamer Ses rachetés." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
+                    { chord: "G", text: "(G) Où l'homme et Dieu deviennent un" },
+                    { chord: "C", text: "(C) Où la tête s'unit à son corps" },
+                    { chord: "C", text: "(C) Oh quel temps glorieux." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux qu'est celui-ci" },
+                    { chord: "G", text: "(G) Où ce que Jean vit, et n'écrivit pas" },
+                    { chord: "C", text: "(C) A été révélé pour donner la foi" },
+                    { chord: "C", text: "(C) Du glorieux enlèvement." }
+                ],
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
             title: "HE ABIDES",
             keySignature: "C",
             youtubeLink: "https://youtu.be/nTmzQaDa2i8?si=_hvZ63lJQTEIzM9c",
@@ -158,6 +204,53 @@ const songs = [
         },
         {
             key: "dim-18-05-2025",
+            title: "COMMENT NE POURRAI-JE TE LOUER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer " },
+                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour (C) moi ?" },
+                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours " },
+                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me (C) combat. " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole " },
+                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint (C) Prophète" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais dans les (F) organisations " },
+                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept (C) Tonnerres " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie " },
+                    { chord: "F", text: "(F) Tu as (G) compati et m’a (C) guéri" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation " },
+                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton (C) Saint-Esprit" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les gens parlaient tant mal de (F) moi, " },
+                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul (C) Ami." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut " },
+                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands (C) mystères" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse " },
+                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la (C) grâce" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté " },
+                    { chord: "F", text: "(F) Et comme David, (G) je veux Te (C) louer." },
+                ],
+            ]
+        },
+        {
+            key: "dim-18-05-2025",
             title: "QUAND JE VOIS LA BONTE DE MON DIEU",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
@@ -202,11 +295,11 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Ramène, ramène seigneur," },
-                    { chord: "F", text: "(F) Ramène ces beaux jours," },
-                    { chord: "C", text: "(C) Ces jours heureux," },
-                    { chord: "C", text: "(C) Quand le saint esprit tombait en tout lieu," },
-                    { chord: "C", text: "(C) Et l'amour de Dieu était dans les coeurs," },
-                    { chord: "C", text: "(C) Oh ramène ces jours heureux" },
+                    { chord: "C", text: "(C) Ramène ces beaux jours," },
+                    { chord: "F", text: "(F) Ces jours heureux," },
+                    { chord: "F", text: "(F) Quand le saint esprit (G) tombait en tout (C) lieu," },
+                    { chord: "G", text: "(G) Et l'amour de Dieu était dans les (F) coeurs," },
+                    { chord: "C", text: "(C) Oh ramène ces (G) jours (C) heureux" },
                 ]
             ]
         },
