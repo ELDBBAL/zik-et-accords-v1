@@ -204,53 +204,6 @@ const songs = [
         },
         {
             key: "dim-18-05-2025",
-            title: "COMMENT NE POURRAI-JE TE LOUER",
-            keySignature: "C",
-            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
-            verses: [
-                [
-                    { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer " },
-                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour (C) moi ?" },
-                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours " },
-                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me (C) combat. " },
-                ],
-                [
-                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole " },
-                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint (C) Prophète" },
-                ],
-                [
-                    { chord: "C", text: "(C) J’étais dans les (F) organisations " },
-                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept (C) Tonnerres " },
-                ],
-                [
-                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie " },
-                    { chord: "F", text: "(F) Tu as (G) compati et m’a (C) guéri" },
-                ],
-                [
-                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation " },
-                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton (C) Saint-Esprit" },
-                ],
-                [
-                    { chord: "C", text: "(C) Quand les gens parlaient tant mal de (F) moi, " },
-                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul (C) Ami." },
-                ],
-                [
-                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut " },
-                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands (C) mystères" },
-                ],
-                [
-                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse " },
-                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la (C) grâce" },
-                ],
-                [
-                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté " },
-                    { chord: "F", text: "(F) Et comme David, (G) je veux Te (C) louer." },
-                ],
-            ]
-        },
-        {
-            key: "dim-18-05-2025",
             title: "QUAND JE VOIS LA BONTE DE MON DIEU",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
