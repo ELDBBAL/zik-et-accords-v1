@@ -23,7 +23,281 @@ const songs = [
                 ]
             ]
         },
-
+        {
+            key: "dim-01-06-2025",
+            title: "BEHOLD WHAT MANNER OF LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ojHxW3zMGyU?si=vtvCBdl85x0QZfoE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Behold what manner of (F) love" },
+                    { chord: "F", text: "(F) The Father has (C) given unto (G) us" },
+                    { chord: "C", text: "(C) Behold what manner of (F) love" },
+                    { chord: "F", text: "(F) The Father has (C) given (G) unto (C) us" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) That (F) we should be (C) called" },
+                    { chord: "C", text: "(C) The sons of (G) God" },
+                    { chord: "C", text: "(C) That (F) we should be (G) called" },
+                    { chord: "G", text: "(G) The sons of (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "I CAN SEE IN YOU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QEy8wE8BQXU?si=1ilhIbM379ItGM7j",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I love you with the love of the Lord" },
+                    { chord: "C", text: "(C) I love you with the love of the (G) Lord" },
+                    { chord: "C", text: "(C) I can (F) see in (Dm) you, the (Em) glory of the (Am) Lord" },
+                    { chord: "Dm", text: "(Dm) I love you with the (G) love of the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je t'aime de l'amour du Seigneur" },
+                    { chord: "C", text: "(C) Je t'aime de l'amour du (G) Seigneur" },
+                    { chord: "C", text: "(C) Je peux (F) voir en (Dm) toi la (Em) gloire de (Am) l'Eternel" },
+                    { chord: "Dm", text: "(Dm) Je t'aime de (G) l'amour du Seigneur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "HE ABIDES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nTmzQaDa2i8?si=_hvZ63lJQTEIzM9c",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the hand of God in all my life I (C) see;" },
+                    { chord: "C", text: "(C) And the reason of my bliss," },
+                    { chord: "C", text: "(C) Yes, (F) the secret all is this:" },
+                    { chord: "G", text: "(G) That the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He abides, He abides;" },
+                    { chord: "F", text: "(F) Hallelujah, (G) He abides with (C) me!" },
+                    { chord: "C", text: "(C) I’m rejoicing night and day" },
+                    { chord: "C", text: "(C) As I (F) walk the narrow way," },
+                    { chord: "G", text: "(G) For the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Once my heart was full of sin," },
+                    { chord: "C", text: "(C) Once I (F) had no peace within," },
+                    { chord: "G", text: "(G) Till I heard how Jesus died upon the (C) tree;" },
+                    { chord: "C", text: "(C) Then I fell down at His feet," },
+                    { chord: "C", text: "(C) And there (F) came a peace so sweet;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) He is with me everywhere," },
+                    { chord: "C", text: "(C) And He (F) knows my every care;" },
+                    { chord: "G", text: "(G) I’m as happy as a bird and just as (C) free;" },
+                    { chord: "C", text: "(C) For the Spirit has control;" },
+                    { chord: "C", text: "(C) Jesus (F) satisfies my soul," },
+                    { chord: "G", text: "(G) Since the Comforter abides with (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) There’s no thirsting for the things" },
+                    { chord: "C", text: "(C) Of the (F) world—they’ve taken wings;" },
+                    { chord: "G", text: "(G) Long ago I gave them up, and (C) instantly" },
+                    { chord: "C", text: "(C) All my night was turned to day," },
+                    { chord: "C", text: "(C) All my (F) burdens rolled away;" },
+                    { chord: "G", text: "(G) Now the Comforter abides with (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "SEND THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a call comes ringing o'er the restless wave," },
+                    { chord: "C", text: "(C) 'Send the (G) light! Send the (C) light'" },
+                    { chord: "C", text: "(C) There are souls to rescue, there are souls to save," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                    { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We have heard the Macedonian call today, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a golden off'ring at the cross we lay," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us pray that grace may ev'rywhere abound," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a Christ-like spirit ev'rywhere be found," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us not grow weary in the work of love, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) Let us gather jewels for a crown above," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "JE TE LOUE AVEC MES MAINS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/F6p68Pp4KVA?si=KePrZ3H1YuN5sRa9",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je te loue avec ma (G) voix" },
+                    { chord: "G", text: "(G) je te loue avec ma (C) voix." },
+                    { chord: "C", text: "(C) Je te loue avec ma (G) voix" },
+                    { chord: "G", text: "(G) je te loue avec ma (C) voix." },
+                    { chord: "C", text: "(C) S'il me manque ma (F) voix," },
+                    { chord: "F", text: "(F) Je te loue avec mes (C) mains," },
+                    { chord: "C", text: "(C) S'il me manque les (G) mains" },
+                    { chord: "G", text: "(G) Je te loue avec mes (C) pieds." },
+                    { chord: "C", text: "(C) S'il me manque les (F) pieds," },
+                    { chord: "F", text: "(F) Je te loue avec mon (C) âme." },
+                    { chord: "C", text: "(C) Et s'il me manque (G) l'âme," },
+                    { chord: "G", text: "(G) C'est que je te loue (C) là-haut." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "JE TE LOUE ET JE TE REMERCIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-GJQ9acp9rU?si=speeZnPFWCWoqWjc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je te loue et (F) je te remercie (C) " },
+                    { chord: "C", text: "(C) Je te loue et (F) je te remercie (C) " },
+                    { chord: "C", text: "(C) Tu m’a fait (F) passé de (Em) la mort á la (Dm) vie" },
+                    { chord: "Dm", text: "(Dm) Voila pourquoi je te (C) loue et (G) je te (C) remercie" },
+                    { chord: "C", text: "(C) Tu m’a fait (F) passé de (Em) la mort á la (Dm) vie" },
+                    { chord: "Dm", text: "(Dm) Voila pourquoi je te (C) loue et (G) je te (C) remercie" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-06-2025",
+            title: "BECAUSE HE LIVES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
+            verses: [
+                [
+                    { chord: "C", text: "(C) God sent His son, they called Him, (F) Jesus;" },
+                    { chord: "F", text: "(F) He came to (C) love, (D) heal and (G) forgive;" },
+                    { chord: "G", text: "(G) He lived and (C) died to buy my (F) pardon" },
+                    { chord: "F", text: "(F) An empty (C) grave is there to (G) prove my Savior (C) lives!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Because He lives, I can face (F) tomorrow" },
+                    { chord: "F", text: "(F) Because He (C) lives, (D) all fear is (G) gone;" },
+                    { chord: "G", text: "(G) Because I (C) know He holds the (F) future" },
+                    { chord: "F", text: "(F) And life is (C) worth the living," },
+                    { chord: "G", text: "(G) Just because He (C) lives!" }
+                ],
+                [
+                    { chord: "C", text: "(C)How sweet to hold a newborn (F) baby;" },
+                    { chord: "F", text: "(F) And feel the (C) pride (D) and joy he (G) brings;" },
+                    { chord: "G", text: "(G) But greater (C) still the calm (F) assurance:" },
+                    { chord: "F", text: "(F)This child (C) can face uncertain (G) days because He (C) lives!" }
+                ],
+                [
+                    { chord: "C", text: "(C) And then one day, I'll cross the (F) river," },
+                    { chord: "F", text: "(F) I'll fight life's (C) final war (D) with pain;" },
+                    { chord: "C", text: "(G) And then, as (C) death gives way to (F) victory" },
+                    { chord: "F", text: "(F) I'll see the (C) lights of glory (G) and I'll know He (C) lives!" }
+                ]
+            ]
+        },
+        //Fin Cantiques Dimanche 01 Juin 2025 (Vingt-Deuxième Dimanche de l'année 2025)
 
         //Debut Cantiques Dimanche 25 Mai 2025 (Vingt-Unième Dimanche de l'année 2025)
         {
