@@ -1,5 +1,30 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 01 Juin 2025 (Vingt-Deuxième Dimanche de l'année 2025)
+        {
+            key: "dim-01-06-2025",
+            title: "QUAND JE PENSE A L'AMOUR DE JESUS POUR MOI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8Br28FqCdrk?si=yp5TfABZVm-RZTW8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je pense à L’amour de Jésus" },
+                    { chord: "C", text: "(C) Et à tout ce qu’il (D) a fait pour (G) moi" },
+                    { chord: "C", text: "(C) Alors je veux chanter (F) alléluia" },
+                    { chord: "C", text: "(C) Merci pour (G) Golgotha. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il est (G) Seigneur, Il est (C) Seigneur" },
+                    { chord: "C", text: "(C) Il est sorti du tombeau, Il est (G) Seigneur" },
+                    { chord: "C", text: "(C) Tout genoux fléchira," },
+                    { chord: "C", text: "(C) Toute (F) langue confessera," },
+                    { chord: "C", text: "(C) Que Jésus (G) est Seigneur. (C) " }
+                ]
+            ]
+        },
+
+
         //Debut Cantiques Dimanche 25 Mai 2025 (Vingt-Unième Dimanche de l'année 2025)
         {
             key: "dim-25-05-2025",
