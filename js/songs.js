@@ -3,7 +3,7 @@ const songs = [
 
         //Debut Cantiques Dimanche 08 Juin 2025 (Vingt-Troisièeme Dimanche de l'année 2025)
         {
-            key: "dim-08-01-2025",
+            key: "dim-08-06-2025",
             title: "IT IS WELL WITH MY SOUL",
             keySignature: "C",
             youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
@@ -32,6 +32,253 @@ const songs = [
                     { chord: "C", text: "(C) Is nailed to the (F) cross, and I (Dm) bear it no (G) more" },
                     { chord: "G", text: "(G) Praise the (C) Lord, praise the (F) Lord, (G) o my (C) soul!" }
                 ],
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "CAR TA BONTE VAUT MIEUX QUE LA VIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QrCUM-la1Gk?si=EYVaEcEURoThxsa3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Car ta bonté vaut mieux que la (F) vie," },
+                    { chord: "G", text: "(G) Car ta bonté vaut mieux que la (C) vie," },
+                    { chord: "Am", text: "(Am) Mes lèvres (C) célèbrent tes (F) louanges," },
+                    { chord: "C", text: "(C) Car ta bonté vaut (G) mieux que la (C) vie." }
+                ],
+                [
+                    { chord: "C", text: "(C) J'élèverai mes mains en ton (F) nom," },
+                    { chord: "G", text: "(G) J'élèverai mes mains en ton (C) nom," },
+                    { chord: "Am", text: "(Am) Mes lèvres (C) célèbrent tes (F) louanges," },
+                    { chord: "C", text: "(C) Car ta bonté vaut (G) mieux que la (C) vie." }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" },
+                    { chord: "C", text: "(C) If that (G) spirit dwell in (C) you." },
+                ]
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "QUEL EST CET HOMME DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "TOUT JOYEUX BENISSONS LE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kZc_Pyf5hLI?si=gpZeFAU9FJkZZUTK",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout joyeux (F) bénissons le (C) Seigneur," },
+                    { chord: "C", text: "(C) Chantons et (D) célébrons ses (G) louanges," },
+                    { chord: "C", text: "(C) Adorons avec (F) foi le (C) Sauveur," },
+                    { chord: "C", text: "(C) Nous joignant aux (G) célestes (C) phalanges." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (G) Dieu !" },
+                    { chord: "G", text: "(G) Que ce (F) chant (G) retentisse en tout (C) lieu !" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (F) Dieu !" },
+                    { chord: "F", text: "(F) Que ce (C) chant (G) retentisse en tout (C) lieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu, dans son (F) incomparable (C) amour," },
+                    { chord: "C", text: "(C) Du ciel envoya son (D) Fils (G) unique," },
+                    { chord: "C", text: "(C) Et la terre et les (F) cieux, dans ce (C) jour," },
+                    { chord: "C", text: "(C) S'unissent pour (G) chanter ce (C) cantique" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le châtiment qui (F) produit la (C) paix," },
+                    { chord: "C", text: "(C) Jésus-Christ l'a (D) subi pour mon (G) âme" },
+                    { chord: "C", text: "(C) Il voulut (F) expier nos (C) forfaits," },
+                    { chord: "C", text: "(C) En mourant, lui, (G) sur le bois (C) infâme." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous voulons en (F) retour, bon (C) Sauveur," },
+                    { chord: "C", text: "(C) T'aimer par-dessus (D) tout autre (G) chose ;" },
+                    { chord: "C", text: "(C) Forme ton (F) amour dans notre (C) coeur," },
+                    { chord: "C", text: "(C) Et puis, de (G) chacun de nous, (C) dispose !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "IL M'A FAIT GRACE INFINIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Uo83A2e0VLA?si=Vpkk3rUD6-Y_c0cn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "G", text: "(G) celui-là est (C) mon rocher" },
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il m’a libéré," },
+                    { chord: "C", text: "(C) ô Il m’a libéré (G) " },
+                    { chord: "G", text: "(G) O Il m’a pardonné, (C)" },
+                    { chord: "C", text: "(C) ô Il m’a racheté (F) " },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "LA LOUANGE APPARTIENT A DIEU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La louange appartient à (G) Dieu" },
+                    { chord: "G", text: "(G) La louange appartient à (C) Dieu" },
+                    { chord: "C", text: "(C) La louange appartient à (F) Dieu" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Merci, merci, (G) merci Oh Seigneur" },
+                    { chord: "G", text: "(G) Merci, merci, (C) merci Oh mon Roi" },
+                    { chord: "C", text: "(C) Merci, merci, (F) merci Oh Seigneur" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "I'M HAPPY TODAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5itJJ44h6k4?si=Y7zf9aNfCOq0ppAp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m happy today," },
+                    { chord: "C", text: "(C) O yes I’m (F) happy today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) happy today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) happy (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m singing today," },
+                    { chord: "C", text: "(C) O yes I’m (F) singing today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) singing today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) singing (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m praying today," },
+                    { chord: "C", text: "(C) O yes I’m (F) praying today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) praying today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) praying (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m living today," },
+                    { chord: "C", text: "(C) O yes I’m (F) living today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) living today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) living (C) today." },
+                ]
+            ]
+        },
+        {
+            key: "dim-08-06-2025",
+            title: "LE GRAND JOUR S'EST LEVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZZ3ex794OKI?si=DJnanWJ8YkhXz3nA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le grand jour s'est levé" },
+                    { chord: "C", text: "(C) Dieu (F) nous a visités" },
+                    { chord: "C", text: "(C) Voici des temps nouveaux" },
+                    { chord: "D", text: "(D) Chantons gloire à (G) l'Agneau" },
+                    { chord: "C", text: "(C) Nous recevons de Christ" },
+                    { chord: "C", text: "(C) Ce (F) qu'Il avait promis" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Le Saint-Esprit est là" },
+                    { chord: "C", text: "(C) Le (F) Saint-Esprit est là" },
+                    { chord: "C", text: "(C) La mort a disparu" },
+                    { chord: "C", text: "(C) Dieu (D) donne un plein (G) salut" },
+                    { chord: "C", text: "(C) Et sur le monde entier" },
+                    { chord: "C", text: "(C) Le (F) grand jour s'est levé" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) L'obscurité s'enfuit" },
+                    { chord: "C", text: "(C) La (F) lumière a jailli" },
+                    { chord: "C", text: "(C) Chassé de cœurs troublés" },
+                    { chord: "D", text: "(D) Toute (G) incrédulité" },
+                    { chord: "C", text: "(C) Car Christ le Roi des Rois" },
+                    { chord: "C", text: "(C) Répand (F) l'Esprit de foi" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Grand Consolateur " },
+                    { chord: "C", text: "(C) Vient (F) remplir tous les cœurs" },
+                    { chord: "C", text: "(C) L'Esprit de vérité" },
+                    { chord: "D", text: "(D) Nous met en (G) liberté" },
+                    { chord: "C", text: "(C) Il ouvre les prisons" },
+                    { chord: "C", text: "(C) Répand (F) la guérison" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Que tous les rachetés " },
+                    { chord: "C", text: "(C) Chantent (F) leur liberté" },
+                    { chord: "C", text: "(C) Christ a tout accompli" },
+                    { chord: "D", text: "(D) Il a donné (G) l'Esprit" },
+                    { chord: "C", text: "(C) Voyez trembler l'enfer" },
+                    { chord: "C", text: "(C) Car (F) dans tout l'univers" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ]
             ]
         },
         //Fin Cantiques Dimanche 08 Juin 2025 (Vingt-Troisièeme Dimanche de l'année 2025)
