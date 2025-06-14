@@ -1,5 +1,175 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Dimanche 15 Juin 2025 (Vingt-Quatrième Dimanche de l'année 2025)
+        {
+            key: "dim-15-06-2025",
+            title: "CLOSE TO THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8g88DKwJNd8?si=Ksu13--P-_ia7flh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Thou my everlasting portion" },
+                    { chord: "C", text: "(C) More than friend or (D) life to (G) me" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Not for easy wordly pleasure" },
+                    { chord: "C", text: "(C) Nor for fame my (D) prayer shall (G) be" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lead me through the veil of shadows" },
+                    { chord: "C", text: "(C) Bear me o'er (D) life's fitful (G) sea" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "GLORY TO HIS NAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/RL7nM4QnK6M?si=jswrpm2pCCSuksWl",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Down at the cross where my (F) Savior (C) died," },
+                    { chord: "C", text: "(C) Down where for cleansing (D) from sin I (G) cried," },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Glory to his (C) name," },
+                    { chord: "C", text: "(C) Glory (D) to his (G) name;" },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) I am so wondrously (F) saved from (C) sin," },
+                    { chord: "C", text: "(C) Jesus so sweetly (D) abides (G) within;" },
+                    { chord: "C", text: "(C) There at the cross where (F) he took me (C) in;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, precious fountain that (F) saves from (C) sin," },
+                    { chord: "C", text: "(C) I am so glad I (D) have entered (G) in;" },
+                    { chord: "C", text: "(C) There Jesus saves me and (F) keeps me (C) clean;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Come to this fountain so (F) rich and (C) sweet," },
+                    { chord: "C", text: "(C) Cast thy poor soul at (D) the Savior’s (G) feet;" },
+                    { chord: "C", text: "(C) Plunge in today, and be (F) made (C) complete;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "BENI SOIT LE NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Béni soit le Nom" },
+                    { chord: "C", text: "(C) Béni soit le Nom" },
+                    { chord: "C", text: "(C) Béni soit le Nom du Seigneur" },
+                    { chord: "C", text: "(C) Béni soit le Nom" },
+                    { chord: "C", text: "(C) Béni soit le Nom" },
+                    { chord: "C", text: "(C) Béni soit le Nom du Seigneur" }
+                ],
+                [
+                    { chord: "F", text: "(F) Puissant soit le Nom" },
+                    { chord: "F", text: "(F) Puissant soit le Nom" },
+                    { chord: "C", text: "(C) Puissant soit le Nom du Seigneur !" },
+                    { chord: "F", text: "(F) Puissant soit le Nom" },
+                    { chord: "F", text: "(F) Puissant soit le Nom" },
+                    { chord: "C", text: "(C) Puissant soit le Nom du Seigneur !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus est le Nom" },
+                    { chord: "C", text: "(C) Jésus est le Nom" },
+                    { chord: "C", text: "(C) Jésus est le Nom du Seigneur !" },
+                    { chord: "C", text: "(C) Jésus est le Nom" },
+                    { chord: "C", text: "(C) Jésus est le Nom" },
+                    { chord: "C", text: "(C) Jésus est le Nom du Seigneur !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "COMBIEN IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Sz1eFeV7O84?si=oYlXPk2aG_VbajYU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ecoute ô ciel et tout (F) ce que tu as" },
+                    { chord: "C", text: "(C) Combien Jésus-Christ est (D) riche en (G) bonté." },
+                    { chord: "C", text: "(C) Et toi terre des hommes et (F) bétail des champs" },
+                    { chord: "C", text: "(C) O louez-le (G) car Il est (C) bon." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Combien Il est bon" },
+                    { chord: "F", text: "(F) Combien Il est bon" },
+                    { chord: "C", text: "(C) Combien Il est bon" },
+                    { chord: "G", text: "(G) Mon Seigneur, mon Dieu" },
+                    { chord: "C", text: "(C) Combien Il est bon, (F) Alléluia," },
+                    { chord: "C", text: "(C) Oui je le (G) louerai (C) toujours." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il nous a créés pour la (F) Vie éternelle" },
+                    { chord: "C", text: "(C) Mais nous avons péché et (D) avons tout (G) perdu" },
+                    { chord: "C", text: "(C) Mais dans Sa bonté Il (F) se décida" },
+                    { chord: "C", text: "(C) De nous (G) ramener à la (C) vie." }
+                ],
+                [
+                    { chord: "C", text: "(C) Et comme un Agneau, Il (F) vint ici-bas" },
+                    { chord: "C", text: "(C) Et versa Son sang (D) pour nous (G) racheter" },
+                    { chord: "C", text: "(C) Et depuis ce jour-là, nous (F) pouvons crier :" },
+                    { chord: "C", text: "(C) « O mort, (G) où est ton (C) aiguillon ? »" }
+                ],
+                [
+                    { chord: "C", text: "(C) Pareil à un aigle,Il (F) veille sur nous." },
+                    { chord: "C", text: "(C) Il voit nos besoins, nul (D) n’est en (G) danger." },
+                    { chord: "C", text: "(C) Ainsi chaque jour, il (F) lance ce cri :" },
+                    { chord: "C", text: "(C) « Ne craignez (G) rien car Je suis (C) là. »" }
+                ],
+                [
+                    { chord: "C", text: "(C) Et comme une poule entoure (F) ses poussins" },
+                    { chord: "C", text: "(C) Jésus nous entoure et (D) prend soin de (G) nous" },
+                    { chord: "C", text: "(C) D’où viendra l’orage qu’il (F) saura calmer" },
+                    { chord: "C", text: "(C) Nous sommes (G) plus qu’en (C) sécurité." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je loue et j’adore mon (F) Seigneur Jésus" },
+                    { chord: "C", text: "(C) Pour tout ce qu’Il ne (D) cesse de faire (G) pour moi" },
+                    { chord: "C", text: "(C) Oh, je ne puis compter Ses (F) nombreux bienfaits," },
+                    { chord: "C", text: "(C) Oh combien (G) je vais (C) l’adorer!" }
+                ],
+            ]
+        },
+        //Fin Cantiques Dimanche 15 Juin 2025 (Vingt-Quatrième Dimanche de l'année 2025)
 
         //Debut Cantiques Dimanche 08 Juin 2025 (Vingt-Troisièeme Dimanche de l'année 2025)
         {
