@@ -169,6 +169,47 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-15-06-2025",
+            title: "I PLEDGE ALLEGIANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/mECQOt2z7mw?si=veEyIgKfm9YSrmUn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I have heard how christian (F) long (C) ago" },
+                    { chord: "C", text: "(C) Were brought before a (D) tyrants (G) throne" },
+                    { chord: "C", text: "(C) And they were told that he would (F) spare their (C) lives" },
+                    { chord: "C", text: "(C) If they would renounce the (G) name of (C) Christ" },
+                    { chord: "F", text: "(F) But one by one, they (G) chose to (C) die" },
+                    { chord: "Am", text: "(Am) The Son of God, they (G) would not (C) deny" },
+                    { chord: "C", text: "(C) Like a great angelic (F) choir (C) sings" },
+                    { chord: "C", text: "(C) I can almost hear their (G) voices (C) ring" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I pledge allegiance (F) to the (C) lamb" },
+                    { chord: "C", text: "(C) With all my strength, (D) with all I (G) am" },
+                    { chord: "C", text: "(C) I will seek to honor (F) His commands (C) " },
+                    { chord: "C", text: "(C) I pledge allegiance (G) to the (C) Lamb" }
+                ],
+                [
+                    { chord: "C", text: "(C) Now the years have come and (F) the years have (C) gone" },
+                    { chord: "C", text: "(C) And the cause of Jesus (D) still goes (G) on" },
+                    { chord: "C", text: "(C) Now our time has come to (F) count the (C) cost" },
+                    { chord: "C", text: "(C) To reject this world, to (G) embrace the (C) cross" },
+                    { chord: "F", text: "(F) And one by one let us (G) live our (C) lives" },
+                    { chord: "Am", text: "(Am) For the One who died to (G) give us (C) life" },
+                    { chord: "C", text: "(C) Til the trumpet sounds on the (F) final (C) day" },
+                    { chord: "C", text: "(C) Let us proudly stand and (G) boldly (C) say" },
+                ],
+                [
+                    { chord: "C", text: "(C) To the (F) Lamb of God who (G) bore my (C) pain" },
+                    { chord: "C", text: "(C) Who (F) took my place, who (G) wore my (C) shame" },
+                    { chord: "C", text: "(C) I will seek to honor (F) His (C) commands" },
+                    { chord: "C", text: "(C) I pledge allegiance (G) to the (C) Lamb" }
+                ]
+            ]
+        },
         //Fin Cantiques Dimanche 15 Juin 2025 (Vingt-Quatrième Dimanche de l'année 2025)
 
         //Debut Cantiques Dimanche 08 Juin 2025 (Vingt-Troisièeme Dimanche de l'année 2025)
