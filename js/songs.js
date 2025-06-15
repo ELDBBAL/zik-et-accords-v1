@@ -384,27 +384,27 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Béni soit le Nom" },
+                    { chord: "F", text: "(F) Béni soit le (C) Nom" },
+                    { chord: "C", text: "(C) Béni soit le (D) Nom du (G) Seigneur" },
                     { chord: "C", text: "(C) Béni soit le Nom" },
-                    { chord: "C", text: "(C) Béni soit le Nom du Seigneur" },
-                    { chord: "C", text: "(C) Béni soit le Nom" },
-                    { chord: "C", text: "(C) Béni soit le Nom" },
-                    { chord: "C", text: "(C) Béni soit le Nom du Seigneur" }
+                    { chord: "F", text: "(F) Béni soit le (C) Nom" },
+                    { chord: "F", text: "(F) Béni soit le (G) Nom du (C) Seigneur" }
                 ],
                 [
-                    { chord: "F", text: "(F) Puissant soit le Nom" },
-                    { chord: "F", text: "(F) Puissant soit le Nom" },
-                    { chord: "C", text: "(C) Puissant soit le Nom du Seigneur !" },
-                    { chord: "F", text: "(F) Puissant soit le Nom" },
-                    { chord: "F", text: "(F) Puissant soit le Nom" },
-                    { chord: "C", text: "(C) Puissant soit le Nom du Seigneur !" }
+                    { chord: "C", text: "(C) Puissant soit le Nom" },
+                    { chord: "F", text: "(F) Puissant soit le (C) Nom" },
+                    { chord: "C", text: "(C) Puissant soit le (D) Nom du (G) Seigneur !" },
+                    { chord: "C", text: "(C) Puissant soit le Nom" },
+                    { chord: "F", text: "(F) Puissant soit le (C) Nom" },
+                    { chord: "F", text: "(F) Puissant soit le (G) Nom du (C) Seigneur !" }
                 ],
                 [
                     { chord: "C", text: "(C) Jésus est le Nom" },
+                    { chord: "F", text: "(F) Jésus est le (C) Nom" },
+                    { chord: "C", text: "(C) Jésus est le (D) Nom du (G) Seigneur !" },
                     { chord: "C", text: "(C) Jésus est le Nom" },
-                    { chord: "C", text: "(C) Jésus est le Nom du Seigneur !" },
-                    { chord: "C", text: "(C) Jésus est le Nom" },
-                    { chord: "C", text: "(C) Jésus est le Nom" },
-                    { chord: "C", text: "(C) Jésus est le Nom du Seigneur !" }
+                    { chord: "F", text: "(F) Jésus est le (C) Nom" },
+                    { chord: "F", text: "(F) Jésus est le (G) Nom du (C) Seigneur !" }
                 ]
             ]
         },
