@@ -268,27 +268,27 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Sur le mont du Calvaire, il était une croix" },
-                    { chord: "F", text: "(F) Où Jésus souffrit tant de douleurs." },
+                    { chord: "C", text: "(C) Où Jésus souffrit tant de douleurs." },
                     { chord: "C", text: "(C) Oui c’est là qu’Il mourut sur cet infâme bois" },
-                    { chord: "Am", text: "(Am) Pour sauver le plus vil des pécheurs." }
+                    { chord: "C", text: "(C) Pour sauver le plus vil des pécheurs." }
                 ],
                 [
                     { chord: "C", text: "(C) Cette croix me sera toujours chère," },
-                    { chord: "F", text: "(F) Elle est gloire et victoire pour moi" },
+                    { chord: "C", text: "(C) Elle est gloire et victoire pour moi" },
                     { chord: "C", text: "(C) Et par elle, dans la maison du Père," },
-                    { chord: "Am", text: "(Am) La couronne est offerte à ma foi." }
+                    { chord: "C", text: "(C) La couronne est offerte à ma foi." }
                 ],
                 [
                     { chord: "C", text: "(C) Cette croix où Jésus,  du monde est rejeté" },
-                    { chord: "F", text: "(F) A pour moi le plus grand des attraits." },
+                    { chord: "C", text: "(C) A pour moi le plus grand des attraits." },
                     { chord: "C", text: "(C) C’est là que, Saint Agneau,  mon Sauveur a porté" },
-                    { chord: "Am", text: "(Am) Mes fardeaux, mes douleurs, mes forfaits." }
+                    { chord: "C", text: "(C) Mes fardeaux, mes douleurs, mes forfaits." }
                 ],
                 [
                     { chord: "C", text: "(C) Sur la croix où Jésus a versé tout son sang," },
-                    { chord: "F", text: "(F) Je contemple ébloui sa beauté." },
+                    { chord: "c", text: "(c) Je contemple ébloui sa beauté." },
                     { chord: "C", text: "(C) Sur la mort et l’enfer, son combat triomphant" },
-                    { chord: "Am", text: "(Am) Fait de moi son heureux racheté." }
+                    { chord: "c", text: "(c) Fait de moi son heureux racheté." }
                 ],
             ]
         },
