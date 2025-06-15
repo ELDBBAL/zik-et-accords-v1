@@ -3,6 +3,298 @@ const songs = [
         //Debut Cantiques Dimanche 15 Juin 2025 (Vingt-Quatrième Dimanche de l'année 2025)
         {
             key: "dim-15-06-2025",
+            title: "I NEED THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pqYXTK4JYz8?si=0CY7fMPdvq7O7P4k",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) Most (F) gracious (C) Lord;" },
+                    { chord: "C", text: "(C) No (G) tender voice like (Am) Thine" },
+                    { chord: "Am", text: "(Am) Can (G) peace (C) afford." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I need Thee, oh, I (G) need Thee;" },
+                    { chord: "G", text: "(G) Ev'ry hour I (C) need Thee;" },
+                    { chord: "C", text: "(C) Oh, (F) bless me now, my (C) Savior" },
+                    { chord: "C", text: "(C) I (G) come to (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "F", text: "(C) Stay (F) Thou (C) nearby ;" },
+                    { chord: "G", text: "(G) Temptations lose their (Am) pow’r" },
+                    { chord: "Am", text: "(Am) When (G) Thou art (C) nigh." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) In (F) joy or (C) pain;" },
+                    { chord: "G", text: "(G) Come quickly and, (Am) abide" },
+                    { chord: "Am", text: "(Am) Or (G) life is (C) vain." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) Teach (F) me Thy (C) will;" },
+                    { chord: "G", text: "(G) And Thy rich (Am) promises" },
+                    { chord: "Am", text: "(Am) In (G) me ful (C) fill." }
+                ]
+            ]
+        },
+
+        {
+            key: "dim-15-06-2025",
+            title: "NE CRAINS RIEN JE T'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8eB4Yae9MFs?si=TyuQk6olAhFaJnP3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ne crains rien, je t'aime" },
+                    { chord: "F", text: "(F) Je suis avec (C) toi" },
+                    { chord: "G", text: "(G) Promesse suprême," },
+                    { chord: "G", text: "(G) Qui soutient ma (C) foi" },
+                    { chord: "C", text: "(C) La sombre vallée" },
+                    { chord: "F", text: "(F) N'a plus de (C) terreur" },
+                    { chord: "G", text: "(G) L'âme consolée," },
+                    { chord: "G", text: "(G) je marche avec mon (C) Sauveur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                ],
+                [
+                    { chord: "C", text: "(C) L'aube matinière" },
+                    { chord: "F", text: "(F) Ne luit qu'aux beaux (C) jours" },
+                    { chord: "G", text: "(G) Jésus ma lumière" },
+                    { chord: "G", text: "(G) M'éclaire (C) toujours" },
+                    { chord: "C", text: "(C) Quand je perds de vue" },
+                    { chord: "F", text: "(F) L'astre radieux (C) " },
+                    { chord: "G", text: "(G) A travers la nue" },
+                    { chord: "G", text: "(G) Jésus me montre les (C) cieux" },
+                ],
+                [
+                    { chord: "C", text: "(C) Les dangers accourent, " },
+                    { chord: "F", text: "(F) subtils, inconnus (C) " },
+                    { chord: "G", text: "(G) De près, ils m'entourent, " },
+                    { chord: "G", text: "(G) plus près est (C) Jésus " },
+                    { chord: "C", text: "(C) Qui dans le voyage" },
+                    { chord: "F", text: "(F) Me redit C'est (C) moi!" },
+                    { chord: "G", text: "(G) Ne crains rien Courage!" },
+                    { chord: "G", text: "(G) Je suis toujours avec (C) toi!" },
+                ]
+            ]
+        },
+
+        {
+            key: "dim-15-06-2025",
+            title: "NEAR THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5gong-PNmY?si=NbwWNE4mfBd8oI6z",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus, keep me (F) near the cross" },
+                    { chord: "C", text: "(C) There a precious (D) fountain, (G) " },
+                    { chord: "C", text: "(C) Free to all, a (F) healing stream," },
+                    { chord: "C", text: "(C) Flows from Calv'ry's (G) mountain. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the cross, (F) in the cross," },
+                    { chord: "C", text: "(C) Be my glory (D) ever; (G) " },
+                    { chord: "C", text: "(C) Till my raptured (F) soul shall find" },
+                    { chord: "C", text: "(C) Rest beyond the (G) river (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Near the cross, a (F) trembling soul," },
+                    { chord: "C", text: "(C) Love and mercy (D) found (G) me;" },
+                    { chord: "C", text: "(C) There the Bright and (F) Morning Star" },
+                    { chord: "C", text: "(C) Sheds its beams (G) around (C) me." }
+                ],
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "PRES DE LA CROIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZFhxi75jEHI?si=7q0qG9sFi1FJwfkZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Près de la croix, (F) garde-moi" },
+                    { chord: "C", text: "(C) La fontaine (D) précieuse (G) " },
+                    { chord: "C", text: "(C) Gratuite et (F) guérissante" },
+                    { chord: "C", text: "(C) Coule (Am) du (G) calvaire (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) A la croix, (F) à la croix" },
+                    { chord: "C", text: "(C) Sois ma gloire (D) à jamais (G) " },
+                    { chord: "C", text: "(C) Jusqu'à ce que mon (F) âme" },
+                    { chord: "C", text: "(C) Trouve (Am) pardon (G) et repos (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Près de la croix (F) tout tremblant" },
+                    { chord: "C", text: "(C) Amour, grâce me (D) trouvent (G) " },
+                    { chord: "C", text: "(C) Là l'étoile du (F) matin" },
+                    { chord: "C", text: "(C) Rayonne (Am) autour (G) de moi(C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "ILS VIENNENT DE L’EST ET DE L’OUEST",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/GVcXmO3l9mI?si=v__dkhzuv6n32EUE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ils viennent de l’Est et de l’Ouest," },
+                    { chord: "C", text: "(C) Ils viennent de lointains (G) pays" },
+                    { chord: "G", text: "(G) A la fête du Roi, manger à Sa table " },
+                    { chord: "G", text: "(G) Que ces pèlerins sont (C) bénis." },
+                    { chord: "C", text: "(C) Contemplant Son saint visage, " },
+                    { chord: "C", text: "(C) Brillant d’un éclat (F) divin," },
+                    { chord: "F", text: "(F) Participants de Sa (C) grâce, " },
+                    { chord: "G", text: "(G) Les joyaux de Sa (C) couronne." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je suis si heureux depuis" },
+                    { chord: "C", text: "(C) Que Jésus m’a (G) libéré" },
+                    { chord: "G", text: "(G) Il n’y a pas longtemps," },
+                    { chord: "G", text: "(G) J’étais si chargé" },
+                    { chord: "G", text: "(G) Son joug est très doux pour (C) moi" },
+                    { chord: "C", text: "(C) Mon âme était plus que nuit " },
+                    { chord: "C", text: "(C) Mais tout s’est (F) envolé," },
+                    { chord: "F", text: "(F) Maintenant je crie (C) victoire," },
+                    { chord: "C", text: "(C) Car (G) Jésus m’a (C) libéré." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je regarde le trône blanc " },
+                    { chord: "C", text: "(C) Devant se tiennent les (G) sauvés" },
+                    { chord: "G", text: "(G) Maintenant plus de larmes " },
+                    { chord: "G", text: "(G) Ni chagrins connus,ni morts dans cette (C) Cité." },
+                    { chord: "C", text: "(C) Mon Sauveur m’a précédé " },
+                    { chord: "C", text: "(C) Prépare la voie pour (F) moi" },
+                    { chord: "F", text: "(F) Bientôt nous serons (C) ensemble " },
+                    { chord: "G", text: "(G) Là-haut dans (C) l’éternité." },
+                ],
+                [
+                    { chord: "C", text: "(C) Les portails de ce lieu saint " },
+                    { chord: "C", text: "(C) Restent ouverts nuit et (G) jour" },
+                    { chord: "G", text: "(G) Regarde au Seigneur," },
+                    { chord: "G", text: "(G) Qui donne plus de grâce " },
+                    { chord: "G", text: "(G) Dont l’amour a (C) préparé" },
+                    { chord: "C", text: "(C) Une place dans ces belles demeures " },
+                    { chord: "C", text: "(C) Qu’Il réserva pour (F) moi" },
+                    { chord: "F", text: "(F) Pour préparer les (C) noces" },
+                    { chord: "G", text: "(G) Obéit à cet (C) appel." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, Jésus revient bientôt," },
+                    { chord: "C", text: "(C) Alors nos peines seront (G) finies," },
+                    { chord: "G", text: "(G) Si notre Seigneur" },
+                    { chord: "G", text: "(G) Venait maintenant " },
+                    { chord: "G", text: "(G) Pour ceux qui sont sans (C) péchés," },
+                    { chord: "C", text: "(C) Seriez-vous alors dans la joie " },
+                    { chord: "C", text: "(C) Ou le chagrin, la (F) peine ?" },
+                    { chord: "F", text: "(F) Quand Il viendra dans Sa (C) gloire," },
+                    { chord: "G", text: "(G) Nous le rencontrerons (C) là-haut" },
+                ],
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "PRAISING THE LORD ALWAYS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/47OIw6etSv8?si=HAPWx7Xspopc2uS4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Praising the Lord always" },
+                    { chord: "C", text: "(C) Praising the (G) Lord (C) always" },
+                    { chord: "C", text: "(C) Praising the Lord with all (F) my heart" },
+                    { chord: "F", text: "(F) Praising the (C) Lord with all (G) my heart (C) always" },
+                    { chord: "C", text: "(C) My Lord is (G) good" },
+                    { chord: "G", text: "(G) My Lord is (C) good" },
+                    { chord: "C", text: "(C) My Lord is (F) good" },
+                    { chord: "G", text: "(G) Is good to (C) me" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "GREAT THING HE HAS DONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Gla0seOsQvg?si=Ec1mUteJx0JkH34L",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Great things He has (F) done" },
+                    { chord: "F", text: "(F) Greater (G) things he will (C) do" },
+                    { chord: "C", text: "(C) Unto the Lord be the (F) glory" },
+                    { chord: "F", text: "(F) Great (C) things (G) He has (C) done" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "GOD YOU'RE SO GOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/v-PestNqUCI?si=OpB_h1rfWALdee7k",
+            verses: [
+                [
+                    { chord: "C", text: "(C) God you're so good" },
+                    { chord: "F", text: "(F) God you're (C) God" },
+                    { chord: "C", text: "(C) God you're wonderful (Am) " },
+                    { chord: "Am", text: "(Am) My (F) Lord (G) you're (C) excellent" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Excellent is your name" },
+                    { chord: "F", text: "(F) Excellent that you (C) are " },
+                    { chord: "C", text: "(C) God you're wonderful (Am) " },
+                    { chord: "Am", text: "(Am) My (F) Lord (G) you're (C) excellent" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-06-2025",
+            title: "SUR LE MONT CALVAIRE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Sur le mont du Calvaire, il était une croix" },
+                    { chord: "F", text: "(F) Où Jésus souffrit tant de douleurs." },
+                    { chord: "C", text: "(C) Oui c’est là qu’Il mourut sur cet infâme bois" },
+                    { chord: "Am", text: "(Am) Pour sauver le plus vil des pécheurs." }
+                ],
+                [
+                    { chord: "C", text: "(C) Cette croix me sera toujours chère," },
+                    { chord: "F", text: "(F) Elle est gloire et victoire pour moi" },
+                    { chord: "C", text: "(C) Et par elle, dans la maison du Père," },
+                    { chord: "Am", text: "(Am) La couronne est offerte à ma foi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Cette croix où Jésus,  du monde est rejeté" },
+                    { chord: "F", text: "(F) A pour moi le plus grand des attraits." },
+                    { chord: "C", text: "(C) C’est là que, Saint Agneau,  mon Sauveur a porté" },
+                    { chord: "Am", text: "(Am) Mes fardeaux, mes douleurs, mes forfaits." }
+                ],
+                [
+                    { chord: "C", text: "(C) Sur la croix où Jésus a versé tout son sang," },
+                    { chord: "F", text: "(F) Je contemple ébloui sa beauté." },
+                    { chord: "C", text: "(C) Sur la mort et l’enfer, son combat triomphant" },
+                    { chord: "Am", text: "(Am) Fait de moi son heureux racheté." }
+                ],
+            ]
+        },
+
+        {
+            key: "dim-15-06-2025",
             title: "CLOSE TO THEE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/8g88DKwJNd8?si=Ksu13--P-_ia7flh",
