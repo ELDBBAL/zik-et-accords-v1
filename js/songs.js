@@ -1,5 +1,305 @@
 // songs.js // Liste des cantiques
 const songs = [
+        //Debut Cantiques Samedi 28 Juin 2025
+        {
+            key: "sam-28-06-2025",
+            title: "DANS LE TOMBEAU, JESUS EST SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Nd7XD8OePTk?si=YRQLCJzFZ8WssO8i",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon âme (G) bénit le (C) Seigneur," },
+                    { chord: "C", text: "(C) Et mon (F) esprit magnifie son (G) Nom." },
+                    { chord: "C", text: "(C) Car la mort n’a pas pu Le (F) retenir ;" },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." }
+                ],
+                [
+                    { chord: "C", text: "(C) My soul (G) doth magnify the (C) LORD" },
+                    { chord: "C", text: "(C) And my (F) spirit praise his (G) name" },
+                    { chord: "C", text: "(C) Even death could not hold him (F) captive" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "BECAUSE HE LIVES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
+            verses: [
+                [
+                    { chord: "C", text: "(C) God sent His son, they called Him, (F) Jesus;" },
+                    { chord: "F", text: "(F) He came to (C) love, (D) heal and (G) forgive;" },
+                    { chord: "G", text: "(G) He lived and (C) died to buy my (F) pardon" },
+                    { chord: "F", text: "(F) An empty (C) grave is there to (G) prove my Savior (C) lives!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Because He lives, I can face (F) tomorrow" },
+                    { chord: "F", text: "(F) Because He (C) lives, (D) all fear is (G) gone;" },
+                    { chord: "G", text: "(G) Because I (C) know He holds the (F) future" },
+                    { chord: "F", text: "(F) And life is (C) worth the living," },
+                    { chord: "G", text: "(G) Just because He (C) lives!" }
+                ],
+                [
+                    { chord: "C", text: "(C)How sweet to hold a newborn (F) baby;" },
+                    { chord: "F", text: "(F) And feel the (C) pride (D) and joy he (G) brings;" },
+                    { chord: "G", text: "(G) But greater (C) still the calm (F) assurance:" },
+                    { chord: "F", text: "(F)This child (C) can face uncertain (G) days because He (C) lives!" }
+                ],
+                [
+                    { chord: "C", text: "(C) And then one day, I'll cross the (F) river," },
+                    { chord: "F", text: "(F) I'll fight life's (C) final war (D) with pain;" },
+                    { chord: "C", text: "(G) And then, as (C) death gives way to (F) victory" },
+                    { chord: "F", text: "(F) I'll see the (C) lights of glory (G) and I'll know He (C) lives!" }
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "SUCH LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G4zsesVIY5w?si=xCD350AnbKMO0auk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) That God should love a (F) sinner such as (C) I," },
+                    { chord: "F", text: "(F) Should yearn to (C) change my (D) sorrow into (G) bliss," },
+                    { chord: "C", text: "(C) Nor rest till He had (F) planned to bring me (C) nigh," },
+                    { chord: "F", text: "(F) How wonderful is (G) love like (C) this?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Such love, such wondrous love" },
+                    { chord: "G", text: "(G) Such love, such wondrous love" },
+                    { chord: "C", text: "(C) That (F) God should love a (F) sinner such as (C) I" },
+                    { chord: "F", text: "(F) How wonderful is (G) love like (C) this?" }
+                ],
+                [
+                    { chord: "C", text: "(C) That for a willful (F) outcast such as (C) I" },
+                    { chord: "F", text: "(F) The Father (C) planned, the (D) Savior bled and (G) died" },
+                    { chord: "C", text: "(C) Redemption for a (F) worthless slave to (C) buy" },
+                    { chord: "F", text: "(F) Who long had law and (G) grace (C) defied." }
+                ],
+                [
+                    { chord: "C", text: "(C) And now He takes me (F) to His heart a (C) son" },
+                    { chord: "F", text: "(F) He asks me (C) not to (D) fill a servant's (G) place" },
+                    { chord: "C", text: "(C) The far-off country (F) wand'rings all are (C) done" },
+                    { chord: "F", text: "(F) Wide open are His (G) arms of (C) grace" }
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "THE LOVE OF GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/NafJoD8Mt94?si=CGK1J-IR70I6oyoF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) The love of God is (F) greater (C) far" },
+                    { chord: "C", text: "(C) Than tongue or (G) pen can ever (C) tell;" },
+                    { chord: "C", text: "(C) It goes beyond the (F) highest (C) star" },
+                    { chord: "C", text: "(C) And reaches (G) to the lowest (C) hell." },
+                    { chord: "C", text: "(C) The guilty (F) pair, bowed down with (C) care," },
+                    { chord: "C", text: "(C) God gave His (G) son to (C) win;" },
+                    { chord: "C", text: "(C) His erring (F) child He reconciled, (C) " },
+                    { chord: "C", text: "(C) And pardoned (G) from his (C) sin." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, love God, how rich and pure!" },
+                    { chord: "C", text: "(C) How measureless and strong!" },
+                    { chord: "C", text: "(C) It shall forevermore endure," },
+                    { chord: "F", text: "(F) The saints and angels song." }
+                ],
+                [
+                    { chord: "C", text: "(C) When hoary time shall (F) pass (C) away," },
+                    { chord: "C", text: "(C) And earthly (G) thrones and kingdoms (C) fall;" },
+                    { chord: "C", text: "(C) When men who here (F) refuse to (C) pray," },
+                    { chord: "C", text: "(C) On rocks and (G) hill and mountains (C) call;" },
+                    { chord: "C", text: "(C) God’s love, so (F) sure, shall still (C) endure," },
+                    { chord: "C", text: "(C) All (G) measureless and (C) strong;" },
+                    { chord: "C", text: "(C) Redeeming (F) grace to Adam’s race, (C) " },
+                    { chord: "C", text: "(C) The saint’ (G) and angels’ (C) song." },
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "JE SUIS HEUREUX CAR JÉSUS M'A SAUVÉ",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hUi0OEniK9U?si=WKEu5YD81i035f1N",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je suis heureux car Jésus m'a sauvé," },
+                    { chord: "C", text: "(C) Dans son (G) Amour, il m'a tout (C) pardonné." },
+                    { chord: "C", text: "(C) Voilà pourquoi je me mets à chanter." },
+                    { chord: "C", text: "(C) Je suis (G) heureux car Jésus m'a (C) sauvé." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oui, J'aime l'Homme de (G) Galilée" },
+                    { chord: "G", text: "(G) Oui, J'aime l'Homme de (C) Galilée" },
+                    { chord: "C", text: "(C) Mon (F) fardeau enlevé, mes (C) - (Em) péchés (Am) éffacés;" },
+                    { chord: "Am", text: "(Am) Oui, (G) J'aime l'Homme de (C) Galilée" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le ciel est ouvert à tout être humain," },
+                    { chord: "C", text: "(C) La route est (G) tracée, un Guide (C) fidèle" },
+                    { chord: "C", text: "(C) Voudrais-tu goûter le parfait bonheur" },
+                    { chord: "C", text: "(C) Le ciel est (G) ouvert à tout être (C) humain" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le sang de Jésus a tout éffacé," },
+                    { chord: "C", text: "(C) Où que vous (G) soyez, c'est vous qu'Il (C) appelle." },
+                    { chord: "C", text: "(C) Laissez la folie et la vanité" },
+                    { chord: "C", text: "(C) Le sang de (G) Jésus a tout (C) éffacé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Au loin, comme auprès, faites-la courir," },
+                    { chord: "C", text: "(C) Partout où se (G) trouve une âme (C) rebelle;" },
+                    { chord: "C", text: "(C) Dis-lui que Jésus a souffert pour elle" },
+                    { chord: "C", text: "(C) Au loin, (G) comme auprès, faites-la (C) courir." }
+                ],
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        //Fin Cantiques Samedi 28 Juin 2025
+
+
         //Debut Cantiques Dimanche 15 Juin 2025 (Vingt-Quatrième Dimanche de l'année 2025)
         {
             key: "dim-15-06-2025",
