@@ -29,6 +29,23 @@ const songs = [
         },
         {
             key: "sam-28-06-2025",
+            title: "LA PROMESSE DE L'ETERNEL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/f0groS5eG-I?si=rt1_8kNgv0_P1AI3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La promesse de l'Eternel," },
+                    { chord: "C", text: "(C) S'accomplira (G) certainement. (C) " },
+                    { chord: "G", text: "(G) Ne doutes point," },
+                    { chord: "G", text: "(G) Il est fidèle" },
+                    { chord: "G", text: "(G) Si tu crois en (C) Jésus" },
+                    { chord: "C", text: "(C) La promesse de l'Eternel," },
+                    { chord: "C", text: "(C) S'accomplira (G) certainement. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "sam-28-06-2025",
             title: "BECAUSE HE LIVES",
             keySignature: "C",
             youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
