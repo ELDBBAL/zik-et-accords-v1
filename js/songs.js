@@ -314,6 +314,45 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "sam-28-06-2025",
+            title: "LE TEMPS EST DEJA LA",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le temps est déjà (G) là" },
+                    { chord: "G", text: "(G) Les moqueurs nous (C) entourent" },
+                    { chord: "C", text: "(C) Les guerres et bruits de (G) guerre " },
+                    { chord: "G", text: "(G) Sont des signes (C) prédits" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Changé en un clin (F) d’œil" },
+                    { chord: "F", text: "(F) J’irai vers ce beau (C) palais" },
+                    { chord: "C", text: "(C) Où il n’y a que la (G) joie" },
+                    { chord: "G", text: "(G) Jésus (F) est sa (C) lumière" },
+                ],
+                [
+                    { chord: "C", text: "(C) Les nations se (G) disloquent" },
+                    { chord: "G", text: "(G) Israël se (C) réveille" },
+                    { chord: "C", text: "(C) L’église cherche de (G) l’huile" },
+                    { chord: "G", text: "(G) L’Epouse allume ses (C) flambeaux" },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus est (G) revenu" },
+                    { chord: "G", text: "(G) Dans un profond (C) mystère" },
+                    { chord: "C", text: "(C) Le monde ne Le voit (G) pas" },
+                    { chord: "G", text: "(G) Mais l’Epouse tous les (C) jours" },
+                ],
+                [
+                    { chord: "C", text: "(C) Croyons aux sept (G) tonnerres" },
+                    { chord: "G", text: "(G) Ils ouvrent la (C) parole" },
+                    { chord: "C", text: "(C) C’est Christ la pierre de (G) faîte" },
+                    { chord: "G", text: "(G) Acclamons pour Sa (C) gloire" },
+                ],
+            ]
+        },
         //Fin Cantiques Samedi 28 Juin 2025
 
 
@@ -6749,34 +6788,35 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Le temps est déjà là" },
-                    { chord: "G", text: "(G) Les moqueurs nous entourent" },
-                    { chord: "C", text: "(C) Les guerres et bruits de guerre " },
-                    { chord: "F", text: "(F) Sont des signes prédits" },
+                    { chord: "C", text: "(C) Le temps est déjà (G) là" },
+                    { chord: "G", text: "(G) Les moqueurs nous (C) entourent" },
+                    { chord: "C", text: "(C) Les guerres et bruits de (G) guerre " },
+                    { chord: "G", text: "(G) Sont des signes (C) prédits" },
                 ],
                 [
-                    { chord: "C", text: "(C) Changé en un clin d’œil" },
-                    { chord: "G", text: "(G) J’irai vers ce beau palais" },
-                    { chord: "C", text: "(C) Où il n’y a que la joie" },
-                    { chord: "F", text: "(F) Jésus est sa lumière" },
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Changé en un clin (F) d’œil" },
+                    { chord: "F", text: "(F) J’irai vers ce beau (C) palais" },
+                    { chord: "C", text: "(C) Où il n’y a que la (G) joie" },
+                    { chord: "G", text: "(G) Jésus (F) est sa (C) lumière" },
                 ],
                 [
-                    { chord: "C", text: "(C) Les nations se disloquent" },
-                    { chord: "G", text: "(G) Israël se réveille" },
-                    { chord: "C", text: "(C) L’église cherche de l’huile" },
-                    { chord: "F", text: "(F) L’Epouse allume ses flambeaux" },
+                    { chord: "C", text: "(C) Les nations se (G) disloquent" },
+                    { chord: "G", text: "(G) Israël se (C) réveille" },
+                    { chord: "C", text: "(C) L’église cherche de (G) l’huile" },
+                    { chord: "G", text: "(G) L’Epouse allume ses (C) flambeaux" },
                 ],
                 [
-                    { chord: "C", text: "(C) Jésus est revenu" },
-                    { chord: "G", text: "(G) Dans un profond mystère" },
-                    { chord: "C", text: "(C) Le monde ne Le voit pas" },
-                    { chord: "F", text: "(F) Mais l’Epouse tous les jours" },
+                    { chord: "C", text: "(C) Jésus est (G) revenu" },
+                    { chord: "G", text: "(G) Dans un profond (C) mystère" },
+                    { chord: "C", text: "(C) Le monde ne Le voit (G) pas" },
+                    { chord: "G", text: "(G) Mais l’Epouse tous les (C) jours" },
                 ],
                 [
-                    { chord: "C", text: "(C) Croyons aux sept tonnerres" },
-                    { chord: "G", text: "(G) Ils ouvrent la parole" },
-                    { chord: "C", text: "(C) C’est Christ la pierre de faîte" },
-                    { chord: "F", text: "(F) Acclamons pour Sa gloire" },
+                    { chord: "C", text: "(C) Croyons aux sept (G) tonnerres" },
+                    { chord: "G", text: "(G) Ils ouvrent la (C) parole" },
+                    { chord: "C", text: "(C) C’est Christ la pierre de (G) faîte" },
+                    { chord: "G", text: "(G) Acclamons pour Sa (C) gloire" },
                 ],
             ]
         },
