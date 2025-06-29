@@ -1,8 +1,8 @@
 // songs.js // Liste des cantiques
 const songs = [
-        //Debut Cantiques Samedi 28 Juin 2025
+        //Debut Cantiques Samedi 28 Juin 2025 | Finalement chanté sur le dimanche 29 Juin 2025 (Vingt Sixième Dimanche - Sachant que le Dimanche dernier, le culte a été lors d'une convention c'est le pourquoi son cantique non dispo)
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "DANS LE TOMBEAU, JESUS EST SEIGNEUR",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Nd7XD8OePTk?si=YRQLCJzFZ8WssO8i",
@@ -28,7 +28,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "LA PROMESSE DE L'ETERNEL",
             keySignature: "C",
             youtubeLink: "https://youtu.be/f0groS5eG-I?si=rt1_8kNgv0_P1AI3",
@@ -45,7 +45,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "BECAUSE HE LIVES",
             keySignature: "C",
             youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
@@ -79,7 +79,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "SUCH LOVE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/G4zsesVIY5w?si=xCD350AnbKMO0auk",
@@ -112,7 +112,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "THE LOVE OF GOD",
             keySignature: "C",
             youtubeLink: "https://youtu.be/NafJoD8Mt94?si=CGK1J-IR70I6oyoF",
@@ -147,7 +147,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "L'AMOUR DE DIEU",
             keySignature: "C",
             youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
@@ -182,7 +182,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "MON DIEU EST SI BON",
             keySignature: "C",
             youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
@@ -215,7 +215,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "JE SUIS HEUREUX CAR JÉSUS M'A SAUVÉ",
             keySignature: "C",
             youtubeLink: "https://youtu.be/hUi0OEniK9U?si=WKEu5YD81i035f1N",
@@ -254,7 +254,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "QUAND JE VOIS LA BONTE DE MON DIEU",
             keySignature: "C",
             youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
@@ -274,7 +274,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "JESUS M'AIME JE LE SAIS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
@@ -315,7 +315,7 @@ const songs = [
             ]
         },
         {
-            key: "sam-28-06-2025",
+            key: "dim-29-06-2025",
             title: "LE TEMPS EST DEJA LA",
             keySignature: "C",
             youtubeLink: "#",
@@ -353,7 +353,7 @@ const songs = [
                 ],
             ]
         },
-        //Fin Cantiques Samedi 28 Juin 2025
+        //Fin Cantiques Samedi 28 Juin 2025 | Finalement chanté sur le dimanche 29 Juin 2025 (Vingt Sixième Dimanche - Sachant que le Dimanche dernier, le culte a été lors d'une convention c'est le pourquoi son cantique non dispo)
 
 
         //Debut Cantiques Dimanche 15 Juin 2025 (Vingt-Quatrième Dimanche de l'année 2025)
