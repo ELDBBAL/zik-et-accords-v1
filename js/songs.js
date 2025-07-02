@@ -1,5 +1,41 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 06 Juillet 2025 (Vingt Septième Dimanche)
+        {
+            key: "dim-06-07-2024",
+            title: "HE WAS NAILED TO THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tbXyFiG08To?si=Yq44ujb_z3-Zgsmw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a wonderful, (F) wonderful (G) Savior" },
+                    { chord: "G", text: "(G) Who would die on the (F) cross for (C) me!" },
+                    { chord: "C", text: "(C) Freely shedding His (F) precious (G) lifeblood," },
+                    { chord: "G", text: "(G) That the sinner might be made (C) free." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He was nailed to the cross for (G) me," },
+                    { chord: "F", text: "(F) He was nailed to the (F) cross for (C) me," },
+                    { chord: "C", text: "(C) On the cross crucified, for (F) me He (C) died:" },
+                    { chord: "C", text: "(C) He was nailed to the (G) cross for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Thus He left, His (F) heavenly (G) Glory," },
+                    { chord: "G", text: "(G) To accomplish (F) His Father's (C) plan;" },
+                    { chord: "C", text: "(C) He was born (F) of the virgin (G) Mary," },
+                    { chord: "G", text: "(G) Took upon Him the form of (C) man." }
+                ],
+                [
+                    { chord: "C", text: "(C) He was wounded, (F) for our (G) transgressions" },
+                    { chord: "G", text: "(G) And He carried (F) our sorrows (C) too;" },
+                    { chord: "C", text: "(C) He's the Healer (F) of every (G) sickness," },
+                    { chord: "G", text: "(G)This He came to the world to (C) do." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 06 Juillet 2025 (Vingt Septième Dimanche)
+
         //Debut Cantiques Samedi 28 Juin 2025 | Finalement chanté sur le dimanche 29 Juin 2025 (Vingt Sixième Dimanche - Sachant que le Dimanche dernier, le culte a été lors d'une convention c'est le pourquoi son cantique non dispo)
         {
             key: "dim-29-06-2025",

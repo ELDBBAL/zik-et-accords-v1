@@ -7,6 +7,11 @@ const cantiques = [
         link: "single.html?key=dim-29-06-2025"
     },
     {
+        date: "29/06",
+        title: "Hymns of 06/07/2025",
+        link: "single.html?key=dim-06-07-2025"
+    },
+    {
         date: "15/06",
         title: "Hymns of 15/06/2025",
         link: "single.html?key=dim-15-06-2025"
