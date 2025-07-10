@@ -140,6 +140,200 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-13-07-2025",
+            title: "AT CALVARY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/aVwBKV_OYBc?si=elPcV5zi-J2fZoSH",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Years I spent in vanity and pride," },
+                    { chord: "G", text: "(G) Caring not my Lord (F) was (C) crucified," },
+                    { chord: "C", text: "(C) Knowing not it was for me He died" },
+                    { chord: "F", text: "(F) On (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Mercy there was great, and grace was (C) free;" },
+                    { chord: "G", text: "(G) Pardon there was multiplied to (C) me;" },
+                    { chord: "F", text: "(F) There my burdened soul found (C) liberty," },
+                    { chord: "F", text: "(F) At (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) By God’s Word at last my sin I learned;" },
+                    { chord: "G", text: "(G) Then I trembled at the law I’d (C) spurned," },
+                    { chord: "C", text: "(C) Till my guilty soul imploring turned" },
+                    { chord: "F", text: "(F) To (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Now I’ve giv’n to Jesus everything," },
+                    { chord: "G", text: "(G) Now I gladly own Him as my (C) King," },
+                    { chord: "C", text: "(C) Now my raptured soul can only sing" },
+                    { chord: "F", text: "(F) Of (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, the love that drew salvation’s plan!" },
+                    { chord: "G", text: "(G) Oh, the grace that brought it down to (C) man!" },
+                    { chord: "C", text: "(C) Oh, the mighty gulf that God did span" },
+                    { chord: "F", text: "(F) At (G) Calvary! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-13-07-2025",
+            title: "I SHALL NOT BE MOVED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bbAntGcJOWY?si=fy6fIErLpm7WOVio",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is my Savior, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love and favor, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I shall not be, (G) I shall not be moved." },
+                    { chord: "G", text: "(G) I shall not be, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) In my Christ abiding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love I’m hiding, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) On His word I'm feeding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) He's the one that's leading, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-07-2025",
+            title: "JESUS IS THE WINNER MAN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/qf_wClr8F0U?si=Yx7kj3y1K8loiobM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner Man! (G) Winner Man!" },
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "G", text: "(G) Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! " },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan is the (F) looser Man" },
+                    { chord: "C", text: "(C) Looser Man! (G) Looser Man!" },
+                    { chord: "C", text: "(C) Satan is the (F) Looser Man" },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "G", text: "(G) Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! " },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side! (G) Winning side!" },
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "G", text: "(G) Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-07-2025",
+            title: "DANS MON AME UN BEAU SOLEIL BRILLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pdxaZMWILfY?si=fkTnGjPk1xUjLytP",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans mon âme, un (F) beau (C) soleil brille !" },
+                    { chord: "C", text: "(C) Son rayon doux (D) et (G) joyeux" },
+                    { chord: "C", text: "(C) Répand un (F) éclat (C) qui scintille" },
+                    { chord: "C", text: "(C) C’est le (F) sourire (G) de (C) Dieu" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O, quel beau (F) soleil dans mon (C) âme !" },
+                    { chord: "C", text: "(C) Il resplendit, (D) illuminant (G) tout" },
+                    { chord: "C", text: "(C) A ses (F) rayons mon (C) cœur s’enflamme" },
+                    { chord: "C", text: "(C) Et je (F) vais (G) partout (C) chantant" },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon cœur était (F) plein (C) de ténèbres" },
+                    { chord: "C", text: "(C) Quand paru un (D) jour (G) nouveau" },
+                    { chord: "C", text: "(C) Au loin (F) fuyez, (C) ombres et ténèbres" },
+                    { chord: "C", text: "(C) Devant (F) un (G) soleil si (C) beau" },
+                ],
+                [
+                    { chord: "C", text: "(C) O, mon cœur (F) déborde (C) de joie !" },
+                    { chord: "C", text: "(C) Mon âme est (D) remplie (G) d’amour" },
+                    { chord: "C", text: "(C) Tous les (F) élus (C) avec le Roi" },
+                    { chord: "C", text: "(C) Le (F) loueront, (G) oui, (C) pour toujours !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-13-07-2025",
+            title: "IL EST MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il est (F) merveilleux (C) !" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Il est (F) Tout-puissant (C) !" },
+                    { chord: "C", text: "(C) Il est (G) Tout-puissant (C)" },
+                    { chord: "C", text: "(C) Le monde (F) entier le (C) loue" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Les rachetés (F) entier le (C) louent" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" }
+                ]
+            ]
+        },
+        {
+        key: "dim-13-07-2025",
+        title: "THE WINDOWS OF HEAVEN",
+        keySignature: "C",
+        youtubeLink: "https://youtu.be/AofqUpa55c4?si=NNaCBjuXfksm7xY2",
+        verses: [
+            [
+                { chord: "C", text: "(C) The windows of Heaven are open," },
+                { chord: "C", text: "(C) The blessings are falling (G) tonight" },
+                { chord: "G", text: "(G) There’s joy, joy, joy in my heart," },
+                { chord: "G", text: "(G) For Jesus makes everything (C) right;" },
+                { chord: "C", text: "(C) I gave Him my old tattered garment," },
+                { chord: "C", text: "(C) He gave me a robe of pure (F) white, " },
+                { chord: "F", text: "(F) I’m feasting today on the (C) Manna, " },
+                { chord: "G", text: "(G) And that’s why I’m happy (C) tonight. " }
+            ]
+        ]
+    },
         // Fin Cantiques Dimanche 13 Juillet 2025 (Vingt Huitième Dimanche)
 
         // Debut Cantiques Dimanche 06 Juillet 2025 (Vingt Septième Dimanche)
