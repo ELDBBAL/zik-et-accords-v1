@@ -75,6 +75,71 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-13-07-2025",
+            title: "HE BROUGHT ME OF THE MIRY CLAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jRMrQ4k6YB4?si=dE7WRwx3Fp7A_ts1",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My heart was distressed" },
+                    { chord: "C", text: "(C) ’Neath Jehovah’s dread frown," },
+                    { chord: "F", text: "(F) And low in the pit" },
+                    { chord: "F", text: "(F) Where my (D) sins dragged me (G) down;" },
+                    { chord: "C", text: "(C) I cried to the Lord" },
+                    { chord: "C", text: "(C) From the (F) deep miry clay," },
+                    { chord: "F", text: "(F) Who (C) tenderly brought me out" },
+                    { chord: "G", text: "(G) To golden (C) day." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) He brought me out of the (C) miry clay," },
+                    { chord: "F", text: "(F) He set my feet on the (D) rock to (G) stay;" },
+                    { chord: "C", text: "(C) He puts a song in my (F) soul today," },
+                    { chord: "C", text: "(C) A song of praise, (G) hallelujah! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) He placed me upon" },
+                    { chord: "C", text: "(C) The strong rock by His side," },
+                    { chord: "F", text: "(F) My steps were established" },
+                    { chord: "F", text: "(F) And here (D) I’ll (G) abide;" },
+                    { chord: "C", text: "(C) No danger of falling" },
+                    { chord: "C", text: "(C) While here I (F) remain," },
+                    { chord: "F", text: "(F) But (C) stand by His grace" },
+                    { chord: "G", text: "(G) Until the crown I (C) gain." }
+                ],
+                [
+                    { chord: "C", text: "(C) He gave me a song," },
+                    { chord: "C", text: "(C) ’Twas a new song of praise;" },
+                    { chord: "F", text: "(F) By day and by night" },
+                    { chord: "F", text: "(F) Its sweet notes I (D) will (G) raise;" },
+                    { chord: "C", text: "(C) My heart’s overflowing," },
+                    { chord: "C", text: "(C) I’m happy and (F) free." },
+                    { chord: "F", text: "(F) I’ll (C) praise my Redeemer," },
+                    { chord: "G", text: "(G) Who has rescued (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’ll sing of His wonderful" },
+                    { chord: "C", text: "(C) Mercy to me," },
+                    { chord: "F", text: "(F) I’ll praise Him till all men" },
+                    { chord: "F", text: "(F) His goodness (D) shall (G) see;" },
+                    { chord: "C", text: "(C) I’ll sing of salvation" },
+                    { chord: "C", text: "(C) At home and (F) abroad," },
+                    { chord: "F", text: "(F) Till (C) many shall hear the truth" },
+                    { chord: "G", text: "(G) And trust in (C) God." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’ll tell of the pit," },
+                    { chord: "C", text: "(C) With its gloom and despair," },
+                    { chord: "F", text: "(F) I’ll praise the dear Father" },
+                    { chord: "F", text: "(F) Who answered (D) my (G) prayer," },
+                    { chord: "C", text: "(C) I’ll sing my new song," },
+                    { chord: "C", text: "(C) The glad story of (F) love," },
+                    { chord: "F", text: "(F) Then (C) join in the chorus" },
+                    { chord: "G", text: "(G) With the saints (C) above." }
+                ]
+            ]
+        },
         // Fin Cantiques Dimanche 13 Juillet 2025 (Vingt Huitième Dimanche)
 
         // Debut Cantiques Dimanche 06 Juillet 2025 (Vingt Septième Dimanche)
