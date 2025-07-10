@@ -1019,7 +1019,7 @@ const songs = [
             key: "dim-29-06-2025",
             title: "LE TEMPS EST DEJA LA",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/ESSFu2zaCW0?si=-lYvqGiBm9dYvSO1",
             verses: [
                 [
                     { chord: "C", text: "(C) Le temps est déjà (G) là" },
