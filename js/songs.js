@@ -1,5 +1,82 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 13 Juillet 2025 (Vingt Huitième Dimanche)
+        {
+            key: "dim-13-07-2025",
+            title: "MA FOI REGARDE A TOI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kOJCZh-1OLI?si=4m3SEWDtlMDo9fqM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ma foi regarde à Toi" },
+                    { chord: "G", text: "(G) Toi, Agneau du Calvaire," },
+                    { chord: "C", text: "(C) Sauveur (D) divin, (G) " },
+                    { chord: "C", text: "(C) Ecoute ma prière," },
+                    { chord: "C", text: "(C) Efface mes péchés," },
+                    { chord: "F", text: "(F) Que je sois (C) dès ce jour," },
+                    { chord: "G", text: "(G) Entier à (C) Toi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Que Ta grâce infinie" },
+                    { chord: "G", text: "(G) Donne à mon pauvre cœur," },
+                    { chord: "C", text: "(C) Un (D) nouveau (G) zèle," },
+                    { chord: "C", text: "(C) Que mon amour pour Toi" },
+                    { chord: "C", text: "(C) Soit comme un feu en moi," },
+                    { chord: "F", text: "(F) Brûlant, ne (C) changeant pas" },
+                    { chord: "G", text: "(G) Jusqu’au grand (C) jour." }
+                ],
+                [
+                    { chord: "C", text: "(C) Et dans ce labyrinthe" },
+                    { chord: "G", text: "(G) Entouré de malheur" },
+                    { chord: "C", text: "(C) Oh, (D) sois mon (G) Guide !" },
+                    { chord: "C", text: "(C) Disperse ces ténèbres," },
+                    { chord: "C", text: "(C) Viens essuyer mes larmes," },
+                    { chord: "F", text: "(F) Que je sois (C) tout à Toi" },
+                    { chord: "G", text: "(G) Dès aujourd (C) hui." }
+                ]
+            ]
+        },
+        {
+            key: "dim-13-07-2025",
+            title: "COMME LA COLOMBE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/c4eev63YdbM?si=iRhNeGsFBfYT8jGa",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Comme la colombe (F) qui toujours est (C) pur" },
+                    { chord: "F", text: "(F) Garde (G) moi, Sei (C) gneur" },
+                    { chord: "C", text: "(C) Sur cette terre (F) remplie de (C) souillures" },
+                    { chord: "F", text: "(F) Conduis (G) moi, oh Sei (C) gneur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Par la puissance (C) des sept tonnerres," },
+                    { chord: "G", text: "(G) Je marche vers le (C) ciel ;" },
+                    { chord: "F", text: "(F) Tous mes soucis et (C) mes fardeaux" },
+                    { chord: "F", text: "(F) Je les (G) remets à (C) Toi." },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme un agneau (F) si simple et (C) doux," },
+                    { chord: "F", text: "(F) Garde (G) moi, Sei (C) gneur" },
+                    { chord: "C", text: "(C) Toujours soumis (F) et obéis (C) sant" },
+                    { chord: "F", text: "(F) Conduis (G) moi au (C) ciel." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, dans le feu (F) je veux (C) demeurer" },
+                    { chord: "F", text: "(F) Pour (G) toujours Sei (C) gneur ;" },
+                    { chord: "C", text: "(C) Comme une flamme, (F) brûlant pour Ta (C) gloire," },
+                    { chord: "F", text: "(F) Pour (G) toujours Sei (C) gneur." },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon âme soupire (F) après ton (C) Esprit" },
+                    { chord: "F", text: "(F) Scelle (G) moi Sei (C) gneur ;" },
+                    { chord: "C", text: "(C) Et que j’aie (F) l’assurance (C) d’être là" },
+                    { chord: "F", text: "(F) Dans (G) le glorieux (C) millénium." },
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 13 Juillet 2025 (Vingt Huitième Dimanche)
+
         // Debut Cantiques Dimanche 06 Juillet 2025 (Vingt Septième Dimanche)
         {
             key: "dim-06-07-2025",
