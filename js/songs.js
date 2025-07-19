@@ -1,5 +1,313 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 20 Juillet 2025 (Vingt Neuvième Dimanche)
+        {
+            key: "dim-20-07-2025",
+            title: "JUST AS I AM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7lxqhPC1mNA?si=LGqstnGXXpBgGVP7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) without one (C) plea" },
+                    { chord: "G", text: "(G) But that Thy blood was (F) shed for (C) me" },
+                    { chord: "C", text: "(C) And that Thou bid'st me (F) come to Thee" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) though tossed (C) about" },
+                    { chord: "G", text: "(G) With many a conflict, (F) many a (C) doubt" },
+                    { chord: "C", text: "(C) Fighting and fears (F) within without" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) Thou wilt (C) receive" },
+                    { chord: "G", text: "(G) Wilt welcome, pardon, (F) cleanse, (C) relieve" },
+                    { chord: "C", text: "(C) Because Thy (F) promise I believe" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "O HAPPY DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-afm-sFp9qE?si=oWQT5L5_SFZBX5q6",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O happy day that fixed my choice" },
+                    { chord: "C", text: "(C) On Thee, my (F) Savior (G) and my (C) God!" },
+                    { chord: "C", text: "(C) Well may this glowing heart rejoice," },
+                    { chord: "C", text: "(C) And tell its (G) raptures all (C) abroad." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Happy day, (G) happy (C) day," },
+                    { chord: "C", text: "(C) When Jesus (F) washed (G) my sins (C) away!" },
+                    { chord: "C", text: "(C) He taught me how to (F) watch and (C) pray," },
+                    { chord: "C", text: "(C) And live rejoicing (F) every (C) day;" },
+                    { chord: "C", text: "(C) Happy day, (F) happy (C) day," },
+                    { chord: "C", text: "(C) When Jesus (F) washed (G) my sins (C) away!" }
+                ],
+                [
+                    { chord: "C", text: "(C) O happy bond, that seals my vows" },
+                    { chord: "C", text: "(C) To Him who (F) merits (G) all my (C) love;" },
+                    { chord: "C", text: "(C) Let cheerful anthems fill His house," },
+                    { chord: "C", text: "(C) While to that (G) sacred shrine I (C) move." }
+                ],
+                [
+                    { chord: "C", text: "(C) Tis done, the great transaction’s done," },
+                    { chord: "C", text: "(C) I am my (F) Lord’s, (G) and He is (C) mine;" },
+                    { chord: "C", text: "(C) He drew me, and I followed on," },
+                    { chord: "C", text: "(C) Charmed to (G) confess the voice (C) divine." }
+                ],
+                [
+                    { chord: "C", text: "(C) High Heaven, that heard that solemn vow," },
+                    { chord: "C", text: "(C) That vow (F) renewed (G) shall daily (C) hear;" },
+                    { chord: "C", text: "(C) Till in life’s latest hour I bow," },
+                    { chord: "C", text: "(C) And bless in (G) death a bond so (C) dear." }
+                ],
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "THERE IS POWER IN THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/xEVLJpHPBH8?si=cnqpGBJFe_uzOO_c",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Would you be free from the (F) burden of (C) sin?" },
+                    { chord: "C", text: "(C) There's (G) power in the blood, (C) power in the blood." },
+                    { chord: "C", text: "(C) Would you o'er evil a (F) victory (C) win?" },
+                    { chord: "C", text: "(C) There's (G) wonderful power in the (C) blood." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) There is power, power, (F) wonder-working (C) power" },
+                    { chord: "C", text: "(C) In the (G) blood of the (C) Lamb;" },
+                    { chord: "C", text: "(C) There is power, power, (F) wonder-working (C) power" },
+                    { chord: "C", text: "(C) In the (F) precious (G) blood of the (C) Lamb." }
+                ],
+                [
+                    { chord: "C", text: "(C) Would you be free from your (F) passion and (C) pride?" },
+                    { chord: "C", text: "(C) There's (G) power in the blood, (C) power in the blood." },
+                    { chord: "C", text: "(C) Come for a cleansing to (F) Calvary's (C) tide." },
+                    { chord: "C", text: "(C) There's (G) wonderful power in the (C) blood." }
+                ],
+                [
+                    { chord: "C", text: "(C) Would you be whiter, much (F) whiter than (C) snow?" },
+                    { chord: "C", text: "(C) There's (G) power in the blood, (C) power in the blood." },
+                    { chord: "C", text: "(C) Sin-stains are lost in its (F) life-giving (C) flow;" },
+                    { chord: "C", text: "(C) There's (G) wonderful power in the (C) blood." }
+                ],
+                [
+                    { chord: "C", text: "(C) Would you do service for (F) Jesus your (C) King?" },
+                    { chord: "C", text: "(C) There's (G) power in the blood, (C) power in the blood." },
+                    { chord: "C", text: "(C) Would you live daily His (F) praises to (C) sing?" },
+                    { chord: "C", text: "(C) There's (G) wonderful power in the (C) blood." }
+                ],
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "ARE YOU WASHED IN BLOOD?",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bJWgpljckbA?si=PBYkBQQ4oFuVgvDm",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Have you been to Jesus for the cleansing pow’r?" },
+                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Are you fully trusting in His (F) grace this hour?" },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Are you washed in the (F) blood, " },
+                    { chord: "C", text: "(C) In the soul-cleansing (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Are your garments spotless?" },
+                    { chord: "C", text: "(C) Are they (F) white as snow? " },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Are you walking daily by the Savior’s side?" },
+                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Do you rest each moment in (F) the Crucified?" },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) When the Bridegroom cometh, will your robes be white," },
+                    { chord: "C", text: "(C) Pure and white in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Will your soul be ready for the (F) mansions bright" },
+                    { chord: "C", text: "(C) And be washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lay aside the garments that are stained with sin," },
+                    { chord: "C", text: "(C) And be washed in the (D) blood of the (G) Lamb," },
+                    { chord: "C", text: "(C) There’s a fountain flowing for the (F) soul unclean," },
+                    { chord: "C", text: "(C) Oh, be washed in the (G) blood of the (C) Lamb?" }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "NOTHING BUT THE BLOOD OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cJnD272vmns?si=pC-uARa09fGnTfUh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What can wash away my sin?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) What can make me whole again?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, precious is the flow" },
+                    { chord: "G", text: "(G) That makes me white as (C) snow; " },
+                    { chord: "C", text: "(C) No other fount I know," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C)" }
+                ],
+                [
+                    { chord: "C", text: "(C) For my cleansing this I see," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) For my pardon this my plea," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing can for sin atone," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) Naught of good that I have done" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "LOUONS LE SEIGNEUR NOTRE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/1yjdifCfy5Y?si=fJudw3_3Lrg-v6oG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louons le Seigneur notre Dieu" },
+                    { chord: "F", text: "(F) Bénissions le Nom du Tout- (G) Puissant" },
+                    { chord: "C", text: "(C) Célébrons à jamais notre Roi" },
+                    { chord: "F", text: "(F) Amen (G) alléluia (C) " },
+                    { chord: "C", text: "(C) Nous serons bien" },
+                    { chord: "G", text: "(G) Haïs, haïs, ici bas, ici bas," },
+                    { chord: "G", text: "(G) Par les hommes, par les hommes," },
+                    { chord: "C", text: "(C) Mais là-haut nous serons heureux" },
+                    { chord: "F", text: "(F) Amen (G) alléluia (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "SI RICHE, SI PROFOND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/EZ0j2sBJ-9A?si=jfEMCvQvTo29ADym",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Si riche, si profond Insondable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi" },
+                    { chord: "F", text: "(F) Indigne sauvé par (G) grâce. " },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi " },
+                    { chord: "F", text: "(F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Immuable, incomparable Inexprimable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Comme c’est beau, comme c’est doux " },
+                    { chord: "C", text: "(C) De fredonner de l’agneau Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-20-07-2025",
+            title: "THERE'S NO DISAPPOINTMENT IN HEAVEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There’s no disappointment in heaven," },
+                    { chord: "C", text: "(C) No (G) weariness, sorrow or (C) pain;" },
+                    { chord: "C", text: "(C) No hearts that are bleeding and broken," },
+                    { chord: "C", text: "(C) No (G) song with a minor (C) refrain." },
+                    { chord: "C", text: "(C) The (F) clouds of our earthly (C) horizon" },
+                    { chord: "C", text: "(C) Will (G) never appear in the (C) sky, " },
+                    { chord: "C", text: "(C) For (F) all will be sunshine and (C) gladness," },
+                    { chord: "C", text: "(C) With (G) never a sob nor a (C) sigh." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’m bound for that beautiful city" },
+                    { chord: "C", text: "(C) My Lord has prepared for His (G) own;" },
+                    { chord: "G", text: "(G) Where all the redeemed of all ages" },
+                    { chord: "G", text: "(G) Sing “Glory!” around the white (C) throne;" },
+                    { chord: "C", text: "(C) Sometimes I grow homesick for heaven," },
+                    { chord: "C", text: "(C) And the glories I there shall (F) behold;" },
+                    { chord: "F", text: "(F) What a joy that will be when my (C) Savior I (F) see," },
+                    { chord: "F", text: "(F) In (C) that beautiful (G) city of (C) gold!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We’ll never pay rent for our mansion, " },
+                    { chord: "C", text: "(C) The (G) taxes will never come (C) due;" },
+                    { chord: "C", text: "(C) Our garments will never grow threadbare, " },
+                    { chord: "C", text: "(C) But (G) always be fadeless and (C) new" },
+                    { chord: "C", text: "(C) We’ll (F) never be hungry nor (C) thirsty" },
+                    { chord: "C", text: "(C) Nor (G) languish in poverty (C) there." },
+                    { chord: "C", text: "(C) For (F) all the rich bounties of (C) heaven" },
+                    { chord: "C", text: "(C) His (G) sanctified children will (C) share." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 20 Juillet 2025 (Vingt Neuvième Dimanche)
+
         // Debut Cantiques Dimanche 13 Juillet 2025 (Vingt Huitième Dimanche)
         {
             key: "dim-13-07-2025",
