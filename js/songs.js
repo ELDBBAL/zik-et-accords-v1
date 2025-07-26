@@ -1,6 +1,321 @@
 // songs.js // Liste des cantiques
 const songs = [
         // Debut Cantiques Dimanche 27 Juillet 2025 (Trentième Dimanche)
+        {
+            key: "dim-27-07-2025",
+            title: "PASS ME NOT O GENTLE SAVIOR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Br8c0Kkx6vs?si=TFhs2rPcoD8kdvyj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pass me (F) not, O gentle (C) Savior" },
+                    { chord: "G", text: "(G) Hear my humble (C) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Savior, (F) Savior" },
+                    { chord: "C", text: "(C) Hear my (D) humble (G) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let me (F) at Thy throne of (C) mercy" },
+                    { chord: "G", text: "(G) Find a sweet (C) relief" },
+                    { chord: "C", text: "(C) Kneeling (F) there in deep (C) contrition (Am) " },
+                    { chord: "F", text: "(F) Help (G) my unbelief (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Trusting (F) only in Thy (C) merit" },
+                    { chord: "G", text: "(G) Would I seek Thy (C) face" },
+                    { chord: "C", text: "(C) Heal my (F) wounded, broken (C) spirit (Am) " },
+                    { chord: "F", text: "(F) Save (G) me by Thy (C) grace" }
+                ],
+                [
+                    { chord: "C", text: "(C) Thou the (F) spring of all my (C) comfort" },
+                    { chord: "G", text: "(G) More than life to (C) me" },
+                    { chord: "C", text: "(C) Whom have (F) I on earth beside (C) Thee? (Am) " },
+                    { chord: "F", text: "(F) Whom (G) in Heav'n but (C) Thee?" }
+                ],
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "CHAQUE INSTANT, CHAQUE JOUR QUI PASSE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kuLjuNMnW9k?si=xs2DGEIaM4exTxp1",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Chaque instant de chaque jour qui (F) passe," },
+                    { chord: "G", text: "(G) En Jésus je puis me (C) confier;" },
+                    { chord: "C", text: "(C) Cet ami que jamais rien ne (F) lasse," },
+                    { chord: "G", text: "(G) Me soutient, sait me (C) vivifier." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Et son coeur si patient, si (F) tendre" },
+                    { chord: "G", text: "(G) Sait pourvoir aux besoins de ma (C) foi;" },
+                    { chord: "Am", text: "(Am) À lui seul j'ai appris à (F) m'attendre" },
+                    { chord: "F", text: "(F) Et je (G) sais qu'il s'occupe de (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Aide-moi à n'avoir (F) confiance," },
+                    { chord: "G", text: "(G) Qu'en toi seul mon maître, mon (C) Seigneur." },
+                    { chord: "C", text: "(C) Tu connais toutes mes (F) défaillances;" },
+                    { chord: "G", text: "(G) Mon salut est seul en ta (C) faveur." }
+                ],
+                [
+                    { chord: "C", text: "(C) Prends ma main, tiens-moi quand je (F) chancelle;" },
+                    { chord: "G", text: "(G) Le chemin est sombre et (C) rocailleux." },
+                    { chord: "C", text: "(C) Oh! permets que je te sois (F) fidèle," },
+                    { chord: "G", text: "(G) Conduis-moi jusqu'au séjour des (C) cieux." }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "WHERE COULD I GO?",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nQUFt8giyp0?si=HSxFZMlxgx22bjHI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Living below in (F) this old sinful (C) world," },
+                    { chord: "C", text: "(C) Hardly a comfort can (G) afford" },
+                    { chord: "C", text: "(C) Striving alone to (F) face temptations (C) sore" },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Where could I go, O (F) where could I (C) go?" },
+                    { chord: "C", text: "(C) Seeking a refuge for my (G) soul?" },
+                    { chord: "C", text: "(C) Needing a friend to (F) help me in the (C) end," },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Neighbors are kind, I (F) love them every (C) one" },
+                    { chord: "C", text: "(C) We get along in sweet (G) accord;" },
+                    { chord: "C", text: "(C) But when my soul needs (F) manna from (C) above" },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Life here is grand with (F) friends I love so (C) dear" },
+                    { chord: "C", text: "(C) Comfort I get from God's own (G) word" },
+                    { chord: "C", text: "(C) Yet when I face the (F) chilling hand of (C) death," },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "WONDERFUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O my heart sings today, sings for joy and (G) gladness," },
+                    { chord: "G", text: "(G) Jesus saves, satisfies, banishes my (C) sadness;" },
+                    { chord: "C", text: "(C) Guilt is gone, peace is mine, peace like to a (F) river," },
+                    { chord: "F", text: "(F) Jesus is (C) wonderful, mighty (G) to deliver. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Wonderful, wonderful, Jesus is to (G) me," },
+                    { chord: "G", text: "(G) Counselor, Prince of Peace, Mighty God is (C) He;" },
+                    { chord: "C", text: "(C) Saving me, keeping me from all sin and (F) shame," },
+                    { chord: "F", text: "(F) Wonderful is (C) my Redeemer, (G) praise His (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Once a slave, now I’m free, free from (G) condemnation," },
+                    { chord: "G", text: "(G) Jesus gives liberty and a full (C) salvation;" },
+                    { chord: "C", text: "(C) Now the sins of the past have been all (F) forgiven," },
+                    { chord: "F", text: "(F) And my name is (C) inscribed on the (G) book of (C) heaven." }
+                ],
+                [
+                    { chord: "C", text: "(C) Living here with my Lord in a holy (G) union," },
+                    { chord: "G", text: "(G) Day by day, all the way holding sweet (C) communion;" },
+                    { chord: "C", text: "(C) O what change grace hath wrought in my lowly (F) station!" },
+                    { chord: "F", text: "(F) Since my soul has (C) received full (G) and free (C) salvation." }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "JESUS M'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/URb54wIwHfw?si=0VWd14dOfv-DJ4_P",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans ce monde pervers et (F) agité" },
+                    { chord: "C", text: "(C) Seigneur Tu (D) m'as (G) cherché" },
+                    { chord: "C", text: "(C) Tu m'as cherché et (F) m'as trouvé" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (D) mort pour (G) moi" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (G) mort pour (C) moi" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quelques soient les souffrances, les (F) moqueries" },
+                    { chord: "C", text: "(C) Je n'ai rien à (D) gagner ici (G) bas ;" },
+                    { chord: "C", text: "(C) Jesus m'aime, (F) ça me suffit" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) La couronne d'épine, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Oh ! toi le (D) Roi des (G) Rois" },
+                    { chord: "C", text: "(C) La couronne de honte, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Pour venir et (G) mourir pour (C) moi." }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "JE VEUX ADORER SON NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                    { chord: "C", text: "(C) Je veux adorer son Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
+                    { chord: "C", text: "(C) Je veux adorer son Nom" }
+                ],
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "WHEN THE SAINTS MARCH IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m a pilgrim and a (F) stranger " },
+                    { chord: "F", text: "(F) Wand’ring (C) through this (D) world of (G) sin," },
+                    { chord: "G", text: "(G) On my (C) way to that fair (F) city," },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, I know I’ll see my (F) Savior" },
+                    { chord: "F", text: "(F) If my (C) life is (D) free from (G) sin," },
+                    { chord: "G", text: "(G) Heaven’s (C) doors will open for (F) me" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) When we gather ‘round the (F) Throne" },
+                    { chord: "F", text: "(F) And the (C) gates are (D) closed (G) within," },
+                    { chord: "G", text: "(G) I’ll (C) be shouting “Glory, (F) Glory” " },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’m waiting for the (F) chariot" },
+                    { chord: "F", text: "(F) To (C) swing low (D) and I’ll (G) step in," },
+                    { chord: "G", text: "(G) On the (C) clouds I’ll ride to (F) Heaven" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "BRINGING IN THE SHEAVES.",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ad54bH-nQTM?si=lwW6FDwKTNtvo66h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Sowing in the morning, (F) sowing seeds of kindness," },
+                    { chord: "C", text: "(C) Sowing in the noontide (D) and the dewy (G) eve;" },
+                    { chord: "C", text: "(C) Waiting for the harvest (F) and the time of reaping" },
+                    { chord: "C", text: "(C) We shall come rejoicing, (G) bringing in the (C) sheaves." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Bringing in the sheaves, (F) bringing in the (C) sheaves," },
+                    { chord: "C", text: "(C) We shall come rejoicing, (D) bringing in the (G) sheaves;" },
+                    { chord: "C", text: "(C) Bringing in the sheaves, (F) bringing in the (C) sheaves" },
+                    { chord: "Am", text: "(Am) We shall come (F) rejoicing, (G) bringing in the (C) sheaves. " }
+                ],
+                [
+                    { chord: "C", text: "(C) Sowing in the sunshine, (F) sowing in the shadows," },
+                    { chord: "C", text: "(C) Fearing neither clouds nor (D) winter’s chilling (G) breeze;" },
+                    { chord: "C", text: "(C) By and by the harvest (F) and the labor ended," },
+                    { chord: "C", text: "(C) We shall come rejoicing, (G) bringing in the (C) sheaves." }
+                ],
+                [
+                    { chord: "C", text: "(C) Going forth with weeping, (F) sowing for the Master," },
+                    { chord: "C", text: "(C) Though the loss sustained, our (D) spirit often (G) grieves;" },
+                    { chord: "C", text: "(C) When our weeping’s over, (F) He will bid us welcome," },
+                    { chord: "C", text: "(C) We shall come rejoicing, (G) bringing in the (C) sheaves." }
+                ]
+            ]
+        },
+        {
+            key: "dim-27-07-2025",
+            title: "THERE IS A FOUNTAIN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There is a fountain filled with blood" },
+                    { chord: "C", text: "(C) Drawn from Immanuel’s veins;" },
+                    { chord: "C", text: "(C) And sinners, plunged beneath that flood," },
+                    { chord: "C", text: "(C) Lose all their guilty stains:" },
+                    { chord: "C", text: "(C) Lose all their guilty stains:" },
+                    { chord: "C", text: "(C) Lose all their guilty stains:" },
+                    { chord: "C", text: "(C) And sinners, plunged beneath that flood," },
+                    { chord: "C", text: "(C) Lose all their guilty stains." }
+                ],
+                [
+                    { chord: "C", text: "(C) The dying thief rejoiced to see" },
+                    { chord: "C", text: "(C) That fountain in his day;" },
+                    { chord: "C", text: "(C) And there may I, though vile as he," },
+                    { chord: "C", text: "(C) Wash all my sins away:" },
+                    { chord: "C", text: "(C) Wash all my sins away:" },
+                    { chord: "C", text: "(C) Wash all my sins away:" },
+                    { chord: "C", text: "(C) And there may I, though vile as he," },
+                    { chord: "C", text: "(C) Wash all my sins away." }
+                ],
+                [
+                    { chord: "C", text: "(C) Dear dying Lamb, Thy precious blood" },
+                    { chord: "C", text: "(C) Shall never lose its power," },
+                    { chord: "C", text: "(C) Till all the ransomed ones of God" },
+                    { chord: "C", text: "(C) Be saved, to sin no more:" },
+                    { chord: "C", text: "(C) Be saved, to sin no more:" },
+                    { chord: "C", text: "(C) Be saved, to sin no more:" },
+                    { chord: "C", text: "(C) Till all the ransomed ones of God," },
+                    { chord: "C", text: "(C) Be saved to sin no more." }
+                ],
+                [
+                    { chord: "C", text: "(C) E’er since by faith I saw the stream" },
+                    { chord: "C", text: "(C) Thy flowing wounds supply," },
+                    { chord: "C", text: "(C) Redeeming love has been my theme," },
+                    { chord: "C", text: "(C) And shall be till I die:" },
+                    { chord: "C", text: "(C) And shall be till I die:" },
+                    { chord: "C", text: "(C) And shall be till I die:" },
+                    { chord: "C", text: "(C) Redeeming love has been my theme," },
+                    { chord: "C", text: "(C) And shall be till I die." }
+                ],
+                [
+                    { chord: "C", text: "(C) When this poor lisping, stammering tongue" },
+                    { chord: "C", text: "(C) Lies silent in the grave," },
+                    { chord: "C", text: "(C) Then in a nobler, sweeter song," },
+                    { chord: "C", text: "(C) I’ll sing Thy power to save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to save:" },
+                    { chord: "C", text: "(C) Then in a nobler, sweeter song," },
+                    { chord: "C", text: "(C) I’ll sing Thy power to save." }
+                ],
+            ]
+        },
         // Fin Cantiques Dimanche 27 Juillet 2025 (Trentième Dimanche)
 
         // Debut Cantiques Samedi 26 Juillet 2025
@@ -15059,7 +15374,7 @@ const songs = [
     },
     {
         key: "dim-06-10-2024",
-        title: "O, how I love Jesus",
+        title: "O, HOW I LOVE JESUS",
         keySignature: "C",
         youtubeLink: "https://youtu.be/t-6n0Zdnw3U?si=aSml3pqOaw6gOymL",
         verses: [
