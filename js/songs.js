@@ -300,6 +300,43 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-26-07-2025",
+            title: "ONLY BELEIVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IAp158zTDU4?si=GbZ2834cmGkYkA1p",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, from the cross to the throne," },
+                    { chord: "C", text: "(C) From (F) death (C) into life (D) He went for His (G) own;" },
+                    { chord: "C", text: "(C) All power in earth, all power (F) above," },
+                    { chord: "F", text: "(F) Is given to (C) Him for the (G) flock of His (C) love." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) only (G) believe;" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) only (C) believe." },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) Lord I (G) believe;" },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) Lord I (C) believe" },
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, He goeth ahead," },
+                    { chord: "C", text: "(C) Your (F) Shepherd (C) selecteth the (D) path you must (G) tread;" },
+                    { chord: "C", text: "(C) The waters of Marah He’ll sweeten for (F) thee," },
+                    { chord: "F", text: "(F) He drank all the (C) bitter in (G) Gethsemane. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, whatever your lot," },
+                    { chord: "C", text: "(C) He enters (F) all (C) rooms, (D) “the doors being (G) shut,”" },
+                    { chord: "C", text: "(C) He never forsakes; He never is (F) gone," },
+                    { chord: "F", text: "(F) So count on His (C) presence in (G) darkness and (C) dawn." }
+                ]
+            ]
+        },
         // Fin Cantiques Samedi 26 Juillet 2025
 
         // Debut Cantiques Dimanche 20 Juillet 2025 (Vingt Neuvième Dimanche)
