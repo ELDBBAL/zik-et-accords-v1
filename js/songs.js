@@ -1,5 +1,11 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Samedi 26 Juillet 2025
+        // Fin Cantiques Samedi 26 Juillet 2025
+
+        // Debut Cantiques Dimanche 27 Juillet 2025 (Trentième Dimanche)
+        // Fin Cantiques Dimanche 27 Juillet 2025 (Trentième Dimanche)
+
         // Debut Cantiques Dimanche 20 Juillet 2025 (Vingt Neuvième Dimanche)
         {
             key: "dim-20-07-2025",
