@@ -1,10 +1,306 @@
 // songs.js // Liste des cantiques
 const songs = [
-        // Debut Cantiques Samedi 26 Juillet 2025
-        // Fin Cantiques Samedi 26 Juillet 2025
-
         // Debut Cantiques Dimanche 27 Juillet 2025 (Trentième Dimanche)
         // Fin Cantiques Dimanche 27 Juillet 2025 (Trentième Dimanche)
+
+        // Debut Cantiques Samedi 26 Juillet 2025
+        {
+            key: "dim-26-07-2025",
+            title: "JESUS WE ARE HERE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/TfueWyLgEEI?si=ZrqzF_0FsxZH-dST",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus, we are (G) here;" },
+                    { chord: "G", text: "(G) Jesus, we are (C) here;" },
+                    { chord: "C", text: "(C) Jesus, we are (F) here;" },
+                    { chord: "F", text: "(F) We are (C) here, (G) for (C) you." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "WHAT A FRIEND WE HAVE IN JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/znWu2HCJ92c?si=k2HzLoXgIqoYkbHT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a friend we have in (F) Jesus," },
+                    { chord: "C", text: "(C) All our (D) sins and griefs to (G) bear" },
+                    { chord: "C", text: "(C) What a privilege to (F) carry" },
+                    { chord: "C", text: "(C) Everything (G) to God in (C) prayer!" },
+                    { chord: "G", text: "(G) O what peace we often (C) forfeit," },
+                    { chord: "F", text: "(F) O what needless pain we (G) bear" },
+                    { chord: "C", text: "(C) All because we do not (F) carry" },
+                    { chord: "C", text: "(C) Everything (G) to God in (C) prayer!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Have we trials and (F) temptations?" },
+                    { chord: "C", text: "(C) Is there (D) trouble (G) anywhere?" },
+                    { chord: "C", text: "(C) We should never be (F) discouraged," },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer." },
+                    { chord: "G", text: "(G) Can we find a friend so (C) faithful, " },
+                    { chord: "F", text: "(F) Who will all our sorrows (G) share?" },
+                    { chord: "C", text: "(C) Jesus knows our every (F) weakness" },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer" }
+                ],
+                [
+                    { chord: "C", text: "(C) Are we weak and heavy (F) laden," },
+                    { chord: "C", text: "(C) Cumbered with (D) a load of (G) care?" },
+                    { chord: "C", text: "(C) Precious Saviour, still our (F) refuge," },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer." },
+                    { chord: "G", text: "(G) Do thy friends despise, (C) forsake thee?" },
+                    { chord: "F", text: "(F) Take it to the Lord in (G) prayer;" },
+                    { chord: "C", text: "(C) In His arms He’ll take and shield (F) thee," },
+                    { chord: "C", text: "(C) Thou wilt (G) find a solace (C) there." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "EVERY PROMISE IN BOOK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8jbPSKUsExc?si=XYMTnJpEbzco6uXh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Every promise in the Book is (G) mine" },
+                    { chord: "G", text: "(G) Every chapter, every verse, every (C) line," },
+                    { chord: "C", text: "(C) I am trusting in His love (F) divine," },
+                    { chord: "F", text: "(F) Every (C) promise in the (G) Book is (C) mine." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "LEAVE IT THERE.",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/3hPpH7krna8?si=mNOpnf0hrAdXweLj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the world from you withhold of its (F) silver and its gold," },
+                    { chord: "C", text: "(C) And you have to get along (D) with meager (G) fare," },
+                    { chord: "C", text: "(C) Just remember, in His Word, how (F) he feeds the little bird;" },
+                    { chord: "C", text: "(C) Take your burden to the (G) Lord and leave it (C) there." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Leave it there, leave it there," },
+                    { chord: "F", text: "(F) Take your burden to the Lord and (C) leave it (G) there;" },
+                    { chord: "C", text: "(C) If you trust and never doubt, " },
+                    { chord: "C", text: "(F) He will surely bring you out; " },
+                    { chord: "F", text: "(C) Take your burden to the (G) Lord and leave it (C) there." }
+                ],
+                [
+                    { chord: "C", text: "(C) If your body suffers pain and your (F) health you can’t regain" },
+                    { chord: "C", text: "(C) And your soul is almost (D) sinking in (G) despair," },
+                    { chord: "C", text: "(C) Jesus knows the pain you feel, He can (F) save and He can heal;" },
+                    { chord: "C", text: "(C) Take your burden to the (G) Lord and leave it (C) there." }
+                ],
+                [
+                    { chord: "C", text: "(C) When your enemies assail and your (F) heart begins to fail," },
+                    { chord: "C", text: "(C) Don’t forget that God in (D) heaven answers (G) prayer;" },
+                    { chord: "C", text: "(C) He will make a way for you and will (F) lead you safely through;" },
+                    { chord: "C", text: "(C) Take your burden to the (G) Lord and leave it (C) there." }
+                ],
+                [
+                    { chord: "C", text: "(C) When your youthful days are gone and (F) old age is stealing on," },
+                    { chord: "C", text: "(C) And your body bends (D) beneath the weight of (G) care;" },
+                    { chord: "C", text: "(C) He will never leave you then, He’ll (F) go with you to the end;" },
+                    { chord: "C", text: "(C) Take your burden to the (G) Lord and leave it (C) there." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "LAISSE-LES.",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-6slJ-Al3aE?si=_HGlyjnkTF8EMe_P",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Si le monde te privait De son (F) argent et son (C) or" },
+                    { chord: "C", text: "(C) Et que tu dois vivre (D) avec le moindre (G) frais" },
+                    { chord: "C", text: "(C) Souviens-toi que Dieu là-haut Prend soin (F) des petits (C) oiseaux" },
+                    { chord: "Dm", text: "(Dm) Abandonne tes fardeaux (G) à Ton (C) Sauveur." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Laisse-les, (F) laisse- (C) les," },
+                    { chord: "C", text: "(C) Laisse (G) tes fardeaux Aux pieds de Ton (C) Sauveur" },
+                    { chord: "C", text: "(C) Si tu crois sans défaillir" },
+                    { chord: "F", text: "(F) Il saura te secourir " },
+                    { chord: "C", text: "(C) Abandonne tes (G) fardeaux à Ton (C) Sauveur." }
+                ],
+                [
+                    { chord: "C", text: "(C) Si ton pauvre corps brisé A (F) perdu force et (C) santé" },
+                    { chord: "C", text: "(C) Si tu pleures et tu (D) frémis sous la (G) douleur" },
+                    { chord: "C", text: "(C) Jésus sait ce que tu sens Il peut (F) sauver et (C) guérir" },
+                    { chord: "Dm", text: "(Dm) Abandonne tes fardeaux (G) à Ton (C) Sauveur." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand tes ennemis t’assaillent Ton cœur (F) commence à (C) faiblir" },
+                    { chord: "C", text: "(C) N’oublie pas que Dieu (D) répond à la (G) prière"},
+                    { chord: "C", text: "(C) Il fera une voie pour toi Te (F) conduira hors du (C) danger" },
+                    { chord: "Dm", text: "(Dm) Abandonne tes fardeaux (G) à Ton (C) Sauveur." }
+                ],
+                [
+                    { chord: "C", text: "(C) Si ta jeunesse un jour (F) t’abandonne sans (C) retour" },
+                    { chord: "C", text: "(C) Si tu vas, courbé par (D) l’âge et sans (G) vigueur" },
+                    { chord: "C", text: "(C) Il ne te quittera pas Il (F) ira avec toi au (C) bout" },
+                    { chord: "Dm", text: "(Dm) Abandonne tes fardeaux (G) à Ton (C) Sauveur." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "TOUT EST EN LUI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IM9LhW7S-_w?si=ZTe2tEZfXOEwVIF8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Dieu puissant, c’est Jésus c’est le (F) Prince de (C) paix" },
+                    { chord: "C", text: "(C) Le Père de l’Eternité et (D) le Roi de (G) beauté." },
+                    { chord: "C", text: "(C) Le Merveilleux en sagesse Par (F) qui toute chose est (C) faite," },
+                    { chord: "C", text: "(C) La plénitude (F) divine en (G) Jésus (C) incarnée." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                    { chord: "C", text: "(C) La plénitude divine est (D) toute en (G) Lui." },
+                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                    { chord: "C", text: "(C) Jésus est Dieu (F) Tout-puissant et (G) tout est en (C) Lui." }
+                ],
+                [
+                    { chord: "C", text: "(C) Emmanuel : Dieu avec nous, (F) Jéhovah (C) l’Eternel" },
+                    { chord: "C", text: "(C) L’Esprit tout omniprésent qui (D) remplit (G) l’univers," },
+                    { chord: "C", text: "(C) Le grand Sacrificateur et (F) l’Agneau des (C) pécheurs," },
+                    { chord: "C", text: "(C) L’auteur de la (F) Rédemption, que (G) béni soit Son (C) Nom" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le commencement et la fin, (F) l’Alpha et (G) l’Omega," },
+                    { chord: "C", text: "(C) La Vraie Parole incarnée, (D) l’Ami des (G) rachetés." },
+                    { chord: "C", text: "(C) La sagesse et perfection, ma (F) justice et (C) puissance" },
+                    { chord: "C", text: "(C) Tout ce dont j’ai le (F) besoin: je (G) le trouve en Sa (C) main." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Dieu que nous attendions (F) sera la gaie (C) chanson" },
+                    { chord: "C", text: "(C) De l’Israël revenu, quand (D) paraîtra (G) Jésus." },
+                    { chord: "C", text: "(C) Il viendra nous délivrer notre (F) Agneau (C) immolé," },
+                    { chord: "C", text: "(C) La plénitude est (F) en Lui, Le (G) Vainqueur de la (C) nuit." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "WHEN I SEE THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X_HH-I5C4kE?si=TZKkXP6rdV7fpSsO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Christ our redeemer, (F) died on the (C) cross," },
+                    { chord: "F", text: "(F) Died for the sinner, (G) paid all His (C) due;" },
+                    { chord: "C", text: "(C) Sprinkle your soul with the (F) blood of the Lamb," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When I (F) see the (C) blood," },
+                    { chord: "C", text: "(C) When (G) I see (C) the blood," },
+                    { chord: "C", text: "(C) When I see (F) the blood, I will (C) pass," },
+                    { chord: "C", text: "(C) I will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Chiefest of sinners, (F) Jesus will (C) save;" },
+                    { chord: "F", text: "(F) All He has promised, (G) that will He (C) do;" },
+                    { chord: "C", text: "(C) Wash in the fountain (F) opened for (C) sin," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Judgment is coming, (F) all will be (C) there," },
+                    { chord: "F", text: "(F) Each one receiving, (G) justly his (C) due;" },
+                    { chord: "C", text: "(C) Hide in the saving (F) in-cleansings (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, great compassion! (F) O boundless (C) love!;" },
+                    { chord: "F", text: "(F) O loving kindness, (G) faithful and (C) true!;" },
+                    { chord: "C", text: "(C) Find peace and shelter (F) under the (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "HOSANNA, BENI SOIT LE ROC",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/1dpcOfy4TKI?si=aWowxKFaselrAMxo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Glorifions le Seigneur ensemble," },
+                    { chord: "C", text: "(C) Car (F) Il est (G) digne de (C) louange." },
+                    { chord: "C", text: "(C) Glorifions le Seigneur ensemble," },
+                    { chord: "C", text: "(C) Car (F) Il est (G) digne de (C) louange." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Hosanna! (F) Béni soit le (C) Roc," },
+                    { chord: "F", text: "(F) Béni soit le (C) Rocher de mon (D) salut (G) !" },
+                    { chord: "C", text: "(C) Hosanna! (F) Béni soit le (C) Roc," },
+                    { chord: "F", text: "(F) Béni soit le (C) Rocher de mon (G) salut (C) !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire à Son Nom, Gloire à Son Nom," },
+                    { chord: "C", text: "(C) Il (F) vit et (G) règne éternelle- (C) -ment." },
+                    { chord: "C", text: "(C) Gloire à Son Nom, Gloire à Son Nom," },
+                    { chord: "C", text: "(C) Il (F) vit et (G) règne éternelle- (C) -ment." }
+                ],
+                [
+                    { chord: "C", text: "(C) Jéhovah Jiré est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il pour- (G) -voit à mes be- (C) -soins" },
+                    { chord: "C", text: "(C) Jéhovah Jiré est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il pour- (G) -voit à mes be- (C) -soins" }
+                ],
+                [
+                    { chord: "C", text: "(C) Jéhovah Rapha est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il gué- (G) -rit mes mala- (C) -dies" },
+                    { chord: "C", text: "(C) Jéhovah Rapha est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il gué- (G) -rit mes mala- (C) -dies" }
+                ],
+                [
+                    { chord: "C", text: "(C) Jéhovah Shalom est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il me (G) donne de Sa (C) paix" },
+                    { chord: "C", text: "(C) Jéhovah Shalom est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il me (G) donne de Sa (C) paix" }
+                ],
+                [
+                    { chord: "C", text: "(C) Jéhovah Nissi est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) l’Eter- (G) -nel est ma ban- (C) -nière" },
+                    { chord: "C", text: "(C) Jéhovah Nissi est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) l’Eter- (G) -nel est ma ban- (C) -nière" }
+                ],
+                [
+                    { chord: "C", text: "(C) Jéhovah Shamma est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il est (G) ici avec (C) nous" },
+                    { chord: "C", text: "(C) Jéhovah Shamma est Son Nom" },
+                    { chord: "C", text: "(C) Car (F) Il est (G) ici avec (C) nous" }
+                ],
+            ]
+        },
+        {
+            key: "dim-26-07-2025",
+            title: "WHAT A MIGHTY WE SERVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/YGL15yoqsJI?si=NHx0hahJRqK3DGTA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a mighty God we serve," },
+                    { chord: "C", text: "(C) What a mighty God we (G) serve," },
+                    { chord: "C", text: "(C) Angels bow before him," },
+                    { chord: "C", text: "(C) Heaven and earth adore Him" },
+                    { chord: "F", text: "(F) What a mighty (G) God we (C) serve" }
+                ]
+            ]
+        },
+        // Fin Cantiques Samedi 26 Juillet 2025
 
         // Debut Cantiques Dimanche 20 Juillet 2025 (Vingt Neuvième Dimanche)
         {
