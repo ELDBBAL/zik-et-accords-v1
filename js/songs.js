@@ -180,9 +180,9 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Je veux adorer son Nom" },
-                    { chord: "C", text: "(C) Je veux adorer son Nom" },
-                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
-                    { chord: "C", text: "(C) Je veux adorer son Nom" }
+                    { chord: "C", text: "(C) Je veux ado- (D) -rer son (G) Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des (F) merveilles pour moi" },
+                    { chord: "C", text: "(C) Je veux ado- (G) -rer son (C) Nom" }
                 ],
             ]
         },
@@ -262,57 +262,57 @@ const songs = [
             key: "dim-27-07-2025",
             title: "THERE IS A FOUNTAIN",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/z1WRt1Ag5gI?si=SPqCGV5GHQZuG-Xc",
             verses: [
                 [
-                    { chord: "C", text: "(C) There is a fountain filled with blood" },
-                    { chord: "C", text: "(C) Drawn from Immanuel’s veins;" },
-                    { chord: "C", text: "(C) And sinners, plunged beneath that flood," },
-                    { chord: "C", text: "(C) Lose all their guilty stains:" },
-                    { chord: "C", text: "(C) Lose all their guilty stains:" },
-                    { chord: "C", text: "(C) Lose all their guilty stains:" },
-                    { chord: "C", text: "(C) And sinners, plunged beneath that flood," },
-                    { chord: "C", text: "(C) Lose all their guilty stains." }
+                    { chord: "C", text: "(C) There is a fountain (F) filled with (C) blood" },
+                    { chord: "C", text: "(C) Drawn from (D) Immanuel’s (G) veins;" },
+                    { chord: "C", text: "(C) And sinners, plunged (F) beneath that (C) flood," },
+                    { chord: "C", text: "(C) Lose all their (G) guilty (C) stains:" },
+                    { chord: "C", text: "(C) Lose all their guilty (F) stains:" },
+                    { chord: "C", text: "(C) Lose all their (D) guilty (G) stains:" },
+                    { chord: "C", text: "(C) And sinners, plunged (F) beneath that (C) flood," },
+                    { chord: "C", text: "(C) Lose all their (G) guilty (C) stains." }
                 ],
                 [
-                    { chord: "C", text: "(C) The dying thief rejoiced to see" },
-                    { chord: "C", text: "(C) That fountain in his day;" },
-                    { chord: "C", text: "(C) And there may I, though vile as he," },
-                    { chord: "C", text: "(C) Wash all my sins away:" },
-                    { chord: "C", text: "(C) Wash all my sins away:" },
-                    { chord: "C", text: "(C) Wash all my sins away:" },
-                    { chord: "C", text: "(C) And there may I, though vile as he," },
-                    { chord: "C", text: "(C) Wash all my sins away." }
+                    { chord: "C", text: "(C) The dying thief (F) rejoiced to (C) see" },
+                    { chord: "C", text: "(C) That fountain (D) in his (G) day;" },
+                    { chord: "C", text: "(C) And there may I, though (F) vile as (C) he," },
+                    { chord: "C", text: "(C) Wash all my (G) sins (C) away:" },
+                    { chord: "C", text: "(C) Wash all my sins (F) away:" },
+                    { chord: "C", text: "(C) Wash all my (D) sins (G) away:" },
+                    { chord: "C", text: "(C) And there may I, though (F) vile as (C) he," },
+                    { chord: "C", text: "(C) Wash all my (G) sins (C) away." }
                 ],
                 [
-                    { chord: "C", text: "(C) Dear dying Lamb, Thy precious blood" },
-                    { chord: "C", text: "(C) Shall never lose its power," },
-                    { chord: "C", text: "(C) Till all the ransomed ones of God" },
-                    { chord: "C", text: "(C) Be saved, to sin no more:" },
-                    { chord: "C", text: "(C) Be saved, to sin no more:" },
-                    { chord: "C", text: "(C) Be saved, to sin no more:" },
-                    { chord: "C", text: "(C) Till all the ransomed ones of God," },
-                    { chord: "C", text: "(C) Be saved to sin no more." }
+                    { chord: "C", text: "(C) Dear dying Lamb, (F) Thy precious (C) blood" },
+                    { chord: "C", text: "(C) Shall never (D) lose its (G) power," },
+                    { chord: "C", text: "(C) Till all the ransomed (F) ones of (C) God" },
+                    { chord: "C", text: "(C) Be saved, to (G) sin no (C) more:" },
+                    { chord: "C", text: "(C) Be saved, to sin no (F) more:" },
+                    { chord: "C", text: "(C) Be saved, to (D) sin no (G) more:" },
+                    { chord: "C", text: "(C) Till all the ransomed (F) ones of (C) God" },
+                    { chord: "C", text: "(C) Be saved, to (G) sin no (C) more." }
                 ],
                 [
-                    { chord: "C", text: "(C) E’er since by faith I saw the stream" },
-                    { chord: "C", text: "(C) Thy flowing wounds supply," },
-                    { chord: "C", text: "(C) Redeeming love has been my theme," },
-                    { chord: "C", text: "(C) And shall be till I die:" },
-                    { chord: "C", text: "(C) And shall be till I die:" },
-                    { chord: "C", text: "(C) And shall be till I die:" },
-                    { chord: "C", text: "(C) Redeeming love has been my theme," },
-                    { chord: "C", text: "(C) And shall be till I die." }
+                    { chord: "C", text: "(C) E’er since by faith (F) I saw the (C) stream" },
+                    { chord: "C", text: "(C) Thy flowing (D) wounds (G) supply," },
+                    { chord: "C", text: "(C) Redeeming love has (F) been my (C) theme," },
+                    { chord: "C", text: "(C) And shall be (G) till I (C) die:" },
+                    { chord: "C", text: "(C) And shall be till I (F) die:" },
+                    { chord: "C", text: "(C) And shall be (D) till I (G) die:" },
+                    { chord: "C", text: "(C) Redeeming love has (F) been my (C) theme," },
+                    { chord: "C", text: "(C) And shall be (G) till I (C) die." }
                 ],
                 [
-                    { chord: "C", text: "(C) When this poor lisping, stammering tongue" },
-                    { chord: "C", text: "(C) Lies silent in the grave," },
-                    { chord: "C", text: "(C) Then in a nobler, sweeter song," },
-                    { chord: "C", text: "(C) I’ll sing Thy power to save:" },
-                    { chord: "C", text: "(C) I’ll sing Thy power to save:" },
-                    { chord: "C", text: "(C) I’ll sing Thy power to save:" },
-                    { chord: "C", text: "(C) Then in a nobler, sweeter song," },
-                    { chord: "C", text: "(C) I’ll sing Thy power to save." }
+                    { chord: "C", text: "(C) When this poor lisping, (F) stammering (C) tongue" },
+                    { chord: "C", text: "(C) Lies silent (D) in the (G) grave," },
+                    { chord: "C", text: "(C) Then in a nobler, (F) sweeter (C) song," },
+                    { chord: "C", text: "(C) I’ll sing Thy (G) power to (C) save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to (F) save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to (G) save:" },
+                    { chord: "C", text: "(C) Then in a nobler, (F) sweeter (C) song," },
+                    { chord: "C", text: "(C) I’ll sing Thy (G) power to (C) save." }
                 ],
             ]
         },
@@ -5354,9 +5354,9 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Je veux adorer son Nom" },
-                    { chord: "C", text: "(C) Je veux adorer son Nom" },
-                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
-                    { chord: "C", text: "(C) Je veux adorer son Nom" }
+                    { chord: "C", text: "(C) Je veux ado- (D) -rer son (G) Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des (F) merveilles pour moi" },
+                    { chord: "C", text: "(C) Je veux ado- (G) -rer son (C) Nom" }
                 ],
             ]
         },
@@ -8744,10 +8744,10 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Je veux adorer son Nom" },
-                    { chord: "F", text: "(F) Je veux adorer son Nom" },
-                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
-                    { chord: "G", text: "(G) Je veux adorer son Nom" }
-                ]
+                    { chord: "C", text: "(C) Je veux ado- (D) -rer son (G) Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des (F) merveilles pour moi" },
+                    { chord: "C", text: "(C) Je veux ado- (G) -rer son (C) Nom" }
+                ],
             ]
         },
         {
@@ -10097,10 +10097,10 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Je veux adorer son Nom" },
-                    { chord: "C", text: "(C) Je veux adorer son Nom" },
-                    { chord: "C", text: "(C) Car Il a fait des merveilles pour moi" },
-                    { chord: "C", text: "(C) Je veux adorer son Nom" },
-                ]
+                    { chord: "C", text: "(C) Je veux ado- (D) -rer son (G) Nom" },
+                    { chord: "C", text: "(C) Car Il a fait des (F) merveilles pour moi" },
+                    { chord: "C", text: "(C) Je veux ado- (G) -rer son (C) Nom" }
+                ],
             ]
         },
         {
