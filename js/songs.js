@@ -1,5 +1,271 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 03 Aout 2025 (Trentième unième Dimanche)
+        {
+            key: "dim-03-08-2025",
+            title: "JUST A CLOSER WALK WITH THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/iPmJemdLGf8?si=naRe4Q-0JBtF73FA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am weak but Thou art (F) strong;" },
+                    { chord: "G", text: "(G) Jesus, keep me from all (C) wrong;" },
+                    { chord: "C", text: "(C) I'll be satisfied as (F) long" },
+                    { chord: "C", text: "(C) As I walk, let me (G) walk close to (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Just a closer walk with (F) Thee" },
+                    { chord: "G", text: "(G) Grant it, Jesus, is my (C) plea," },
+                    { chord: "C", text: "(C) Daily walking close to (F) Thee," },
+                    { chord: "C", text: "(C) Let it be, dear (G) Lord, let it (C) be." }
+                ],
+                [
+                    { chord: "C", text: "(C) Thro' this world of toil and (F) snares" },
+                    { chord: "G", text: "(G) If I falter, Lord, who (C) cares?" },
+                    { chord: "C", text: "(C) Who with me my burden (F) shares?" },
+                    { chord: "C", text: "(C) None but Thee, dear (G) Lord, none but (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "(C) When my feeble life is (F) o'er," },
+                    { chord: "G", text: "(G) Time for me will be no (C) more;" },
+                    { chord: "C", text: "(C) Guide me gently, safely (F) o'er" },
+                    { chord: "C", text: "(C) To Thy kingdom shore, (G) to Thy (C) shore." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-08-2025",
+            title: "MON SEUL APPUI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/DsxGGMIYP3Q?si=ymLroyUuswkYNl4Y",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon seul appui, c’est (F) l’Ami (C) Céleste," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Les ans s’en vont, cet (F) Ami me (C) reste," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Cet Ami connait mes alarmes," },
+                    { chord: "C", text: "(C) Son amour guérit (D) ma douleur; (G) " },
+                    { chord: "C", text: "(C) Sa main essuie (F) toutes mes (C) larmes" },
+                    { chord: "C", text: "(C) Doux (G) Sauveur! Doux (C) Sauveur!" },
+                ],
+                [
+                    { chord: "C", text: "(C) Tout mon désir, c’est (F) de Le (C) connaitre," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Et que sa paix (F) remplisse mon (C) être," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans le danger, (F) toujours il me (C) garde," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Dans mes soucis, à (F) Lui je (C) regarde," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-08-2025",
+            title: "THAT MAN FROM GALILEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QcyAxo7SxVM?si=7JvRbkN9BX2FsQHC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In a manger long ago, I know it's really (G) so," },
+                    { chord: "G", text: "(G) A Babe was born to (F) save men from their (C) sin." },
+                    { chord: "C", text: "(C) John saw Him on the shore, the Lamb forevermore, (G) " },
+                    { chord: "G", text: "(G) Oh (F) Christ, the (G) Crucified of (C) Calvary." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, I love that Man from (G) Galilee," },
+                    { chord: "G", text: "(G) For He's done so very much for (C) me." },
+                    { chord: "C", text: "(C) He's forgiven all my sins, placed the (F) Holy Ghost within;" },
+                    { chord: "F", text: "(F) Oh, I (C) love that (G) man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The publican went to pray in the temple there one (G) day," },
+                    { chord: "G", text: "(G) He cried, O (F) Lord be merciful to (C) me!" },
+                    { chord: "C", text: "(C) He was forgiven of every sin, and a deep peace placed (G) within;" },
+                    { chord: "G", text: "(G) He (F) said, Come (G) see this Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The lame was made to walk, the dumb was made to (G) talk," },
+                    { chord: "G", text: "(G) That power was (F) spoken with love upon the (C) sea;" },
+                    { chord: "C", text: "(C) The blind was made to see, I know it could (G) only be" },
+                    { chord: "G", text: "(G) The (F) mercy of (G) that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nicodemus came by night, to know the way of (G) right," },
+                    { chord: "G", text: "(G) He asked the Son (F) of Man what must he (C) do." },
+                    { chord: "C", text: "(C) These words He said to him, Ye must be born (G) again," },
+                    { chord: "G", text: "(G) By (F) the Spirit (G) of that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The woman at the well, He all her sins did (G) tell," },
+                    { chord: "G", text: "(G) How five husbands (F) she had at that (C) time," },
+                    { chord: "C", text: "(C) She was forgiven of every sin, and a deep peace came (G) within;" },
+                    { chord: "G", text: "(G) Then (F) she cried, (G) Come see that Man from (C) Galilee!" }
+                ],
+            ]
+        },
+        {
+            key: "dim-03-08-2025",
+            title: "WHEN THE SAINTS MARCH IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m a pilgrim and a (F) stranger " },
+                    { chord: "F", text: "(F) Wand’ring (C) through this (D) world of (G) sin," },
+                    { chord: "G", text: "(G) On my (C) way to that fair (F) city," },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, I know I’ll see my (F) Savior" },
+                    { chord: "F", text: "(F) If my (C) life is (D) free from (G) sin," },
+                    { chord: "G", text: "(G) Heaven’s (C) doors will open for (F) me" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) When we gather ‘round the (F) Throne" },
+                    { chord: "F", text: "(F) And the (C) gates are (D) closed (G) within," },
+                    { chord: "G", text: "(G) I’ll (C) be shouting “Glory, (F) Glory” " },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’m waiting for the (F) chariot" },
+                    { chord: "F", text: "(F) To (C) swing low (D) and I’ll (G) step in," },
+                    { chord: "G", text: "(G) On the (C) clouds I’ll ride to (F) Heaven" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-08-2025",
+            title: "WHEN THE SAVIOR CALLS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Jah_YZs4MDc?si=p_TVkecA-2LAzJz5",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) When He (G) calls for me I will (C) hear him" },
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) If my heart (G) is right, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) If my robe (G) is white, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-08-2025",
+            title: "WHEN THE ROLL IS CALLED UP YONDER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_LjZfjuOASs?si=57pUu5xvIHi8pq0C",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When the trumpet of the Lord " },
+                    { chord: "C", text: "(C) Shall sound and (F) time shall be no (C) more," },
+                    { chord: "C", text: "(C) And the morning breaks, (D) eternal," },
+                    { chord: "D", text: "(D) bright and (G) fair;" },
+                    { chord: "C", text: "(C) When the saved of earth shall gather" },
+                    { chord: "C", text: "(C) Over on (F) the other (C) shore," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the roll is called up yonder," },
+                    { chord: "G", text: "(G) When the roll is called up yonder," },
+                    { chord: "C", text: "(C) When the roll is called up (F) yonder," },
+                    { chord: "F", text: "(F) When the (C) roll is called up (G) yonder, I'll be (C) there." }
+                ],
+                [
+                    { chord: "C", text: "(C) On that bright and cloudless morning" },
+                    { chord: "C", text: "(C) When the (F) dead in Christ shall (C) rise," },
+                    { chord: "C", text: "(C) And the glory of his (D) resurrection (G) share;" },
+                    { chord: "C", text: "(C) When his chosen ones shall gather" },
+                    { chord: "C", text: "(C) To their (F) home beyond the (C) skies," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ],
+                [
+                    { chord: "C", text: "(C) Let us labor for the Master" },
+                    { chord: "C", text: "(C) From the (F) dawn till setting (C) sun;" },
+                    { chord: "C", text: "(C) Let us talk of all his (D) wondrous love and (G) care." },
+                    { chord: "C", text: "(C) Then when all of life is over" },
+                    { chord: "C", text: "(C) And our (F) work on earth is (C) done," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ]
+            ]
+        },
+        {
+            key: "dim-03-08-2025",
+            title: "THE SOLID ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uhVwVHC6_n0?si=GFm_9vOymnNyg0_M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My hope is built on (G) nothing less" },
+                    { chord: "G", text: "(G) Than (F) Jesus Christ, my (C) righteousness;" },
+                    { chord: "C", text: "(C) I dare not trust the (G) sweetest frame," },
+                    { chord: "G", text: "(G) But (F) wholly lean on Jesus’ (C) name." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) On Christ, the solid Rock, I (F) stand;" },
+                    { chord: "C", text: "(C) All other ground is (G) sinking sand," },
+                    { chord: "C", text: "(C) All other ground is (F) sinking sand." }
+                ],
+                [
+                    { chord: "C", text: "(C) When darkness veils His (G) lovely face," },
+                    { chord: "G", text: "(G) I (F) rest on His unchanging (C) grace;" },
+                    { chord: "C", text: "(C) In every high and (G) stormy gale," },
+                    { chord: "G", text: "(G) My (F) anchor holds within the (C) veil." }
+                ],
+                [
+                    { chord: "C", text: "(C) His oath, His covenant, His (G) blood," },
+                    { chord: "F", text: "(F) Support me in the (C) whelming flood;" },
+                    { chord: "C", text: "(C) When all around my (G) soul gives way," },
+                    { chord: "F", text: "(F) He then is all my hope and (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) When He shall come with trumpet (G) sound," },
+                    { chord: "G", text: "(G) Oh, (F) may I then in Him (C) be found;" },
+                    { chord: "C", text: "(C) In Him, my (G) righteousness, alone," },
+                    { chord: "F", text: "(F) Faultless to stand before the (C) throne." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 03 Aout 2025 (Trentième unième Dimanche)
+
         // Debut Cantiques Dimanche 27 Juillet 2025 (Trentième Dimanche)
         {
             key: "dim-27-07-2025",
