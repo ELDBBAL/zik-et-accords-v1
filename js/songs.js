@@ -198,7 +198,7 @@ const songs = [
         },
         {
             key: "dim-03-08-2025",
-            title: "WHEN THE SAINTS MARCH IN",
+            title: "WHEN THE SAINTS GO MARCHING IN",
             keySignature: "C",
             youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
             verses: [
