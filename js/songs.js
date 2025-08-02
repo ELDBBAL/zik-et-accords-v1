@@ -36,6 +36,51 @@ const songs = [
         },
         {
             key: "dim-03-08-2025",
+            title: "THIS IS LIKE HEAVEN TO ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/DNYghrUy-zU?si=PPX_a-6rbaTYQA51",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We find many people who (G) can’t understand" },
+                    { chord: "G", text: "(G) Why we are so happy and (C) free." },
+                    { chord: "C", text: "(C) We’ve crossed over Jordan to (F) Canaan’s fair land," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) And this is like Heaven to (G) me," },
+                    { chord: "G", text: "(G) Yes, this is like Heaven to (C) me." },
+                    { chord: "C", text: "(C) I’ve crossed over Jordan to (F) Canaan’s fair land," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) So when we are happy we (G) sing and we shout." },
+                    { chord: "G", text: "(G) Some don’t understand us, I (C) see." },
+                    { chord: "C", text: "(C) We’re filled with the Spirit, (F) there isn’t a doubt," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) We’ve heard the sweet music, the (G) heavenly chord," },
+                    { chord: "G", text: "(G) From glory land over the (C) sea;" },
+                    { chord: "C", text: "(C) A soul thrilling message from (F) Jesus, our Lord," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) We’re looking for Jesus with (G) glory to come;" },
+                    { chord: "G", text: "(G) ’Tis Jesus who died on the (C) tree." },
+                    { chord: "C", text: "(C) A cloud of bright angels to (F) carry me home" },
+                    { chord: "C", text: "(C) O that will be (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) O that will be Heaven to (G) me." },
+                    { chord: "G", text: "(G) Yes, that will be Heaven to (C) me." },
+                    { chord: "C", text: "(C) A cloud of bright angels to (F) carry me home" },
+                    { chord: "C", text: "(C) Yes, that will be (G) Heaven to (C) me." }
+                ],
+            ]
+        },
+        {
+            key: "dim-03-08-2025",
             title: "MON SEUL APPUI",
             keySignature: "C",
             youtubeLink: "https://youtu.be/DsxGGMIYP3Q?si=ymLroyUuswkYNl4Y",
