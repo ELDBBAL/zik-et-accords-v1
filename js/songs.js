@@ -1,5 +1,9 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 10 Aout 2025 (Trentième deuxième Dimanche)
+        
+        // Fin Cantiques Dimanche 10 Aout 2025 (Trentième deuxième Dimanche)
+        
         // Debut Cantiques Dimanche 03 Aout 2025 (Trentième unième Dimanche)
         {
             key: "dim-03-08-2025",
