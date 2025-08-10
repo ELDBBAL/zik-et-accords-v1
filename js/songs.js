@@ -1,7 +1,333 @@
 // songs.js // Liste des cantiques
 const songs = [
         // Debut Cantiques Dimanche 10 Aout 2025 (Trentième deuxième Dimanche)
-        
+        {
+            key: "dim-10-08-2025",
+            title: "WHAT A FRIEND WE HAVE IN JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/znWu2HCJ92c?si=k2HzLoXgIqoYkbHT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a friend we have in (F) Jesus," },
+                    { chord: "C", text: "(C) All our (D) sins and griefs to (G) bear" },
+                    { chord: "C", text: "(C) What a privilege to (F) carry" },
+                    { chord: "C", text: "(C) Everything (G) to God in (C) prayer!" },
+                    { chord: "G", text: "(G) O what peace we often (C) forfeit," },
+                    { chord: "F", text: "(F) O what needless pain we (G) bear" },
+                    { chord: "C", text: "(C) All because we do not (F) carry" },
+                    { chord: "C", text: "(C) Everything (G) to God in (C) prayer!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Have we trials and (F) temptations?" },
+                    { chord: "C", text: "(C) Is there (D) trouble (G) anywhere?" },
+                    { chord: "C", text: "(C) We should never be (F) discouraged," },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer." },
+                    { chord: "G", text: "(G) Can we find a friend so (C) faithful, " },
+                    { chord: "F", text: "(F) Who will all our sorrows (G) share?" },
+                    { chord: "C", text: "(C) Jesus knows our every (F) weakness" },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer" }
+                ],
+                [
+                    { chord: "C", text: "(C) Are we weak and heavy (F) laden," },
+                    { chord: "C", text: "(C) Cumbered with (D) a load of (G) care?" },
+                    { chord: "C", text: "(C) Precious Saviour, still our (F) refuge," },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer." },
+                    { chord: "G", text: "(G) Do thy friends despise, (C) forsake thee?" },
+                    { chord: "F", text: "(F) Take it to the Lord in (G) prayer;" },
+                    { chord: "C", text: "(C) In His arms He’ll take and shield (F) thee," },
+                    { chord: "C", text: "(C) Thou wilt (G) find a solace (C) there." }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "MY SOUL REJOICE AND PRAISE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My soul, rejoice and (F) praise the (C) Lord" },
+                    { chord: "F", text: "(F) Rejoice and (G) praise the (C) Lord" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Rejoice and praise the (G) Lord" },
+                    { chord: "G", text: "(G) Rejoice and praise the (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "WE GIVE ALL THE GLORY TO JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5lzPhJfD18?si=QkJG9uv3S2Xl6J1M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (G) tell of His love His (C) wonderful love" },
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (F) tell of His (G) wonderful (C) love" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "NOUS MARCHONS VERS SION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/abKCrE5K_04?si=JvU1kyT4u_XUgqmK",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Laissons voir (F) notre (C) joie," },
+                    { chord: "C", text: "(C) Nous qui (D) aimons le (G) Seigneur," },
+                    { chord: "C", text: "(C) Joignons au chant un (F) doux accord," },
+                    { chord: "G", text: "(G) Joignons au chant un (F) doux (C) accord," },
+                    { chord: "C", text: "(C) Et en- (G) -vi- (C) -ronnons le (F) trône," },
+                    { chord: "C", text: "(C) Et envi- (G) -ronnons le (C) trône." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Nous marchons vers Sion," },
+                    { chord: "C", text: "(C) Merveilleuse, (D) merveilleuse (G) Sion;" },
+                    { chord: "C", text: "(C) Nous montons tout droit vers (F) Sion," },
+                    { chord: "C", text: "(C) La merveilleuse (G) Cité de (C) Dieu." }
+                ],
+                [
+                    { chord: "C", text: "(C) Qu’ils refusent (F) de (C) chanter" },
+                    { chord: "C", text: "(C) Ceux qui ne (D) connaissent pas (G) Dieu" },
+                    { chord: "C", text: "(C) Mais tous les enfants du (F) Roi céleste," },
+                    { chord: "G", text: "(G) Mais tous les enfants du (F) Roi (C) céleste," },
+                    { chord: "C", text: "(C) Procla- (G) -me- (C) -ront leur (F) joie," },
+                    { chord: "C", text: "(C) Proclame- (G) -ront leur (C) joie." }
+                ],
+                [
+                    { chord: "C", text: "(C) La colline (F) de (C) Sion" },
+                    { chord: "C", text: "(C) Produit des (D) délices (G) sacrées" },
+                    { chord: "C", text: "(C) Avant que nous attei- (F) -gnions le Ciel," },
+                    { chord: "G", text: "(G) Avant que nous attei- (F) -gnions (C) le Ciel," },
+                    { chord: "C", text: "(C) Ou marchions (G) sur (C) les rues (F) d’or," },
+                    { chord: "C", text: "(C) Ou marchions (G) sur les rues (C) d’or." }
+                ],
+                [
+                    { chord: "C", text: "(C) Puissent nos chants (F) abonder, (C) " },
+                    { chord: "C", text: "(C) Et chaque larme (D) être (G) séchée;" },
+                    { chord: "C", text: "(C) Nous marchons sur le (F) sol d’Emmanuel," },
+                    { chord: "G", text: "(G) Nous marchons sur le (F) sol (C) d’Emmanuel," },
+                    { chord: "C", text: "(C) Vers les (G) beaux (C) pays d’En (F) haut," },
+                    { chord: "C", text: "(C) Vers les (G) beaux pays d’En (C) haut." }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "QUEL JOUR ÇA SERA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/N6wCZ7fTk7k?si=V-2XzUuFusHA6-OC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un jour qui vient," },
+                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
+                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
+                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
+                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
+                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
+                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
+                    { chord: "C", text: "(C) Et je (G) vois de face " },
+                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
+                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
+                    { chord: "C", text: "(C) Me conduit à la terre promise" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
+                    { chord: "C", text: "(C) Ni fardeau à porter," },
+                    { chord: "C", text: "(C) Non plus (G) la maladie," },
+                    { chord: "C", text: "(C) Douleurs et séparation" },
+                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
+                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "IL A FAIT POUR MOI CE QU'UN HOMME NE PEUT FAIRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oxM5Jb2v0ZU?si=D1B0icFA3OzwG1w9",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m'a donné la vie," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) vie," },
+                    { chord: "C", text: "(C) Il m'a donné la joie," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) joie," },
+                    { chord: "C", text: "(C) Il m'a donné la paix, " },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) paix, " },
+                    { chord: "C", text: "(C) Ce qu'un homme ne peut faire" },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que mes amis ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que les enfants ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que le monde ne peut faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Il m'a libéré," },
+                    { chord: "F", text: "(F) Il m'a (G) libéré, (C) " },
+                    { chord: "C", text: "(C) Il m'a donné la paix," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) paix," },
+                    { chord: "C", text: "(C) Ce qu'un homme ne peut faire" },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que mes amis ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que les enfants ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que le monde ne peut faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Allé, Alléluia" },
+                    { chord: "F", text: "(F) Allé, (G) Allé -(C)- luia" },
+                ],
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "LOUEZ L'ETERNEL CAR IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/x2AMclxKHYs?si=tawOpWgKtiU2nUf3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Qui dira les hauts faits de (F) l’Eternel ? (C) " },
+                    { chord: "C", text: "(C) Qui publiera toute Sa (G) louange (C) ?" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (Am) bon" },
+                    { chord: "Am", text: "(Am) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                ],
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Il m’a révélé tous les mystères (F) cachés (C) " },
+                    { chord: "C", text: "(C) La révélation des sept (G) tonnerres (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui Dieu nous a bénis de (F) toutes bénédictions (C) " },
+                    { chord: "C", text: "(C) Il nous a envoyé la colonne (G) de feu (C) " },
+                    { chord: "C", text: "(C) Les signes, miracles et les (F) prodiges (C) " },
+                    { chord: "C", text: "(C) Louons l’Eternel car Il (G) est bon (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire, Gloire, gloire, (F) Oh ! Alléluia (C) !" },
+                    { chord: "C", text: "(C) Dans l’Eternité en (G) éternité, (C) " },
+                    { chord: "C", text: "(C) Qu’Il soit loué, béni et (F) glorifié (C) " },
+                    { chord: "C", text: "(C) Aux siècles des siècles et (G) à jamais. (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-10-08-2025",
+            title: "I AM BOUND FOR THE PROMISE LAND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/388bXLcbw_4?si=D_I1f-nUlHszCVBQ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) On Jordan's stormy (F) banks I stand," },
+                    { chord: "C", text: "(C) And cast a (D) wishful (G) eye" },
+                    { chord: "C", text: "(C) To Canaan's fair and happy land," },
+                    { chord: "C", text: "(C) Where my (G) possessions (C) lie." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I am bound for the (F) promised land," },
+                    { chord: "C", text: "(C) I am bound for the (D) promised (G) land," },
+                    { chord: "C", text: "(C) Oh, who will come and go with me?" },
+                    { chord: "C", text: "(C) I am bound for the (G) promised (C) land." }
+                ],
+                [
+                    { chord: "C", text: "(C) O'er all those wide (F) extended plains" },
+                    { chord: "C", text: "(C) Shines one (D) eternal (G) day;" },
+                    { chord: "C", text: "(C) There God the Son forever reigns," },
+                    { chord: "C", text: "(C) And scatters (G) night (C) away." }
+                ],
+                [
+                    { chord: "C", text: "(C) No chilling winds or (F) poisonous breath" },
+                    { chord: "C", text: "(C) Can reach that (D) healthful (G) shore;" },
+                    { chord: "C", text: "(C) Sickness and sorrow, pain and death," },
+                    { chord: "C", text: "(C) Are felt and (G) feared no (C) more." }
+                ]
+            ]
+        },
         // Fin Cantiques Dimanche 10 Aout 2025 (Trentième deuxième Dimanche)
         
         // Debut Cantiques Dimanche 03 Aout 2025 (Trentième unième Dimanche)
