@@ -1,5 +1,41 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 17 Aout 2025 (Trentième troisième Dimanche)
+        {
+            key: "dim-17-08-2025",
+            title: "I SURRENDER ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/j04Bx9pKwpU?si=7XqpFng3Ms25bjXR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) All to (F) Him I (G) freely (C) give" },
+                    { chord: "C", text: "(C) I will ever (G) love and trust Him" },
+                    { chord: "Am", text: "(Am) In His (F) presence (G) daily (C) live" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I surrender (F) all" },
+                    { chord: "G", text: "(G) I surrender (C) all" },
+                    { chord: "C", text: "(C) All to Thee my blessed (F) Savior" },
+                    { chord: "G", text: "(G) I surrender (C) all" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Humbly (F) at His (G) feet I (C) bow" },
+                    { chord: "C", text: "(C) Worldly pleasures (G) all forsaken" },
+                    { chord: "Am", text: "(Am) Take me, (F) Jesus, (G) take me (C) now" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Make me (F) Savior (G) wholly (C) thine" },
+                    { chord: "C", text: "(C) May Thy Holy (G) Spirit fill me" },
+                    { chord: "Am", text: "(Am) May I (F) know Thy (G) power (C) divine" }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 17 Aout 2025 (Trentième troisième Dimanche)
+
         // Debut Cantiques Dimanche 10 Aout 2025 (Trentième deuxième Dimanche)
         {
             key: "dim-10-08-2025",
