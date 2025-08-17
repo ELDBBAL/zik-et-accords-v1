@@ -34,6 +34,360 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-17-08-2025",
+            title: "CE N'EST PAS PAR LA FORCE NI LA PUISSANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/BDUtd_aEJxA?si=Ooa9cM4yYfmliApn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ce n'est pas par la force" },
+                    { chord: "C", text: "(C) Ni la puissance" },
+                    { chord: "C", text: "(C) Mais par (F) mon esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Cette (F) montagne (G) se déplacera (C) - (Am) " },
+                    { chord: "C", text: "(C) Cette (F) montagne (G) se déplacera, (C) ah ah ah" },
+                    { chord: "C", text: "(C) Cette (F) montagne (G) se déplacera (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Par mon (F) esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
+                ],
+                [
+                    { chord: "C", text: "(C) Quelques soit les problèmes" },
+                    { chord: "C", text: "(C) Les peines, les souffrances" },
+                    { chord: "C", text: "(C) Par mon (F) esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
+                ],
+                [
+                    { chord: "C", text: "(C) A tes pieds je les déposes" },
+                    { chord: "C", text: "(C) Tu as le pouvoir de tout changer" },
+                    { chord: "C", text: "(C) Par mon (F) esprit" },
+                    { chord: "G", text: "(G) Dit le (C) Seigneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "VICTORY IS MINE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VlBaX19B-jY?si=dx6WhAI6f3IfPS37",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Victory is mine" },
+                    { chord: "C", text: "(C) Victory is mine" },
+                    { chord: "C", text: "(C) Victory (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) Victory today is (C) mine" },
+                ],
+                [
+                    { chord: "C", text: "(C) Peace is mine" },
+                    { chord: "C", text: "(C) Peace is mine" },
+                    { chord: "C", text: "(C) Peace (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) Peace today is (C) mine" },
+                ],
+                [
+                    { chord: "C", text: "(C) Healing is mine" },
+                    { chord: "C", text: "(C) Healing is mine" },
+                    { chord: "C", text: "(C) Healing (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) Healing today is (C) mine" },
+                ],
+                [
+                    { chord: "C", text: "(C) The Spoken Word is mine" },
+                    { chord: "C", text: "(C) The Spoken Word is mine" },
+                    { chord: "C", text: "(C) The Spoken Word (D) today is (G) mine" },
+                    { chord: "F", text: "(F) I told (Em) Satan (Dm) 'Get thee behind (G) me'" },
+                    { chord: "G", text: "(G) The Spoken Word today is (C) mine" },
+                ],
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "I AM RESOLVED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/u-exN3kKtvA?si=izzO_eGrPo3JQETz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am resolved no (F) longer to linger," },
+                    { chord: "C", text: "(C) Charmed by the (D) world’s (G) delight," },
+                    { chord: "C", text: "(C) Things that are higher, (F) things that are nobler," },
+                    { chord: "C", text: "(C) These have (G) allured my (C) sight." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I will (F) hasten to Him," },
+                    { chord: "C", text: "(C) Hasten so (D) glad and (G) free;" },
+                    { chord: "C", text: "(C) Jesus, (F) greatest, highest," },
+                    { chord: "C", text: "(C) I will (G) come to (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved to (F) go to the Savior," },
+                    { chord: "C", text: "(C) Leaving my (D) sin and (G) strife;" },
+                    { chord: "C", text: "(C) He is the true One, He (F) is the just One," },
+                    { chord: "C", text: "(C) He hath (G) the words of (C) life." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved to (F) follow the Savior," },
+                    { chord: "C", text: "(C) Faithful and (D) true each (G) day;" },
+                    { chord: "C", text: "(C) Heed what He sayeth, do (F) what He willeth," },
+                    { chord: "C", text: "(C) He is (G) the living (C) Way." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved to (F) enter the kingdom," },
+                    { chord: "C", text: "(C) Leaving the (D) paths of (G) sin;" },
+                    { chord: "C", text: "(C) Friends may oppose me, (F) foes may beset me," },
+                    { chord: "C", text: "(C) Still (G) will I enter (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I am resolved, and (F) who will go with me?" },
+                    { chord: "C", text: "(C) Come, friends, (D) without (G) delay;" },
+                    { chord: "C", text: "(C) Taught by the Bible, (F) led by the Spirit," },
+                    { chord: "C", text: "(C) We’ll (G) walk the heav’nly (C) way." }
+                ],
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "MY SINS ARE GONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZUDyHChBlTg?si=PB5Sur-pGV4L5cjC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You ask me why I'm happy" },
+                    { chord: "C", text: "(C) So (G) I'll just tell you why," },
+                    { chord: "G", text: "(G) Because my sins are (C) gone;" },
+                    { chord: "C", text: "(C) And when I meet the scoffers" },
+                    { chord: "C", text: "(C) Who (G) ask me where they are," },
+                    { chord: "G", text: "(G) I say, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) They're underneath the Blood," },
+                    { chord: "G", text: "(G) On the (C) cross of Calvary," },
+                    { chord: "F", text: "(F) As far removed" },
+                    { chord: "C", text: "(C) As darkness is from (G) dawn;" },
+                    { chord: "C", text: "(C) In the (F) sea of God's forgetfulness" },
+                    { chord: "F", text: "(F) That's good enough for (C) me," },
+                    { chord: "G", text: "(G) Praise God," },
+                    { chord: "G", text: "(G) My sins are (C) gone." }
+                ],
+                [
+                    { chord: "C", text: "(C) I was at the old time altar" },
+                    { chord: "C", text: "(C) Where (G) God came in my heart" },
+                    { chord: "G", text: "(G) And now, my sins are (C) gone;" },
+                    { chord: "C", text: "(C) The Lord took full possession" },
+                    { chord: "C", text: "(C) The (G) devil did depart," },
+                    { chord: "G", text: "(G) I'm glad, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "C", text: "(C) When Satan comes to tempt me" },
+                    { chord: "C", text: "(C) And (G) tries to make me doubt," },
+                    { chord: "G", text: "(G) I say, My sins are (C) gone;" },
+                    { chord: "C", text: "(C) You got me into trouble," },
+                    { chord: "C", text: "(C) But (G) Jesus got me out," },
+                    { chord: "G", text: "(G) I'm glad, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "C", text: "(C) I'm living now for Jesus," },
+                    { chord: "C", text: "(C) I'm (G) happy night and day," },
+                    { chord: "G", text: "(G) Because my sins are (C) gone;" },
+                    { chord: "C", text: "(C) My soul is filled with music," },
+                    { chord: "C", text: "(C) With (G) all my heart I say," },
+                    { chord: "G", text: "(G) I know, My sins are (C) gone" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "AS THE DEER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jSZWogD0AH4?si=YDFdMyFc3h9FFZSk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) As the deer panteth for the water" },
+                    { chord: "C", text: "(C) So my (F) soul (G) longeth after (C) thee" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) You alone are my (F) strength, my (C) shield" },
+                    { chord: "F", text: "(F) To you alone may my (Dm) spirit (C) yield" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) You’re my Friend and You are my brother" },
+                    { chord: "C", text: "(C) Even (F) though (G) You are a (C) King" },
+                    { chord: "C", text: "(C) I love You more than any other" },
+                    { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
+                    { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) Tu es mon bouclier (F) et ma (C) force" },
+                    { chord: "F", text: "(F) Le Roc sur qui j’ai (Dm) fondé ma (C) vie" },
+                    { chord: "C", text: "(C) Toi seul es le (Am) désir de mon coeur" },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T’adorer (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "J'AIME JESUS",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'aime Jésus, J'aime (G) Jésus" },
+                    { chord: "G", text: "(G) J'aime (F) Jésus, Qu'Il soit (G) loué" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mélon Yésu, Mélon (G) Yésu" },
+                    { chord: "G", text: "(G) Mélon (F) Yésu, Wakafui (G) da" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nalingi Yésu, Nalingi (G) Yésu" },
+                    { chord: "G", text: "(G) Nalingi (F) Yésu, Akuman (G) ba" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "JESUS IS THE WINNER MAN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/qf_wClr8F0U?si=Yx7kj3y1K8loiobM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner Man! (G) Winner Man!" },
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "G", text: "(G) Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! " },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan is the (F) looser Man" },
+                    { chord: "C", text: "(C) Looser Man! (G) Looser Man!" },
+                    { chord: "C", text: "(C) Satan is the (F) Looser Man" },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "G", text: "(G) Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! " },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side! (G) Winning side!" },
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "G", text: "(G) Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-08-2025",
+            title: "THE OLD RUGGED CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5aKbGzQzp30?si=bFo7Klev24LzJZQk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) On a hill far away stood an (F) old rugged (Dm) cross," },
+                    { chord: "G", text: "(G) The emblem of suff'ring and (C) shame;" },
+                    { chord: "C", text: "(C) And I love that old cross where the (F) Dearest and (Dm) Best" },
+                    { chord: "G", text: "(G) For a world of lost sinners was (C) slain." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) So (G) I'll cherish the old rugged (C) cross," },
+                    { chord: "C", text: "(C) Till my (F) trophies at last I lay (C) down;" },
+                    { chord: "C", text: "(C) I will cling to the old rugged (F) cross," },
+                    { chord: "F", text: "(F) And (C) exchange it (G) someday for a (C) crown." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, that old rugged cross, so (F) despised by the (Dm) world," },
+                    { chord: "G", text: "(G) Has a wondrous attraction for (C) me;" },
+                    { chord: "C", text: "(C) For the dear Lamb of God left (F) His glory (Dm) above" },
+                    { chord: "G", text: "(G) To bear it to dark (C) Calvary." },
+                ],
+                [
+                    { chord: "C", text: "(C) In that old rugged cross, stained (F) with blood so (Dm) divine," },
+                    { chord: "G", text: "(G) A wondrous beauty I (F) see," },
+                    { chord: "C", text: "(C) For 'twas on that old cross Jesus (F) suffered and (Dm) died," },
+                    { chord: "G", text: "(G) To pardon and sanctify (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) To the old rugged cross I will (F) ever be (Dm) true;" },
+                    { chord: "G", text: "(G) Its shame and reproach gladly (F) bear;" },
+                    { chord: "C", text: "(C) Then He'll call me someday to (F) my home far (Dm) away," },
+                    { chord: "G", text: "(G) Where His glory forever I'll (C) share." },
+                ]
+            ]
+        },
         // Fin Cantiques Dimanche 17 Aout 2025 (Trentième troisième Dimanche)
 
         // Debut Cantiques Dimanche 10 Aout 2025 (Trentième deuxième Dimanche)
