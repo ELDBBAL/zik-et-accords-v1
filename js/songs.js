@@ -1,5 +1,402 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 24 Aout 2025 (Trentième quatrième Dimanche)
+        {
+            key: "dim-24-08-2025",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "UN CHRETIEN JE CROYAIS ETRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/lNzbD26AkWs",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Un chrétien je croyais (G) être," },
+                    { chord: "G", text: "(G) Mais (F) j'ignorais (G) le bonheur, (C) " },
+                    { chord: "C", text: "(C) Que Jésus mon divin (G) Maître" },
+                    { chord: "G", text: "(G) Vient (F) apporter (G) dans un (C) coeur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh! la paix que Jésus donne," },
+                    { chord: "C", text: "(C) Je ne la connaissais (G) pas." },
+                    { chord: "G", text: "(G) Tout sur (C) mon chemin (G) rayonne," },
+                    { chord: "G", text: "(G) Depuis qu'Il conduit mes (C) pas." },
+                ],
+                [
+                    { chord: "C", text: "(C) Sa présence souve- (G) -raine" },
+                    { chord: "G", text: "(G) Maintenant (F) règne (G) sur (C) moi," },
+                    { chord: "C", text: "(C) Du péché brise la (G) chaîne," },
+                    { chord: "G", text: "(G) Me rend (F) vainqueur (G) par la (C) foi." },
+                ],
+                [
+                    { chord: "C", text: "(C) Et tranquillement (G) j'avance" },
+                    { chord: "G", text: "(G) M'appuyant (F) sur (G) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Son adorable (G) présence" },
+                    { chord: "G", text: "(G) Me donne (F) le vrai (G) bonheur. (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "ALL THE OTHER GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/q4KzCrpcLjo?si=XLKFxqc6tTH8osHN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All the other gods" },
+                    { chord: "C", text: "(C) They are the works of (F) man" },
+                    { chord: "F", text: "(F) You are the most High (G) God" },
+                    { chord: "G", text: "(G) There is none like (C) You" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "WONDERFUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O my heart sings today, sings for joy and (G) gladness," },
+                    { chord: "G", text: "(G) Jesus saves, satisfies, banishes my (C) sadness;" },
+                    { chord: "C", text: "(C) Guilt is gone, peace is mine, peace like to a (F) river," },
+                    { chord: "F", text: "(F) Jesus is (C) wonderful, mighty (G) to deliver. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Wonderful, wonderful, Jesus is to (G) me," },
+                    { chord: "G", text: "(G) Counselor, Prince of Peace, Mighty God is (C) He;" },
+                    { chord: "C", text: "(C) Saving me, keeping me from all sin and (F) shame," },
+                    { chord: "F", text: "(F) Wonderful is (C) my Redeemer, (G) praise His (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Once a slave, now I’m free, free from (G) condemnation," },
+                    { chord: "G", text: "(G) Jesus gives liberty and a full (C) salvation;" },
+                    { chord: "C", text: "(C) Now the sins of the past have been all (F) forgiven," },
+                    { chord: "F", text: "(F) And my name is (C) inscribed on the (G) book of (C) heaven." }
+                ],
+                [
+                    { chord: "C", text: "(C) Living here with my Lord in a holy (G) union," },
+                    { chord: "G", text: "(G) Day by day, all the way holding sweet (C) communion;" },
+                    { chord: "C", text: "(C) O what change grace hath wrought in my lowly (F) station!" },
+                    { chord: "F", text: "(F) Since my soul has (C) received full (G) and free (C) salvation." }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/MaINHl5_NCw?si=wQXv4gllZ8zkj-B5",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon cœur chante aujourd’hui de joie, (G) d’allégresse :" },
+                    { chord: "G", text: "(G) Jésus sauve, satisfait, bannit ma (C) tristesse;" },
+                    { chord: "C", text: "(C) Plus de condamnation, j’ai la paix en (F) moi," },
+                    { chord: "F", text: "(F) Jésus est (C) merveilleux, puissant (G) pour délivrer. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Merveilleux, merveilleux, Jésus est pour (G) moi," },
+                    { chord: "G", text: "(G) Conseiller, Dieu Puissant, Prince de la (C) paix;" },
+                    { chord: "C", text: "(C) Il me sauve, Il me garde du péché, de (F) honte;" },
+                    { chord: "F", text: "(F) Merveilleux est (C) mon Rédempteur, (G) gloire à (C) Lui!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Hier esclave, maintenant libre de toute (G) condamnation," },
+                    { chord: "G", text: "(G) Jésus donne liberté et un plein (C) salut," },
+                    { chord: "C", text: "(C) Les péchés du passé me sont (F) pardonnés," },
+                    { chord: "F", text: "(F) Et mon nom est (C) écrit dans le (G) Livre du (C) Ciel." }
+                ],
+                [
+                    { chord: "C", text: "(C) Avec mon Seigneur vivant dans la sainte (G) union," },
+                    { chord: "G", text: "(G) Jour après jour, je vis dans la douce (C) communion;" },
+                    { chord: "C", text: "(C) Sa grâce m’a changé dans ma basse (F) condition !" },
+                    { chord: "F", text: "(F) Depuis que (C) mon âme reçut (G) plein salut (C) gratuit." }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "SEND THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a call comes ringing o'er the restless wave," },
+                    { chord: "C", text: "(C) 'Send the (G) light! Send the (C) light'" },
+                    { chord: "C", text: "(C) There are souls to rescue, there are souls to save," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                    { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We have heard the Macedonian call today, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a golden off'ring at the cross we lay," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us pray that grace may ev'rywhere abound," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a Christ-like spirit ev'rywhere be found," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us not grow weary in the work of love, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) Let us gather jewels for a crown above," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "COMMENT NE POURRAIS-JE TE LOUER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer " },
+                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour (C) moi ?" },
+                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours " },
+                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me (C) combat. " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole " },
+                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint (C) Prophète" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais dans les (F) organisations " },
+                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept (C) Tonnerres " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie " },
+                    { chord: "F", text: "(F) Tu as (G) compati et m’a (C) guéri" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation " },
+                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton (C) Saint-Esprit" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les gens parlaient tant mal de (F) moi, " },
+                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul (C) Ami." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut " },
+                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands (C) mystères" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse " },
+                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la (C) grâce" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté " },
+                    { chord: "F", text: "(F) Et comme David, (G) je veux Te (C) louer." },
+                ],
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "PRAISING THE LORD ALWAYS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/47OIw6etSv8?si=HAPWx7Xspopc2uS4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Praising the Lord always" },
+                    { chord: "C", text: "(C) Praising the (G) Lord (C) always" },
+                    { chord: "C", text: "(C) Praising the Lord with all (F) my heart" },
+                    { chord: "F", text: "(F) Praising the (C) Lord with all (G) my heart (C) always" },
+                    { chord: "C", text: "(C) My Lord is (G) good" },
+                    { chord: "G", text: "(G) My Lord is (C) good" },
+                    { chord: "C", text: "(C) My Lord is (F) good" },
+                    { chord: "G", text: "(G) Is good to (C) me" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "JESUS IS THE WINNER MAN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/qf_wClr8F0U?si=Yx7kj3y1K8loiobM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner Man! (G) Winner Man!" },
+                    { chord: "C", text: "(C) Jesus is the (F) winner Man" },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "G", text: "(G) Winner Man!" },
+                    { chord: "C", text: "(C) Winner Man! Winner Man!" },
+                    { chord: "F", text: "(F) Winner Man! " },
+                    { chord: "C", text: "(C) Winner man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan is the (F) looser Man" },
+                    { chord: "C", text: "(C) Looser Man! (G) Looser Man!" },
+                    { chord: "C", text: "(C) Satan is the (F) Looser Man" },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "G", text: "(G) Looser Man!" },
+                    { chord: "C", text: "(C) Looser Man! Looser Man!" },
+                    { chord: "F", text: "(F) Looser Man! " },
+                    { chord: "C", text: "(C) Looser man (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side! (G) Winning side!" },
+                    { chord: "C", text: "(C) We are on the (F) Winning side " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ],
+                [
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "G", text: "(G) Winning side !" },
+                    { chord: "C", text: "(C) Winning side ! Winning side !" },
+                    { chord: "F", text: "(F) Winning side ! " },
+                    { chord: "C", text: "(C) Winning side (G) all the (C) time" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "IL EST MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il est (F) merveilleux (C) !" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Il est (F) Tout-puissant (C) !" },
+                    { chord: "C", text: "(C) Il est (G) Tout-puissant (C)" },
+                    { chord: "C", text: "(C) Le monde (F) entier le (C) loue" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Les rachetés (F) entier le (C) louent" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-08-2025",
+            title: "LE GRAND JOUR S'EST LEVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZZ3ex794OKI?si=DJnanWJ8YkhXz3nA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le grand jour s'est levé" },
+                    { chord: "C", text: "(C) Dieu (F) nous a visités" },
+                    { chord: "C", text: "(C) Voici des temps nouveaux" },
+                    { chord: "D", text: "(D) Chantons gloire à (G) l'Agneau" },
+                    { chord: "C", text: "(C) Nous recevons de Christ" },
+                    { chord: "C", text: "(C) Ce (F) qu'Il avait promis" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Le Saint-Esprit est là" },
+                    { chord: "C", text: "(C) Le (F) Saint-Esprit est là" },
+                    { chord: "C", text: "(C) La mort a disparu" },
+                    { chord: "C", text: "(C) Dieu (D) donne un plein (G) salut" },
+                    { chord: "C", text: "(C) Et sur le monde entier" },
+                    { chord: "C", text: "(C) Le (F) grand jour s'est levé" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) L'obscurité s'enfuit" },
+                    { chord: "C", text: "(C) La (F) lumière a jailli" },
+                    { chord: "C", text: "(C) Chassé de cœurs troublés" },
+                    { chord: "D", text: "(D) Toute (G) incrédulité" },
+                    { chord: "C", text: "(C) Car Christ le Roi des Rois" },
+                    { chord: "C", text: "(C) Répand (F) l'Esprit de foi" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Grand Consolateur " },
+                    { chord: "C", text: "(C) Vient (F) remplir tous les cœurs" },
+                    { chord: "C", text: "(C) L'Esprit de vérité" },
+                    { chord: "D", text: "(D) Nous met en (G) liberté" },
+                    { chord: "C", text: "(C) Il ouvre les prisons" },
+                    { chord: "C", text: "(C) Répand (F) la guérison" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ],
+                [
+                    { chord: "C", text: "(C) Que tous les rachetés " },
+                    { chord: "C", text: "(C) Chantent (F) leur liberté" },
+                    { chord: "C", text: "(C) Christ a tout accompli" },
+                    { chord: "D", text: "(D) Il a donné (G) l'Esprit" },
+                    { chord: "C", text: "(C) Voyez trembler l'enfer" },
+                    { chord: "C", text: "(C) Car (F) dans tout l'univers" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 24 Aout 2025 (Trentième quatrième Dimanche)
+
         // Debut Cantiques Dimanche 17 Aout 2025 (Trentième troisième Dimanche)
         {
             key: "dim-17-08-2025",
@@ -4624,7 +5021,7 @@ const songs = [
         },
         {
             key: "dim-18-05-2025",
-            title: "COMMENT NE POURRAI-JE TE LOUER",
+            title: "COMMENT NE POURRAIS-JE TE LOUER",
             keySignature: "C",
             youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
             verses: [
