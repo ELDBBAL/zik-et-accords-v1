@@ -3,47 +3,21 @@ const songs = [
         // Debut Cantiques Dimanche 24 Aout 2025 (Trentième quatrième Dimanche)
         {
             key: "dim-24-08-2025",
-            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            title: "GLOIRE A L'AGNEAU",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                ],
-                [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
-                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
-                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire à l'Agneau (G) " },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire (G) à l'Agneau (C) " }
                 ],
                 [
-                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                ],
-                [
-                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                ],
-                [
-                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                ],
-                [
-                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
-                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
-                ],
+                    { chord: "C", text: "(C) Car Il est (F) glorieux, (G) et (C) digne de règner ;" },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " },
+                    { chord: "C", text: "(C) Nous (F) élevons, (G) la (C) voix pour l'adorer," },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " }
+                ]
             ]
         },
         {
