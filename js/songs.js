@@ -1,6 +1,208 @@
 // songs.js // Liste des cantiques
 const songs = [
-        // Debut Cantiques Dimanche 30 Aout 2025 (Trentième cinquième Dimanche)
+        // Debut Cantiques Dimanche 31 Aout 2025 (Trentième cinquième Dimanche)
+        {
+            key: "dim-31-08-2025",
+            title: "YOU ARE ALPHA AND OMEGA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/rC_qYfBSI34?si=24gMILZY68eJ5b6o",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You are Alpha and (G) Omega (C) " },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ],
+                [
+                    { chord: "C", text: "(C) We give you (F) all (G) the (C) glory" },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tu es l'Alpha et (G) l'Oméga (C) " },
+                    { chord: "C", text: "(C) Nous (F) t'adorons (C) Seigneur" },
+                    { chord: "C", text: "(C) Tu es (G) digne de (C) louange" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous te (F) rendons (G) la gloire (C) " },
+                    { chord: "C", text: "(C) Nous (F) t'adorons (C) Seigneur" },
+                    { chord: "C", text: "(C) Tu es (G) digne de (C) louange" }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-08-2025",
+            title: "JESUS LOVES ME EVEN ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/TxAmTW-QKjw?si=dNuf2YtMCbJrPHj9",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am so glad that our Father in heaven" },
+                    { chord: "G", text: "(G) Tells of His love in the Book He has (C) given;" },
+                    { chord: "C", text: "(C) Wonderful things in the Bible I see," },
+                    { chord: "G", text: "(G) This is the dearest, that Jesus loves (C) me." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I am so glad that (F) Jesus loves me," },
+                    { chord: "G", text: "(G) Jesus loves me, Jesus loves (C) me;" },
+                    { chord: "C", text: "(C) I am so glad that (F) Jesus loves me," },
+                    { chord: "G", text: "(G) Jesus loves even (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Though I forget Him and wander away," },
+                    { chord: "G", text: "(G) Kindly He follows wherever I (C) stray;" },
+                    { chord: "C", text: "(C) Back to His dear loving arms would I flee," },
+                    { chord: "G", text: "(G) When I remember that Jesus loves (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) O, if there's only one song I can sing," },
+                    { chord: "G", text: "(G) When in His beauty I see the great (C) King," },
+                    { chord: "C", text: "(C) This shall my song in eternity be:" },
+                    { chord: "G", text: "(G) O, what a wonder that Jesus loves (C) me!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-08-2025",
+            title: "COME AND GO WITH ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/yeilvKrnMXM?si=kkix4YtIQgEBpJrk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) To my Father's (G) house, to my Father's (C) house." },
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Peace and love abide in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) In my Father's (G) house, in my Father's (C) house." },
+                    { chord: "C", text: "(C) Peace and love abide in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Peace and happiness in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) In my Father's (G) house, in my Father's (C) house." },
+                    { chord: "C", text: "(C) Peace and happiness in (F) my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-08-2025",
+            title: "FILL MY WAY EVERYDAY WITH LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/K8O3R77nU2w?si=ks9UYPbp8-VYu_fS",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Let me walk, blessed Lord, in the (F) way" },
+                    { chord: "F", text: "(F) Thou has (C) gone, Leading straight to the (D) land (G) above;" },
+                    { chord: "G", text: "(G) Giving (C) cheer everywhere, to the (F) sad and the (C) lone, " },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Fill my way every day with love," },
+                    { chord: "C", text: "(C) As I walk with the (D) heavenly (G) Dove" },
+                    { chord: "C", text: "(C) Let me go all the while, with a (F) song and a (C) smile," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "C", text: "(C) Keep me close to the side of my (F) Savior and (C) guide" },
+                    { chord: "F", text: "(F) Let me never in (D) darkness (G) rove." },
+                    { chord: "G", text: "(G) Keep my path free from wrath, and my (F) soul, (C) satisfied," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-08-2025",
+            title: "LE MESSIE EST LE ROI DES ROIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Il est (F) le (C) Roi, (Am) Seigneur des (G) seigneurs" },
+                    { chord: "F", text: "(F) Le Messie est le (G) Roi des (Em) rois (Am) " },
+                    { chord: "Dm", text: "(Dm) Il est le Seigneur (G) des Seigneurs. (C) "}
+                ]
+            ]
+        },
+        {
+            key: "dim-31-08-2025",
+            title: "GLORY TO THE LORD",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Oh glory glory (F) glory (G) to the (C) Lord, " },
+                    { chord: "C", text: "(C) Oh glory glory (F) glory (G) to the (C) Lord, " },
+                    { chord: "F", text: "(F) Hosanna, (C) Hosanna, Hosanna" },
+                    { chord: "G", text: "(G) Blessed be the name of the (C) Lord" },
+                    { chord: "F", text: "(F) Hosanna, (C) Hosanna, Hosanna" },
+                    { chord: "G", text: "(G) Blessed be the name of the (C) Lord" },
+                ]
+            ]
+        },
+        {
+            key: "dim-31-08-2025",
+            title: "PLUS PRECIEUX QUE L'OR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/d-n-tBhHHtY?si=SqvVJ2vc8hiwftNa",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Plus précieux que (G) l'or" },
+                    { chord: "G", text: "(G) Plus précieux que (C) l'or," },
+                    { chord: "C", text: "(C) L'esprit de Dieu, dans le (F) coeur de l'homme" },
+                    { chord: "F", text: "(F) Est (G) plus précieux que (C) l'or," }
+                ],
+            ]
+        },
+        {
+            key: "dim-31-08-2025",
+            title: "THE SOLID ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uhVwVHC6_n0?si=GFm_9vOymnNyg0_M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My hope is built on (G) nothing less" },
+                    { chord: "G", text: "(G) Than (F) Jesus Christ, my (C) righteousness;" },
+                    { chord: "C", text: "(C) I dare not trust the (G) sweetest frame," },
+                    { chord: "G", text: "(G) But (F) wholly lean on Jesus’ (C) name." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) On Christ, the solid Rock, I (F) stand;" },
+                    { chord: "C", text: "(C) All other ground is (G) sinking sand," },
+                    { chord: "C", text: "(C) All other ground is (F) sinking sand." }
+                ],
+                [
+                    { chord: "C", text: "(C) When darkness veils His (G) lovely face," },
+                    { chord: "G", text: "(G) I (F) rest on His unchanging (C) grace;" },
+                    { chord: "C", text: "(C) In every high and (G) stormy gale," },
+                    { chord: "G", text: "(G) My (F) anchor holds within the (C) veil." }
+                ],
+                [
+                    { chord: "C", text: "(C) His oath, His covenant, His (G) blood," },
+                    { chord: "F", text: "(F) Support me in the (C) whelming flood;" },
+                    { chord: "C", text: "(C) When all around my (G) soul gives way," },
+                    { chord: "F", text: "(F) He then is all my hope and (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) When He shall come with trumpet (G) sound," },
+                    { chord: "G", text: "(G) Oh, (F) may I then in Him (C) be found;" },
+                    { chord: "C", text: "(C) In Him, my (G) righteousness, alone," },
+                    { chord: "F", text: "(F) Faultless to stand before the (C) throne." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 31 Aout 2025 (Trentième cinquième Dimanche)
+
+        // Debut Cantiques Samedi 30 Aout 2025
         {
             key: "sam-30-08-2025",
             title: "ATTACHÉ À LA CROIX",
@@ -261,7 +463,7 @@ const songs = [
                 ]
             ]
         },
-        // Fin Cantiques Dimanche 30 Aout 2025 (Trentième cinquième Dimanche)
+        // Fin Cantiques Samedi 30 Aout 2025
 
         // Debut Cantiques Dimanche 24 Aout 2025 (Trentième quatrième Dimanche)
         {
