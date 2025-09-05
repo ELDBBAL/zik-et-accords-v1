@@ -1,5 +1,330 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 07 Septembre 2025 (Trentième sixième Dimanche)
+        {
+            key: "dim-07-09-2025",
+            title: "IT IS WELL WITH MY SOUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When peace like a river, (F) attendeth (G) my (C) way" },
+                    { chord: "C", text: "(C) When sorrows like (D) sea billows (G) roll" },
+                    { chord: "C", text: "(C) Whatever my (F) lot, thou hast (Dm) taught me to (G) say" },
+                    { chord: "G", text: "(G) It is (C) well, it is (F) well, (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) It is well, it is well" },
+                    { chord: "G", text: "(G) With my (C) soul, with my soul" },
+                    { chord: "C", text: "(C) It is (F) well, it is well (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though Satan should buffet, though (F) trials (G) should (C) come" },
+                    { chord: "C", text: "(C) Let this blest (D) assurance (G) control" },
+                    { chord: "C", text: "(C) That Christ has (F) regarded my (Dm) helpless (G) estate" },
+                    { chord: "G", text: "(G) And hath (C) shed His own (F) blood (G) for my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) My sin, oh, the bliss of this (F) glorious (G) - (C) thought!" },
+                    { chord: "C", text: "(C) My sin, not in (D) part but the (G) whole" },
+                    { chord: "C", text: "(C) Is nailed to the (F) cross, and I (Dm) bear it no (G) more" },
+                    { chord: "G", text: "(G) Praise the (C) Lord, praise the (F) Lord, (G) o my (C) soul!" }
+                ],
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "MY SOUL REJOICE AND PRAISE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My soul, rejoice and (F) praise the (C) Lord" },
+                    { chord: "F", text: "(F) Rejoice and (G) praise the (C) Lord" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Rejoice and praise the (G) Lord" },
+                    { chord: "G", text: "(G) Rejoice and praise the (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "REDEEMED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/r_73lCWRuoQ?si=nQHm_Rt1IDizYAMt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Redeemed, how I love to proclaim it!" },
+                    { chord: "G", text: "(G) Redeemed by the blood of the (C) Lamb;" },
+                    { chord: "C", text: "(C) Redeemed through His infinite mercy," },
+                    { chord: "G", text: "(G) His child, and forever, I (C) am." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Redeemed, (C) redeemed," },
+                    { chord: "G", text: "(G) Redeemed by the blood of the Lamb;" },
+                    { chord: "F", text: "(F) Redeemed, (C) redeemed," },
+                    { chord: "G", text: "(G) His child, and forever, I (C) am." }
+                ],
+                [
+                    { chord: "C", text: "(C) Redeemed and so happy in Jesus," },
+                    { chord: "G", text: "(G) No language my rapture can (C) tell;" },
+                    { chord: "C", text: "(C) I know that the light of His presence" },
+                    { chord: "G", text: "(G) With me doth continually (C) dwell." }
+                ],
+                [
+                    { chord: "C", text: "(C) I think of my Blessed Redeemer," },
+                    { chord: "G", text: "(G) I think of Him all the day (C) long;" },
+                    { chord: "C", text: "(C) I sing for I cannot be silent" },
+                    { chord: "G", text: "(G) His love is the theme of my (C) song." }
+                ],
+                [
+                    { chord: "C", text: "(C) I know I shall see in His beauty," },
+                    { chord: "G", text: "(G) The King in whose law I (C) delight;" },
+                    { chord: "C", text: "(C) Who lovingly guardeth My footsteps," },
+                    { chord: "G", text: "(G) And giveth me Songs in the (C) night." }
+                ],
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "VEUX-TU BRISER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IgA_4KEWnKI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Veux-tu briser du (F) péché le pouvoir (C) ?" },
+                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
+                    { chord: "C", text: "(C) Si dans ton cœur, tu veux (F) Le recevoir, (C) " },
+                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je suis fort, fort, (F) oui, plus que vainqueur, (C) " },
+                    { chord: "C", text: "(C) Par le (G) sang de Jésus (C) !" },
+                    { chord: "C", text: "(C) Je suis fort, fort, (F) oui, plus que vainqueur, (C) " },
+                    { chord: "C", text: "(C) Par le (G) sang précieux du Sauveur (C) !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Veux-tu braver et la (F) mort et l’enfer (C) ?" },
+                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
+                    { chord: "C", text: "(C) Jésus d’un mot fait tomber (F) tous tes fers, (C) " },
+                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Veux-tu marcher toujours (F) pur, triomphant (C) !" },
+                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
+                    { chord: "C", text: "(C) Pour te garder, Jésus (F) est tout-puissant, (C) " },
+                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Veux-tu jouir de Sa (F) paix chaque (C) jour ?" },
+                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
+                    { chord: "C", text: "(C) Et demeurer en (F) Jésus tous les (C) jours ?" },
+                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "GLOIRE A L'AGNEAU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire à l'Agneau (G) " },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire (G) à l'Agneau (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Car Il est (F) glorieux, (G) et (C) digne de règner ;" },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " },
+                    { chord: "C", text: "(C) Nous (F) élevons, (G) la (C) voix pour l'adorer," },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "JE SUIS HEUREUX CAR JÉSUS M'A SAUVÉ",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hUi0OEniK9U?si=WKEu5YD81i035f1N",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je suis heureux car Jésus m'a sauvé," },
+                    { chord: "C", text: "(C) Dans son (G) Amour, il m'a tout (C) pardonné." },
+                    { chord: "C", text: "(C) Voilà pourquoi je me mets à chanter." },
+                    { chord: "C", text: "(C) Je suis (G) heureux car Jésus m'a (C) sauvé." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oui, J'aime l'Homme de (G) Galilée" },
+                    { chord: "G", text: "(G) Oui, J'aime l'Homme de (C) Galilée" },
+                    { chord: "C", text: "(C) Mon (F) fardeau enlevé, mes (C) - (Em) péchés (Am) éffacés;" },
+                    { chord: "Am", text: "(Am) Oui, (G) J'aime l'Homme de (C) Galilée" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le ciel est ouvert à tout être humain," },
+                    { chord: "C", text: "(C) La route est (G) tracée, un Guide (C) fidèle" },
+                    { chord: "C", text: "(C) Voudrais-tu goûter le parfait bonheur" },
+                    { chord: "C", text: "(C) Le ciel est (G) ouvert à tout être (C) humain" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le sang de Jésus a tout éffacé," },
+                    { chord: "C", text: "(C) Où que vous (G) soyez, c'est vous qu'Il (C) appelle." },
+                    { chord: "C", text: "(C) Laissez la folie et la vanité" },
+                    { chord: "C", text: "(C) Le sang de (G) Jésus a tout (C) éffacé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Au loin, comme auprès, faites-la courir," },
+                    { chord: "C", text: "(C) Partout où se (G) trouve une âme (C) rebelle;" },
+                    { chord: "C", text: "(C) Dis-lui que Jésus a souffert pour elle" },
+                    { chord: "C", text: "(C) Au loin, (G) comme auprès, faites-la (C) courir." }
+                ],
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "LOUEZ L'ETERNEL CAR IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/x2AMclxKHYs?si=tawOpWgKtiU2nUf3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Qui dira les hauts faits de (F) l’Eternel ? (C) " },
+                    { chord: "C", text: "(C) Qui publiera toute Sa (G) louange (C) ?" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (Am) bon" },
+                    { chord: "Am", text: "(Am) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                ],
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Il m’a révélé tous les mystères (F) cachés (C) " },
+                    { chord: "C", text: "(C) La révélation des sept (G) tonnerres (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui Dieu nous a bénis de (F) toutes bénédictions (C) " },
+                    { chord: "C", text: "(C) Il nous a envoyé la colonne (G) de feu (C) " },
+                    { chord: "C", text: "(C) Les signes, miracles et les (F) prodiges (C) " },
+                    { chord: "C", text: "(C) Louons l’Eternel car Il (G) est bon (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire, Gloire, gloire, (F) Oh ! Alléluia (C) !" },
+                    { chord: "C", text: "(C) Dans l’Eternité en (G) éternité, (C) " },
+                    { chord: "C", text: "(C) Qu’Il soit loué, béni et (F) glorifié (C) " },
+                    { chord: "C", text: "(C) Aux siècles des siècles et (G) à jamais. (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-07-09-2025",
+            title: "A LA CROIX, AU PIEDS DU MAITRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/a5l8PP2E7nw?si=y0Tlt9X_0FXVArqY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À la croix aux pieds du (G) Maître," },
+                    { chord: "G", text: "(G) À genoux, (F) j’ai (G) fait mon (C) choix." },
+                    { chord: "C", text: "(C) Son disciple je veux (G) être" },
+                    { chord: "G", text: "(G) Tout près (F) de (G) Lui par la (C) foi." },
+                    { chord: "F", text: "(F) Brebis de Sa bergerie, (C) " },
+                    { chord: "C", text: "(C) Nul ne m’ôte (D) de Sa (G) main" },
+                    { chord: "C", text: "(C) Sur les monts dans les (G) prairies," },
+                    { chord: "G", text: "(G) Oui, mon (F) bonheur (G) est (C) divin." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) À la croix aux pieds du (G) Maître," },
+                    { chord: "G", text: "(G) À genoux, (F) j’ai (G) fait mon (C) choix." },
+                    { chord: "C", text: "(C) Son disciple je veux (G) être" },
+                    { chord: "G", text: "(G) Tout près (F) de (G) Lui par la (C) foi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Depuis lors, ô choix (G) splendide," },
+                    { chord: "G", text: "(G) La joie (F) demeure (G) dans mon (C) cœur." },
+                    { chord: "C", text: "(C) Adieu les soucis (G) perfides," },
+                    { chord: "G", text: "(G) Par Jésus (F) je (G) suis (C) vainqueur." },
+                    { chord: "F", text: "(F) Adieu vaines convoitises (C) " },
+                    { chord: "C", text: "(C) Du monde (D) qui me (G) tenta" },
+                    { chord: "C", text: "(C) J’ai trouvé la paix (G) promise" },
+                    { chord: "G", text: "(G) Dans le (F) sang (G) de (C) Golgotha." },
+                ],
+                [
+                    { chord: "C", text: "(C) Bientôt ma tâche (G) accomplie" },
+                    { chord: "G", text: "(G) J’entrerai (F) tout (G) droit au (C) port" },
+                    { chord: "C", text: "(C) Où m’attend, douce (G) patrie," },
+                    { chord: "G", text: "(G) Le Grand (F) Vainqueur (G) de la (C) mort." },
+                    { chord: "F", text: "(F) Là je chanterai Ta gloire, (C) " },
+                    { chord: "C", text: "(C) Ô Toi qui (D) m’as tant (G) aimé" },
+                    { chord: "C", text: "(C) Et dont l’œuvre (G) expiatoire" },
+                    { chord: "G", text: "(G) Pour (F) toujours (G) m’a (C) racheté." },
+                ],
+            ]
+        },
+        // Fin Cantiques Dimanche 07 Septembre 2025 (Trentième sixième Dimanche)
+
         // Debut Cantiques Dimanche 31 Aout 2025 (Trentième cinquième Dimanche)
         {
             key: "dim-31-08-2025",
