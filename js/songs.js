@@ -91,40 +91,42 @@ const songs = [
         },
         {
             key: "dim-07-09-2025",
-            title: "VEUX-TU BRISER",
+            title: "VEUX-TU BRISER LES FARDEAUX DU PECHE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/IgA_4KEWnKI",
             verses: [
                 [
-                    { chord: "C", text: "(C) Veux-tu briser du (F) péché le pouvoir (C) ?" },
-                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
-                    { chord: "C", text: "(C) Si dans ton cœur, tu veux (F) Le recevoir, (C) " },
-                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !." }
+                    { chord: "C", text: "(C) Veux-tu briser les (F) fardeaux du péchés (C) ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Veux-tu avoir la (F) victoire sur le mal (C) ?" },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Je suis fort, fort, (F) oui, plus que vainqueur, (C) " },
-                    { chord: "C", text: "(C) Par le (G) sang de Jésus (C) !" },
-                    { chord: "C", text: "(C) Je suis fort, fort, (F) oui, plus que vainqueur, (C) " },
-                    { chord: "C", text: "(C) Par le (G) sang précieux du Sauveur (C) !" }
+                    { chord: "C", text: "(C) Il y'a force, force" },
+                    { chord: "F", text: "(F) Merveilleuse (C) force" },
+                    { chord: "C", text: "(C) Dans le (G) sang de l'Agneau (C) " },
+                    { chord: "C", text: "(C) Il y'a force, force" },
+                    { chord: "F", text: "(F) Merveilleuse (C) force" },
+                    { chord: "G", text: "(G) Dans le sang précieux de l'Agneau (C) " },
                 ],
                 [
-                    { chord: "C", text: "(C) Veux-tu braver et la (F) mort et l’enfer (C) ?" },
-                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
-                    { chord: "C", text: "(C) Jésus d’un mot fait tomber (F) tous tes fers, (C) " },
-                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !" }
+                    { chord: "C", text: "(C) Veux-tu briser ta (F) colère et ton orgueil (C) ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Vient te laver dans le (F) flot du Calvaire (C) " },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
                 ],
                 [
-                    { chord: "C", text: "(C) Veux-tu marcher toujours (F) pur, triomphant (C) !" },
-                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
-                    { chord: "C", text: "(C) Pour te garder, Jésus (F) est tout-puissant, (C) " },
-                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !" }
+                    { chord: "C", text: "(C) Veux-tu être plus (F) blanc que la (C) neige ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Les souillures du péché (F) y sont lavées (C) " },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
                 ],
                 [
-                    { chord: "C", text: "(C) Veux-tu jouir de Sa (F) paix chaque (C) jour ?" },
-                    { chord: "G", text: "(G) La force est en Christ ! Elle (C) est en Christ !" },
-                    { chord: "C", text: "(C) Et demeurer en (F) Jésus tous les (C) jours ?" },
-                    { chord: "G", text: "(G) La force est dans le sang de (C) Christ !" }
+                    { chord: "C", text: "(C) Veux-tu rendre service (F) à Jésus-Christ (C) ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Veux-tu vivre et (F) chanter ses louanges (C) ?" },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
                 ],
             ]
         },
@@ -136,14 +138,11 @@ const songs = [
             verses: [
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire à l'Agneau (G) " },
-                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire (G) à l'Agneau (C) " }
-                ],
-                [
-                    { chord: "C", text: "(C) Car Il est (F) glorieux, (G) et (C) digne de règner ;" },
-                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " },
-                    { chord: "C", text: "(C) Nous (F) élevons, (G) la (C) voix pour l'adorer," },
-                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " }
+                    { chord: "C", text: "(C) Gloire à l'Agneau ! Alléluia !" },
+                    { chord: "C", text: "(C) Gloire à l'Agneau ! Alléluia !" },
+                    { chord: "C", text: "(C) Gloire à l'Agneau ! Alléluia !" },
+                    { chord: "C", text: "(C) Victoire à l'Agneau ! Alléluia !" },
+                    { chord: "C", text: "(C) Honneur à l'Agneau" }
                 ]
             ]
         },
