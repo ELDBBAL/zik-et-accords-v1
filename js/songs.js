@@ -138,10 +138,10 @@ const songs = [
             verses: [
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Gloire à l'Agneau ! Alléluia !" },
-                    { chord: "C", text: "(C) Gloire à l'Agneau ! Alléluia !" },
-                    { chord: "C", text: "(C) Gloire à l'Agneau ! Alléluia !" },
-                    { chord: "C", text: "(C) Victoire à l'Agneau ! Alléluia !" },
+                    { chord: "C", text: "(C) Gloire (F) à l'Ag- (C) -neau ! Al- (G) -léluia (C) !" },
+                    { chord: "C", text: "(C) Gloire (F) à l'Ag- (C) -neau ! Al- (G) -léluia (C) !" },
+                    { chord: "C", text: "(C) Gloire (F) à l'Ag- (C) -neau ! Al- (G) -léluia (C) !" },
+                    { chord: "C", text: "(C) Victoire (F) à l'Ag- (C) -neau ! Al- (G) -léluia (C)  !" },
                     { chord: "C", text: "(C) Honneur à l'Agneau" }
                 ]
             ]
