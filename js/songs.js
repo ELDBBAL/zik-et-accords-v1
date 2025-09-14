@@ -1,5 +1,241 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 14 Septembre 2025 (Trentième septième Dimanche)
+        {
+            key: "dim-14-09-2025",
+            title: "J'ENTENDS TA DOUCE VOIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/idwuazDrChA?si=y9bYp6d5hKT9YIrj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Jésus, je viens à (C) Toi." },
+                    { chord: "C", text: "(C) Je viens, ô Sauveur, (Am) lave-moi" },
+                    { chord: "Am", text: "(Am) Dans (F) le sang (G) de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus, Roi des (F) rois," },
+                    { chord: "C", text: "(C) Qui (D) mourus pour (G) moi," },
+                    { chord: "C", text: "(C) Je veux mourir avec Toi," },
+                    { chord: "F", text: "(F) Avec (G) Toi sur la (C) Croix." }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Qui me dit : 'Crois en (C) Moi !'" },
+                    { chord: "C", text: "(C) Je crois, Seigneur, soutiens ma (Am) foi," },
+                    { chord: "Am", text: "(Am) Tiens (F) moi (G) près de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Elle pénètre en (C) moi" },
+                    { chord: "C", text: "(C) Et me dit d'aimer comme (Am) Toi." },
+                    { chord: "Am", text: "(Am) De (F) l'amour (G) de la (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Toi qui mourus pour (C) moi," },
+                    { chord: "C", text: "(C) Seigneur, que je m'unisse à (Am) Toi" },
+                    { chord: "Am", text: "(Am) Dans (F) ta (G) mort, par la (C) foi !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "ATTIRE-MOI PLUS PRES DE TOI",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon chant de chaque jour," },
+                    { chord: "C", text: "(C) Seigneur attire-moi;" },
+                    { chord: "C", text: "(C) Attire-moi plus près de toi" },
+                    { chord: "C", text: "(C) Plus près de toi ! plus près de toi," },
+                    { chord: "C", text: "(C) Attire-moi plus près de toi" }
+                ],
+                [
+                    { chord: "C", text: "(C) My song every day," },
+                    { chord: "C", text: "(C) O ! Lord draw me nearer;" },
+                    { chord: "C", text: "(C) Draw me nearer, nearer to Thee" },
+                    { chord: "C", text: "(C) Nearer to Thee ! nearer to Thee," },
+                    { chord: "C", text: "(C) Draw me nearer, nearer to Thee" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "BECAUSE HE LIVES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Because He lives, I can face (F) tomorrow" },
+                    { chord: "F", text: "(F) Because He (C) lives, (D) all fear is (G) gone;" },
+                    { chord: "G", text: "(G) Because I (C) know He holds the (F) future" },
+                    { chord: "F", text: "(F) And life is (C) worth the living," },
+                    { chord: "G", text: "(G) Just because He (C) lives!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "REMPLIS-MOI CHAQUE JOUR D'AMOUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/E-0P6uMOpQY?si=ZdGqXOBUyZMauFnu",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Laisse-moi marcher Seigneur, Par où (F) Tu es (C) passé," },
+                    { chord: "C", text: "(C) Chemin conduisant (D) vers le (G) ciel." },
+                    { chord: "C", text: "(C) Partout donnant la joie; (F) Aux gens (C) abandonnés " },
+                    { chord: "F", text: "(F) Remplis-moi chaque (G) jour (C) d’amour." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Remplis-moi chaque jour d’amour" },
+                    { chord: "C", text: "(C) Comme je marche avec la (D) colombe, (G)" },
+                    { chord: "C", text: "(C) Laisse-moi marcher toujours, Avec (F) chants et (C) sourire" },
+                    { chord: "F", text: "(F) Remplis-moi chaque (G) jour (C) d’amour." }
+                ],
+                [
+                    { chord: "C", text: "(C) Garde-moi à côté, De mon (F) Sauveur et (C) guide," },
+                    { chord: "C", text: "(C) Ne me laisse pas dans (D) les ténèbres. (G) " },
+                    { chord: "C", text: "(C) Garde-moi du courroux. Et (F) satisfait mon (C) âme" },
+                    { chord: "F", text: "(F) Remplis-moi chaque (G) jour (C) d’amour." }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "L'AMOUR DE DIEU EST SI MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tct5CcZy5uo?si=xLu4_KysAPC6v3Yp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "G", text: "(G) L'amour de Dieu est si merveilleux" },
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" },
+                    { chord: "C", text: "(C) Comment il est ?" },
+                    { chord: "C", text: "(C) Il est si haut qu'on ne peut le surmonter" },
+                    { chord: "G", text: "(G) Il est si bas qu'on ne peut le renverser" },
+                    { chord: "C", text: "(C) Il est si large qu'on ne peut le contourner" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "IL M'A FAIT GRACE INFINIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Uo83A2e0VLA?si=Vpkk3rUD6-Y_c0cn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "G", text: "(G) celui-là est (C) mon rocher" },
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il m’a libéré," },
+                    { chord: "C", text: "(C) ô Il m’a libéré (G) " },
+                    { chord: "G", text: "(G) O Il m’a pardonné, (C)" },
+                    { chord: "C", text: "(C) ô Il m’a racheté (F) " },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "GOD YOU'RE SO GOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/v-PestNqUCI?si=OpB_h1rfWALdee7k",
+            verses: [
+                [
+                    { chord: "C", text: "(C) God you're so good" },
+                    { chord: "F", text: "(F) God you're (C) God" },
+                    { chord: "C", text: "(C) God you're wonderful (Am) " },
+                    { chord: "Am", text: "(Am) My (F) Lord (G) you're (C) excellent" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Excellent is your name" },
+                    { chord: "F", text: "(F) Excellent that you (C) are " },
+                    { chord: "C", text: "(C) God you're wonderful (Am) " },
+                    { chord: "Am", text: "(Am) My (F) Lord (G) you're (C) excellent" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-09-2025",
+            title: "TEL QUE JE SUIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_kD8pJPRk-k?si=8PU7rHT-OB3H23iC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tel que je suis, sans (G) rien en (C) moi" },
+                    { chord: "G", text: "(G) Sinon ton sang versé pour (C) moi" },
+                    { chord: "C", text: "(C) Et ta voix qui (F) m'appelle à toi" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tel que je suis, bien (G) vacillant (C) " },
+                    { chord: "G", text: "(G) En proie de doute à chaque (C) instant" },
+                    { chord: "C", text: "(C) Lutte au dehors, (F) crainte au dedans" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tel que je suis, ton (G) cœur est (C) prêt" },
+                    { chord: "G", text: "(G) À prendre le mien tel qu'il (C) est" },
+                    { chord: "C", text: "(C) Pour tout changer, (F) sauveur parfait" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tel que je suis, ton (G) grand amour (C) " },
+                    { chord: "G", text: "(G) A tout pardonné sans (C) retour" },
+                    { chord: "C", text: "(C) Je veux être à (F) toi dès ce jour" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 14 Septembre 2025 (Trentième septième Dimanche)
+
         // Debut Cantiques Dimanche 07 Septembre 2025 (Trentième sixième Dimanche)
         {
             key: "dim-07-09-2025",
