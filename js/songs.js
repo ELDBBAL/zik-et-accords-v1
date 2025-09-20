@@ -1,5 +1,319 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 21 Septembre 2025 (Trentième huitième Dimanche)
+        {
+            key: "dim-21-09-2025",
+            title: "WHEN I LOOK AT THE MOUNTAINS",
+            keySignature: "C",
+            youtubeLink: "",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I look at the mountains" },
+                    { chord: "F", text: "(F) Look at the valleys" },
+                    { chord: "G", text: "(G) Look at the sea" },
+                    { chord: "C", text: "(C) Ohh my lord" },
+                    { chord: "C", text: "(C) You are God" },
+                ]
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "QUAND JE REGARDE LES MONTAGNES",
+            keySignature: "C",
+            youtubeLink: "",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je regarde les montages" },
+                    { chord: "F", text: "(F) Regarde les vallées" },
+                    { chord: "G", text: "(G) Regarde la mer" },
+                    { chord: "C", text: "(C) Ohh seigneur" },
+                    { chord: "C", text: "(C) Tu es Dieu" },
+                ]
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "SOURIANT ET LEVE TON VISAGE",
+            keySignature: "C",
+            youtubeLink: "",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Souriant et (G) lève ton visage" },
+                    { chord: "G", text: "(G) Serre la main de (C) celui Que tu aimes" },
+                    { chord: "F", text: "(F) Serre la main de (C) ton Voisin" },
+                    { chord: "G", text: "(G) Pélérin (C) souri" }
+                ]
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "JESUS QUITTA LE TRONE DE SON PERE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ou_uK0iLi5Y?si=l8AWscYa79DTQCtS",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus quitta le trône de son Père" },
+                    { chord: "G", text: "(G) Et descendit ici-bas sur la (C) terre ;" },
+                    { chord: "C", text: "(C) Il accepta la crèche pour berceau." },
+                    { chord: "G", text: "(G) Lui, Roi des rois, le Fils du Dieu Très (C) Haut !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! oui, c’est vrai ! je (F) sais que c’est vrai !" },
+                    { chord: "G", text: "(G) « Il est écrit » : cela suffit (C) !" },
+                    { chord: "C", text: "(C) Que Jésus m’aime ! oh ! (F) bonheur suprême !" },
+                    { chord: "G", text: "(G) La Bible me le (C) dit !" }
+                ],
+                [
+                    { chord: "C", text: "(C) En tous les lieux portant la délivrance," },
+                    { chord: "G", text: "(G) Faisant le bien, guérissant la (C) souffrance," },
+                    { chord: "C", text: "(C) Il pardonnait au pécheur repentant," },
+                    { chord: "G", text: "(G) Il bénissait jusqu’au petit (C) enfant." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il fut cloué sur la croix méprisable," },
+                    { chord: "G", text: "(G) Lui, Juste et Saint, mourut pour moi, (C) coupable." },
+                    { chord: "C", text: "(C) Pour me sauver, son sang fut répandu ;" },
+                    { chord: "G", text: "(G) C’est pourquoi j’aime le Seigneur (C) Jésus !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Plus que Vainqueur il sortit de la tombe," },
+                    { chord: "G", text: "(G) Gloire à l’Agneau, divin Sauveur du (C) monde !" },
+                    { chord: "C", text: "(C) Il règne au ciel, intercède pour moi," },
+                    { chord: "G", text: "(G) Et vient bientôt me chercher : je le (C) crois !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "IN CHRIST ALONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/rn9-UNer6MQ?si=apmpiaQda6YudHN6",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In Christ alone, my hope is (G) found" },
+                    { chord: "G", text: "(G) He is my (F) light, my (G) strength, my (C) song" },
+                    { chord: "C", text: "(C) This Cornerstone, this solid (G) ground" },
+                    { chord: "G", text: "(G) Firm (F) through the (G) fiercest drought and (C) storm" },
+                    { chord: "C", text: "(C) What heights of (F) love, what depths of (G) peace" },
+                    { chord: "G", text: "(G) When fears are (F) stilled, when strivings (G) cease" },
+                    { chord: "G", text: "(G) My Comforter, (C) my All in (G) All" },
+                    { chord: "G", text: "(G) Here in the (F) love of (G) Christ I (C) stand" }
+                ],
+                [
+                    { chord: "C", text: "(C) In Christ alone, who took on (G) flesh" },
+                    { chord: "G", text: "(G) Fullness of (F) God in (G) helpless (C) babe" },
+                    { chord: "C", text: "(C) This gift of love and (G) righteousness" },
+                    { chord: "G", text: "(G) Scorned (F) by the (G) ones He came to (C) save" },
+                    { chord: "C", text: "(C) Til on that (F) cross as Jesus (G) died" },
+                    { chord: "G", text: "(G) The wrath of (F) God was satisfied (G) " },
+                    { chord: "G", text: "(G) For every (C) sin on Him was (G) laid" },
+                    { chord: "G", text: "(G) Here in the (F) death of (G) Christ I (C) live" }
+                ],
+                [
+                    { chord: "C", text: "(C) There in the ground His body (G) lay" },
+                    { chord: "G", text: "(G) Light of the (F) world by (G) darkness (C) slain" },
+                    { chord: "C", text: "(C) Then bursting forth in (G) glorious Day" },
+                    { chord: "G", text: "(G) Up from (F) the grave (G) He rose (C) again" },
+                    { chord: "C", text: "(C) And as He (F) stands in (G) victory" },
+                    { chord: "G", text: "(G) Sin's curse (F) has lost its grip on (G) me" },
+                    { chord: "G", text: "(G) For I am (C) His and He is (G) mine" },
+                    { chord: "G", text: "(G) Bought with (F) the precious (G) blood of (C) Christ" }
+                ],
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "THE OLD TIME POWER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/eP1XPFr0-IM?si=W7YGFv6Pt1CYZNWq",
+            verses: [
+                [
+                    { chord: "C", text: "(C) They were in an upper chamber," },
+                    { chord: "C", text: "(C) They (F) were all with (G) one (C) accord, " },
+                    { chord: "C", text: "(C) When the Holy Ghost descended," },
+                    { chord: "C", text: "(C) As (F) was promised (G) by the (C) Lord." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O Lord, send the pow'r just now," },
+                    { chord: "G", text: "(G) O Lord, send the (C) pow'r just now," },
+                    { chord: "C", text: "(C) O Lord, send the pow'r (Em) just (Am) now," },
+                    { chord: "C", text: "(C) And (F) baptize (G) ev'ry (C) one." }
+                ],
+                [
+                    { chord: "C", text: "(C) Yes, this pow'r from heav’n descended," },
+                    { chord: "C", text: "(C) With (F) the sound of (G) rushing (C) wind;" },
+                    { chord: "C", text: "(C) Tongues of fire came down upon them," },
+                    { chord: "C", text: "(C) As (F) the Lord (G) said He would (C) send." }
+                ],
+                [
+                    { chord: "C", text: "(C) Yes, this 'old-time' pow'r was given" },
+                    { chord: "C", text: "(C) To (F) our fathers (G) who were (C) true;" },
+                    { chord: "C", text: "(C) This is promised to believers," },
+                    { chord: "C", text: "(C) And (F) we all (G) may have it (C) too." }
+                ]
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "WHO I AM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KnTAaZPNU2g?si=dq_4uOZX1O_WoTLL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O glorious victory" },
+                    { chord: "C", text: "(C) That day He (F) set me free," },
+                    { chord: "F", text: "(F) And made my (C) heart His very (G) throne" },
+                    { chord: "G", text: "(G) My life is no (C) longer mine;" },
+                    { chord: "C", text: "(C) I’m a prisoner of (F) love divine," },
+                    { chord: "F", text: "(F) And now I (C) live to (G) praise His (C) name." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Who I am, Lord, who I (C) am," },
+                    { chord: "C", text: "(C) On the (G) cross of (C) Calvary," },
+                    { chord: "F", text: "(F) A part of my savior," },
+                    { chord: "F", text: "(F) A part of His (C) word." },
+                    { chord: "G", text: "(G) It’s a revelation 'It’s predestination'" },
+                    { chord: "G", text: "(G) O who I (C) am" },
+                ],
+                [
+                    { chord: "C", text: "(C) On Calvary He died" },
+                    { chord: "C", text: "(C) To redeem His (F) lost Bride" },
+                    { chord: "F", text: "(F) The King of (C) kings" },
+                    { chord: "C", text: "(C) Became my (G) Savior," },
+                    { chord: "G", text: "(G) This is (C) God’s great mystery" },
+                    { chord: "C", text: "(C) Of love (F) expressed to me," },
+                    { chord: "F", text: "(F) That (C) Christ and (G) I" },
+                    { chord: "G", text: "(G) Might be made (C) one!" },
+                ],
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "PLUS PRECIEUX QUE L'OR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/d-n-tBhHHtY?si=SqvVJ2vc8hiwftNa",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Plus précieux que (G) l'or" },
+                    { chord: "G", text: "(G) Plus précieux que (C) l'or," },
+                    { chord: "C", text: "(C) L'esprit de Dieu, dans le (F) coeur de l'homme" },
+                    { chord: "F", text: "(F) Est (G) plus précieux que (C) l'or," }
+                ],
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "WHEN THE SAVIOR CALLS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Jah_YZs4MDc?si=p_TVkecA-2LAzJz5",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) When He (G) calls for me I will (C) hear him" },
+                    { chord: "C", text: "(C) When the Saviour calls, I will answer" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" },
+                    { chord: "F", text: "(F) I'll be somewhere listening" },
+                    { chord: "F", text: "(F) I'll be (C) somewhere listening" },
+                    { chord: "C", text: "(C) Be (G) somewhere listening, for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) If my heart (G) is right, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my heart is right, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ],
+                [
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) If my robe (G) is white, I will (C) hear him" },
+                    { chord: "C", text: "(C) If my robe is white, when He calls me" },
+                    { chord: "C", text: "(C) I'll be (F) somewhere listening (G) for my (C) name" }
+                ]
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "WHEN THE ROLL IS CALLED UP YONDER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_LjZfjuOASs?si=57pUu5xvIHi8pq0C",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When the trumpet of the Lord " },
+                    { chord: "C", text: "(C) Shall sound and (F) time shall be no (C) more," },
+                    { chord: "C", text: "(C) And the morning breaks, (D) eternal," },
+                    { chord: "D", text: "(D) bright and (G) fair;" },
+                    { chord: "C", text: "(C) When the saved of earth shall gather" },
+                    { chord: "C", text: "(C) Over on (F) the other (C) shore," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the roll is called up yonder," },
+                    { chord: "G", text: "(G) When the roll is called up yonder," },
+                    { chord: "C", text: "(C) When the roll is called up (F) yonder," },
+                    { chord: "F", text: "(F) When the (C) roll is called up (G) yonder, I'll be (C) there." }
+                ],
+                [
+                    { chord: "C", text: "(C) On that bright and cloudless morning" },
+                    { chord: "C", text: "(C) When the (F) dead in Christ shall (C) rise," },
+                    { chord: "C", text: "(C) And the glory of his (D) resurrection (G) share;" },
+                    { chord: "C", text: "(C) When his chosen ones shall gather" },
+                    { chord: "C", text: "(C) To their (F) home beyond the (C) skies," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ],
+                [
+                    { chord: "C", text: "(C) Let us labor for the Master" },
+                    { chord: "C", text: "(C) From the (F) dawn till setting (C) sun;" },
+                    { chord: "C", text: "(C) Let us talk of all his (D) wondrous love and (G) care." },
+                    { chord: "C", text: "(C) Then when all of life is over" },
+                    { chord: "C", text: "(C) And our (F) work on earth is (C) done," },
+                    { chord: "C", text: "(C) And the roll is called up (G) yonder, I'll be (C) there." },
+                ]
+            ]
+        },
+        {
+            key: "dim-21-09-2025",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I’m (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I’m onward (F) bound," },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (G) stand," },
+                    { chord: "G", text: "(G) By faith, on heaven’s table (C) land," },
+                    { chord: "C", text: "(C) A higher plane than I have (F) found;" },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "C", text: "(C) My heart has no desire to (F) stay," },
+                    { chord: "F", text: "(F) Where doubts (C) arise and fears (G) dismay;" },
+                    { chord: "G", text: "(G) Tho’ some may (C) dwell where these (F) abound," },
+                    { chord: "F", text: "(F) My prayer, my (C) aim, is (G) higher (C) ground." },
+                ],
+                [
+                    { chord: "C", text: "(C) I want to scale the utmost (F) height," },
+                    { chord: "F", text: "(F) And catch a (C) gleam of glory (G) bright;" },
+                    { chord: "G", text: "(G) But still I’ll (C) pray till heav’n I’ve (F) found," },
+                    { chord: "F", text: "(F) “Lord, lead (C) me on to (G) higher (C) ground.”" },
+                ],
+            ]
+        },
+        // Fin Cantiques Dimanche 21 Septembre 2025 (Trentième huitième Dimanche)
+
         // Debut Cantiques Dimanche 14 Septembre 2025 (Trentième septième Dimanche)
         {
             key: "dim-14-09-2025",
@@ -40,6 +354,7 @@ const songs = [
                 ]
             ]
         },
+
         {
             key: "dim-14-09-2025",
             title: "ATTIRE-MOI PLUS PRES DE TOI",
