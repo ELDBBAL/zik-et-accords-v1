@@ -9,10 +9,14 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) When I look at the mountains" },
-                    { chord: "F", text: "(F) Look at the valleys" },
-                    { chord: "G", text: "(G) Look at the sea" },
-                    { chord: "C", text: "(C) Ohh my lord" },
-                    { chord: "C", text: "(C) You are God" },
+                    { chord: "F", text: "(F) Look at the (G) valleys" },
+                    { chord: "G", text: "(G) Look at the (F) sea" },
+                    { chord: "F", text: "(F) Ohh my lord" },
+                    { chord: "F", text: "(F) You are (C) God" },
+                    { chord: "C", text: "(C) You are (F) God" },
+                    { chord: "F", text: "(F) You are (C) God" },
+                    { chord: "C", text: "(C) You are (G) God" },
+                    { chord: "G", text: "(G) You are (C) God" },
                 ]
             ]
         },
@@ -24,10 +28,14 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Quand je regarde les montages" },
-                    { chord: "F", text: "(F) Regarde les vallées" },
-                    { chord: "G", text: "(G) Regarde la mer" },
-                    { chord: "C", text: "(C) Ohh seigneur" },
-                    { chord: "C", text: "(C) Tu es Dieu" },
+                    { chord: "F", text: "(F) Regarde les (G) vallées" },
+                    { chord: "G", text: "(G) Regarde la (F) mer" },
+                    { chord: "F", text: "(F) Ohh seigneur" },
+                    { chord: "F", text: "(F) Tu es (C) Dieu" },
+                    { chord: "C", text: "(C) Tu es (F) Dieu" },
+                    { chord: "F", text: "(F) Tu es (C) Dieu" },
+                    { chord: "C", text: "(C) Tu es (G) Dieu" },
+                    { chord: "G", text: "(G) Tu es (C) Dieu" },
                 ]
             ]
         },
