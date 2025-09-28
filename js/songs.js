@@ -1,5 +1,338 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 28 Septembre 2025 (Trentième neuvième Dimanche)
+        {
+            key: "dim-28-09-2025",
+            title: "HE WAS NAILED TO THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tbXyFiG08To?si=Yq44ujb_z3-Zgsmw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a wonderful, (F) wonderful (G) Savior" },
+                    { chord: "G", text: "(G) Who would die on the (F) cross for (C) me!" },
+                    { chord: "C", text: "(C) Freely shedding His (F) precious (G) lifeblood," },
+                    { chord: "G", text: "(G) That the sinner might be made (C) free." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He was nailed to the cross for (G) me," },
+                    { chord: "F", text: "(F) He was nailed to the (F) cross for (C) me," },
+                    { chord: "C", text: "(C) On the cross crucified, for (F) me He (C) died:" },
+                    { chord: "C", text: "(C) He was nailed to the (G) cross for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Thus He left, His (F) heavenly (G) Glory," },
+                    { chord: "G", text: "(G) To accomplish (F) His Father's (C) plan;" },
+                    { chord: "C", text: "(C) He was born (F) of the virgin (G) Mary," },
+                    { chord: "G", text: "(G) Took upon Him the form of (C) man." }
+                ],
+                [
+                    { chord: "C", text: "(C) He was wounded, (F) for our (G) transgressions" },
+                    { chord: "G", text: "(G) And He carried (F) our sorrows (C) too;" },
+                    { chord: "C", text: "(C) He's the Healer (F) of every (G) sickness," },
+                    { chord: "G", text: "(G)This He came to the world to (C) do." }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "ATTACHÉ À LA CROIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/zdKhvzS1Poo?si=MqxLMchbmg7M5NNg",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel sauveur (F) merveilleux je (G) possède" },
+                    { chord: "G", text: "(G) Il s'est sacrifié pour (C) moi" },
+                    { chord: "C", text: "(C) Et sa vie (F) innocente, il (G) cède" },
+                    { chord: "G", text: "(G) Pour mourir sur l'infâme (C) bois." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Attaché à la croix pour (G) moi," },
+                    { chord: "G", text: "(G) Attaché (F) à la croix pour (C) moi," },
+                    { chord: "C", text: "(C) Il a pris mon péché, Et m'a (F) délivré" },
+                    { chord: "C", text: "(C) Attaché à la (G) croix pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il renonce à la (F) gloire (G) céleste" },
+                    { chord: "G", text: "(G) Pour le plan rédempteur de (C) Dieu" },
+                    { chord: "C", text: "(C) L'apparence est la (F) plus (G) modeste" },
+                    { chord: "G", text: "(G) Ô quel prix pour me rendre (C) heureux." }
+                ],
+                [
+                    { chord: "C", text: "(C) Maltraité, (F) innocent, pour ma (G) vie" },
+                    { chord: "G", text: "(G) Pour mes iniquités, (C) brisé" },
+                    { chord: "C", text: "(C) Et chargé de (F) mes (G) maladies" },
+                    { chord: "G", text: "(G) Il mourut pour guérir, (C) sauver" }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "LA NUEE DE GLOIRE AVANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Sn7m3JFaTV4?si=0aRgj1PXDBwXn7UY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La nuée de gloire (F) avance (C) !" },
+                    { chord: "F", text: "(F) Avance avec (C) elle ! (G) Avance avec (C) elle !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que ton esprit (G) s’élève" },
+                    { chord: "Am", text: "(Am) Que ta force soit renouvelée, (C) " },
+                    { chord: "C", text: "(C) Viens, avançons (G) tous (Am) ensemble (G) " },
+                    { chord: "C", text: "(C) Si tu la suis (G) toujours," },
+                    { chord: "Am", text: "(Am) Tu vivras une vie d’amour, (C) " },
+                    { chord: "F", text: "(F) Si tu avances avec (C) elle ! (G) Avance avec (C) elle !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "I CAN SEE IN YOU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QEy8wE8BQXU?si=1ilhIbM379ItGM7j",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I love you with the love of the Lord" },
+                    { chord: "C", text: "(C) I love you with the love of the (G) Lord" },
+                    { chord: "C", text: "(C) I can (F) see in (Dm) you, the (Em) glory of the (Am) Lord" },
+                    { chord: "Dm", text: "(Dm) I love you with the (G) love of the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je t'aime de l'amour du Seigneur" },
+                    { chord: "C", text: "(C) Je t'aime de l'amour du (G) Seigneur" },
+                    { chord: "C", text: "(C) Je peux (F) voir en (Dm) toi la (Em) gloire de (Am) l'Eternel" },
+                    { chord: "Dm", text: "(Dm) Je t'aime de (G) l'amour du Seigneur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "MY SINS ARE GONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZUDyHChBlTg?si=PB5Sur-pGV4L5cjC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You ask me why I'm happy" },
+                    { chord: "C", text: "(C) So (G) I'll just tell you why," },
+                    { chord: "G", text: "(G) Because my sins are (C) gone;" },
+                    { chord: "C", text: "(C) And when I meet the scoffers" },
+                    { chord: "C", text: "(C) Who (G) ask me where they are," },
+                    { chord: "G", text: "(G) I say, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) They're underneath the Blood," },
+                    { chord: "G", text: "(G) On the (C) cross of Calvary," },
+                    { chord: "F", text: "(F) As far removed" },
+                    { chord: "C", text: "(C) As darkness is from (G) dawn;" },
+                    { chord: "C", text: "(C) In the (F) sea of God's forgetfulness" },
+                    { chord: "F", text: "(F) That's good enough for (C) me," },
+                    { chord: "G", text: "(G) Praise God," },
+                    { chord: "G", text: "(G) My sins are (C) gone." }
+                ],
+                [
+                    { chord: "C", text: "(C) I was at the old time altar" },
+                    { chord: "C", text: "(C) Where (G) God came in my heart" },
+                    { chord: "G", text: "(G) And now, my sins are (C) gone;" },
+                    { chord: "C", text: "(C) The Lord took full possession" },
+                    { chord: "C", text: "(C) The (G) devil did depart," },
+                    { chord: "G", text: "(G) I'm glad, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "C", text: "(C) When Satan comes to tempt me" },
+                    { chord: "C", text: "(C) And (G) tries to make me doubt," },
+                    { chord: "G", text: "(G) I say, My sins are (C) gone;" },
+                    { chord: "C", text: "(C) You got me into trouble," },
+                    { chord: "C", text: "(C) But (G) Jesus got me out," },
+                    { chord: "G", text: "(G) I'm glad, My sins are (C) gone" }
+                ],
+                [
+                    { chord: "C", text: "(C) I'm living now for Jesus," },
+                    { chord: "C", text: "(C) I'm (G) happy night and day," },
+                    { chord: "G", text: "(G) Because my sins are (C) gone;" },
+                    { chord: "C", text: "(C) My soul is filled with music," },
+                    { chord: "C", text: "(C) With (G) all my heart I say," },
+                    { chord: "G", text: "(G) I know, My sins are (C) gone" }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "GLORY TO THE LORD",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Oh glory glory (F) glory (G) to the (C) Lord, " },
+                    { chord: "C", text: "(C) Oh glory glory (F) glory (G) to the (C) Lord, " },
+                    { chord: "F", text: "(F) Hosanna, (C) Hosanna, Hosanna" },
+                    { chord: "G", text: "(G) Blessed be the name of the (C) Lord" },
+                    { chord: "F", text: "(F) Hosanna, (C) Hosanna, Hosanna" },
+                    { chord: "G", text: "(G) Blessed be the name of the (C) Lord" },
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "HOSANNA, BLESSED BE THE ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/MOiccAw1KZY?si=i8aXhZ8233cQnjjW",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Hosanna! (F) Blessed Be The (C) Rock," },
+                    { chord: "F", text: "(F) Blessed Be The (C) Rock Of My (Dm) Salvation! (G) " },
+                    { chord: "C", text: "(C) Hosanna! (F) Blessed Be The (C) Rock," },
+                    { chord: "F", text: "(F) Blessed Be The (C) Rock Of My (G) Salvation! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, Magnify The Lord With Me," },
+                    { chord: "C", text: "(C) For (F) He Is (G) Worthy To Be (C) Praised." },
+                    { chord: "C", text: "(C) Oh, Magnify The Lord With Me," },
+                    { chord: "C", text: "(C) For (F) He Is (G) Worthy To Be (C) Praised." },
+                ],
+                [
+                    { chord: "C", text: "(C) Glory, Glory To His Name," },
+                    { chord: "C", text: "(C) He (F) Lives (G) And Reigns (C) Forevermore." },
+                    { chord: "C", text: "(C) Glory, Glory To His Name," },
+                    { chord: "C", text: "(C) He (F) Lives (G) And Reigns (C) Forevermore." },
+                ],
+                [
+                    { chord: "C", text: "(C) Jehovah Jireh Is His Name" },
+                    { chord: "C", text: "(C) For (F) He (G) Provideth All My (C) Needs." },
+                    { chord: "C", text: "(C) Jehovah Jireh Is His Name" },
+                    { chord: "C", text: "(C) For (F) He (G) Provideth All My (C) Needs." },
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "GIVE ME OIL IN MY LAMP",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/2pJGcf3psvk?si=AfR5RGWy1zOBkoko",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Give me oil in my lamp, I (G) pray" },
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Keep me burning til the (G) break of (C) day." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King of kings!" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King!" },
+                ],
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "LE MESSIE EST LE ROI DES ROIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Il est (F) le (C) Roi, (Am) Seigneur des (G) seigneurs" },
+                    { chord: "F", text: "(F) Le Messie est le (G) Roi des (Em) rois (Am) " },
+                    { chord: "Dm", text: "(Dm) Il est le Seigneur (G) des Seigneurs. (C) "}
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "QUEL EST CET HOMME DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "GLORY BE TO GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/drmL-zAfdtg?si=EzXxELDbStL9HUbW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Glory be to God in the Highest ! (F) halle (G) lujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) Every body sing hallelu ! (G) hallelujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) hallelujah! (G) hallelujah! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-09-2025",
+            title: "TEL QUE JE SUIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_kD8pJPRk-k?si=8PU7rHT-OB3H23iC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tel que je suis, sans (G) rien en (C) moi" },
+                    { chord: "G", text: "(G) Sinon ton sang versé pour (C) moi" },
+                    { chord: "C", text: "(C) Et ta voix qui (F) m'appelle à toi" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tel que je suis, bien (G) vacillant (C) " },
+                    { chord: "G", text: "(G) En proie de doute à chaque (C) instant" },
+                    { chord: "C", text: "(C) Lutte au dehors, (F) crainte au dedans" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tel que je suis, ton (G) cœur est (C) prêt" },
+                    { chord: "G", text: "(G) À prendre le mien tel qu'il (C) est" },
+                    { chord: "C", text: "(C) Pour tout changer, (F) sauveur parfait" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tel que je suis, ton (G) grand amour (C) " },
+                    { chord: "G", text: "(G) A tout pardonné sans (C) retour" },
+                    { chord: "C", text: "(C) Je veux être à (F) toi dès ce jour" },
+                    { chord: "C", text: "(C) Agneau de Dieu, je (G) viens, je (F) viens" }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 28 Septembre 2025 (Trentième neuvième Dimanche)
+
         // Debut Cantiques Dimanche 21 Septembre 2025 (Trentième huitième Dimanche)
         {
             key: "dim-21-09-2025",
