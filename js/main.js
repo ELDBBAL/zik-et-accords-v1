@@ -26,12 +26,12 @@ const cantiques = [
         title: "Hymns of 07/09/2025",
         link: "single.html?key=dim-07-09-2025"
     },
-    {
+    /*{
         date: "31/08",
         title: "Hymns of 31/08/2025",
         link: "single.html?key=dim-31-08-2025"
     },
-    /*{
+    {
         date: "30/08",
         title: "Hymns of 30/08/2025",
         link: "single.html?key=sam-30-08-2025"
