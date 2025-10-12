@@ -44,44 +44,44 @@ const songs = [
             key: "dim-12-10-2025",
             title: "LA TERRE HAUTE",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/LH5gnU-lrYs?si=xyEKEYA6_mVtALCr",
             verses: [
                 [
-                    { chord: "C", text: "(C) J’avance sur le chemin plus haut" },
-                    { chord: "C", text: "(C) Je gagne des hauteurs chaque jour" },
-                    { chord: "C", text: "(C) J’évolue dans toutes mes prières" },
-                    { chord: "C", text: "(C) Elève-moi à la terre plus haute." }
+                    { chord: "C", text: "(C) J’avance sur le chemin plus (F) haut" },
+                    { chord: "F", text: "(F) Je gagne des (C) hauteurs chaque (G) jour" },
+                    { chord: "G", text: "(G) J’évolue (C) dans toutes mes (F) prières" },
+                    { chord: "F", text: "(F) Elève (C) moi à la (G) terre plus (C) haute." }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Avec Toi, Seigneur que je monte" },
-                    { chord: "C", text: "(C) Par la foi sur la terre céleste" },
-                    { chord: "C", text: "(C) Là où l’Amour, la foi abondent;" },
-                    { chord: "C", text: "(C) Plante mes pieds sur la terre plus haute." }
+                    { chord: "C", text: "(C) Avec Toi, Seigneur que je (F) monte" },
+                    { chord: "F", text: "(F) Par la foi sur la terre (C) céleste" },
+                    { chord: "C", text: "(C) Là où l’Amour, la foi (F) abondent;" },
+                    { chord: "F", text: "(F) Plante mes pieds (C) sur la terre (G) plus (C) haute." }
                 ],
                 [
-                    { chord: "C", text: "(C) Pas de désir de me trouver" },
-                    { chord: "C", text: "(C) Dans un lieu de doute et de crainte" },
-                    { chord: "C", text: "(C) Mais pour certains, un lieu de joie" },
-                    { chord: "C", text: "(C) Mon grand désir, la terre plus haute." }
+                    { chord: "C", text: "(C) Pas de désir de me (F) trouver" },
+                    { chord: "F", text: "(F) Dans un (C) lieu de doute et de (G) crainte" },
+                    { chord: "G", text: "(G) Mais pour (C) certains, un lieu de (F) joie" },
+                    { chord: "F", text: "(F) Mon grand (C) désir, la (G) terre plus (C) haute." }
                 ],
                 [
-                    { chord: "C", text: "(C) Plus haut ce beau ciel serein" },
-                    { chord: "C", text: "(C) J’aspire trouver la paix éternelle" },
-                    { chord: "C", text: "(C) Au-dessus du bruit de ce monde" },
-                    { chord: "C", text: "(C) Se trouve la paix pour tous les Saints." }
+                    { chord: "C", text: "(C) Plus haut ce beau ciel (F) serein" },
+                    { chord: "F", text: "(F) J’aspire (C) trouver la paix (G) éternelle" },
+                    { chord: "G", text: "(G) Au-dessus (C) du bruit de ce (F) monde" },
+                    { chord: "F", text: "(F) Se trouve (C) la paix (G) pour tous les (C) Saints." }
                 ],
                 [
-                    { chord: "C", text: "(C) La terre plus haute, c’est mon désir" },
-                    { chord: "C", text: "(C) Bien que la voie soit difficile," },
-                    { chord: "C", text: "(C) Sur le chemin, mon chant sera :" },
-                    { chord: "C", text: "(C) Conduis-moi à la terre plus haute." }
+                    { chord: "C", text: "(C) La terre plus haute, c’est mon (F) désir" },
+                    { chord: "F", text: "(F) Bien que (C) la voie soit (G) difficile," },
+                    { chord: "G", text: "(G) Sur le (C) chemin, mon chant (F) sera :" },
+                    { chord: "F", text: "(F) Conduis (C) moi à la (G) terre plus (C) haute." }
                 ],
                 [
-                    { chord: "C", text: "(C) Par la main, tiens-moi, mon Seigneur" },
-                    { chord: "C", text: "(C) Je ne peux monter sans mon guide" },
-                    { chord: "C", text: "(C) Et quand j’arrive en ce lieu saint" },
-                    { chord: "C", text: "(C) Je chanterai Ta Gloire, Seigneur." }
+                    { chord: "C", text: "(C) Par la main, tiens-moi, mon (F) Seigneur" },
+                    { chord: "F", text: "(F) Je ne peux (C) monter sans mon (G) guide" },
+                    { chord: "G", text: "(G) Et quand (C) j’arrive en ce lieu (F) saint" },
+                    { chord: "F", text: "(F) Je chanterai (C) Ta Gloire, (C) Seigneur." }
                 ],
             ]
         },
