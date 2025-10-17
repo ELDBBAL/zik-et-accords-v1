@@ -1,5 +1,288 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 19 Octobre 2025 (Quarantième deuxième Dimanche)
+        {
+            key: "dim-19-10-2025",
+            title: "WHITER THAN THE SNOW",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/yu6HHBbCN00?si=C2u6Oe8XdToVZI_4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Blessed be the fountain of blood" },
+                    { chord: "C", text: "(C) To a (G) world of sinners revealed" },
+                    { chord: "C", text: "(C) Blessed be the dear Son of God" },
+                    { chord: "C", text: "(C) Only (G) by His stripes we are (C) healed" },
+                    { chord: "F", text: "(F) Tho I've wandered far from His (C) fold" },
+                    { chord: "F", text: "(F) Bringing to my heart pain and (G) woe" },
+                    { chord: "C", text: "(C) Wash me in the blood of the Lamb" },
+                    { chord: "C", text: "(C) And I (G) shall be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Whiter than the (G) snow" },
+                    { chord: "F", text: "(F) Whiter than the (C) snow" },
+                    { chord: "C", text: "(C) Wash me in the blood of the (F) Lamb" },
+                    { chord: "C", text: "(C) And I shall (G) be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus par ton sang précieux " },
+                    { chord: "C", text: "(C) Enlève (G) mon iniquité" },
+                    { chord: "C", text: "(C) Regarde-moi du haut des cieux" },
+                    { chord: "C", text: "(C) Dis-moi (G) que Tu m’as (C) pardonné" },
+                    { chord: "F", text: "(F) J’ai longtemps erré coeur (C) rebelle" },
+                    { chord: "F", text: "(F) Mais j’entends Ta voix qui (G) m’appelle" },
+                    { chord: "C", text: "(C) Au pied de Ta croix maintenant" },
+                    { chord: "C", text: "(C) Tout confus, (G) brisé, je me (C) rends." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Blanc, plus blanc que (G) neige " },
+                    { chord: "F", text: "(F) Blanc, plus blanc que (C) neige" },
+                    { chord: "C", text: "(C) Lavé dans le sang de (F) l’Agneau" },
+                    { chord: "C", text: "(C) Je serai plus (G) blanc que la (C) neige" }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "LA NUEE DE GLOIRE AVANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Sn7m3JFaTV4?si=0aRgj1PXDBwXn7UY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La nuée de gloire (F) avance (C) !" },
+                    { chord: "F", text: "(F) Avance avec (C) elle ! (G) Avance avec (C) elle !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que ton esprit (G) s’élève" },
+                    { chord: "Am", text: "(Am) Que ta force soit renouvelée, (C) " },
+                    { chord: "C", text: "(C) Viens, avançons (G) tous (Am) ensemble (G) " },
+                    { chord: "C", text: "(C) Si tu la suis (G) toujours," },
+                    { chord: "Am", text: "(Am) Tu vivras une vie d’amour, (C) " },
+                    { chord: "F", text: "(F) Si tu avances avec (C) elle ! (G) Avance avec (C) elle !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "I CAN SEE IN YOU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QEy8wE8BQXU?si=1ilhIbM379ItGM7j",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I love you with the love of the Lord" },
+                    { chord: "C", text: "(C) I love you with the love of the (G) Lord" },
+                    { chord: "C", text: "(C) I can (F) see in (Dm) you, the (Em) glory of the (Am) Lord" },
+                    { chord: "Dm", text: "(Dm) I love you with the (G) love of the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je t'aime de l'amour du Seigneur" },
+                    { chord: "C", text: "(C) Je t'aime de l'amour du (G) Seigneur" },
+                    { chord: "C", text: "(C) Je peux (F) voir en (Dm) toi la (Em) gloire de (Am) l'Eternel" },
+                    { chord: "Dm", text: "(Dm) Je t'aime de (G) l'amour du Seigneur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "AS THE DEER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jSZWogD0AH4?si=YDFdMyFc3h9FFZSk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) As the deer panteth for the water" },
+                    { chord: "C", text: "(C) So my (F) soul (G) longeth after (C) thee" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) You alone are my (F) strength, my (C) shield" },
+                    { chord: "F", text: "(F) To you alone may my (Dm) spirit (C) yield" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) You’re my Friend and You are my brother" },
+                    { chord: "C", text: "(C) Even (F) though (G) You are a (C) King" },
+                    { chord: "C", text: "(C) I love You more than any other" },
+                    { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
+                    { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) Tu es mon bouclier (F) et ma (C) force" },
+                    { chord: "F", text: "(F) Le Roc sur qui j’ai (Dm) fondé ma (C) vie" },
+                    { chord: "C", text: "(C) Toi seul es le (Am) désir de mon coeur" },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T’adorer (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "SEND THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a call comes ringing o'er the restless wave," },
+                    { chord: "C", text: "(C) 'Send the (G) light! Send the (C) light'" },
+                    { chord: "C", text: "(C) There are souls to rescue, there are souls to save," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                    { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We have heard the Macedonian call today, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a golden off'ring at the cross we lay," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us pray that grace may ev'rywhere abound," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) And a Christ-like spirit ev'rywhere be found," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let us not grow weary in the work of love, " },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" },
+                    { chord: "C", text: "(C) Let us gather jewels for a crown above," },
+                    { chord: "C", text: "(C) Send the (G) light! Send the (C) light!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "IL M'A FAIT GRACE INFINIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Uo83A2e0VLA?si=Vpkk3rUD6-Y_c0cn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "G", text: "(G) celui-là est (C) mon rocher" },
+                    { chord: "C", text: "(C) Il m’a fait grâce infinie" },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il m’a libéré," },
+                    { chord: "C", text: "(C) ô Il m’a libéré (G) " },
+                    { chord: "G", text: "(G) O Il m’a pardonné, (C)" },
+                    { chord: "C", text: "(C) ô Il m’a racheté (F) " },
+                    { chord: "F", text: "(F) Jésus m’a (G) libéré (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "IT IS A GREAT THING TO SERVE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/huzIv3WSjds?si=uyAXk4Sr-iYILAvT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) serve the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) serve the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) serve the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) O walk, walk, walk, walk, (Am) walking in the light" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) praise the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) praise the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) praise the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) worship the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) worship the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) worship the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) honour the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) honour the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) honour the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "GREAT THING HE HAS DONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Gla0seOsQvg?si=Ec1mUteJx0JkH34L",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Great things He has (F) done" },
+                    { chord: "F", text: "(F) Greater (G) things he will (C) do" },
+                    { chord: "C", text: "(C) Unto the Lord be the (F) glory" },
+                    { chord: "F", text: "(F) Great (C) things (G) He has (C) done" }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "AMAZING GRACE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tvt6E9N7AQw?si=8zkXY4GH66SnRODV",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Amazing grace how (F) sweet the (C) sound" },
+                    { chord: "C", text: "(C) that saved a wretch like (G) me!" },
+                    { chord: "C", text: "(C) I once was lost, but (F) now am (C) found," },
+                    { chord: "C", text: "(C) was blind, but (G) now I (C) see." }
+                ],
+                [
+                    { chord: "C", text: "(C) IT was grace that taught my (F) heart to (C) fear," },
+                    { chord: "C", text: "(C) and grace my fears (G) relieved;" },
+                    { chord: "C", text: "(C) how precious did that (F) grace (C) appear" },
+                    { chord: "C", text: "(C) the hour I (G) first (C) believed!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Through many dangers, (F) toils and (C) snares" },
+                    { chord: "C", text: "(C) I have already (G) come:" },
+                    { chord: "C", text: "(C) This grace has brought me (F) safe thus (C) far," },
+                    { chord: "C", text: "(C) and grace will (G) lead me (C) home" }
+                ],
+                [
+                    { chord: "C", text: "(C) The Lord has promised (F) good to (C) me," },
+                    { chord: "C", text: "(C) his word my hope (G) secures;" },
+                    { chord: "C", text: "(C) he will my shield and (F) portion (C) be" },
+                    { chord: "C", text: "(C) as long as (G) life (C) endures." }
+                ],
+                [
+                    { chord: "C", text: "(C) Yes, when this flesh and (F) heart shall (C) fail," },
+                    { chord: "C", text: "(C) and mortal life shall (G) cease:" },
+                    { chord: "C", text: "(C) I shall possess, (F) within the (C) veil," },
+                    { chord: "C", text: "(C) a life of (G) joy and (C) peace." }
+                ],
+                [
+                    { chord: "C", text: "(C) The earth shall soon (F) dissolve like (C) snow," },
+                    { chord: "C", text: "(C) the sun forbear to (G) shine;" },
+                    { chord: "C", text: "(C) but God, who (F) called me here (C) below," },
+                    { chord: "C", text: "(C) will be (G) forever (C) mine." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 19 Octobre 2025 (Quarantième deuxième Dimanche)
+
         // Debut Cantiques Dimanche 12 Octobre 2025 (Quarantième unième Dimanche)
         {
             key: "dim-12-10-2025",
