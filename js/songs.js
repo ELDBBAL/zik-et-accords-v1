@@ -93,26 +93,26 @@ const songs = [
                     { chord: "C", text: "(C) Quand mon Rédempteur a ouvert le 7e sceau" },
                     { chord: "C", text: "(C) J’ai vu mon nom dans le livre de l’Agneau." },
                     { chord: "C", text: "(C) Et aujourd’hui je sais que je suis sauvé," },
-                    { chord: "Dm", text: "(Dm) Puisque mon nom est dans le livre de l’Agneau." }
+                    { chord: "C", text: "(C) Puisque mon nom est dans le livre de l’Agneau." }
                 ],
                 [
                     { chord: "C", text: "CHORUS:" },
                     { chord: "C", text: "(C) J’ai vu mon nom, j’ai vu mon nom" },
                     { chord: "C", text: "(C) J’ai vu mon nom dans le livre de l’Agneau" },
                     { chord: "C", text: "(C) Alléluia ! Alléluia !" },
-                    { chord: "Dm", text: "(Dm) J’ai vu mon nom dans le livre de l’Agneau." }
+                    { chord: "C", text: "(C) J’ai vu mon nom dans le livre de l’Agneau." }
                 ],
                 [
                     { chord: "C", text: "(C) Quand j’ai vu mon nom, mon âme inonda de joie" },
                     { chord: "C", text: "(C) Et de l’amour pour Toi mon Divin Sauveur" },
                     { chord: "C", text: "(C) Dans cette ivresse, mon cœur est béni Seigneur ;" },
-                    { chord: "Dm", text: "(Dm) Tu es le seul digne de rompre les sceaux." }
+                    { chord: "C", text: "(C) Tu es le seul digne de rompre les sceaux." }
                 ],
                 [
                     { chord: "C", text: "(C) Oh oui, sans crainte et sans peur je peux marcher " },
                     { chord: "C", text: "(C) Je peux marcher sur ce chemin de la gloire" },
                     { chord: "C", text: "(C) Ô la Rédemption est accomplie aujourd’hui" },
-                    { chord: "Dm", text: "(Dm) Dans les 7 tonnerres, j’ai trouvé ma liberté." }
+                    { chord: "C", text: "(C) Dans les 7 tonnerres, j’ai trouvé ma liberté." }
                 ],
                 [
                     { chord: "C", text: "(C) Je Te louerai, je T’adorerai toujours," },
