@@ -85,6 +85,73 @@ const songs = [
         },
         {
             key: "dim-19-10-2025",
+            title: "J’AI VU MON NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand mon Rédempteur a ouvert le 7e sceau" },
+                    { chord: "C", text: "(C) J’ai vu mon nom dans le livre de l’Agneau." },
+                    { chord: "C", text: "(C) Et aujourd’hui je sais que je suis sauvé," },
+                    { chord: "Dm", text: "(Dm) Puisque mon nom est dans le livre de l’Agneau." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) J’ai vu mon nom, j’ai vu mon nom" },
+                    { chord: "C", text: "(C) J’ai vu mon nom dans le livre de l’Agneau" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia !" },
+                    { chord: "Dm", text: "(Dm) J’ai vu mon nom dans le livre de l’Agneau." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand j’ai vu mon nom, mon âme inonda de joie" },
+                    { chord: "C", text: "(C) Et de l’amour pour Toi mon Divin Sauveur" },
+                    { chord: "C", text: "(C) Dans cette ivresse, mon cœur est béni Seigneur ;" },
+                    { chord: "Dm", text: "(Dm) Tu es le seul digne de rompre les sceaux." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh oui, sans crainte et sans peur je peux marcher " },
+                    { chord: "C", text: "(C) Je peux marcher sur ce chemin de la gloire" },
+                    { chord: "C", text: "(C) Ô la Rédemption est accomplie aujourd’hui" },
+                    { chord: "Dm", text: "(Dm) Dans les 7 tonnerres, j’ai trouvé ma liberté." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je Te louerai, je T’adorerai toujours," },
+                    { chord: "C", text: "(C) De ce que Tu m’as aimé le premier." },
+                    { chord: "C", text: "(C) Sans rien mériter, Tu m’as donné la vie," },
+                    { chord: "Dm", text: "(Dm) Oui, les 7 tonnerres, la vie pour l’éternité" }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
+            title: "TU DOIS MARCHER ENCORE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Longtemps j'ai cherché La route pour la Gloire," },
+                    { chord: "C", text: "(C) Allais-je un jour Trouver ce chemin-là?" },
+                    { chord: "C", text: "(C) Je m'assis un instant Pour reposer mes pieds," },
+                    { chord: "Dm", text: "(Dm) C'est alors qu'en moi une voix me dit :" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Tu dois marcher encore," },
+                    { chord: "C", text: "(C) Oui, marcher encore," },
+                    { chord: "C", text: "(C) Marchant dans la lumière du Seigneur!" },
+                    { chord: "Dm", text: "(Dm) Tu arriveras au ciel si tu marches droit," },
+                    { chord: "Dm", text: "(Dm) Marchant dans la lumière du Seigneur!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Longtemps j'ai prié Pour qu'Il m'accorde Sa grâce," },
+                    { chord: "C", text: "(C) J'ai prié pour qu'Il éclaire mon chemin" },
+                    { chord: "C", text: "(C) J'avais tellement peur Sur cette route solitaire" },
+                    { chord: "Dm", text: "(Dm) C'est alors qu'en moi une voix me dit :" }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-10-2025",
             title: "AS THE DEER",
             keySignature: "C",
             youtubeLink: "https://youtu.be/jSZWogD0AH4?si=YDFdMyFc3h9FFZSk",
