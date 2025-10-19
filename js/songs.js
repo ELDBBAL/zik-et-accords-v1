@@ -129,24 +129,24 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Longtemps j'ai cherché La route pour la Gloire," },
-                    { chord: "C", text: "(C) Allais-je un jour Trouver ce chemin-là?" },
-                    { chord: "C", text: "(C) Je m'assis un instant Pour reposer mes pieds," },
-                    { chord: "Dm", text: "(Dm) C'est alors qu'en moi une voix me dit :" }
+                    { chord: "C", text: "(C) Longtemps j'ai cherché La (F) route pour la (C) Gloire," },
+                    { chord: "C", text: "(C) Allais-je un jour (D) Trouver ce chemin (G) là?" },
+                    { chord: "C", text: "(C) Je m'assis un instant Pour (F) reposer mes (C) pieds," },
+                    { chord: "C", text: "(C) C'est alors qu'en moi une (G) voix me (C) dit :" }
                 ],
                 [
                     { chord: "C", text: "CHORUS:" },
                     { chord: "C", text: "(C) Tu dois marcher encore," },
-                    { chord: "C", text: "(C) Oui, marcher encore," },
-                    { chord: "C", text: "(C) Marchant dans la lumière du Seigneur!" },
-                    { chord: "Dm", text: "(Dm) Tu arriveras au ciel si tu marches droit," },
-                    { chord: "Dm", text: "(Dm) Marchant dans la lumière du Seigneur!" }
+                    { chord: "C", text: "(C) Oui, (F) marcher encore," },
+                    { chord: "C", text: "(C) Marchant dans la (D) lumière du (G) Seigneur!" },
+                    { chord: "C", text: "(C) Tu arriveras au ciel si tu (F) marches droit," },
+                    { chord: "C", text: "(C) Marchant dans la (G) lumière du (C) Seigneur!" }
                 ],
                 [
-                    { chord: "C", text: "(C) Longtemps j'ai prié Pour qu'Il m'accorde Sa grâce," },
-                    { chord: "C", text: "(C) J'ai prié pour qu'Il éclaire mon chemin" },
-                    { chord: "C", text: "(C) J'avais tellement peur Sur cette route solitaire" },
-                    { chord: "Dm", text: "(Dm) C'est alors qu'en moi une voix me dit :" }
+                    { chord: "C", text: "(C) Longtemps j'ai prié Pour (F) qu'Il m'accorde Sa (C) grâce," },
+                    { chord: "C", text: "(C) J'ai prié pour qu'Il (D) éclaire mon (G) chemin" },
+                    { chord: "C", text: "(C) J'avais tellement peur (F) Sur cette route (C) solitaire" },
+                    { chord: "C", text: "(C) C'est alors qu'en moi (G) une voix me (C) dit :" }
                 ],
             ]
         },
