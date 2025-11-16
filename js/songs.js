@@ -1,5 +1,313 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 16 Novembre 2025 (Quarantième sixième Dimanche)
+        {
+            key: "dim-16-11-2025",
+            title: "WHAT A FRIEND WE HAVE IN JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/znWu2HCJ92c?si=k2HzLoXgIqoYkbHT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a friend we have in (F) Jesus," },
+                    { chord: "C", text: "(C) All our (D) sins and griefs to (G) bear" },
+                    { chord: "C", text: "(C) What a privilege to (F) carry" },
+                    { chord: "C", text: "(C) Everything (G) to God in (C) prayer!" },
+                    { chord: "G", text: "(G) O what peace we often (C) forfeit," },
+                    { chord: "F", text: "(F) O what needless pain we (G) bear" },
+                    { chord: "C", text: "(C) All because we do not (F) carry" },
+                    { chord: "C", text: "(C) Everything (G) to God in (C) prayer!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Have we trials and (F) temptations?" },
+                    { chord: "C", text: "(C) Is there (D) trouble (G) anywhere?" },
+                    { chord: "C", text: "(C) We should never be (F) discouraged," },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer." },
+                    { chord: "G", text: "(G) Can we find a friend so (C) faithful, " },
+                    { chord: "F", text: "(F) Who will all our sorrows (G) share?" },
+                    { chord: "C", text: "(C) Jesus knows our every (F) weakness" },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer" }
+                ],
+                [
+                    { chord: "C", text: "(C) Are we weak and heavy (F) laden," },
+                    { chord: "C", text: "(C) Cumbered with (D) a load of (G) care?" },
+                    { chord: "C", text: "(C) Precious Saviour, still our (F) refuge," },
+                    { chord: "C", text: "(C) Take it (G) to the Lord in (C) prayer." },
+                    { chord: "G", text: "(G) Do thy friends despise, (C) forsake thee?" },
+                    { chord: "F", text: "(F) Take it to the Lord in (G) prayer;" },
+                    { chord: "C", text: "(C) In His arms He’ll take and shield (F) thee," },
+                    { chord: "C", text: "(C) Thou wilt (G) find a solace (C) there." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "NE CRAINS RIEN JE T'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8eB4Yae9MFs?si=TyuQk6olAhFaJnP3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ne crains rien, je t'aime" },
+                    { chord: "F", text: "(F) Je suis avec (C) toi" },
+                    { chord: "G", text: "(G) Promesse suprême," },
+                    { chord: "G", text: "(G) Qui soutient ma (C) foi" },
+                    { chord: "C", text: "(C) La sombre vallée" },
+                    { chord: "F", text: "(F) N'a plus de (C) terreur" },
+                    { chord: "G", text: "(G) L'âme consolée," },
+                    { chord: "G", text: "(G) je marche avec mon (C) Sauveur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                ],
+                [
+                    { chord: "C", text: "(C) L'aube matinière" },
+                    { chord: "F", text: "(F) Ne luit qu'aux beaux (C) jours" },
+                    { chord: "G", text: "(G) Jésus ma lumière" },
+                    { chord: "G", text: "(G) M'éclaire (C) toujours" },
+                    { chord: "C", text: "(C) Quand je perds de vue" },
+                    { chord: "F", text: "(F) L'astre radieux (C) " },
+                    { chord: "G", text: "(G) A travers la nue" },
+                    { chord: "G", text: "(G) Jésus me montre les (C) cieux" },
+                ],
+                [
+                    { chord: "C", text: "(C) Les dangers accourent, " },
+                    { chord: "F", text: "(F) subtils, inconnus (C) " },
+                    { chord: "G", text: "(G) De près, ils m'entourent, " },
+                    { chord: "G", text: "(G) plus près est (C) Jésus " },
+                    { chord: "C", text: "(C) Qui dans le voyage" },
+                    { chord: "F", text: "(F) Me redit C'est (C) moi!" },
+                    { chord: "G", text: "(G) Ne crains rien Courage!" },
+                    { chord: "G", text: "(G) Je suis toujours avec (C) toi!" },
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "I SHALL NOT BE MOVED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bbAntGcJOWY?si=fy6fIErLpm7WOVio",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is my Savior, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love and favor, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I shall not be, (G) I shall not be moved." },
+                    { chord: "G", text: "(G) I shall not be, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) In my Christ abiding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love I’m hiding, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) On His word I'm feeding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) He's the one that's leading, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "I KNOW IT WAS THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LX0yB3D0W7U?si=iOl0Jptz8mj6LoFn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I know it was the blood," },
+                    { chord: "C", text: "(C) I know it was the blood," },
+                    { chord: "C", text: "(C) I know it was the blood for (G) me" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) One day when I was lost" },
+                    { chord: "C", text: "(C) He (F) died upon the (C) cross." },
+                    { chord: "C", text: "(C) I know it was the (G) blood for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) They whipped Him all night long," },
+                    { chord: "C", text: "(C) They whipped Him all night long," },
+                    { chord: "C", text: "(C) They whipped Him all night long for (G) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) They pierced Him in His side," },
+                    { chord: "C", text: "(C) They pierced Him in His side," },
+                    { chord: "C", text: "(C) They pierced Him in His side for (G) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "WALKING WITH THE KING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/mUn6jj96TKQ?si=BEujaECb9t9r9rtI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Hallelujah, I’m walking with the King" },
+                    { chord: "G", text: "(G) Praise His holy name" },
+                    { chord: "C", text: "(C) Walking with the King" },
+                    { chord: "C", text: "(C) Hallelujah, I’m walking with the King" },
+                    { chord: "F", text: "(F) Ev’ry day (G) I’m walking with the (C) King!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "DANS MON AME UN BEAU SOLEIL BRILLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pdxaZMWILfY?si=fkTnGjPk1xUjLytP",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans mon âme, un (F) beau (C) soleil brille !" },
+                    { chord: "C", text: "(C) Son rayon doux (D) et (G) joyeux" },
+                    { chord: "C", text: "(C) Répand un (F) éclat (C) qui scintille" },
+                    { chord: "C", text: "(C) C’est le (F) sourire (G) de (C) Dieu" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O, quel beau (F) soleil dans mon (C) âme !" },
+                    { chord: "C", text: "(C) Il resplendit, (D) illuminant (G) tout" },
+                    { chord: "C", text: "(C) A ses (F) rayons mon (C) cœur s’enflamme" },
+                    { chord: "C", text: "(C) Et je (F) vais (G) partout (C) chantant" },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon cœur était (F) plein (C) de ténèbres" },
+                    { chord: "C", text: "(C) Quand paru un (D) jour (G) nouveau" },
+                    { chord: "C", text: "(C) Au loin (F) fuyez, (C) ombres et ténèbres" },
+                    { chord: "C", text: "(C) Devant (F) un (G) soleil si (C) beau" },
+                ],
+                [
+                    { chord: "C", text: "(C) O, mon cœur (F) déborde (C) de joie !" },
+                    { chord: "C", text: "(C) Mon âme est (D) remplie (G) d’amour" },
+                    { chord: "C", text: "(C) Tous les (F) élus (C) avec le Roi" },
+                    { chord: "C", text: "(C) Le (F) loueront, (G) oui, (C) pour toujours !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "IL N’Y A PERSONNE QUI SOIT COMME JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LT39rNlpr4g?si=f-HYxhyBvpY2pZGy",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (G) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ],
+                [
+                    { chord: "C", text: "(C) J’ai longtemps marché" },
+                    { chord: "C", text: "(C) marché marché (F) personne personne" },
+                    { chord: "C", text: "(C) J’ai tourné en rond (G) personne personne" },
+                    { chord: "C", text: "(C) J’ai fouillé fouilléé... (F) " },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "DIEU TU ES BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/v-PestNqUCI?si=OpB_h1rfWALdee7k",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dieu tu es bon" },
+                    { chord: "F", text: "(F) Si Magnifi- (C) -que" },
+                    { chord: "C", text: "(C) Dieu tu es merveilleux (Am) " },
+                    { chord: "Am", text: "(Am) Mon (F) Dieu (G) tu es (C) excellent" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Excellent est ton nom" },
+                    { chord: "F", text: "(F) Excellent ce que tu (C) es " },
+                    { chord: "C", text: "(C) Dieu tu es merveilleux (Am) " },
+                    { chord: "Am", text: "(Am) Mon (F) Dieu (G) tu es (C) excellent" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-11-2025",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I’m (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I’m onward (F) bound," },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (G) stand," },
+                    { chord: "G", text: "(G) By faith, on heaven’s table (C) land," },
+                    { chord: "C", text: "(C) A higher plane than I have (F) found;" },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "C", text: "(C) My heart has no desire to (F) stay," },
+                    { chord: "F", text: "(F) Where doubts (C) arise and fears (G) dismay;" },
+                    { chord: "G", text: "(G) Tho’ some may (C) dwell where these (F) abound," },
+                    { chord: "F", text: "(F) My prayer, my (C) aim, is (G) higher (C) ground." },
+                ],
+                [
+                    { chord: "C", text: "(C) I want to scale the utmost (F) height," },
+                    { chord: "F", text: "(F) And catch a (C) gleam of glory (G) bright;" },
+                    { chord: "G", text: "(G) But still I’ll (C) pray till heav’n I’ve (F) found," },
+                    { chord: "F", text: "(F) “Lord, lead (C) me on to (G) higher (C) ground.”" },
+                ],
+            ]
+        },
+        // Fin Cantiques Dimanche 16 Novembre 2025 (Quarantième sixième Dimanche)
+
         // Debut Cantiques Dimanche 09 Novembre 2025 (Quarantième cinquième Dimanche)
         {
             key: "dim-09-11-2025",
