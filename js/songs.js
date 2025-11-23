@@ -1,5 +1,225 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 23 Novembre 2025 (Quarantième septième Dimanche)
+        {
+            key: "dim-23-11-2025",
+            title: "JESUS-CHRIST OUVRE NOUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-48i5kPri4w?si=wYqL_Ktyj0OiOXBY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus-Christ ouvre nous la (G) porte," },
+                    { chord: "Am", text: "(Am) Nous voulons (F) entrer, dans la (Dm) maison (G) de l’Eter- (C) -nel," },
+                    { chord: "C", text: "(C) Jésus-Christ ouvre nous la (G) porte," },
+                    { chord: "Am", text: "(Am) Nous voulons (F) entrer, dans la (Dm) maison (G) de l’Eter- (C) -nel," },
+                    { chord: "C", text: "(C) Amen, allél- (G) -uia" },
+                    { chord: "Am", text: "(Am) Nous voulons (F) entrer, dans la (Dm) maison (G) de l’Eter- (C) -nel," },
+                    { chord: "C", text: "(C) Amen, allél- (G) -uia" },
+                    { chord: "Am", text: "(Am) Nous voulons (F) entrer, dans la (Dm) maison (G) de l’Eter- (C) -nel," },
+                ],
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "WE’RE TOGETHER AGAIN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JHvKrHsAeW0?si=liQMALz1E9phwiwI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We’re together again, just praising the (F) Lord" },
+                    { chord: "F", text: "(F) We’re together (G) again in one (C) accord (G) " },
+                    { chord: "C", text: "(C) Something good is going to happen" },
+                    { chord: "C", text: "(C) Something good is in (F) store" },
+                    { chord: "F", text: "(F) We’re together (G) again, just praising the (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "SA FIDELITE DURERA TOUJOURS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZAwAWE7PYO8?si=kflQWenGBlM9WsGg",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il a promis d'être avec moi" },
+                    { chord: "C", text: "(C) Je (G) m'accroche à lui" },
+                    { chord: "G", text: "(G) Je m'accroche à (C) lui" },
+                    { chord: "C", text: "(C) Il a promis d'être avec moi" },
+                    { chord: "C", text: "(C) Sa (F) fidélité (G) durera (C) toujours" },
+                    { chord: "C", text: "(C) Sa (F) fidélité (G) durera (C) toujours" }
+                ],
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "N'EST-IL PAS MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_sP7gnSsDTI?si=BYFmbnejSCZNNJk0",
+            verses: [
+                [
+                    { chord: "C", text: "(C) N'est-Il pas merveilleux" },
+                    { chord: "C", text: "(C) N'est-Il (F) pas merveilleux" },
+                    { chord: "F", text: "(F) N'est-Il (G) pas merveilleux, notre (C) maître" },
+                    { chord: "C", text: "(C) Invisible aux humains" },
+                    { chord: "C", text: "(C) Mais (F) présent pour tous les siens" },
+                    { chord: "F", text: "(F) Oui (G) Jésus n'est-Il pas mervei- (C) -lleux" },
+                ],
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "THE LILY OF THE VALLEY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8JBVM6fdD0c?si=bVO0XV1sr3THcgfT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I have found a friend in Jesus," },
+                    { chord: "C", text: "(C) He's (F) ev'rything to (C) me," },
+                    { chord: "C", text: "(C) He's the fairest of ten (D) thousand to my (G) soul;" },
+                    { chord: "C", text: "(C) The 'Lily of the Valley', in (F) Him alone I (C) see," },
+                    { chord: "C", text: "(C) all I (Am) need to cleanse and (G) make me fully (C) whole." },
+                    { chord: "C", text: "(C) In (F) sorrow He's my comfort, in (C) trouble He's my stay," },
+                    { chord: "C", text: "(C) He tells me ev'ry (D) care on Him to (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He all my grief has taken, and (F) all my sorrows (C) borne," },
+                    { chord: "C", text: "(C) In temptation He's my (D) strong and mighty (G) tow'r;" },
+                    { chord: "C", text: "(C) I have all for Him forsaken, and (F) all my idols (C) torn" },
+                    { chord: "C", text: "(C) From my (Am) heart, and now He (G) keeps me by His (C) pow'r." },
+                    { chord: "C", text: "(C) Though (F) all the world forsake me, and Satan tempt me (C) sore," },
+                    { chord: "C", text: "(C) through Jesus I shall (D) safely reach the (G) goal;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He will never, never leave me, nor (F) yet forsake me (C) here," },
+                    { chord: "C", text: "(C) while I live by faith and (D) do His blessed (G) will;" },
+                    { chord: "C", text: "(C) A wall of fire about me, I've (F) nothing now to (C) fear," },
+                    { chord: "C", text: "(C) With His (Am) manna He my hungry (G) soul shall (C) fill." },
+                    { chord: "C", text: "(C) Then (F) sweeping up to glory, to see His blessed (C) face," },
+                    { chord: "C", text: "(C) Where rivers of (D) delight shall ever (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "ALL THE OTHER GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/q4KzCrpcLjo?si=XLKFxqc6tTH8osHN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All the other gods" },
+                    { chord: "C", text: "(C) They are the works of (F) man" },
+                    { chord: "F", text: "(F) You are the most High (G) God" },
+                    { chord: "G", text: "(G) There is none like (C) You" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "THIS IS THE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cccJhMVFrLs?si=RHUXX4nAUJ205neC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (G) lord has made, that the lord has made" },
+                    { chord: "G", text: "(G) I will rejoice, I will rejoice" },
+                    { chord: "G", text: "(G) And be (C) glad in it, and be glad in it" },
+                    { chord: "F", text: "(F) This is the day that the (C) lord has made" },
+                    { chord: "F", text: "(F) I will rejoice and be (C) glad in it" },
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (F) lord (G) has (C) made" }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "I MUST TELL JESUS",
+            keySignature: "C",
+            youtubeLink: "",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I must tell Jesus all of my trials;" },
+                    { chord: "C", text: "(C) I cannot bear these burdens alone;" },
+                    { chord: "G", text: "(G) In my distress He kindly will help me;" },
+                    { chord: "G", text: "(G) He ever loves and cares for His own." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I must tell Jesus!" },
+                    { chord: "C", text: "(C) I must tell Jesus!" },
+                    { chord: "C", text: "(C) I cannot bear these burdens alone;" },
+                    { chord: "C", text: "(C) I must tell Jesus!" },
+                    { chord: "C", text: "(C) I must tell Jesus!" },
+                    { chord: "G", text: "(G) Jesus can help me, Jesus alone." },
+                ],
+                [
+                    { chord: "C", text: "(C) I must tell Jesus all of my troubles;" },
+                    { chord: "C", text: "(C) He is a kind, compassionate friend;" },
+                    { chord: "C", text: "(C) If I but ask Him, He will deliver," },
+                    { chord: "C", text: "(C) I must tell Jesus!Make of my troubles quickly an end." },
+                ],
+                [
+                    { chord: "C", text: "(C) Tempted and tried, I need a great Savior," },
+                    { chord: "C", text: "(C) One who can help my burdens to bear;" },
+                    { chord: "C", text: "(C) I must tell Jesus, I must tell Jesus;" },
+                    { chord: "C", text: "(C) He all my cares and sorrows will share." },
+                ],
+                [
+                    { chord: "C", text: "(C) O how the world to evil allures me!" },
+                    { chord: "C", text: "(C) O how my heart is tempted to sin!" },
+                    { chord: "C", text: "(C) I must tell Jesus, and He will help me" },
+                    { chord: "C", text: "(C) Over the world the vict'ry to win." },
+                ],
+            ]
+        },
+        // Fin Cantiques Dimanche 23 Novembre 2025 (Quarantième septième Dimanche)
+
         // Debut Cantiques Dimanche 16 Novembre 2025 (Quarantième sixième Dimanche)
         {
             key: "dim-16-11-2025",
