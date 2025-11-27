@@ -1,5 +1,179 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Jeudi 27 Novembre 2025
+        {
+            key: "jeu-27-11-2025",
+            title: "GLOIRE, GLOIRE A L'AGNEAU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire à l'Agneau (G) " },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire (G) à l'Agneau (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Car Il est (F) glorieux, (G) et (C) digne de règner ;" },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " },
+                    { chord: "C", text: "(C) Nous (F) élevons, (G) la (C) voix pour l'adorer," },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " }
+                ]
+            ]
+        },
+        {
+            key: "jeu-27-11-2025",
+            title: "JE M’ENVOLERAI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/wEMhmmrvTlk?si=WNmftWo8hLQzqdTO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Un beau matin, quand tout sera fini," },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) A la maison, où habite mon Jésus," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je m’envolerai! O gloire! " },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) A la fin, alléluia tout à l’heure," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand l’ombre de ma vie sera partie," },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) Comme un oiseau libéré de prison," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Juste encore un peu de temps, et alors," },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) Dans un pays où la joie demeure," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "jeu-27-11-2025",
+            title: "THE LILY OF THE VALLEY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8JBVM6fdD0c?si=bVO0XV1sr3THcgfT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I have found a friend in Jesus," },
+                    { chord: "C", text: "(C) He's (F) ev'rything to (C) me," },
+                    { chord: "C", text: "(C) He's the fairest of ten (D) thousand to my (G) soul;" },
+                    { chord: "C", text: "(C) The 'Lily of the Valley', in (F) Him alone I (C) see," },
+                    { chord: "C", text: "(C) all I (Am) need to cleanse and (G) make me fully (C) whole." },
+                    { chord: "C", text: "(C) In (F) sorrow He's my comfort, in (C) trouble He's my stay," },
+                    { chord: "C", text: "(C) He tells me ev'ry (D) care on Him to (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He all my grief has taken, and (F) all my sorrows (C) borne," },
+                    { chord: "C", text: "(C) In temptation He's my (D) strong and mighty (G) tow'r;" },
+                    { chord: "C", text: "(C) I have all for Him forsaken, and (F) all my idols (C) torn" },
+                    { chord: "C", text: "(C) From my (Am) heart, and now He (G) keeps me by His (C) pow'r." },
+                    { chord: "C", text: "(C) Though (F) all the world forsake me, and Satan tempt me (C) sore," },
+                    { chord: "C", text: "(C) through Jesus I shall (D) safely reach the (G) goal;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He will never, never leave me, nor (F) yet forsake me (C) here," },
+                    { chord: "C", text: "(C) while I live by faith and (D) do His blessed (G) will;" },
+                    { chord: "C", text: "(C) A wall of fire about me, I've (F) nothing now to (C) fear," },
+                    { chord: "C", text: "(C) With His (Am) manna He my hungry (G) soul shall (C) fill." },
+                    { chord: "C", text: "(C) Then (F) sweeping up to glory, to see His blessed (C) face," },
+                    { chord: "C", text: "(C) Where rivers of (D) delight shall ever (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+            ]
+        },
+        {
+            key: "jeu-27-11-2025",
+            title: "LE MESSIE EST LE ROI DES ROIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Il est (F) le (C) Roi, (Am) Seigneur des (G) seigneurs" },
+                    { chord: "F", text: "(F) Le Messie est le (G) Roi des (Em) rois (Am) " },
+                    { chord: "Dm", text: "(Dm) Il est le Seigneur (G) des Seigneurs. (C) "}
+                ]
+            ]
+        },
+        {
+            key: "jeu-27-11-2025",
+            title: "HE IS THE MIRACLE WORKING GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/4IIcKx7hNPo?si=4wj9BuolIhBmyjOr",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He's the miracle working (G) God, alleluia" },
+                    { chord: "G", text: "(G) He's the miracle working (C) God, alleluia" },
+                    { chord: "C", text: "(C) He's the Alpha and (F) Omega" },
+                    { chord: "F", text: "(F) He's the (C) miracle (G) working (C) God, alleluia" },
+                    { chord: "C", text: "(C) He's the Alpha and (F) Omega" },
+                    { chord: "F", text: "(F) He's the (C) miracle (G) working (C) God" },
+                ]
+            ]
+        },
+        {
+            key: "jeu-27-11-2025",
+            title: "TOUT DIT QU'IL EST MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/WAwkUjaJjyk?si=4W9BuY5BhG2DXKdN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout dit qu’il est mervei- (F) -lleux" },
+                    { chord: "F", text: "(F) Tout dit qu’il est (D) mervei- (G) -lleux" },
+                    { chord: "C", text: "(C) Le ciel la (F) terre,la mer,les oiseaux" },
+                    { chord: "C", text: "(C) Tous disent qu’il est (G) mervei- (C) -lleux" }
+                ]
+            ]
+        },
+        {
+            key: "jeu-27-11-2025",
+            title: "TURN YOUR EYES UPON JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/j5qc0EcNgqw?si=DqR6Ds-YuRukL6rQ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O soul, are you weary and (Dm) troubled?" },
+                    { chord: "F", text: "(F) No light in the (G) darkness you (C) see?" },
+                    { chord: "C", text: "(C) There’s light for a look at the (Dm) Savior," },
+                    { chord: "F", text: "(F) And life more (G) abundant and (C) free!" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Turn your eyes upon (Am) Jesus," },
+                    { chord: "F", text: "(F) Look full in His wonderful (G) face," },
+                    { chord: "C", text: "(C) And the things of earth will grow (Am) strangely dim," },
+                    { chord: "F", text: "(F) In the light of His (G) glory and (C) grace." }
+                ],
+                [
+                    { chord: "C", text: "(C) Thro' death into life (Dm) everlasting," },
+                    { chord: "F", text: "(F) He passed, and we (G) follow Him (C) there;" },
+                    { chord: "C", text: "(C) O’er us sin no more hath (Dm) dominion" },
+                    { chord: "F", text: "(F) For more than (G) conqu’rors we (C) are!" },
+                ],
+                [
+                    { chord: "C", text: "(C) His Word shall not fail you--He (Dm) promised;" },
+                    { chord: "F", text: "(F) Believe Him, and all (G) will be (C) well:" },
+                    { chord: "C", text: "(C) Then go to a world that is (Dm) dying," },
+                    { chord: "F", text: "(F) His perfect (G) salvation to (C) tell!" },
+                ],
+            ]
+        },
+        // Fin Cantiques Jeudi 27 Novembre 2025
+
         // Debut Cantiques Dimanche 23 Novembre 2025 (Quarantième septième Dimanche)
         {
             key: "dim-23-11-2025",
