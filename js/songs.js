@@ -1,27 +1,111 @@
 // songs.js // Liste des cantiques
 const songs = [
-        // Debut Cantiques Jeudi 27 Novembre 2025
+        // Debut Cantiques Dimanche 30 Novembre 2025
         {
-            key: "jeu-27-11-2025",
-            title: "GLOIRE, GLOIRE A L'AGNEAU",
+            key: "dim-30-11-2025",
+            title: "GREAT IS THAT FAITHFULNESS",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/ErwiBz1QA4o?si=2ewUKdHXaTy_gtzJ",
             verses: [
                 [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire à l'Agneau (G) " },
-                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire (G) à l'Agneau (C) " }
+                    { chord: "C", text: "(C) Great is thy faithfulness, (G) O God, my (C) Father;" },
+                    { chord: "F", text: "(F) There is no (C) shadow of (D) turning with (G) thee." },
+                    { chord: "C", text: "(C) Thou changest not, thy compassions, they (F) fail not;" },
+                    { chord: "F", text: "(F) As thou hast (C) been, thou (G) forever wilt (C) be." }
                 ],
                 [
-                    { chord: "C", text: "(C) Car Il est (F) glorieux, (G) et (C) digne de règner ;" },
-                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " },
-                    { chord: "C", text: "(C) Nous (F) élevons, (G) la (C) voix pour l'adorer," },
-                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " }
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Great is thy faithfulness," },
+                    { chord: "F", text: "(F) Great is thy faithfulness," },
+                    { chord: "C", text: "(C) Morning by morning new (D) mercies I (G) see." },
+                    { chord: "C", text: "(C) All I have needed thy hand hast (F) provided;" },
+                    { chord: "F", text: "(F) Great is thy (C) faithfulness, (G) Lord unto (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) Summer and winter and (G) springtime and (C) harvest," },
+                    { chord: "F", text: "(F) Sun, moon, (C) and stars in (D) their courses (G) above" },
+                    { chord: "C", text: "(C) Join with all nature in manifold (F) witness" },
+                    { chord: "F", text: "(F) To thy great (C) faithfulness, (G) mercy, and (C) love." }
+                ],
+                [
+                    { chord: "C", text: "(C) Pardon for sin and a (G) peace that (C) endureth," },
+                    { chord: "F", text: "(F) Thine own dear (C) presence to (D) cheer and to (G) guide;" },
+                    { chord: "C", text: "(C) Strength for today and bright hope for (F) tomorrow," },
+                    { chord: "F", text: "(F) Blessings all (C) mine and (G) ten thousand (C) beside." }
+                ],
+            ]
+        },
+        {
+            key: "dim-30-11-2025",
+            title: "JE LOUERAI L'ETERNEL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/AUhR13h55lg?si=tWfO6tsDFNP5n3S-",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je (G) louerai (Am) l'Eternel de (F) tout (G) mon (C) coeur;" },
+                    { chord: "F", text: "(F) Je raconterai (G) toutes (Em) tes (Am) merveilles," },
+                    { chord: "C", text: "(C) Je (F) chanterai (G) ton (C) nom" },
+                    { chord: "C", text: "(C) Je (G) louerai (Am) l'Eternel de (F) tout (G) mon (C) coeur;" },
+                    { chord: "F", text: "(F) Je ferai de (G) toi le (Em) sujet de ma (Am) joie, (F) Allé- (G) -luia (C) !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu, (G) l'Eternel (Am) , est (F) Roi, il (G) règne à (C) jamais." },
+                    { chord: "F", text: "(F) Pour le (G) jugement, (Em) il dresse (Am) son trône : " },
+                    { chord: "C", text: "(C) Il (F) jugera (G) la (C) terre," },
+                    { chord: "C", text: "(C) Dieu, (G) l'Eternel (Am) , est (F) Roi, il (G) règne à (C) jamais." },
+                    { chord: "F", text: "(F) Le monde (G) verra la (Em) force de son (Am) bras, (F) Allé- (G) -luia (C) !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu (G) voit les opprimés (Am), il (F) est (G) leur (C) abri," },
+                    { chord: "F", text: "(F) Leur refuge (G) au temps (Em) des grandes (Am) détresses, " },
+                    { chord: "C", text: "(C) Son (F) Nom est (G) leur (C) salut" },
+                    { chord: "C", text: "(C) Dieu (G) voit les opprimés (Am), il (F) est (G) leur (C) abri," },
+                    { chord: "F", text: "(F) Il sauve les (G) siens, (Em) car il est le (Am) Dieu saint. (F) Allé- (G) -luia (C) !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-30-11-2025",
+            title: "JE NE SAIS POURQUOI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IwVX50lYEWk?si=lXjU_vNwnlOavtqB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je ne sais pourquoi dans sa (F) grâce (C) " },
+                    { chord: "C", text: "(C) Jésus m’a (D) tant (G) aimé" },
+                    { chord: "C", text: "(C) Pourquoi par son sang Il (F) efface (C) " },
+                    { chord: "C", text: "(C) Ma dette, (G) mon (C) péché" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Mais je sais qu’en Lui j’ai la (C) vie" },
+                    { chord: "C", text: "(C) Il m’a (G) sauvé par son (C) amour" },
+                    { chord: "F", text: "(F) Et gardé par sa main (C) meurtrie" },
+                    { chord: "C", text: "(C) J’attends (G) l’heure de son (C) retour" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne sais comment la (F) lumière (C) " },
+                    { chord: "C", text: "(C) Eclaire (D) tout mon (G) coeur" },
+                    { chord: "C", text: "(C) Comment je compris ma (F) misère (C) " },
+                    { chord: "C", text: "(C) Et reçus (G) mon (C) Sauveur" }
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne sais qu’elle est la (F) mesure (C) " },
+                    { chord: "C", text: "(C) De joie (D) de (G) douleur" },
+                    { chord: "C", text: "(C) Que pour moi faible (F) créature (C) " },
+                    { chord: "C", text: "(C) Réserve (G) mon (C) Sauveur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) But “I know whom I have (C) believed," },
+                    { chord: "C", text: "(C) And am (G) persuaded that He is (C) able" },
+                    { chord: "F", text: "(F) To keep that which I’ve (C) committed" },
+                    { chord: "C", text: "(C) Unto (G) Him against that (C) day.”" }
                 ]
             ]
         },
         {
-            key: "jeu-27-11-2025",
+            key: "dim-30-11-2025",
             title: "JE M’ENVOLERAI",
             keySignature: "C",
             youtubeLink: "https://youtu.be/wEMhmmrvTlk?si=WNmftWo8hLQzqdTO",
@@ -54,7 +138,7 @@ const songs = [
             ]
         },
         {
-            key: "jeu-27-11-2025",
+            key: "dim-30-11-2025",
             title: "THE LILY OF THE VALLEY",
             keySignature: "C",
             youtubeLink: "https://youtu.be/8JBVM6fdD0c?si=bVO0XV1sr3THcgfT",
@@ -93,7 +177,7 @@ const songs = [
             ]
         },
         {
-            key: "jeu-27-11-2025",
+            key: "dim-30-11-2025",
             title: "LE MESSIE EST LE ROI DES ROIS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
@@ -110,7 +194,7 @@ const songs = [
             ]
         },
         {
-            key: "jeu-27-11-2025",
+            key: "dim-30-11-2025",
             title: "HE IS THE MIRACLE WORKING GOD",
             keySignature: "C",
             youtubeLink: "https://youtu.be/4IIcKx7hNPo?si=4wj9BuolIhBmyjOr",
@@ -126,7 +210,7 @@ const songs = [
             ]
         },
         {
-            key: "jeu-27-11-2025",
+            key: "dim-30-11-2025",
             title: "TOUT DIT QU'IL EST MERVEILLEUX",
             keySignature: "C",
             youtubeLink: "https://youtu.be/WAwkUjaJjyk?si=4W9BuY5BhG2DXKdN",
@@ -140,7 +224,7 @@ const songs = [
             ]
         },
         {
-            key: "jeu-27-11-2025",
+            key: "dim-30-11-2025",
             title: "TURN YOUR EYES UPON JESUS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/j5qc0EcNgqw?si=DqR6Ds-YuRukL6rQ",
@@ -172,7 +256,7 @@ const songs = [
                 ],
             ]
         },
-        // Fin Cantiques Jeudi 27 Novembre 2025
+        // Fin Cantiques Dimanche 30 Novembre 2025
 
         // Debut Cantiques Dimanche 23 Novembre 2025 (Quarantième septième Dimanche)
         {
