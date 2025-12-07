@@ -1,6 +1,320 @@
 // songs.js // Liste des cantiques
 const songs = [
-        // Debut Cantiques Dimanche 30 Novembre 2025
+        // Debut Cantiques Dimanche 07 Décembre 2025 (Quarantième neuvième Dimanche)
+        {
+            key: "dim-07-12-2025",
+            title: "JEHOVAH EST SON NOM",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jéhovah est son (F) nom" },
+                    { chord: "G", text: "(G) Jéhovah est son (C) nom" },
+                    { chord: "C", text: "(C) Jéhovah est son (F) nom" },
+                    { chord: "G", text: "(G) Jéhovah est son (C) nom" },
+                    { chord: "C", text: "(C) Puissant guérrier" },
+                    { chord: "F", text: "(F) Fort dans les combats" },
+                    { chord: "G", text: "(G) Jéhovah est son (C) nom" }
+                ],
+                [
+                    { chord: "C", text: "(C) El Shaddai est son (F) nom" },
+                    { chord: "G", text: "(G) El Shaddai est son (C) nom" },
+                    { chord: "C", text: "(C) El Shaddai est son (F) nom" },
+                    { chord: "G", text: "(G) El Shaddai est son (C) nom" },
+                    { chord: "C", text: "(C) Puissant guérrier" },
+                    { chord: "F", text: "(F) Fort dans les combats" },
+                    { chord: "G", text: "(G) El Shaddai est son (C) nom" }
+                ],
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "DANS LE TOMBEAU, JESUS EST SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Nd7XD8OePTk?si=YRQLCJzFZ8WssO8i",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon âme (G) bénit le (C) Seigneur," },
+                    { chord: "C", text: "(C) Et mon (F) esprit magnifie son (G) Nom." },
+                    { chord: "C", text: "(C) Car la mort n’a pas pu Le (F) retenir ;" },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." }
+                ],
+                [
+                    { chord: "C", text: "(C) My soul (G) doth magnify the (C) LORD" },
+                    { chord: "C", text: "(C) And my (F) spirit praise his (G) name" },
+                    { chord: "C", text: "(C) Even death could not hold him (F) captive" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
+                ]
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "TAKE MY LIFE AND LET IT BE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/lQ93HVuYd5Y?si=oKw4-00NPEX8_bZy",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Take my life and let it be" },
+                    { chord: "Dm", text: "(Dm) consecrated, (G) Lord, to (C) thee." },
+                    { chord: "C", text: "(C) Take my hands, and (F) let them (C) move" },
+                    { chord: "F", text: "(F) At the impulse of thy (G) love," },
+                    { chord: "F", text: "(F) At the impulse (G) of thy (C) love." },
+                ],
+                [
+                    { chord: "C", text: "(C) Take my feet and let them be" },
+                    { chord: "Dm", text: "(Dm) swift and (G) beautiful for (C) thee," },
+                    { chord: "C", text: "(C) Take my voice (F) and let me (C) sing" },
+                    { chord: "F", text: "(F) Always, only, for my (G) King," },
+                    { chord: "F", text: "(F) Always, only, (G) for my (C) King." },
+                ],
+                [
+                    { chord: "C", text: "(C) Take my lips and let them be" },
+                    { chord: "Dm", text: "(Dm) Filled with (G) messages from (C) thee," },
+                    { chord: "C", text: "(C) Take my silver (F) and my (C) gold;" },
+                    { chord: "F", text: "(F) Not a mite would I (G) withhold," },
+                    { chord: "F", text: "(F) Not a mite (G) would I (C) withhold." },
+                ],
+                [
+                    { chord: "C", text: "(C) Take my love; my Lord, I pour" },
+                    { chord: "Dm", text: "(Dm) At thy feet (G) its treasure (C) store." },
+                    { chord: "C", text: "(C) Take myself, (F) and I will (C) be" },
+                    { chord: "F", text: "(F) ever, only, all for (G) thee," },
+                    { chord: "F", text: "(F) ever, only, (G) all for (C) thee." },
+                ],
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "TOUT JOYEUX BENISSONS LE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kZc_Pyf5hLI?si=gpZeFAU9FJkZZUTK",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout joyeux (F) bénissons le (C) Seigneur," },
+                    { chord: "C", text: "(C) Chantons et (D) célébrons ses (G) louanges," },
+                    { chord: "C", text: "(C) Adorons avec (F) foi le (C) Sauveur," },
+                    { chord: "C", text: "(C) Nous joignant aux (G) célestes (C) phalanges." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (G) Dieu !" },
+                    { chord: "G", text: "(G) Que ce (F) chant (G) retentisse en tout (C) lieu !" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (F) Dieu !" },
+                    { chord: "F", text: "(F) Que ce (C) chant (G) retentisse en tout (C) lieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu, dans son (F) incomparable (C) amour," },
+                    { chord: "C", text: "(C) Du ciel envoya son (D) Fils (G) unique," },
+                    { chord: "C", text: "(C) Et la terre et les (F) cieux, dans ce (C) jour," },
+                    { chord: "C", text: "(C) S'unissent pour (G) chanter ce (C) cantique" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le châtiment qui (F) produit la (C) paix," },
+                    { chord: "C", text: "(C) Jésus-Christ l'a (D) subi pour mon (G) âme" },
+                    { chord: "C", text: "(C) Il voulut (F) expier nos (C) forfaits," },
+                    { chord: "C", text: "(C) En mourant, lui, (G) sur le bois (C) infâme." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous voulons en (F) retour, bon (C) Sauveur," },
+                    { chord: "C", text: "(C) T'aimer par-dessus (D) tout autre (G) chose ;" },
+                    { chord: "C", text: "(C) Forme ton (F) amour dans notre (C) coeur," },
+                    { chord: "C", text: "(C) Et puis, de (G) chacun de nous, (C) dispose !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "WONDERFUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O my heart sings today, sings for joy and (G) gladness," },
+                    { chord: "G", text: "(G) Jesus saves, satisfies, banishes my (C) sadness;" },
+                    { chord: "C", text: "(C) Guilt is gone, peace is mine, peace like to a (F) river," },
+                    { chord: "F", text: "(F) Jesus is (C) wonderful, mighty (G) to deliver. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Wonderful, wonderful, Jesus is to (G) me," },
+                    { chord: "G", text: "(G) Counselor, Prince of Peace, Mighty God is (C) He;" },
+                    { chord: "C", text: "(C) Saving me, keeping me from all sin and (F) shame," },
+                    { chord: "F", text: "(F) Wonderful is (C) my Redeemer, (G) praise His (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Once a slave, now I’m free, free from (G) condemnation," },
+                    { chord: "G", text: "(G) Jesus gives liberty and a full (C) salvation;" },
+                    { chord: "C", text: "(C) Now the sins of the past have been all (F) forgiven," },
+                    { chord: "F", text: "(F) And my name is (C) inscribed on the (G) book of (C) heaven." }
+                ],
+                [
+                    { chord: "C", text: "(C) Living here with my Lord in a holy (G) union," },
+                    { chord: "G", text: "(G) Day by day, all the way holding sweet (C) communion;" },
+                    { chord: "C", text: "(C) O what change grace hath wrought in my lowly (F) station!" },
+                    { chord: "F", text: "(F) Since my soul has (C) received full (G) and free (C) salvation." }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "FEELING SO MUCH BETTER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0tpFWYoa2Lo?si=bA104wBjG0sHyOBZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about this (C) good old Way" },
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "GIVE ME OIL IN MY LAMP",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/2pJGcf3psvk?si=AfR5RGWy1zOBkoko",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Give me oil in my lamp, I (G) pray" },
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Keep me burning til the (G) break of (C) day." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King of kings!" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King!" },
+                ],
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "VENEZ VOIR COMME JESUS CHRIST EST BON",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Venez voir comme (G) Jésus Christ est (C) bon," },
+                    { chord: "C", text: "(C) Venez voir comme (G) Jésus Christ est (C) bon," },
+                    { chord: "C", text: "(C) Venez, (F) venez, (Em) venez, (Dm) venez" },
+                    { chord: "C", text: "(C) Venez voir comme (G) Jésus Christ est (C) bon," },
+                ],
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "MON DIEU EST TELLEMENT BON",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " },
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " },
+                    { chord: "C", text: "(C) Glorifions (G) le, Louons Son (C) Nom" },
+                    { chord: "C", text: "(C) Chantons (F) Alléluia," },
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "IT IS A GREAT THING TO SERVE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/huzIv3WSjds?si=uyAXk4Sr-iYILAvT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) serve the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) serve the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) serve the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) O walk, walk, walk, walk, (Am) walking in the light" },
+                    { chord: "C", text: "(C) O walk, walk, walk, walk, (F) walking in the light" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) praise the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) praise the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) praise the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) worship the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) worship the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) worship the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ],
+                [
+                    { chord: "C", text: "(C) It is a great thing to (F) honour the Lord" },
+                    { chord: "F", text: "(F) It is a (G) great thing to (Am) honour the Lord" },
+                    { chord: "Am", text: "(Am) It is a (C) great thing to (F) honour the Lord" },
+                    { chord: "G", text: "(G) Walking in the light of (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-12-2025",
+            title: "ONLY BELEIVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IAp158zTDU4?si=GbZ2834cmGkYkA1p",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, from the cross to the throne," },
+                    { chord: "C", text: "(C) From (F) death (C) into life (D) He went for His (G) own;" },
+                    { chord: "C", text: "(C) All power in earth, all power (F) above," },
+                    { chord: "F", text: "(F) Is given to (C) Him for the (G) flock of His (C) love." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) only (G) believe;" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) only (C) believe." },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) Lord I (G) believe;" },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) Lord I (C) believe" },
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, He goeth ahead," },
+                    { chord: "C", text: "(C) Your (F) Shepherd (C) selecteth the (D) path you must (G) tread;" },
+                    { chord: "C", text: "(C) The waters of Marah He’ll sweeten for (F) thee," },
+                    { chord: "F", text: "(F) He drank all the (C) bitter in (G) Gethsemane. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, whatever your lot," },
+                    { chord: "C", text: "(C) He enters (F) all (C) rooms, (D) “the doors being (G) shut,”" },
+                    { chord: "C", text: "(C) He never forsakes; He never is (F) gone," },
+                    { chord: "F", text: "(F) So count on His (C) presence in (G) darkness and (C) dawn." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 07 Décembre 2025 (Quarantième neuvième Dimanche)
+
+        // Debut Cantiques Dimanche 30 Novembre 2025 (Quarantième huitième Dimanche)
         {
             key: "dim-30-11-2025",
             title: "GREAT IS THAT FAITHFULNESS",
@@ -256,7 +570,7 @@ const songs = [
                 ],
             ]
         },
-        // Fin Cantiques Dimanche 30 Novembre 2025
+        // Fin Cantiques Dimanche 30 Novembre 2025 (Quarantième huitième Dimanche)
 
         // Debut Cantiques Dimanche 23 Novembre 2025 (Quarantième septième Dimanche)
         {
