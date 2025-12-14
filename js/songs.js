@@ -1,5 +1,284 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 14 Décembre 2025 (Cinquantième Dimanche)
+        {
+            key: "dim-14-12-2025",
+            title: "WHEN I THINK OF THE GOODNESS OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/GCxhlwvcRDo?si=25ImIMk91tWZA9Mk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I think of the goodness of Jesus," },
+                    { chord: "C", text: "(C) and what he has (D) done for (G) me," },
+                    { chord: "G", text: "(G) my (C) soul cries out, (F) Hallelujah!" },
+                    { chord: "F", text: "(F) Praise (C) God for (G) saving (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "LA NUEE DE GLOIRE AVANCE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Sn7m3JFaTV4?si=0aRgj1PXDBwXn7UY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La nuée de gloire (F) avance (C) !" },
+                    { chord: "F", text: "(F) Avance avec (C) elle ! (G) Avance avec (C) elle !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que ton esprit (G) s’élève" },
+                    { chord: "Am", text: "(Am) Que ta force soit renouvelée, (C) " },
+                    { chord: "C", text: "(C) Viens, avançons (G) tous (Am) ensemble (G) " },
+                    { chord: "C", text: "(C) Si tu la suis (G) toujours," },
+                    { chord: "Am", text: "(Am) Tu vivras une vie d’amour, (C) " },
+                    { chord: "F", text: "(F) Si tu avances avec (C) elle ! (G) Avance avec (C) elle !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "NOUS SOMMES UN DANS UN LIEN D'AMOUR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Nous sommes un dans (F) un lien d'a- (C) -mour," },
+                    { chord: "C", text: "(C) Nous sommes un dans un (D) lien d'a- (G) -mour," },
+                    { chord: "C", text: "(C) Notre esprit est uni avec l' (F) Esprit de Dieu," },
+                    { chord: "F", text: "(F) Nous sommes (C) un dans un (G) lien d'a- (C) -mour," },
+                ],
+                [
+                    { chord: "C", text: "(C) Maintenant chantons (F) tous (C) ensemble" },
+                    { chord: "C", text: "(C) Et que son amour (D) se (G) répande," },
+                    { chord: "C", text: "(C) Tenons nous par la main et le (F) monde verra" },
+                    { chord: "F", text: "(F) Que nous sommes (C) un dans un (G) lien d'a- (C) -mour." },
+                ],
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "WHERE COULD I GO?",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nQUFt8giyp0?si=HSxFZMlxgx22bjHI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Living below in (F) this old sinful (C) world," },
+                    { chord: "C", text: "(C) Hardly a comfort can (G) afford" },
+                    { chord: "C", text: "(C) Striving alone to (F) face temptations (C) sore" },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Where could I go, O (F) where could I (C) go?" },
+                    { chord: "C", text: "(C) Seeking a refuge for my (G) soul?" },
+                    { chord: "C", text: "(C) Needing a friend to (F) help me in the (C) end," },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Neighbors are kind, I (F) love them every (C) one" },
+                    { chord: "C", text: "(C) We get along in sweet (G) accord;" },
+                    { chord: "C", text: "(C) But when my soul needs (F) manna from (C) above" },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Life here is grand with (F) friends I love so (C) dear" },
+                    { chord: "C", text: "(C) Comfort I get from God's own (G) word" },
+                    { chord: "C", text: "(C) Yet when I face the (F) chilling hand of (C) death," },
+                    { chord: "C", text: "(C) Where could I go (G) but to the (C) Lord?" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "NOTHING BUT THE BLOOD OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cJnD272vmns?si=pC-uARa09fGnTfUh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What can wash away my sin?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) What can make me whole again?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, precious is the flow" },
+                    { chord: "G", text: "(G) That makes me white as (C) snow; " },
+                    { chord: "C", text: "(C) No other fount I know," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C)" }
+                ],
+                [
+                    { chord: "C", text: "(C) For my cleansing this I see," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) For my pardon this my plea," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing can for sin atone," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) Naught of good that I have done" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "GIVE ME OIL IN MY LAMP",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/2pJGcf3psvk?si=AfR5RGWy1zOBkoko",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Give me oil in my lamp, I (G) pray" },
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Keep me burning til the (G) break of (C) day." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King of kings!" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King!" },
+                ],
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "LA LOUANGE APPARTIENT A DIEU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La louange appartient à (G) Dieu" },
+                    { chord: "G", text: "(G) La louange appartient à (C) Dieu" },
+                    { chord: "C", text: "(C) La louange appartient à (F) Dieu" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Merci, merci, (G) merci Oh Seigneur" },
+                    { chord: "G", text: "(G) Merci, merci, (C) merci Oh mon Roi" },
+                    { chord: "C", text: "(C) Merci, merci, (F) merci Oh Seigneur" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "DANS UN MONDE DURE ET FORT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Je4vSonp8pE?si=9ra_yN22l7dF9im1",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'errais dans un monde dur et froid" },
+                    { chord: "G", text: "(G) Sans savoir que par amour pour (C) moi," },
+                    { chord: "C", text: "(C) Jésus s'était donné sur la croix" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) C'est là que mes fardeaux sont (C) tombés," },
+                    { chord: "G", text: "(G) C'est là que Jésus m'a tout (C) donné," },
+                    { chord: "F", text: "(F) Le pardon, la paix, la (C) liberté :" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Ployant sous le poids de mon péché," },
+                    { chord: "G", text: "(G) Redoutant la mort, (C) l'éternité," },
+                    { chord: "C", text: "(C) À Christ enfin j'ai tout confessé" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Maintenant à Christ j'ai tout donné," },
+                    { chord: "G", text: "(G) Maintenant tout en moi peut (C) chanter" },
+                    { chord: "C", text: "(C) Maintenant la vie a commencé" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
+                ],
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "LOUEZ L'ETERNEL CAR IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/x2AMclxKHYs?si=tawOpWgKtiU2nUf3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Qui dira les hauts faits de (F) l’Eternel ? (C) " },
+                    { chord: "C", text: "(C) Qui publiera toute Sa (G) louange (C) ?" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (Am) bon" },
+                    { chord: "Am", text: "(Am) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                ],
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Il m’a révélé tous les mystères (F) cachés (C) " },
+                    { chord: "C", text: "(C) La révélation des sept (G) tonnerres (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui Dieu nous a bénis de (F) toutes bénédictions (C) " },
+                    { chord: "C", text: "(C) Il nous a envoyé la colonne (G) de feu (C) " },
+                    { chord: "C", text: "(C) Les signes, miracles et les (F) prodiges (C) " },
+                    { chord: "C", text: "(C) Louons l’Eternel car Il (G) est bon (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire, Gloire, gloire, (F) Oh ! Alléluia (C) !" },
+                    { chord: "C", text: "(C) Dans l’Eternité en (G) éternité, (C) " },
+                    { chord: "C", text: "(C) Qu’Il soit loué, béni et (F) glorifié (C) " },
+                    { chord: "C", text: "(C) Aux siècles des siècles et (G) à jamais. (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-14-12-2025",
+            title: "ROCK OF AGES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for (C) me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee;" },
+                    { chord: "C", text: "(C) Let the (G) water and the (C) blood," },
+                    { chord: "C", text: "(C) From Thy (G) wounded side which (C) flowed," },
+                    { chord: "C", text: "(C) Be of sin the (F) double (C) cure," },
+                    { chord: "C", text: "(C) Save from wrath and (G) make me (C) pure." }
+                ],
+                [
+                    { chord: "C", text: "(C) Not the labors (F) of my (C) hands" },
+                    { chord: "C", text: "(C) Can fulfill thy (G) law's (C) commands;" },
+                    { chord: "C", text: "(C) Could my (G) tears forever (C) flow," },
+                    { chord: "C", text: "(C) Could my (G) zeal no languor (C) know," },
+                    { chord: "C", text: "(C) These for sin could (F) not (C) atone;" },
+                    { chord: "C", text: "(C) Thou must save, (G) and Thou (C) alone;" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing in my (F) hand I (C) bring" },
+                    { chord: "C", text: "(C) Simply to Thy (G) cross I (C) cling" },
+                    { chord: "C", text: "(C) Naked, (G) come to Thee for (C) dress" },
+                    { chord: "C", text: "(C) Helpless (G) look to Thee for (C) grace" },
+                    { chord: "C", text: "(C) Foul, I to the (F) foutain (C) fly" },
+                    { chord: "C", text: "(C) Wash me, (G) Savior or I (C) die" }
+                ],
+                [
+                    { chord: "C", text: "(C) While I draw this (F) fleeting (C) breath," },
+                    { chord: "C", text: "(C) When my eyes (G) shall close in (C) death," },
+                    { chord: "C", text: "(C) When I (G) rise to worlds (C) unknown," },
+                    { chord: "C", text: "(C) And (G) behold Thee on Thy (C) throne," },
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 14 Décembre 2025 (Cinquantième Dimanche)
+
         // Debut Cantiques Dimanche 07 Décembre 2025 (Quarantième neuvième Dimanche)
         {
             key: "dim-07-12-2025",
