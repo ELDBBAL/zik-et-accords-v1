@@ -1,5 +1,211 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 21 Décembre 2025 (Cinquantième unième Dimanche)
+        {
+            key: "dim-21-12-2025",
+            title: "CAR TA BONTE VAUT MIEUX QUE LA VIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QrCUM-la1Gk?si=EYVaEcEURoThxsa3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Car ta bonté vaut mieux que la (F) vie," },
+                    { chord: "G", text: "(G) Car ta bonté vaut mieux que la (C) vie," },
+                    { chord: "Am", text: "(Am) Mes lèvres (C) célèbrent tes (F) louanges," },
+                    { chord: "C", text: "(C) Car ta bonté vaut (G) mieux que la (C) vie." }
+                ],
+                [
+                    { chord: "C", text: "(C) J'élèverai mes mains en ton (F) nom," },
+                    { chord: "G", text: "(G) J'élèverai mes mains en ton (C) nom," },
+                    { chord: "Am", text: "(Am) Mes lèvres (C) célèbrent tes (F) louanges," },
+                    { chord: "C", text: "(C) Car ta bonté vaut (G) mieux que la (C) vie." }
+                ]
+            ]
+        },
+        {
+            key: "dim-21-12-2025",
+            title: "MON SEUL APPUI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/DsxGGMIYP3Q?si=ymLroyUuswkYNl4Y",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon seul appui, c’est (F) l’Ami (C) Céleste," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Les ans s’en vont, cet (F) Ami me (C) reste," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Cet Ami connait mes alarmes," },
+                    { chord: "C", text: "(C) Son amour guérit (D) ma douleur; (G) " },
+                    { chord: "C", text: "(C) Sa main essuie (F) toutes mes (C) larmes" },
+                    { chord: "C", text: "(C) Doux (G) Sauveur! Doux (C) Sauveur!" },
+                ],
+                [
+                    { chord: "C", text: "(C) Tout mon désir, c’est (F) de Le (C) connaitre," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Et que sa paix (F) remplisse mon (C) être," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans le danger, (F) toujours il me (C) garde," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Dans mes soucis, à (F) Lui je (C) regarde," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-21-12-2025",
+            title: "GIVE ME OIL IN MY LAMP",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/2pJGcf3psvk?si=AfR5RGWy1zOBkoko",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Give me oil in my lamp, I (G) pray" },
+                    { chord: "C", text: "(C) Give me oil in my lamp," },
+                    { chord: "C", text: "(C) Keep me (F) burning," },
+                    { chord: "C", text: "(C) Keep me burning til the (G) break of (C) day." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King of kings!" },
+                    { chord: "C", text: "(C) Sing hosanna, (F) sing hosanna," },
+                    { chord: "G", text: "(G) sing hosanna to the (C) King!" },
+                ],
+            ]
+        },
+        {
+            key: "dim-21-12-2025",
+            title: "FEELING SO MUCH BETTER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0tpFWYoa2Lo?si=bA104wBjG0sHyOBZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about this (C) good old Way" },
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ]
+            ]
+        },
+        {
+            key: "dim-21-12-2025",
+            title: "PLUS PRECIEUX QUE L'OR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/d-n-tBhHHtY?si=SqvVJ2vc8hiwftNa",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Plus précieux que (G) l'or" },
+                    { chord: "G", text: "(G) Plus précieux que (C) l'or," },
+                    { chord: "C", text: "(C) L'esprit de Dieu, dans le (F) coeur de l'homme" },
+                    { chord: "F", text: "(F) Est (G) plus précieux que (C) l'or," }
+                ],
+            ]
+        },
+        {
+            key: "dim-21-12-2025",
+            title: "PAR LA FOI NOUS MARCHERONS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-21-12-2025",
+            title: "ALL THE OTHER GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/q4KzCrpcLjo?si=XLKFxqc6tTH8osHN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All the other gods" },
+                    { chord: "C", text: "(C) They are the works of (F) man" },
+                    { chord: "F", text: "(F) You are the most High (G) God" },
+                    { chord: "G", text: "(G) There is none like (C) You" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" },
+                    { chord: "C", text: "(C) Jehovah, (F) You are the most (C) High God" },
+                    { chord: "C", text: "(C) Jehovah, (G) You are the most High (C) God" }
+                ]
+            ]
+        },
+        {
+            key: "dim-21-12-2025",
+            title: "WHEN I SEE THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X_HH-I5C4kE?si=TZKkXP6rdV7fpSsO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Christ our redeemer, (F) died on the (C) cross," },
+                    { chord: "F", text: "(F) Died for the sinner, (G) paid all His (C) due;" },
+                    { chord: "C", text: "(C) Sprinkle your soul with the (F) blood of the Lamb," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When I (F) see the (C) blood," },
+                    { chord: "C", text: "(C) When (G) I see (C) the blood," },
+                    { chord: "C", text: "(C) When I see (F) the blood, I will (C) pass," },
+                    { chord: "C", text: "(C) I will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Chiefest of sinners, (F) Jesus will (C) save;" },
+                    { chord: "F", text: "(F) All He has promised, (G) that will He (C) do;" },
+                    { chord: "C", text: "(C) Wash in the fountain (F) opened for (C) sin," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Judgment is coming, (F) all will be (C) there," },
+                    { chord: "F", text: "(F) Each one receiving, (G) justly his (C) due;" },
+                    { chord: "C", text: "(C) Hide in the saving (F) in-cleansings (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, great compassion! (F) O boundless (C) love!;" },
+                    { chord: "F", text: "(F) O loving kindness, (G) faithful and (C) true!;" },
+                    { chord: "C", text: "(C) Find peace and shelter (F) under the (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 21 Décembre 2025 (Cinquantième unième Dimanche)
+
         // Debut Cantiques Dimanche 14 Décembre 2025 (Cinquantième Dimanche)
         {
             key: "dim-14-12-2025",
