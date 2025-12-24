@@ -1,5 +1,168 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 25 Décembre 2025 (Fête de Noël)
+        {
+            key: "dim-25-12-2025",
+            title: "DANS LE TOMBEAU, JESUS EST SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Nd7XD8OePTk?si=YRQLCJzFZ8WssO8i",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon âme (G) bénit le (C) Seigneur," },
+                    { chord: "C", text: "(C) Et mon (F) esprit magnifie son (G) Nom." },
+                    { chord: "C", text: "(C) Car la mort n’a pas pu Le (F) retenir ;" },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." },
+                    { chord: "F", text: "(F) Même dans le (C) tombeau, " },
+                    { chord: "G", text: "(G) Jésus est Seigneur." }
+                ],
+                [
+                    { chord: "C", text: "(C) My soul (G) doth magnify the (C) LORD" },
+                    { chord: "C", text: "(C) And my (F) spirit praise his (G) name" },
+                    { chord: "C", text: "(C) Even death could not hold him (F) captive" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
+                    { chord: "F", text: "(F) Even in the (C) grave" },
+                    { chord: "G", text: "(G) Jesus is (C) LORD" },
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2025",
+            title: "OH HOW I LOVE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/t-6n0Zdnw3U?si=aSml3pqOaw6gOymL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There is a name I love to hear" },
+                    { chord: "C", text: "(C) I (G) love to sing its (C) worth;" },
+                    { chord: "C", text: "(C) It sounds like music in my ear," },
+                    { chord: "C", text: "(C) The (F) sweetest (G) name on (C) earth," }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, how I love Jesus," },
+                    { chord: "G", text: "(G) Oh, how I love (C) Jesus," },
+                    { chord: "C", text: "(C) Oh, how I love Jesus," },
+                    { chord: "F", text: "(F) Because He (G) first loved (C) me!" }
+                ],
+                [
+                    { chord: "C", text: "(C) It tells me of a Savior's love" },
+                    { chord: "C", text: "(C) Who (G) died to set me (C) free;" },
+                    { chord: "C", text: "(C) It tells me of His precious blood," },
+                    { chord: "C", text: "(C) The (F) sinner's (G) perfect (C) plea," }
+                ],
+                [
+                    { chord: "C", text: "(C) It tells of One whose loving heart" },
+                    { chord: "C", text: "(C) Can (G) feel my deepest (C) woe," },
+                    { chord: "C", text: "(C) Who in each sorrow bears a part" },
+                    { chord: "C", text: "(C) That (F) none (G) can bear (C) below" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2025",
+            title: "MY SOUL REJOICE AND PRAISE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My soul, rejoice and (F) praise the (C) Lord" },
+                    { chord: "F", text: "(F) Rejoice and (G) praise the (C) Lord" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Rejoice and praise the (G) Lord" },
+                    { chord: "G", text: "(G) Rejoice and praise the (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-12-2025",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I’m (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I’m onward (F) bound," },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (G) stand," },
+                    { chord: "G", text: "(G) By faith, on heaven’s table (C) land," },
+                    { chord: "C", text: "(C) A higher plane than I have (F) found;" },
+                    { chord: "F", text: "(F) “Lord, plant my (C) feet on (G) higher (C) ground.”" },
+                ],
+                [
+                    { chord: "C", text: "(C) My heart has no desire to (F) stay," },
+                    { chord: "F", text: "(F) Where doubts (C) arise and fears (G) dismay;" },
+                    { chord: "G", text: "(G) Tho’ some may (C) dwell where these (F) abound," },
+                    { chord: "F", text: "(F) My prayer, my (C) aim, is (G) higher (C) ground." },
+                ],
+                [
+                    { chord: "C", text: "(C) I want to scale the utmost (F) height," },
+                    { chord: "F", text: "(F) And catch a (C) gleam of glory (G) bright;" },
+                    { chord: "G", text: "(G) But still I’ll (C) pray till heav’n I’ve (F) found," },
+                    { chord: "F", text: "(F) “Lord, lead (C) me on to (G) higher (C) ground.”" },
+                ],
+            ]
+        },
+        {
+            key: "dim-25-12-2025",
+            title: "LE SEIGNEUR M'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/vvHn3JaT_JQ?si=ERJS3rZhnodjpEgh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Seigneur m’aime," },
+                    { chord: "F", text: "(F) Bonheur (C) suprême," },
+                    { chord: "C", text: "(C) Le Seigneur (F) m’aime," },
+                    { chord: "G", text: "(G) Il est (C) amour !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je redirai (G) toujours :" },
+                    { chord: "G", text: "(G) Le Seigneur (C) m’aime," },
+                    { chord: "C", text: "(C) Le Seigneur (F) m’aime," },
+                    { chord: "G", text: "(G) Il est (C) amour !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans la misère" },
+                    { chord: "F", text: "(F) La plus (C) amère," },
+                    { chord: "C", text: "(C) Dans la (F) misère" },
+                    { chord: "G", text: "(G) J’étais (C) plongé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans la souffrance" },
+                    { chord: "F", text: "(F) Sans (C) espérance," },
+                    { chord: "C", text: "(C) Dans la (F) souffrance" },
+                    { chord: "G", text: "(G) Je (C) gémissais." }
+                ],
+                [
+                    { chord: "C", text: "(C) Portant ma peine," },
+                    { chord: "F", text: "(F) Ma lourde (C) chaîne," },
+                    { chord: "C", text: "(C) Portant ma (F) peine," },
+                    { chord: "G", text: "(G) J’étais (C) perdu." }
+                ],
+                [
+                    { chord: "C", text: "(C) En sacrifice" },
+                    { chord: "F", text: "(F) À la (C) justice," },
+                    { chord: "C", text: "(C) En (F) sacrifice" },
+                    { chord: "G", text: "(G) Il vint (C) s’offrir." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le poids immense" },
+                    { chord: "F", text: "(F) De mon (C) offense," },
+                    { chord: "C", text: "(C) Le poids (F) immense" },
+                    { chord: "G", text: "(G) Tomba sur (C) lui." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 25 Décembre 2025 (Fête de Noël)
+
         // Debut Cantiques Dimanche 21 Décembre 2025 (Cinquantième unième Dimanche)
         {
             key: "dim-21-12-2025",
