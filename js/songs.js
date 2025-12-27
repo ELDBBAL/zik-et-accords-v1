@@ -1,5 +1,304 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 28 Décembre 2025 (Cinquantième deuxième Dimanche)
+        {
+            key: "dim-28-12-2025",
+            title: "DRAW ME NEARER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-tBXjed7ykA?si=7ypsIo_LHBLpWCtH",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am (G) Thine, O Lord, I have (C) heard Thy voice," },
+                    { chord: "C", text: "(C) And it (F) told Thy love to (C) me;" },
+                    { chord: "C", text: "(C) But I (G) long to rise in the (C) arms of faith," },
+                    { chord: "C", text: "(C) And be (F) closer (G) drawn to (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Draw me nearer, (F) nearer, blessed (C) Lord," },
+                    { chord: "C", text: "(C) To the (F) cross where Thou hast (G) died;" },
+                    { chord: "C", text: "(C) Draw me nearer, nearer, blessed (F) Lord," },
+                    { chord: "C", text: "(C) To Thy precious, (G) bleeding (C) side." }
+                ],
+                [
+                    { chord: "G", text: "(G) Consecrate me now to Thy (Am) service, Lord," },
+                    { chord: "C", text: "(C) By the (F) pow’r of grace (C) divine;" },
+                    { chord: "C", text: "(C) Let my (G) soul look up with a (Am) steadfast hope," },
+                    { chord: "C", text: "(C) And my (F) will be (G) lost in (C) Thine." }
+                ],
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "WE GIVE ALL THE GLORY TO JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5lzPhJfD18?si=QkJG9uv3S2Xl6J1M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (G) tell of His love His (C) wonderful love" },
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (F) tell of His (G) wonderful (C) love" }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "JESUS IS PASSING THIS WAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dPIRhcVn8FM?si=xM0CST9dImzN6scC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is (F) passing this (C) way" },
+                    { chord: "C", text: "(C) this (G) way, (C) Today" },
+                    { chord: "C", text: "(C) Jesus is (F) passing this (C) way (C) - (Em) - (Am) " },
+                    { chord: "F", text: "(F) Is passing this (G) way (C) today " }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "FRIENDSHIP WITH JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VqnLpe2rAzA?si=tLPAFkwtpmailnbB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) A friend of Jesus, (F) O what bliss." },
+                    { chord: "C", text: "(C) That one so (D) vile as (G) I" },
+                    { chord: "C", text: "(C) Should ever have (F) a friend like this" },
+                    { chord: "C", text: "(C) To lead me (G) to the (C) sky" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Friendship with Jesus," },
+                    { chord: "C", text: "(C) Fellowship (G) divine," },
+                    { chord: "C", text: "(C) O what a blessed, sweet (F) communion." },
+                    { chord: "C", text: "(C) Jesus is a (G) friend of (C) mine." }
+                ],
+                [
+                    { chord: "C", text: "(C) A friend when other (F) friendships cease," },
+                    { chord: "G", text: "(G) A friend when (D) others (G) fail, " },
+                    { chord: "C", text: "(C) A friend who gives (F) me joy and peace, " },
+                    { chord: "C", text: "(C) A friend when (G) foes (C) assail." }
+                ],
+                [
+                    { chord: "C", text: "(C) A friend when sickness (F) lays me low, " },
+                    { chord: "G", text: "(G) A friend when (D) death draws (G) near" },
+                    { chord: "C", text: "(C) A friend as through (F) the vale I go" },
+                    { chord: "C", text: "(C) A friend to (G) help and (C) cheer" }
+                ],
+                [
+                    { chord: "C", text: "(C) A friend when life's (F) short race is o'er, " },
+                    { chord: "G", text: "(G) A friend when (D) death draws (G) near" },
+                    { chord: "C", text: "(C) A friend to meet (F) on heaven's shore," },
+                    { chord: "C", text: "(C) A friend when (G) home at (C) last." }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "AMI DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uH5SEBrJvFI?si=n-SsjFM_9GNQafDU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ami de Jésus, (F) ô quelle joie" },
+                    { chord: "F", text: "(F) Pour (C) un ignoble comme (G) moi," },
+                    { chord: "C", text: "(C) D’avoir toujours un (F) tel ami" },
+                    { chord: "F", text: "(F) Pour (C) me con- (G) -duire au (C) ciel." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Ami de Jésus," },
+                    { chord: "C", text: "(C) Commu- (D) -nion divine (G) ," },
+                    { chord: "C", text: "(C) Ô quelle bénie, douce (F) communion," },
+                    { chord: "C", text: "(C) Jésus est bien (G) mon ami. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Ami, quand d’autres (F) amitiés" },
+                    { chord: "C", text: "(C) Cessent ou me dé- (G) -çoivent," },
+                    { chord: "C", text: "(C) Ami, qui me donne (F) joie et paix," },
+                    { chord: "C", text: "(C) Ami, quand (G) vient (C) l’ennemi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Un ami dans la (F) maladie," },
+                    { chord: "C", text: "(C) Et quand approche la (G) mort," },
+                    { chord: "C", text: "(C) Ami, quand je passe (F) la vallée," },
+                    { chord: "C", text: "(C) Il m’aide et (G) m’encourage. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Ami quand ma courte (F) vie s’arrête," },
+                    { chord: "C", text: "(C) Ami quand passe la (G) terre," },
+                    { chord: "C", text: "(C) Ami à voir au (F) seuil du ciel," },
+                    { chord: "C", text: "(C) Ami, (G) enfin, chez (C) moi." }
+                ],
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "IN THE SWEET",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a land that is (F) fairer than (C) day," },
+                    { chord: "C", text: "(C) And by faith we can (D) see it a (G) far," },
+                    { chord: "C", text: "(C) For the Father waits (F) over the (C) way" },
+                    { chord: "C", text: "(C) To prepare us a (G) dwelling place (C) there!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the sweet by and (G) by," },
+                    { chord: "G", text: "(G) We shall (F) meet on that beautiful (C) shore;" },
+                    { chord: "C", text: "(C) In the sweet by and (F) by," },
+                    { chord: "F", text: "(F) We shall (C) meet on that (G) beautiful (C) shore." }
+                ],
+                [
+                    { chord: "C", text: "(C) We shall sing on that (F) beautiful (C) shore" },
+                    { chord: "C", text: "(C) The melodious (D) songs of the (G) blest;" },
+                    { chord: "C", text: "(C) And our spirits (F) shall sorrow no (C) more" },
+                    { chord: "C", text: "(C) Not a sigh for the (G) blessing of (C) rest." }
+                ],
+                [
+                    { chord: "C", text: "(C) To our bountiful (F) Father (C) above" },
+                    { chord: "C", text: "(C) We will offer our (D) tribute of (G) praise" },
+                    { chord: "C", text: "(C) For the glorious (F) gift of His (C) love" },
+                    { chord: "C", text: "(C) And the blessings that (G) hallow our (C) days." }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "I SHALL NOT BE MOVED",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bbAntGcJOWY?si=fy6fIErLpm7WOVio",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jesus is my Savior, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love and favor, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I shall not be, (G) I shall not be moved." },
+                    { chord: "G", text: "(G) I shall not be, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) In my Christ abiding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love I’m hiding, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) On His word I'm feeding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) He's the one that's leading, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "PRAISING THE LORD ALWAYS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/47OIw6etSv8?si=HAPWx7Xspopc2uS4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Praising the Lord always" },
+                    { chord: "C", text: "(C) Praising the (G) Lord (C) always" },
+                    { chord: "C", text: "(C) Praising the Lord with all (F) my heart" },
+                    { chord: "F", text: "(F) Praising the (C) Lord with all (G) my heart (C) always" },
+                    { chord: "C", text: "(C) My Lord is (G) good" },
+                    { chord: "G", text: "(G) My Lord is (C) good" },
+                    { chord: "C", text: "(C) My Lord is (F) good" },
+                    { chord: "G", text: "(G) Is good to (C) me" }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "WHAT MANNER OF MAN IS JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KTpzgW89k68?si=z5NugJjaxy0M9J3l",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What manner of man is Jesus (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) What manner of man is Jesus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "LE MESSIE EST LE ROI DES ROIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Le Messie est le (G) Roi des rois (Am) " },
+                    { chord: "F", text: "(F) Il est le Seigneur des (G) seigneurs (C) " },
+                    { chord: "C", text: "(C) Il est (F) le (C) Roi, (Am) Seigneur des (G) seigneurs" },
+                    { chord: "F", text: "(F) Le Messie est le (G) Roi des (Em) rois (Am) " },
+                    { chord: "Dm", text: "(Dm) Il est le Seigneur (G) des Seigneurs. (C) "}
+                ]
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
+            title: "A LA CROIX, AU PIEDS DU MAITRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/a5l8PP2E7nw?si=y0Tlt9X_0FXVArqY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À la croix aux pieds du (G) Maître," },
+                    { chord: "G", text: "(G) À genoux, (F) j’ai (G) fait mon (C) choix." },
+                    { chord: "C", text: "(C) Son disciple je veux (G) être" },
+                    { chord: "G", text: "(G) Tout près (F) de (G) Lui par la (C) foi." },
+                    { chord: "F", text: "(F) Brebis de Sa bergerie, (C) " },
+                    { chord: "C", text: "(C) Nul ne m’ôte (D) de Sa (G) main" },
+                    { chord: "C", text: "(C) Sur les monts dans les (G) prairies," },
+                    { chord: "G", text: "(G) Oui, mon (F) bonheur (G) est (C) divin." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) À la croix aux pieds du (G) Maître," },
+                    { chord: "G", text: "(G) À genoux, (F) j’ai (G) fait mon (C) choix." },
+                    { chord: "C", text: "(C) Son disciple je veux (G) être" },
+                    { chord: "G", text: "(G) Tout près (F) de (G) Lui par la (C) foi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Depuis lors, ô choix (G) splendide," },
+                    { chord: "G", text: "(G) La joie (F) demeure (G) dans mon (C) cœur." },
+                    { chord: "C", text: "(C) Adieu les soucis (G) perfides," },
+                    { chord: "G", text: "(G) Par Jésus (F) je (G) suis (C) vainqueur." },
+                    { chord: "F", text: "(F) Adieu vaines convoitises (C) " },
+                    { chord: "C", text: "(C) Du monde (D) qui me (G) tenta" },
+                    { chord: "C", text: "(C) J’ai trouvé la paix (G) promise" },
+                    { chord: "G", text: "(G) Dans le (F) sang (G) de (C) Golgotha." },
+                ],
+                [
+                    { chord: "C", text: "(C) Bientôt ma tâche (G) accomplie" },
+                    { chord: "G", text: "(G) J’entrerai (F) tout (G) droit au (C) port" },
+                    { chord: "C", text: "(C) Où m’attend, douce (G) patrie," },
+                    { chord: "G", text: "(G) Le Grand (F) Vainqueur (G) de la (C) mort." },
+                    { chord: "F", text: "(F) Là je chanterai Ta gloire, (C) " },
+                    { chord: "C", text: "(C) Ô Toi qui (D) m’as tant (G) aimé" },
+                    { chord: "C", text: "(C) Et dont l’œuvre (G) expiatoire" },
+                    { chord: "G", text: "(G) Pour (F) toujours (G) m’a (C) racheté." },
+                ],
+            ]
+        },
+        // Fin Cantiques Dimanche 28 Décembre 2025 (Cinquantième deuxième Dimanche)
+
         // Debut Cantiques Dimanche 25 Décembre 2025 (Fête de Noël)
         {
             key: "dim-25-12-2025",
