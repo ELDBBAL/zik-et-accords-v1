@@ -3,6 +3,21 @@ const songs = [
         // Debut Cantiques Dimanche 28 Décembre 2025 (Cinquantième deuxième Dimanche)
         {
             key: "dim-28-12-2025",
+            title: "ESI MELE AGBE LA",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Esi mele agbe (F) la," },
+                    { chord: "F", text: "(F) Mado wo (G) n'ko de (C) dzi;" },
+                    { chord: "C", text: "(C) Woédze bubu, woedze (G) kafu," },
+                    { chord: "F", text: "(F) O kokoe Mawu" },
+                    { chord: "F", text: "(F) Mado wo (G) n'ko de (C) dzi" },
+                ],
+            ]
+        },
+        {
+            key: "dim-28-12-2025",
             title: "DRAW ME NEARER",
             keySignature: "C",
             youtubeLink: "https://youtu.be/-tBXjed7ykA?si=7ypsIo_LHBLpWCtH",
