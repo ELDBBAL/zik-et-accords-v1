@@ -1,5 +1,281 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Mercredi 31 Décembre 2025 (Rreveillon du Nouvel An)
+        {
+            key: "mer-31-12-2025",
+            title: "BECAUSE HE LIVES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Because He lives, I can face (F) tomorrow" },
+                    { chord: "F", text: "(F) Because He (C) lives, (D) all fear is (G) gone;" },
+                    { chord: "G", text: "(G) Because I (C) know He holds the (F) future" },
+                    { chord: "F", text: "(F) And life is (C) worth the living," },
+                    { chord: "G", text: "(G) Just because He (C) lives!" }
+                ]
+            ]
+        },
+        {
+            key: "mer-31-12-2025",
+            title: "JESUS TOOK MY BURDEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0gyBfdkYKZk?si=7Z3aaotHMS4hgUax",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When I, a poor, lost sinner," },
+                    { chord: "C", text: "(C) Before the Lord did (G) fall," },
+                    { chord: "G", text: "(G) And in the name of Jesus" },
+                    { chord: "G", text: "(G) For pardon loud did (C) call;" },
+                    { chord: "C", text: "(C) He heard my supplication," },
+                    { chord: "C", text: "(C) And soon the weak was (F) strong," },
+                    { chord: "F", text: "(F) For Jesus took my (C) burden," },
+                    { chord: "C", text: "(C) And (G) left me with a (C) song." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Yes, (G) Jesus took my burden" },
+                    { chord: "G", text: "(G) I could no longer (C) bear," },
+                    { chord: "C", text: "(C) Yes, (G) Jesus took my burden" },
+                    { chord: "G", text: "(G) In answer to my (C) prayer;" },
+                    { chord: "C", text: "(C) My anxious fears subsided," },
+                    { chord: "C", text: "(C) My spirit was made (F) strong," },
+                    { chord: "F", text: "(F) For Jesus took my (C) burden," },
+                    { chord: "C", text: "(C) And (G) let me with a (C) song." },
+                ],
+                [
+                    { chord: "C", text: "(C) Ofttimes the way is dreary," },
+                    { chord: "C", text: "(C) And rugged seems the (G) road," },
+                    { chord: "G", text: "(G) Ofttimes I'm weak and weary," },
+                    { chord: "G", text: "(G) When bent beneath some (C) load;" },
+                    { chord: "C", text: "(C) But when I cry in weakness," },
+                    { chord: "C", text: "(C) 'How long, O Lord, how (F) long?'" },
+                    { chord: "F", text: "(F) Then Jesus takes the (C) burden," },
+                    { chord: "C", text: "(C) And (G) leaves we with a (C) song." },
+                ],
+                [
+                    { chord: "C", text: "(C) When I was crushed with sorrow" },
+                    { chord: "C", text: "(C) I bowed in deep (G) despair," },
+                    { chord: "G", text: "(G) My load of grief and heartache" },
+                    { chord: "G", text: "(G) Seemed more than I could (C) bear;" },
+                    { chord: "C", text: "(C) 'Twas when I heard a whisper," },
+                    { chord: "C", text: "(C) 'You to the lord (F) belong,'" },
+                    { chord: "F", text: "(F) Then Jesus took my (C) burden," },
+                    { chord: "C", text: "(C) And (G) left me with a (C) song." },
+                ],
+                [
+                    { chord: "C", text: "(C) I'll trust Him for the further," },
+                    { chord: "C", text: "(C) He knoweth all the (G) way," },
+                    { chord: "G", text: "(G) For with His eye He'll guide me" },
+                    { chord: "G", text: "(G) Along life's pilgrim (C) way;" },
+                    { chord: "C", text: "(C) And I will tell in heaven," },
+                    { chord: "C", text: "(C) While ages roll (F) along," },
+                    { chord: "F", text: "(F) How Jesus took my (C) burden," },
+                    { chord: "C", text: "(C) And (G) left me with a (C) song." },
+                ],
+            ]
+        },
+        {
+            key: "mer-31-12-2025",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" },
+                    { chord: "C", text: "(C) If that (G) spirit dwell in (C) you." },
+                ]
+            ]
+        },
+        {
+            key: "mer-31-12-2025",
+            title: "IN THE NAME OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/34g8m5hPTnA?si=S9flvmCnAjflKPxu",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) We have the victory, (G) " },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) Demons will have to (C) flee" },
+                    { chord: "F", text: "(F) When we stand in the (C) Name of Jesus," },
+                    { chord: "G", text: "(G) Tell me who can stand (C) before" },
+                    { chord: "F", text: "(F) In the Precious Name of (C) Jesus," },
+                    { chord: "G", text: "(G) We have the (C) victory." },
+                ],
+                [
+                    { chord: "C", text: "(C) Dans le nom de Jésus," },
+                    { chord: "C", text: "(C) Dans le nom de Jésus," },
+                    { chord: "C", text: "(C) Nous avons la victoire, (G) " },
+                    { chord: "G", text: "(G) Dans le nom de Jésus," },
+                    { chord: "G", text: "(G) Dans le nom de Jésus" },
+                    { chord: "G", text: "(G) Tous les démons (C) s’enfuient" },
+                    { chord: "F", text: "(F) Qui peut dire’ ce que (C) Dieu peut faire ?" },
+                    { chord: "G", text: "(G) Qui peut dire’ Son amour pour (C) nous ?" },
+                    { chord: "F", text: "(F) C’est au nom du Seigneur (C) Jésus," },
+                    { chord: "G", text: "(G) Nous avons la (C) victoire." },
+                ],
+                [
+                    { chord: "G", text: "(G) Quand satan nous tend un (C) piège," },
+                    { chord: "F", text: "(F) C’est ce nom qui nous (C) protège," },
+                    { chord: "G", text: "(G) Ce beau nom de la (C) victoire" },
+                    { chord: "F", text: "(F) Que chantent tous les (C) Élus!" }
+                ],
+            ]
+        },
+        {
+            key: "mer-31-12-2025",
+            title: "JE DESIRE LE VOIR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cYGt-JSek6Q?si=s0nc3JW2vv1lUktk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je chante sur le chemin" },
+                    { chord: "F", text: "(F) Conduisant les (C) coeurs" },
+                    { chord: "C", text: "(C) Au calvaire où coule à plein" },
+                    { chord: "D", text: "(D) Le ruisseau (G) vainqueur" },
+                    { chord: "C", text: "(C) Bien des flèches m’ont blessé" },
+                    { chord: "F", text: "(F) Mon Seigneur le (C) sait" },
+                    { chord: "C", text: "(C) Il dirige, (F) Il conduit" },
+                    { chord: "G", text: "(G) Et moi je Le (C) suis." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je désire le voir," },
+                    { chord: "F", text: "(F) Le voir face à (C) face" },
+                    { chord: "C", text: "(C) Et chanter pour toujours" },
+                    { chord: "D", text: "(D) Sa divine (G) grâce" },
+                    { chord: "C", text: "(C) Dans les rues pavées d’or" },
+                    { chord: "F", text: "(F) Elever ma (C) voix" },
+                    { chord: "C", text: "(C) Mes soucis (F) sont finis" },
+                    { chord: "G", text: "(G) Je suis à (C) l’abri" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les flots rugissent encore" },
+                    { chord: "F", text: "(F) Du fond de (C) l’abîme," },
+                    { chord: "C", text: "(C) Le Sauveur prend en main" },
+                    { chord: "D", text: "(D) La barre (G) divine" },
+                    { chord: "C", text: "(C) Lui seul me dirigera" },
+                    { chord: "F", text: "(F) En vallée, (C) d’en-bas ;" },
+                    { chord: "C", text: "(C) Mais je serai (F) bientôt (G) arrivé (C) là-haut" },
+                ],
+                [
+                    { chord: "C", text: "(C) Au service de mon Dieu" },
+                    { chord: "F", text: "(F) La nuit peut (C) sembler" },
+                    { chord: "C", text: "(C) Si sombre que je ne peux" },
+                    { chord: "D", text: "(D) Plus voir mon (G) sentier" },
+                    { chord: "C", text: "(C) Je me rapproche de Lui" },
+                    { chord: "F", text: "(F) Il m’éclaire (C) alors" },
+                    { chord: "C", text: "(C) Unissant nos (F) efforts" },
+                    { chord: "G", text: "(G) Me conduit au (C) port" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du fin fond de la vallée" },
+                    { chord: "F", text: "(F) Je vois les (C) glaciers" },
+                    { chord: "C", text: "(C) Il m’est donné d’entrevoir" },
+                    { chord: "D", text: "(D) Le Seigneur de (G) Gloire" },
+                    { chord: "C", text: "(C) Il est armée de l’épée," },
+                    { chord: "F", text: "(F) Conduit la (C) mêlée," },
+                    { chord: "C", text: "(C) Et je suis (F) protégé :" },
+                    { chord: "G", text: "(G) Gloire à mon (C) Roche" },
+                ],
+            ]
+        },
+        {   
+            key: "mer-31-12-2025",
+            title: "TOUT EST EN LUI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IM9LhW7S-_w?si=ZTe2tEZfXOEwVIF8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Dieu puissant, c’est Jésus c’est le (F) Prince de (C) paix" },
+                    { chord: "C", text: "(C) Le Père de l’Eternité et (D) le Roi de (G) beauté." },
+                    { chord: "C", text: "(C) Le Merveilleux en sagesse Par (F) qui toute chose est (C) faite," },
+                    { chord: "C", text: "(C) La plénitude (F) divine en (G) Jésus (C) incarnée." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                    { chord: "C", text: "(C) La plénitude divine est (D) toute en (G) Lui." },
+                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
+                    { chord: "C", text: "(C) Jésus est Dieu (F) Tout-puissant et (G) tout est en (C) Lui." }
+                ],
+                [
+                    { chord: "C", text: "(C) Emmanuel : Dieu avec nous, (F) Jéhovah (C) l’Eternel" },
+                    { chord: "C", text: "(C) L’Esprit tout omniprésent qui (D) remplit (G) l’univers," },
+                    { chord: "C", text: "(C) Le grand Sacrificateur et (F) l’Agneau des (C) pécheurs," },
+                    { chord: "C", text: "(C) L’auteur de la (F) Rédemption, que (G) béni soit Son (C) Nom" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le commencement et la fin, (F) l’Alpha et (G) l’Omega," },
+                    { chord: "C", text: "(C) La Vraie Parole incarnée, (D) l’Ami des (G) rachetés." },
+                    { chord: "C", text: "(C) La sagesse et perfection, ma (F) justice et (C) puissance" },
+                    { chord: "C", text: "(C) Tout ce dont j’ai le (F) besoin: je (G) le trouve en Sa (C) main." }
+                ],
+                [
+                    { chord: "C", text: "(C) Le Dieu que nous attendions (F) sera la gaie (C) chanson" },
+                    { chord: "C", text: "(C) De l’Israël revenu, quand (D) paraîtra (G) Jésus." },
+                    { chord: "C", text: "(C) Il viendra nous délivrer notre (F) Agneau (C) immolé," },
+                    { chord: "C", text: "(C) La plénitude est (F) en Lui, Le (G) Vainqueur de la (C) nuit." }
+                ]
+            ]
+        },
+        {
+            key: "mer-31-12-2025",
+            title: "THE OLD TIME RELIGION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JOI_HFvhINM?si=1N7zaH35NEn5MzmG",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Give me that old time religion," },
+                    { chord: "C", text: "(C) Give me that (G) old time (C) religion," },
+                    { chord: "C", text: "(C) Give me that old time (F) religion," },
+                    { chord: "F", text: "(F) It’s (G) good enough for (C) me" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi (G) l’ancien (C) Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien (F) Evangile" },
+                    { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) C’est toujours l’ancien Saint-Esprit," },
+                    { chord: "C", text: "(C) Et Satan (G) ne peut (C) l’approcher," },
+                    { chord: "C", text: "(C) C’est pourquoi les peuples (F) le craignent;" },
+                    { chord: "F", text: "(F) Mais Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Evangile de grâce," },
+                    { chord: "G", text: "(G) Evangile de (C) salut" },
+                    { chord: "C", text: "(C) Evangile (F) d’enlèvement" },
+                    { chord: "F", text: "(F) C’est (G) bon, c’est bon pour (C) moi" }
+                ],
+                [
+                    { chord: "C", text: "(C) L’évangile est prêché" },
+                    { chord: "G", text: "(G) Les malades sont (C) guéris" },
+                    { chord: "C", text: "(C) Les morts (F) ressuscités" },
+                    { chord: "F", text: "(F) C’est (G) bon, c’est bon pour (C) moi" }
+                ],
+                [
+                    { chord: "C", text: "(C) Les mystères sont prêchés" },
+                    { chord: "G", text: "(G) L’épouse s’est (C) préparée" },
+                    { chord: "C", text: "(C) Attendant (F) l’enlèvement " },
+                    { chord: "F", text: "(F) C’est (G) bon, c’est bon pour (C) moi" }
+                ]
+            ]
+        },
+        // Fin Cantiques Mercredi 31 Décembre 2025 (Rreveillon du Nouvel An)
+
         // Debut Cantiques Dimanche 28 Décembre 2025 (Cinquantième deuxième Dimanche)
         {
             key: "dim-28-12-2025",
