@@ -3,6 +3,28 @@ const songs = [
         // Debut cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
         {
             key: "dim-04-01-2026",
+            title: "IT’S ALREADY DONE/C’EST DÉJA FAIT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) It’s already (F) done" },
+                    { chord: "G", text: "(G) It’s already (C) done" },
+                    { chord: "C", text: "(C) The victory is (F) won" },
+                    { chord: "F", text: "(F) The battle is (G) over" },
+                    { chord: "G", text: "(G) It’s already (C) done" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui c’est déja (F) fait" },
+                    { chord: "G", text: "(G) Oui c’est déja (C) fait" },
+                    { chord: "C", text: "(C) La victoire (F) emportée" },
+                    { chord: "F", text: "(F) La bataille (G) terminée" },
+                    { chord: "G", text: "(G) Oui c’est déja (C) fait" },
+                ],
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
             title: "LE FEU DIVIN BRULE EN MON CŒUR",
             keySignature: "C",
             youtubeLink: "https://youtu.be/ycm815slfWY?si=WH3saDHiyd46C859",
@@ -240,6 +262,102 @@ const songs = [
                     { chord: "C", text: "(C) Je suis (F) dans l'émotion (C) " },
                     { chord: "C", text: "(C) Car (G) Yaweh m'a libéré (C) " },
                 ],
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
+            title: "GREAT THING HE HAS DONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Gla0seOsQvg?si=Ec1mUteJx0JkH34L",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Great things He has (F) done" },
+                    { chord: "F", text: "(F) Greater (G) things he will (C) do" },
+                    { chord: "C", text: "(C) Unto the Lord be the (F) glory" },
+                    { chord: "F", text: "(F) Great (C) things (G) He has (C) done" }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
+            title: "IL EST MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il est (F) merveilleux (C) !" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Il est (F) Tout-puissant (C) !" },
+                    { chord: "C", text: "(C) Il est (G) Tout-puissant (C)" },
+                    { chord: "C", text: "(C) Le monde (F) entier le (C) loue" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" },
+                    { chord: "C", text: "(C) Les rachetés (F) entier le (C) louent" },
+                    { chord: "C", text: "(C) Il est (G) merveilleux (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
+            title: "AMAZING GRACE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tvt6E9N7AQw?si=8zkXY4GH66SnRODV",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Amazing grace how (F) sweet the (C) sound" },
+                    { chord: "C", text: "(C) that saved a wretch like (G) me!" },
+                    { chord: "C", text: "(C) I once was lost, but (F) now am (C) found," },
+                    { chord: "C", text: "(C) was blind, but (G) now I (C) see." }
+                ],
+                [
+                    { chord: "C", text: "(C) IT was grace that taught my (F) heart to (C) fear," },
+                    { chord: "C", text: "(C) and grace my fears (G) relieved;" },
+                    { chord: "C", text: "(C) how precious did that (F) grace (C) appear" },
+                    { chord: "C", text: "(C) the hour I (G) first (C) believed!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Through many dangers, (F) toils and (C) snares" },
+                    { chord: "C", text: "(C) I have already (G) come:" },
+                    { chord: "C", text: "(C) This grace has brought me (F) safe thus (C) far," },
+                    { chord: "C", text: "(C) and grace will (G) lead me (C) home" }
+                ],
+                [
+                    { chord: "C", text: "(C) The Lord has promised (F) good to (C) me," },
+                    { chord: "C", text: "(C) his word my hope (G) secures;" },
+                    { chord: "C", text: "(C) he will my shield and (F) portion (C) be" },
+                    { chord: "C", text: "(C) as long as (G) life (C) endures." }
+                ],
+                [
+                    { chord: "C", text: "(C) Yes, when this flesh and (F) heart shall (C) fail," },
+                    { chord: "C", text: "(C) and mortal life shall (G) cease:" },
+                    { chord: "C", text: "(C) I shall possess, (F) within the (C) veil," },
+                    { chord: "C", text: "(C) a life of (G) joy and (C) peace." }
+                ],
+                [
+                    { chord: "C", text: "(C) The earth shall soon (F) dissolve like (C) snow," },
+                    { chord: "C", text: "(C) the sun forbear to (G) shine;" },
+                    { chord: "C", text: "(C) but God, who (F) called me here (C) below," },
+                    { chord: "C", text: "(C) will be (G) forever (C) mine." }
+                ]
             ]
         },
         // Fin cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
