@@ -179,6 +179,69 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-04-01-2026",
+            title: "IL A FAIT POUR MOI CE QU'UN HOMME NE PEUT FAIRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oxM5Jb2v0ZU?si=D1B0icFA3OzwG1w9",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m'a donné la vie," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) vie," },
+                    { chord: "C", text: "(C) Il m'a donné la joie," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) joie," },
+                    { chord: "C", text: "(C) Il m'a donné la paix, " },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) paix, " },
+                    { chord: "C", text: "(C) Ce qu'un homme ne peut faire" },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que mes amis ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que les enfants ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que le monde ne peut faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Il m'a libéré," },
+                    { chord: "F", text: "(F) Il m'a (G) libéré, (C) " },
+                    { chord: "C", text: "(C) Il m'a donné la paix," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) paix," },
+                    { chord: "C", text: "(C) Ce qu'un homme ne peut faire" },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que mes amis ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que les enfants ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que le monde ne peut faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Allé, Alléluia" },
+                    { chord: "F", text: "(F) Allé, (G) Allé -(C)- luia" },
+                ],
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
+            title: "JE CHANTERAI DE TOUT COEUR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je (F) chanterai de tout (C) coeur," },
+                    { chord: "G", text: "(G) Les merveilles de mon Papa (C) Yaweh," },
+                    { chord: "C", text: "(C) Il m'a (F) ôté des ténèbres, (C) " },
+                    { chord: "C", text: "(C) Il m'a (G) délivré de tout (C) péché," },
+                    { chord: "C", text: "(C) Mon (F) Papa est fidèle, (C) " },
+                    { chord: "C", text: "(C) Il ne (G) m'abandonne jamais, (C) " },
+                    { chord: "C", text: "(C) Je n'ai (F) plus rien à (C) craindre" },
+                    { chord: "C", text: "(C) Car (G) Yaweh m'a libéré (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je suis (F) dans la joie (C) " },
+                    { chord: "C", text: "(C) Une (G) joie immense (C) " },
+                    { chord: "C", text: "(C) Je suis (F) dans l'émotion (C) " },
+                    { chord: "C", text: "(C) Car (G) Yaweh m'a libéré (C) " },
+                ],
+            ]
+        },
         // Fin cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
 
         // Debut Cantiques Mercredi 31 Décembre 2025 (Rreveillon du Nouvel An)
