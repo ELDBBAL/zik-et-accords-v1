@@ -1,5 +1,92 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
+        {
+            key: "dim-04-01-2026",
+            title: "LE FEU DIVIN BRULE EN MON CŒUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ycm815slfWY?si=WH3saDHiyd46C859",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le Feu divin brûle en mon cœur" },
+                    { chord: "C", text: "(C) Le Feu (G) divin brûle en mon (C) cœur" },
+                    { chord: "C", text: "(C) Le Feu (F) divin brûle en mon (C) cœur (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Le Feu (Dm) divin (G) brûle en mon (C) cœur" }
+                ],
+                [
+                    { chord: "C", text: "(C) J’aime Jésus de tout mon cœur" },
+                    { chord: "C", text: "(C) J’aime (G) Jésus de tout mon (G) cœur" },
+                    { chord: "C", text: "(C) J’aime (F) Jésus de tout mon (C) cœur (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) J’aime (Dm) Jésus de (G) tout mon (C) cœur" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon cœur Le loue avec ferveur " },
+                    { chord: "C", text: "(C) Mon cœur Le (G) loue avec (C) ferveur " },
+                    { chord: "C", text: "(C) Mon cœur Le (F) loue avec (C) ferveur (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Mon cœur Le (Dm) loue (G) avec (C) ferveur " }
+                ],
+                [
+                    { chord: "C", text: "(C) Alléluia ! Gloire à son Nom" },
+                    { chord: "C", text: "(C) Alléluia (G) ! Gloire à son (C) Nom" },
+                    { chord: "C", text: "(C) Alléluia (F) !  Gloire à son (C) Nom (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Alléluia (Dm) ! (G) Gloire à son (C) Nom" }
+                ],
+                [
+                    { chord: "C", text: "(C) O, reçois-le de tout ton cœur " },
+                    { chord: "C", text: "(C) O, reçois (G) le de tout ton (C) cœur " },
+                    { chord: "C", text: "(C) O, reçois (F) le de tout ton (C) cœur (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) O, reçois (Dm) le de (G) tout ton (C) cœur " }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
+            title: "QUEL TEMPS GLORIEUX",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où tous les hommes (D) de Dieu (G) d'antan" },
+                    { chord: "C", text: "(C) Ont tant voulu vivre et (F) contempler (C) " },
+                    { chord: "C", text: "(C) Oui c'est un temps (G) très glorieux. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Quel temps glorieux" },
+                    { chord: "F", text: "(F) Quel temps (C) glorieux" },
+                    { chord: "C", text: "(C) Ne pouvez-vous (D) pas le (G) voir?" },
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) II (F) est si (G) glorieux pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où le mystère caché (D) de tous les (G) âges" },
+                    { chord: "C", text: "(C) Jésus-Christ, l'Epoux, le seul (F) vrai (C) Dieu," },
+                    { chord: "C", text: "(C) A été (G) accompli. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où toutes choses (D) ont été (G) rétablies" },
+                    { chord: "C", text: "(C) Christ est descendu Lui (F) l'Ange (C) puissant" },
+                    { chord: "C", text: "(C) Pour réclamer (G) Ses rachetés. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où l'homme et Dieu (D) deviennent (G) un" },
+                    { chord: "C", text: "(C) Où la tête s'unit à (F) son (C) corps" },
+                    { chord: "C", text: "(C) Oh quel (G) temps glorieux. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Quel temps glorieux (F) qu'est celui (C) ci" },
+                    { chord: "C", text: "(C) Où ce que Jean vit, et (D) n'écrivit (G) pas" },
+                    { chord: "C", text: "(C) A été révélé pour (F) donner la (C) foi" },
+                    { chord: "C", text: "(C) Du glorieux (G) enlèvement. (C) " }
+                ],
+            ]
+        },    
+        // Fin cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
+
         // Debut Cantiques Mercredi 31 Décembre 2025 (Rreveillon du Nouvel An)
         {
             key: "mer-31-12-2025",
