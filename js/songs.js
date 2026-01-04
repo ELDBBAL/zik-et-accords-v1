@@ -85,6 +85,100 @@ const songs = [
                 ],
             ]
         },    
+        {
+            key: "dim-04-01-2026",
+            title: "SHOWERS OF BLESSING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IrDwO0TQWjM?si=W319xDqC72nf1ef4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) This is the promise of (C) love;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) Sent from the Savior (G) above." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Showers of blessing," },
+                    { chord: "C", text: "(C) Showers of (D) blessing we (G) need;" },
+                    { chord: "C", text: "(C) Mercy-drops round us are falling," },
+                    { chord: "G", text: "(G) But for the showers we (C) plead." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Precious reviving (C) again;" },
+                    { chord: "F", text: "(F) Over the hills and the (C) valleys," },
+                    { chord: "D", text: "(D) Sound of abundance of (G) rain." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Send them upon us, (C) O Lord!" },
+                    { chord: "F", text: "(F) Grant to us now a (C) refreshing;" },
+                    { chord: "D", text: "(D) Come, and now honor Thy (G) Word." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) O that today they might (C) fall," },
+                    { chord: "F", text: "(F) Now as to God we’re (C) confessing," },
+                    { chord: "D", text: "(D) Now as on Jesus we (G) call!" }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) If we but trust and (C) obey;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) If we let God have His (G) way." }
+                ]
+            ]
+        },
+        {
+            key: "dim-04-01-2026",
+            title: "NE CRAINS RIEN JE T'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8eB4Yae9MFs?si=TyuQk6olAhFaJnP3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ne crains rien, je t'aime" },
+                    { chord: "F", text: "(F) Je suis avec (C) toi" },
+                    { chord: "G", text: "(G) Promesse suprême," },
+                    { chord: "G", text: "(G) Qui soutient ma (C) foi" },
+                    { chord: "C", text: "(C) La sombre vallée" },
+                    { chord: "F", text: "(F) N'a plus de (C) terreur" },
+                    { chord: "G", text: "(G) L'âme consolée," },
+                    { chord: "G", text: "(G) je marche avec mon (C) Sauveur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                ],
+                [
+                    { chord: "C", text: "(C) L'aube matinière" },
+                    { chord: "F", text: "(F) Ne luit qu'aux beaux (C) jours" },
+                    { chord: "G", text: "(G) Jésus ma lumière" },
+                    { chord: "G", text: "(G) M'éclaire (C) toujours" },
+                    { chord: "C", text: "(C) Quand je perds de vue" },
+                    { chord: "F", text: "(F) L'astre radieux (C) " },
+                    { chord: "G", text: "(G) A travers la nue" },
+                    { chord: "G", text: "(G) Jésus me montre les (C) cieux" },
+                ],
+                [
+                    { chord: "C", text: "(C) Les dangers accourent, " },
+                    { chord: "F", text: "(F) subtils, inconnus (C) " },
+                    { chord: "G", text: "(G) De près, ils m'entourent, " },
+                    { chord: "G", text: "(G) plus près est (C) Jésus " },
+                    { chord: "C", text: "(C) Qui dans le voyage" },
+                    { chord: "F", text: "(F) Me redit C'est (C) moi!" },
+                    { chord: "G", text: "(G) Ne crains rien Courage!" },
+                    { chord: "G", text: "(G) Je suis toujours avec (C) toi!" },
+                ]
+            ]
+        },
         // Fin cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
 
         // Debut Cantiques Mercredi 31 Décembre 2025 (Rreveillon du Nouvel An)
