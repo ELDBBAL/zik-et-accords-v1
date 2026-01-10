@@ -1,5 +1,108 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut cantiques Dimanche 10 Janvier 2026 (Deuxième Dimanche)
+        {
+            key: "dim-10-01-2026",
+            title: "CLOSE TO THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8g88DKwJNd8?si=Ksu13--P-_ia7flh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Thou my everlasting portion" },
+                    { chord: "C", text: "(C) More than friend or (D) life to (G) me" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Not for easy wordly pleasure" },
+                    { chord: "C", text: "(C) Nor for fame my (D) prayer shall (G) be" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lead me through the veil of shadows" },
+                    { chord: "C", text: "(C) Bear me o'er (D) life's fitful (G) sea" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-01-2026",
+            title: "MY SOUL REJOICE AND PRAISE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My soul, rejoice and (F) praise the (C) Lord" },
+                    { chord: "F", text: "(F) Rejoice and (G) praise the (C) Lord" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Rejoice and praise the (G) Lord" },
+                    { chord: "G", text: "(G) Rejoice and praise the (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-01-2026",
+            title: "A SON NOM LA GLOIRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/m-CbSnyd_Fc?si=MdBBAG0mHjXs0KmM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) A la Croix où mourut (F) mon Sauveur, (C) " },
+                    { chord: "C", text: "(C) Je suis venu brisé (D) de douleur (G) " },
+                    { chord: "C", text: "(C) Là Son Sang purifia (F) mon (C) cœur," },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) A Son Nom la (C) gloire !" },
+                    { chord: "C", text: "(C) A Son (D) Nom la (G) gloire !" },
+                    { chord: "C", text: "(C) Là Son Sang purifia (F) mon (C) cœur," },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Quelle merveille Il vint (F) me sauver (C) " },
+                    { chord: "C", text: "(C) Quand de Sa croix je me (D) fus chargé, (G) " },
+                    { chord: "C", text: "(C) En moi Jésus vint pour (F) demeurer (C) " },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "(C) O Fontaine effaçant (F) le péché, (C) " },
+                    { chord: "C", text: "(C) Donnant la Vie au (D) cœur desséché, (G) " },
+                    { chord: "C", text: "(C) Là Jésus me retiens (F) attaché, (C) " },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Pauvre âme, viens aux pieds (F) du Sauveur (C) " },
+                    { chord: "C", text: "(C) A la source ouverte (D) à tout pécheur (G) " },
+                    { chord: "C", text: "(C) Viens t’y plonger, trouver (F) le bonheur, (C) " },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ]
+            ]
+        },
+        // Debut cantiques Dimanche 10 Janvier 2026 (Deuxième Dimanche)
+
         // Debut cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
         {
             key: "dim-04-01-2026",
