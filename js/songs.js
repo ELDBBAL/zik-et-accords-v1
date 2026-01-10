@@ -101,6 +101,89 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-10-01-2026",
+            title: "NOTHING BUT THE BLOOD OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cJnD272vmns?si=pC-uARa09fGnTfUh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What can wash away my sin?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) What can make me whole again?" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, precious is the flow" },
+                    { chord: "G", text: "(G) That makes me white as (C) snow; " },
+                    { chord: "C", text: "(C) No other fount I know," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C)" }
+                ],
+                [
+                    { chord: "C", text: "(C) For my cleansing this I see," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) For my pardon this my plea," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing can for sin atone," },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus; (C) " },
+                    { chord: "C", text: "(C) Naught of good that I have done" },
+                    { chord: "C", text: "(C) Nothing but the blood of (G) Jesus. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-01-2026",
+            title: "L'ANCIEN EVANGILE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/u_oBGLYyj0U?si=ufWbpdN5KdmTU6hI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) C’est toujours l’ancien Saint-Esprit," },
+                    { chord: "C", text: "(C) Et Satan (G) ne peut (C) l’approcher," },
+                    { chord: "C", text: "(C) C’est pourquoi les peuples (F) le craignent;" },
+                    { chord: "F", text: "(F) Mais Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi (G) l’ancien (C) Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien (F) Evangile" },
+                    { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il mettra fin à tes mensonges" },
+                    { chord: "C", text: "(C) Il te (G) sauvera de la (C) mort," },
+                    { chord: "C", text: "(C) Il fera s’enfuir les (F) démons ;" },
+                     { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il est bon, je n’en veux d’autre" },
+                    { chord: "C", text: "(C) Car Il me (G) fait aimer mon (C) frère," },
+                    { chord: "C", text: "(C) Il met toute chose à (F) découvert" },
+                     { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-01-2026",
+            title: "WHAT MANNER OF MAN IS JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KTpzgW89k68?si=z5NugJjaxy0M9J3l",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What manner of man is Jesus (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) What manner of man is Jesus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ]
+            ]
+        },
         // Debut cantiques Dimanche 10 Janvier 2026 (Deuxième Dimanche)
 
         // Debut cantiques Dimanche 4 Janvier 2026 (Premier Dimanche)
