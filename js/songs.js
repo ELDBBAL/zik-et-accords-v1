@@ -49,17 +49,17 @@ const songs = [
             key: "dim-11-01-2026",
             title: "JE L'AI TROUVEE",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/_CY9xYbStaM?si=fd6cnujivIU9tVSm",
+            youtubeLink: "https://youtu.be/O19ZDihPPNI?si=VvIzLDz8AnfWQ-fK",
             verses: [
                 [
                     { chord: "C", text: "(C) Je l’ai trouvé, je (F) l’ai trouvé," },
                     { chord: "C", text: "(C) Le bonheur (G) ineffable !" },
                     { chord: "C", text: "(C) Je suis sauvé, Je (F) suis sauvé," },
                     { chord: "C", text: "(C) Ô joie (G) inexpri- (C) -mable !" },
-                    { chord: "C", text: "(C) Tous mes péchés sont effacés ;" },
-                    { chord: "C", text: "(C) Le sang de Christ me lave." },
-                    { chord: "C", text: "(C) Les jours des larmes sont passés :" },
-                    { chord: "C", text: "(C) Je ne suis plus esclave !" },
+                    { chord: "C", text: "(C) Tous (G) mes péchés sont (C) effacés ;" },
+                    { chord: "C", text: "(C) Le (F) sang de Christ me (G) lave." },
+                    { chord: "C", text: "(C) Les jours des larmes (F) sont passés :" },
+                    { chord: "C", text: "(C) Je ne suis plus (F) esclave (C) !" },
                 ],
                 [
                     { chord: "C", text: "(C) Oh ! quel bonheur ! oh ! quel bonheur" },
