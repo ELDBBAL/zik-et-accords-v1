@@ -252,6 +252,44 @@ const songs = [
         },
         {
             key: "dim-11-01-2026",
+            title: "POUR MOI CHRÉTIEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_0YjekoO0pU?si=lpeLLqmeUMQ7-R8G",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pour moi Chrétien, la terre est un exil," },
+                    { chord: "C", text: "(C) Mais tout est (G) bien, mais tout est (C) bien." },
+                    { chord: "C", text: "(C) Il faut marcher de péril en péril;" },
+                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
+                    { chord: "C", text: "(C) Pourquoi les (G) pleurs, la (F) terreur ou (C) l’ennui?" },
+                    { chord: "C", text: "(C) Christ est en (G) moi demain (F) comme (C) aujourd’hui;" },
+                    { chord: "C", text: "(C) Au ciel bientôt je serai tout à Lui;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Larmes, travail, deuil, tristesse ici-bas;" },
+                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
+                    { chord: "C", text: "(C) De Canaan j’approche à chaque pas;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
+                    { chord: "C", text: "(C) En vain le monde (G) et son (F) charme (C) trompeur;" },
+                    { chord: "C", text: "(C) Dans ses (G) liens veut (F) retenir mon (C) cœur;" },
+                    { chord: "C", text: "(C) J’avance en paix, les yeux sur mon Sauveur," },
+                    { chord: "F", text: "(F) Oui, tout est bien, oui, tout est bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Encore un jour, et j’atteindrai le but;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
+                    { chord: "C", text: "(C) Et je verrai le pays du salut;" },
+                    { chord: "F", text: "(F) Oui, tout est (G) bien; oui tout est (C) bien." },
+                    { chord: "C", text: "(C) Encore un (G) jour, le (F) monde va (C) passer;" },
+                    { chord: "C", text: "(C) Ô pèlerin, (G) marche (F) sans te (C) lasser:" },
+                    { chord: "C", text: "(C) Bientôt en Dieu tu vas te reposer." },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                ],
+            ]
+        },
+        {
+            key: "dim-11-01-2026",
             title: "ROCK OF AGES",
             keySignature: "C",
             youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
