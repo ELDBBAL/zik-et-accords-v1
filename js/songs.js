@@ -22434,6 +22434,39 @@ const songs = [
     },
     {
         key: "dim-27-10-2024",
+        title: "QUEL JOUR DE GLOIRE",
+        keySignature: "C",
+        youtubeLink: "#",
+        verses: [
+            [
+                { chord: "C", text: "(C) Des péchés de ce monde (F) Jésus m’a (C) libéré" },
+                { chord: "C", text: "(C) Des péchés de ce monde (D) Jésus m’a (G) libéré" },
+                { chord: "C", text: "(C) Des péchés de ce monde (F) Jésus m’a (C) libéré" },
+                { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "C", text: "(C) Quel jour de gloire (F) quand Jésus m’a (C) sauvé," },
+                { chord: "C", text: "(C) Quel jour de gloire quand (D) Jésus m’a (G) sauvé," },
+                { chord: "G", text: "(G) Quel jour de (C) gloire quand (F) Jésus m’a (C) sauvé," },
+                { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+            ],
+            [
+                { chord: "C", text: "(C) Du feu et de l’esprit (F) Jésus m’a (C) baptisé" },
+                { chord: "C", text: "(C) Du feu et de l’esprit (D) Jésus m’a (G) baptisé" },
+                { chord: "C", text: "(C) Du feu et de l’esprit (F) Jésus m’a (C) baptisé" },
+                { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+            ],
+            [
+                { chord: "C", text: "(C) Ce n’est plus moi qui vis (F) c’est la Parole (C) en moi" },
+                { chord: "C", text: "(C) Ce n’est plus moi qui vis (D) c’est la Parole (G) en moi" },
+                { chord: "C", text: "(C) Ce n’est plus moi qui vis (F) c’est la Parole (C) en moi" },
+                { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+            ],
+        ]
+    },
+    {
+        key: "dim-27-10-2024",
         title: "A SON NOM LA GLOIRE",
         keySignature: "C",
         youtubeLink: "https://youtu.be/m-CbSnyd_Fc?si=MdBBAG0mHjXs0KmM",
