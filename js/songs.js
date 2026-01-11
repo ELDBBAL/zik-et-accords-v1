@@ -1,8 +1,8 @@
 // songs.js // Liste des cantiques
 const songs = [
-        // Debut cantiques Dimanche 10 Janvier 2026 (Deuxième Dimanche)
+        // Debut cantiques Dimanche 11 Janvier 2026 (Deuxième Dimanche)
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "CLOSE TO THEE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/8g88DKwJNd8?si=Ksu13--P-_ia7flh",
@@ -46,7 +46,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "MY SOUL REJOICE AND PRAISE THE LORD",
             keySignature: "C",
             youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
@@ -63,7 +63,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "A SON NOM LA GLOIRE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/m-CbSnyd_Fc?si=MdBBAG0mHjXs0KmM",
@@ -102,7 +102,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "NOTHING BUT THE BLOOD OF JESUS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/cJnD272vmns?si=pC-uARa09fGnTfUh",
@@ -135,7 +135,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "L'ANCIEN EVANGILE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/u_oBGLYyj0U?si=ufWbpdN5KdmTU6hI",
@@ -168,7 +168,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "WHAT MANNER OF MAN IS JESUS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/KTpzgW89k68?si=z5NugJjaxy0M9J3l",
@@ -185,7 +185,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "LE MESSIE EST LE ROI DES ROIS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/X49wkFzwYF4?si=qn6G1qq2crVU2dPw",
@@ -202,7 +202,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "OVERCOMING POWER",
             keySignature: "C",
             youtubeLink: "https://youtu.be/-n88fptXjjs?si=mFPvey7FKueMR1xf",
@@ -251,7 +251,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-01-2026",
+            key: "dim-11-01-2026",
             title: "ROCK OF AGES",
             keySignature: "C",
             youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
