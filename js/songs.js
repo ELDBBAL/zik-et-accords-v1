@@ -241,6 +241,27 @@ const songs = [
                 ],
             ]
         },
+        // {
+        //     key: "dim-18-01-2026",
+        //     title: "NON, NON JAMAIS PASSERA",
+        //     keySignature: "C",
+        //     youtubeLink: "#",
+        //     verses: [
+        //         [
+        //             { chord: "", text: "CHORUS:" },
+        //             { chord: "C", text: "(C) Non, non jamais passera" },
+        //             { chord: "C", text: "(C) La parole de Dieu jamais ne passera" },
+        //         ],
+        //         [
+        //             { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
+        //             { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
+        //         ],
+        //         [
+        //             { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
+        //             { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
+        //         ],
+        //     ]
+        // },
         {
             key: "dim-18-01-2026",
             title: "WHAT MANNER OF MAN IS JESUS",
