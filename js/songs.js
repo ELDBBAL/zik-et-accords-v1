@@ -1,5 +1,248 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut cantiques Dimanche 18 Janvier 2026 (Troisième Dimanche)
+        {
+            key: "dim-18-01-2026",
+            title: "I NEED THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pqYXTK4JYz8?si=0CY7fMPdvq7O7P4k",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) Most (F) gracious (C) Lord;" },
+                    { chord: "C", text: "(C) No (G) tender voice like (Am) Thine" },
+                    { chord: "Am", text: "(Am) Can (G) peace (C) afford." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I need Thee, oh, I (G) need Thee;" },
+                    { chord: "G", text: "(G) Ev'ry hour I (C) need Thee;" },
+                    { chord: "C", text: "(C) Oh, (F) bless me now, my (C) Savior" },
+                    { chord: "C", text: "(C) I (G) come to (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "F", text: "(C) Stay (F) Thou (C) nearby ;" },
+                    { chord: "G", text: "(G) Temptations lose their (Am) pow’r" },
+                    { chord: "Am", text: "(Am) When (G) Thou art (C) nigh." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) In (F) joy or (C) pain;" },
+                    { chord: "G", text: "(G) Come quickly and, (Am) abide" },
+                    { chord: "Am", text: "(Am) Or (G) life is (C) vain." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) Teach (F) me Thy (C) will;" },
+                    { chord: "G", text: "(G) And Thy rich (Am) promises" },
+                    { chord: "Am", text: "(Am) In (G) me ful (C) fill." }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "NAVIGUANT SUR L'OCEAN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Navigant sur l’océan de la vie" },
+                    { chord: "C", text: "(C) Les flots peuvent (F) m’entraîner au (C) loin" },
+                    { chord: "C", text: "(C) Mais j’espère voir mon (G) pilote face à face" },
+                    { chord: "G", text: "(G) Oh ! la tempête peut (C) rugir" },
+                    { chord: "C", text: "(C) Sur l’océan déchaîné, (G) Jésus me (C) gardera" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Bientôt, nous arriverons chez nous" },
+                    { chord: "C", text: "(C) Dans (F) cette (G) belle (C) cité" },
+                    { chord: "C", text: "(C) Jésus et son (G) épouse rachetée" },
+                    { chord: "G", text: "(G) Après les combats, (C) tourments, déceptions" },
+                    { chord: "C", text: "(C) Nous arriverons chez (G) nous" },
+                    { chord: "F", text: "(F) Oh  pèlerins, (G) du courage ! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "I MUST TELL JESUS",
+            keySignature: "C",
+            youtubeLink: "",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I must tell Jesus all of (G) my (Am) trials;" },
+                    { chord: "C", text: "(C) I cannot bear these burdens (G) alone;" },
+                    { chord: "C", text: "(C) In my distress He kindly will (G) help (Am) me;" },
+                    { chord: "C", text: "(C) He ever loves and (G) cares for His (C) own." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I must tell Jesus!" },
+                    { chord: "C", text: "(C) I must tell (F) Jesus!" },
+                    { chord: "F", text: "(F) I cannot(C) bear these (D) burdens (G) alone;" },
+                    { chord: "C", text: "(C) I must tell Jesus!" },
+                    { chord: "C", text: "(C) I must tell (G) Je- (Am) -sus!" },
+                    { chord: "C", text: "(C) Jesus can help me, (G) Jesus (C) alone." },
+                ],
+                [
+                    { chord: "C", text: "(C) I must tell Jesus all of (G) my (Am) troubles;" },
+                    { chord: "C", text: "(C) He is a kind, compassionate (G) friend;" },
+                    { chord: "C", text: "(C) If I but ask Him, He will (G) deli- (Am) -ver," },
+                    { chord: "C", text: "(C) I must tell Jesus!Make of my (G) troubles quickly an (C) end." },
+                ],
+                [
+                    { chord: "C", text: "(C) Tempted and tried, I need a (G) great (Am) Savior," },
+                    { chord: "C", text: "(C) One who can help my burdens to (G) bear;" },
+                    { chord: "C", text: "(C) I must tell Jesus, I must (G) tell (Am) Jesus;" },
+                    { chord: "C", text: "(C) He all my cares and (G) sorrows will (C) share." },
+                ],
+                [
+                    { chord: "C", text: "(C) O how the world to evil (G) allures (Am) me!" },
+                    { chord: "C", text: "(C) O how my heart is tempted to (G) sin!" },
+                    { chord: "C", text: "(C) I must tell Jesus, and He (G) will help (Am) me" },
+                    { chord: "C", text: "(C) Over the world the (G) vict'ry to (C) win." },
+                ],
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "ARE YOU WASHED IN BLOOD?",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bJWgpljckbA?si=PBYkBQQ4oFuVgvDm",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Have you been to Jesus for the cleansing pow’r?" },
+                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Are you fully trusting in His (F) grace this hour?" },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Are you washed in the (F) blood, " },
+                    { chord: "C", text: "(C) In the soul-cleansing (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Are your garments spotless?" },
+                    { chord: "C", text: "(C) Are they (F) white as snow? " },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Are you walking daily by the Savior’s side?" },
+                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Do you rest each moment in (F) the Crucified?" },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) When the Bridegroom cometh, will your robes be white," },
+                    { chord: "C", text: "(C) Pure and white in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Will your soul be ready for the (F) mansions bright" },
+                    { chord: "C", text: "(C) And be washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lay aside the garments that are stained with sin," },
+                    { chord: "C", text: "(C) And be washed in the (D) blood of the (G) Lamb," },
+                    { chord: "C", text: "(C) There’s a fountain flowing for the (F) soul unclean," },
+                    { chord: "C", text: "(C) Oh, be washed in the (G) blood of the (C) Lamb?" }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "WHEN I SEE THE BLOOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/X_HH-I5C4kE?si=TZKkXP6rdV7fpSsO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Christ our redeemer, (F) died on the (C) cross," },
+                    { chord: "F", text: "(F) Died for the sinner, (G) paid all His (C) due;" },
+                    { chord: "C", text: "(C) Sprinkle your soul with the (F) blood of the Lamb," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When I (F) see the (C) blood," },
+                    { chord: "C", text: "(C) When (G) I see (C) the blood," },
+                    { chord: "C", text: "(C) When I see (F) the blood, I will (C) pass," },
+                    { chord: "C", text: "(C) I will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Chiefest of sinners, (F) Jesus will (C) save;" },
+                    { chord: "F", text: "(F) All He has promised, (G) that will He (C) do;" },
+                    { chord: "C", text: "(C) Wash in the fountain (F) opened for (C) sin," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Judgment is coming, (F) all will be (C) there," },
+                    { chord: "F", text: "(F) Each one receiving, (G) justly his (C) due;" },
+                    { chord: "C", text: "(C) Hide in the saving (F) in-cleansings (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, great compassion! (F) O boundless (C) love!;" },
+                    { chord: "F", text: "(F) O loving kindness, (G) faithful and (C) true!;" },
+                    { chord: "C", text: "(C) Find peace and shelter (F) under the (C) blood," },
+                    { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" },
+                    { chord: "C", text: "(C) If that (G) spirit dwell in (C) you." },
+                ]
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "VILLE DE PERLES ET DE LUMIERES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JD8Zc8SffPo?si=IRM2wlLIPyv78LYB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ville de (F) perles et de (C) lumière" },
+                    { chord: "F", text: "(F) Existant sur les (G) hauteurs," },
+                    { chord: "C", text: "(C) Personne n’a encore sur (F) terre" },
+                    { chord: "C", text: "(C) Pu contempler (G) Sa (C) splendeur." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Là, l’Amour de Dieu (C) éclaire," },
+                    { chord: "F", text: "(F) Ce sera l’Agneau (G) Lui-même" },
+                    { chord: "C", text: "(C) Dans cette ville (F) hospitalière" },
+                    { chord: "C", text: "(C) La nouvelle (G) Jérusalem. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) C’est là (F) où la gloire (C) abonde," },
+                    { chord: "F", text: "(F) Où l’arbre de Vie (G) fleurit," },
+                    { chord: "C", text: "(C) Où le fleuve de Vie (F) inonde" },
+                    { chord: "C", text: "(C) De Ses flots (G) ce Saint (C) Abri." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les (F) pèlerins (C) arrivent," },
+                    { chord: "F", text: "(F) Epuisés des grands (G) déserts," },
+                    { chord: "C", text: "(C) Aux fontaines des eaux (F) vives," },
+                    { chord: "C", text: "(C) Quel repos (G) leur est (C) offert." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh ! Quelle (F) joie bientôt sur (C) terre" },
+                    { chord: "F", text: "(F) Quand Jésus sera (G) présent ;" },
+                    { chord: "C", text: "(C) Cette ville aux mille (F) lumières" },
+                    { chord: "C", text: "(C) Y sera (G) éternellement. (C) " }
+                ],
+            ]
+        },
+        // Fin cantiques Dimanche 18 Janvier 2026 (Troisième Dimanche)
+
         // Debut cantiques Dimanche 11 Janvier 2026 (Deuxième Dimanche)
         {
             key: "dim-11-01-2026",
