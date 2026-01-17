@@ -241,6 +241,62 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-18-01-2026",
+            title: "WHAT MANNER OF MAN IS JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KTpzgW89k68?si=z5NugJjaxy0M9J3l",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What manner of man is Jesus (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) What manner of man is Jesus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "THE OLD RUGGED CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5aKbGzQzp30?si=bFo7Klev24LzJZQk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) On a hill far away stood an (F) old rugged (Dm) cross," },
+                    { chord: "G", text: "(G) The emblem of suff'ring and (C) shame;" },
+                    { chord: "C", text: "(C) And I love that old cross where the (F) Dearest and (Dm) Best" },
+                    { chord: "G", text: "(G) For a world of lost sinners was (C) slain." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) So (G) I'll cherish the old rugged (C) cross," },
+                    { chord: "C", text: "(C) Till my (F) trophies at last I lay (C) down;" },
+                    { chord: "C", text: "(C) I will cling to the old rugged (F) cross," },
+                    { chord: "F", text: "(F) And (C) exchange it (G) someday for a (C) crown." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, that old rugged cross, so (F) despised by the (Dm) world," },
+                    { chord: "G", text: "(G) Has a wondrous attraction for (C) me;" },
+                    { chord: "C", text: "(C) For the dear Lamb of God left (F) His glory (Dm) above" },
+                    { chord: "G", text: "(G) To bear it to dark (C) Calvary." },
+                ],
+                [
+                    { chord: "C", text: "(C) In that old rugged cross, stained (F) with blood so (Dm) divine," },
+                    { chord: "G", text: "(G) A wondrous beauty I (F) see," },
+                    { chord: "C", text: "(C) For 'twas on that old cross Jesus (F) suffered and (Dm) died," },
+                    { chord: "G", text: "(G) To pardon and sanctify (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) To the old rugged cross I will (F) ever be (Dm) true;" },
+                    { chord: "G", text: "(G) Its shame and reproach gladly (F) bear;" },
+                    { chord: "C", text: "(C) Then He'll call me someday to (F) my home far (Dm) away," },
+                    { chord: "G", text: "(G) Where His glory forever I'll (C) share." },
+                ]
+            ]
+        },
         // Fin cantiques Dimanche 18 Janvier 2026 (Troisième Dimanche)
 
         // Debut cantiques Dimanche 11 Janvier 2026 (Deuxième Dimanche)
