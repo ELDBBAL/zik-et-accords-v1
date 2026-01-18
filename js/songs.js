@@ -42,30 +42,6 @@ const songs = [
         },
         {
             key: "dim-18-01-2026",
-            title: "NAVIGUANT SUR L'OCEAN",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "C", text: "(C) Navigant sur l’océan de la vie" },
-                    { chord: "C", text: "(C) Les flots peuvent (F) m’entraîner au (C) loin" },
-                    { chord: "C", text: "(C) Mais j’espère voir mon (G) pilote face à face" },
-                    { chord: "G", text: "(G) Oh ! la tempête peut (C) rugir" },
-                    { chord: "C", text: "(C) Sur l’océan déchaîné, (G) Jésus me (C) gardera" }
-                ],
-                [
-                    { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Bientôt, nous arriverons chez nous" },
-                    { chord: "C", text: "(C) Dans (F) cette (G) belle (C) cité" },
-                    { chord: "C", text: "(C) Jésus et son (G) épouse rachetée" },
-                    { chord: "G", text: "(G) Après les combats, (C) tourments, déceptions" },
-                    { chord: "C", text: "(C) Nous arriverons chez (G) nous" },
-                    { chord: "F", text: "(F) Oh  pèlerins, (G) du courage ! (C) " }
-                ]
-            ]
-        },
-        {
-            key: "dim-18-01-2026",
             title: "I MUST TELL JESUS",
             keySignature: "C",
             youtubeLink: "",
@@ -107,41 +83,25 @@ const songs = [
         },
         {
             key: "dim-18-01-2026",
-            title: "ARE YOU WASHED IN BLOOD?",
+            title: "NAVIGUANT SUR L'OCEAN",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/bJWgpljckbA?si=PBYkBQQ4oFuVgvDm",
+            youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Have you been to Jesus for the cleansing pow’r?" },
-                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
-                    { chord: "C", text: "(C) Are you fully trusting in His (F) grace this hour?" },
-                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                    { chord: "C", text: "(C) Navigant sur l’océan de la vie" },
+                    { chord: "C", text: "(C) Les flots peuvent (F) m’entraîner au (C) loin" },
+                    { chord: "C", text: "(C) Mais j’espère voir mon (G) pilote face à face" },
+                    { chord: "G", text: "(G) Oh ! la tempête peut (C) rugir" },
+                    { chord: "C", text: "(C) Sur l’océan déchaîné, (G) Jésus me (C) gardera" }
                 ],
                 [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Are you washed in the (F) blood, " },
-                    { chord: "C", text: "(C) In the soul-cleansing (D) blood of the (G) Lamb?" },
-                    { chord: "C", text: "(C) Are your garments spotless?" },
-                    { chord: "C", text: "(C) Are they (F) white as snow? " },
-                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
-                ],
-                [
-                    { chord: "C", text: "(C) Are you walking daily by the Savior’s side?" },
-                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
-                    { chord: "C", text: "(C) Do you rest each moment in (F) the Crucified?" },
-                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
-                ],
-                [
-                    { chord: "C", text: "(C) When the Bridegroom cometh, will your robes be white," },
-                    { chord: "C", text: "(C) Pure and white in the (D) blood of the (G) Lamb?" },
-                    { chord: "C", text: "(C) Will your soul be ready for the (F) mansions bright" },
-                    { chord: "C", text: "(C) And be washed in the (G) blood of the (C) Lamb?" }
-                ],
-                [
-                    { chord: "C", text: "(C) Lay aside the garments that are stained with sin," },
-                    { chord: "C", text: "(C) And be washed in the (D) blood of the (G) Lamb," },
-                    { chord: "C", text: "(C) There’s a fountain flowing for the (F) soul unclean," },
-                    { chord: "C", text: "(C) Oh, be washed in the (G) blood of the (C) Lamb?" }
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Bientôt, nous arriverons chez nous" },
+                    { chord: "C", text: "(C) Dans (F) cette (G) belle (C) cité" },
+                    { chord: "C", text: "(C) Jésus et son (G) épouse rachetée" },
+                    { chord: "G", text: "(G) Après les combats, (C) tourments, déceptions" },
+                    { chord: "C", text: "(C) Nous arriverons chez (G) nous" },
+                    { chord: "F", text: "(F) Oh  pèlerins, (G) du courage ! (C) " }
                 ]
             ]
         },
@@ -181,6 +141,46 @@ const songs = [
                     { chord: "F", text: "(F) O loving kindness, (G) faithful and (C) true!;" },
                     { chord: "C", text: "(C) Find peace and shelter (F) under the (C) blood," },
                     { chord: "F", text: "(F) And I will (C) pass, will (G) pass over (C) you." }
+                ]
+            ]
+        },
+        {
+            key: "dim-18-01-2026",
+            title: "ARE YOU WASHED IN BLOOD?",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/bJWgpljckbA?si=PBYkBQQ4oFuVgvDm",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Have you been to Jesus for the cleansing pow’r?" },
+                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Are you fully trusting in His (F) grace this hour?" },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Are you washed in the (F) blood, " },
+                    { chord: "C", text: "(C) In the soul-cleansing (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Are your garments spotless?" },
+                    { chord: "C", text: "(C) Are they (F) white as snow? " },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Are you walking daily by the Savior’s side?" },
+                    { chord: "C", text: "(C) Are you washed in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Do you rest each moment in (F) the Crucified?" },
+                    { chord: "C", text: "(C) Are you washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) When the Bridegroom cometh, will your robes be white," },
+                    { chord: "C", text: "(C) Pure and white in the (D) blood of the (G) Lamb?" },
+                    { chord: "C", text: "(C) Will your soul be ready for the (F) mansions bright" },
+                    { chord: "C", text: "(C) And be washed in the (G) blood of the (C) Lamb?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lay aside the garments that are stained with sin," },
+                    { chord: "C", text: "(C) And be washed in the (D) blood of the (G) Lamb," },
+                    { chord: "C", text: "(C) There’s a fountain flowing for the (F) soul unclean," },
+                    { chord: "C", text: "(C) Oh, be washed in the (G) blood of the (C) Lamb?" }
                 ]
             ]
         },
@@ -262,6 +262,42 @@ const songs = [
         //         ],
         //     ]
         // },
+        {
+            key: "dim-18-01-2026",
+            title: "I'M HAPPY TODAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5itJJ44h6k4?si=Y7zf9aNfCOq0ppAp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m happy today," },
+                    { chord: "C", text: "(C) O yes I’m (F) happy today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) happy today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) happy (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m singing today," },
+                    { chord: "C", text: "(C) O yes I’m (F) singing today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) singing today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) singing (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m praying today," },
+                    { chord: "C", text: "(C) O yes I’m (F) praying today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) praying today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) praying (C) today." },
+                ],
+                [
+                    { chord: "C", text: "(C) I’m living today," },
+                    { chord: "C", text: "(C) O yes I’m (F) living today," },
+                    { chord: "C", text: "(C) in Jesus Christ I’m (G) living today," },
+                    { chord: "C", text: "(C) because He’s taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that’s why I’m (G) living (C) today." },
+                ]
+            ]
+        },
         {
             key: "dim-18-01-2026",
             title: "WHAT MANNER OF MAN IS JESUS",
