@@ -1,5 +1,355 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut cantiques Dimanche 25 Janvier 2026 (Quatrième Dimanche)
+        {
+            key: "dim-25-01-2026",
+            title: "IT IS WELL WITH MY SOUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When peace like a river, (F) attendeth (G) my (C) way" },
+                    { chord: "C", text: "(C) When sorrows like (D) sea billows (G) roll" },
+                    { chord: "C", text: "(C) Whatever my (F) lot, thou hast (Dm) taught me to (G) say" },
+                    { chord: "G", text: "(G) It is (C) well, it is (F) well, (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) It is well, it is well" },
+                    { chord: "G", text: "(G) With my (C) soul, with my soul" },
+                    { chord: "C", text: "(C) It is (F) well, it is well (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though Satan should buffet, though (F) trials (G) should (C) come" },
+                    { chord: "C", text: "(C) Let this blest (D) assurance (G) control" },
+                    { chord: "C", text: "(C) That Christ has (F) regarded my (Dm) helpless (G) estate" },
+                    { chord: "G", text: "(G) And hath (C) shed His own (F) blood (G) for my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) My sin, oh, the bliss of this (F) glorious (G) - (C) thought!" },
+                    { chord: "C", text: "(C) My sin, not in (D) part but the (G) whole" },
+                    { chord: "C", text: "(C) Is nailed to the (F) cross, and I (Dm) bear it no (G) more" },
+                    { chord: "G", text: "(G) Praise the (C) Lord, praise the (F) Lord, (G) o my (C) soul!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "WE GIVE ALL THE GLORY TO JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5lzPhJfD18?si=QkJG9uv3S2Xl6J1M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (G) tell of His love His (C) wonderful love" },
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (F) tell of His (G) wonderful (C) love" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "JESUS QUITTA LE TRONE DE SON PERE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ou_uK0iLi5Y?si=l8AWscYa79DTQCtS",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus quitta le trône de son Père" },
+                    { chord: "G", text: "(G) Et descendit ici-bas sur la (C) terre ;" },
+                    { chord: "C", text: "(C) Il accepta la crèche pour berceau." },
+                    { chord: "G", text: "(G) Lui, Roi des rois, le Fils du Dieu Très (C) Haut !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! oui, c'est vrai ! je (F) sais que c'est vrai !" },
+                    { chord: "G", text: "(G) « Il est écrit » : cela suffit (C) !" },
+                    { chord: "C", text: "(C) Que Jésus m'aime ! oh ! (F) bonheur suprême !" },
+                    { chord: "G", text: "(G) La Bible me le (C) dit !" }
+                ],
+                [
+                    { chord: "C", text: "(C) En tous les lieux portant la délivrance," },
+                    { chord: "G", text: "(G) Faisant le bien, guérissant la (C) souffrance," },
+                    { chord: "C", text: "(C) Il pardonnait au pécheur repentant," },
+                    { chord: "G", text: "(G) Il bénissait jusqu'au petit (C) enfant." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il fut cloué sur la croix méprisable," },
+                    { chord: "G", text: "(G) Lui, Juste et Saint, mourut pour moi, (C) coupable." },
+                    { chord: "C", text: "(C) Pour me sauver, son sang fut répandu ;" },
+                    { chord: "G", text: "(G) C'est pourquoi j'aime le Seigneur (C) Jésus !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Plus que Vainqueur il sortit de la tombe," },
+                    { chord: "G", text: "(G) Gloire à l'Agneau, divin Sauveur du (C) monde !" },
+                    { chord: "C", text: "(C) Il règne au ciel, intercède pour moi," },
+                    { chord: "G", text: "(G) Et vient bientôt me chercher : je le (C) crois !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "IN THE NAME OF JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/34g8m5hPTnA?si=S9flvmCnAjflKPxu",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) We have the victory, (G) " },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) Demons will have to (C) flee" },
+                    { chord: "F", text: "(F) When we stand in the (C) Name of Jesus," },
+                    { chord: "G", text: "(G) Tell me who can stand (C) before" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) In the name of Jesus" },
+                    { chord: "C", text: "(C) We have the victory (G)" },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) In the name of Jesus" },
+                    { chord: "G", text: "(G) Demons will have to (C) flee" },
+                    { chord: "F", text: "(F) When we stand in the (C) Name of Jesus," },
+                    { chord: "G", text: "(G) Tell me who can stand (C) before" }
+                ],
+                [
+                    { chord: "C", text: "(C) When I, a poor, lost sinner," },
+                    { chord: "C", text: "(C) Before the Lord did (G) fall," },
+                    { chord: "G", text: "(G) And in the name of Jesus" },
+                    { chord: "G", text: "(G) For pardon loud did (C) call;" },
+                    { chord: "C", text: "(C) He heard my supplication," },
+                    { chord: "C", text: "(C) And soon the weak was (F) strong," }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "COME AND GO WITH ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/yeilvKrnMXM?si=kkix4YtIQgEBpJrk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) To my Father's (G) house, to my Father's (C) house." },
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) To my Father's (G) house, to my Father's (C) house." },
+                    { chord: "C", text: "(C) Come and go with me (F) to my Father's (C) house," },
+                    { chord: "C", text: "(C) There is (Am) joy, (G) joy, (C) joy!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "SEND THE LIGHT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7FfKxJKvH28?si=8XAo_X9l3rJNp02h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a call comes ringing o'er the (G) restless wave," },
+                    { chord: "C", text: "(C) Send the light, send the (G) light," },
+                    { chord: "C", text: "(C) A needy world within the (F) darksome cave" },
+                    { chord: "C", text: "(C) Send the light, send the (G) light." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Send the light, the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine from shore to (C) shore!" },
+                    { chord: "C", text: "(C) Send the light the blessed gospel light;" },
+                    { chord: "C", text: "(C) Let it (G) shine (C) forevermore!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "I'M HAPPY TODAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5itJJ44h6k4?si=Y7zf9aNfCOq0ppAp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm happy today," },
+                    { chord: "C", text: "(C) O yes I'm (F) happy today," },
+                    { chord: "C", text: "(C) in Jesus Christ I'm (G) happy today," },
+                    { chord: "C", text: "(C) because He's taken all my (F) sins away" },
+                    { chord: "F", text: "(F) and (C) that's why I'm (G) happy (C) today." },
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "PAR LA FOI NOUS MARCHERONS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "MON DIEU EST TELLEMENT BON",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " },
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " },
+                    { chord: "C", text: "(C) Glorifions (G) le, Louons Son (C) Nom" },
+                    { chord: "C", text: "(C) Chantons (F) Alléluia," },
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "J'AIME JESUS",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'aime Jésus, J'aime (G) Jésus" },
+                    { chord: "G", text: "(G) J'aime (F) Jésus, Qu'Il soit (G) loué" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mélon Yésu, Mélon (G) Yésu" },
+                    { chord: "G", text: "(G) Mélon (F) Yésu, Wakafui (G) da" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nalingi Yésu, Nalingi (G) Yésu" },
+                    { chord: "G", text: "(G) Nalingi (F) Yésu, Akuman (G) ba" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "L'AMOUR JAMAIS NE PASSERA",
+            keySignature: "C",
+            youtubeLink: "https://www.youtube.com/watch?v=example",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L'amour jamais ne (G) passera," },
+                    { chord: "G", text: "(G) L'amour (F) demeu (C) rera," },
+                    { chord: "C", text: "(C) L'amour, l'amour (G) seul," },
+                    { chord: "G", text: "(G) La charité (F) jamais ne (C) passera," },
+                    { chord: "C", text: "(C) Car (G) Dieu est (C) Amour." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand j'aurais le (G) don de la science," },
+                    { chord: "G", text: "(G) Et connaîtrais (F) tous les (C) mystères," },
+                    { chord: "C", text: "(C) Parlerais-je les (G) langues des anges," },
+                    { chord: "G", text: "(G) Sans (F) amour, je ne (C) suis rien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Si je donnais mes (G) biens en aumône," },
+                    { chord: "G", text: "(G) Si je livrais mon (F) corps aux (C) flammes." },
+                    { chord: "C", text: "(C) Si ma foi déplaçait les (G) montagnes," },
+                    { chord: "G", text: "(G) Sans (F) amour, je ne (C) suis rien." }
+                ],
+                [
+                    { chord: "C", text: "(C) La charité est (G) toujours longanime," },
+                    { chord: "G", text: "(G) Ne tient (F) pas compte du (C) mal." },
+                    { chord: "C", text: "(C) La charité se (G) donne sans cesse," },
+                    { chord: "G", text: "(G) Ne (F) cherche pas son (C) avantage." }
+                ],
+                [
+                    { chord: "C", text: "(C) La charité ne (G) jalouse personne," },
+                    { chord: "G", text: "(G) La charité (F) jamais ne (C) s'irrite." },
+                    { chord: "C", text: "(C) En tout temps elle (G) excuse et espère," },
+                    { chord: "G", text: "(G) La (F) charité supporte (C) tout." }
+                ]
+            ]
+        },
+        {
+            key: "dim-25-01-2026",
+            title: "THE SOLID ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uhVwVHC6_n0?si=GFm_9vOymnNyg0_M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My hope is built on (G) nothing less" },
+                    { chord: "G", text: "(G) Than (F) Jesus Christ, my (C) righteousness;" },
+                    { chord: "C", text: "(C) I dare not trust the (G) sweetest frame," },
+                    { chord: "G", text: "(G) But (F) wholly lean on Jesus' (C) name." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) On Christ, the solid Rock, I (F) stand;" },
+                    { chord: "C", text: "(C) All other ground is (G) sinking sand," },
+                    { chord: "C", text: "(C) All other ground is (F) sinking sand." }
+                ],
+                [
+                    { chord: "C", text: "(C) When darkness veils His (G) lovely face," },
+                    { chord: "G", text: "(G) I (F) rest on His unchanging (C) grace;" },
+                    { chord: "C", text: "(C) In every high and (G) stormy gale," },
+                    { chord: "G", text: "(G) My (F) anchor holds within the (C) veil." }
+                ],
+                [
+                    { chord: "C", text: "(C) His oath, His covenant, His (G) blood," },
+                    { chord: "F", text: "(F) Support me in the (C) whelming flood;" },
+                    { chord: "C", text: "(C) When all around my (G) soul gives way," },
+                    { chord: "F", text: "(F) He then is all my hope and (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) When He shall come with (G) trumpet sound," },
+                    { chord: "F", text: "(F) Oh, may I then in (C) Him be found;" },
+                    { chord: "C", text: "(C) Dressed in His (G) righteousness alone," },
+                    { chord: "F", text: "(F) Faultless to stand before the (C) throne." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 25 Janvier 2026 (Quatrième Dimanche)
+
         // Debut cantiques Dimanche 18 Janvier 2026 (Troisième Dimanche)
         {
             key: "dim-18-01-2026",

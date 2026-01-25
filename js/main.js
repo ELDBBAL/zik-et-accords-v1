@@ -397,6 +397,16 @@ const cantiques = [
         link: "single.html?key=dim-15-09-2024" 
     },
     {
+        date: "25/01",
+        title: "Hymns of 25/01/2026",
+        link: "single.html?key=dim-25-01-2026" 
+    },
+    {
+        date: "18/01",
+        title: "Hymns of 18/01/2026",
+        link: "single.html?key=dim-18-01-2026" 
+    },
+    {
         date: "08/09",
         title: "Hymns of 08/09/2024",
         link: "single.html?key=dim-08-09-2024" 
