@@ -1,5 +1,179 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut cantiques Dimanche 01 Février 2026 (Cinquième Dimanche)
+        {
+            key: "dim-01-02-2026",
+            title: "HE WAS NAILED TO THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tbXyFiG08To?si=Yq44ujb_z3-Zgsmw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He left His heavenly (F) home to (G) die for (C) me," },
+                    { chord: "C", text: "(C) He bore my sins and (D) carried my (G) sorrows," },
+                    { chord: "C", text: "(C) He was despised, (F) rejected, and (Dm) scorned by (G) men," },
+                    { chord: "G", text: "(G) He was nailed to the (C) cross for (F) me." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He was nailed to the cross for (G) me," },
+                    { chord: "F", text: "(F) He was nailed to the (F) cross for (C) me," },
+                    { chord: "C", text: "(C) On the cross crucified, for (F) me He (C) died:" },
+                    { chord: "C", text: "(C) He was nailed to the (G) cross for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Thus He left, His (F) heavenly (G) Glory," },
+                    { chord: "C", text: "(C) To save a wretch, a (D) soul so lost (G) and lonely," },
+                    { chord: "C", text: "(C) He was betrayed, (F) denied and for(Dm)saken," },
+                    { chord: "G", text: "(G) He was nailed to the (C) cross for (F) me." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He was nailed to the cross for (G) me," },
+                    { chord: "F", text: "(F) He was nailed to the (F) cross for (C) me," },
+                    { chord: "C", text: "(C) On the cross crucified, for (F) me He (C) died:" },
+                    { chord: "C", text: "(C) He was nailed to the (G) cross for (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-02-2026",
+            title: "COMME LA COLOMBE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/c4eev63YdbM?si=iRhNeGsFBfYT8jGa",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Comme la colombe (F) qui toujours est (C) pur" },
+                    { chord: "F", text: "(F) Garde (G) moi, Sei (C) gneur" },
+                    { chord: "C", text: "(C) Sur cette terre (F) remplie de (C) souillures" },
+                    { chord: "F", text: "(F) Conduis (G) moi, oh Sei (C) gneur." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Garde moi, (F) Seigneur, (C) garde moi" },
+                    { chord: "F", text: "(F) Dans ce (G) monde (C) hostile" },
+                    { chord: "C", text: "(C) Que je sois (F) comme Toi, (C) Seigneur" },
+                    { chord: "F", text: "(F) Pur et (G) sans (C) tache." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand l'ennemi (F) vient me (C) tenter" },
+                    { chord: "F", text: "(F) Donne (G) moi la (C) force" },
+                    { chord: "C", text: "(C) De résister (F) et de (C) vaincre" },
+                    { chord: "F", text: "(F) Par Ton (G) Esprit, (C) Seigneur." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-02-2026",
+            title: "J'AI RETROUVÉ LA PAIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8Br28FqCdrk?si=yp5TfABZVm-RZTW8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'étais perdu dans (F) mes péchés," },
+                    { chord: "C", text: "(C) Sans espoir et (D) sans avenir (G)" },
+                    { chord: "C", text: "(C) Mais Jésus m'a (F) trouvé et (Dm) sauvé," },
+                    { chord: "G", text: "(G) Il a changé (C) mon cœur." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) J'ai retrouvé la paix qui vient de Toi," },
+                    { chord: "C", text: "(C) J'ai retrouvé la (D) joie de mon (G) salut," },
+                    { chord: "C", text: "(C) J'étais perdu, Tu m'as (F) récupéré," },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m'as tant (C) aimé." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-02-2026",
+            title: "LES 7 TONNERRES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/c4eev63YdbM?si=iRhNeGsFBfYT8jGa",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans les 7 tonnerres, (F) j'ai trouvé (G) ma liberté," },
+                    { chord: "C", text: "(C) Dans les 7 tonnerres, (F) j'ai trouvé (G) la vérité," },
+                    { chord: "C", text: "(C) Jésus Christ est (F) venu me (C) libérer," },
+                    { chord: "G", text: "(G) Par Son sang (C) précieux." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh oui, sans crainte et sans peur je peux marcher" },
+                    { chord: "C", text: "(C) Je peux marcher sur ce chemin de la gloire" },
+                    { chord: "C", text: "(C) Ô la Rédemption est accomplie aujourd'hui" },
+                    { chord: "C", text: "(C) Dans les 7 tonnerres, j'ai trouvé ma liberté." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-02-2026",
+            title: "WHEN THE SAINTS GO MARCHING IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Oh when the saints (F) go marching (C) in" },
+                    { chord: "C", text: "(C) Oh when the saints (D) go marching (G) in" },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) saints go (G) marching (C) in" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-02-2026",
+            title: "WHAT MANNER OF MAN IS JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/KTpzgW89k68?si=z5NugJjaxy0M9J3l",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What manner of man is Jesus (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) What manner of man is Jesus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) He prêches the Word, (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) What manner of man is Jesus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-01-02-2026",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I'm (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I'm onward (F) bound," },
+                    { chord: "F", text: "(F) Lord, plant my (C) feet on (G) higher (C) ground."}
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (F) stand," },
+                    { chord: "F", text: "(F) By faith, on (C) Canaan's (G) tableland;" },
+                    { chord: "G", text: "(G) A higher (C) plane than I have (F) found;" },
+                    { chord: "F", text: "(F) Lord, plant my (C) feet on (G) higher (C) ground." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 01 Février 2026 (Cinquième Dimanche)
+
         // Debut cantiques Dimanche 25 Janvier 2026 (Quatrième Dimanche)
         {
             key: "dim-25-01-2026",
