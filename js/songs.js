@@ -1,7 +1,7 @@
 // songs.js // Liste des cantiques
 const songs = [
         // Debut cantiques Dimanche 08 Février 2026
-                {
+            {
             key: "dim-08-02-2026",
             title: "HOLD TO GOD'S UNCHANGING HAND",
             keySignature: "C",
@@ -142,6 +142,51 @@ const songs = [
         },
         {
             key: "dim-08-02-2026",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-08-02-2026",
             title: "NE CRAINS RIEN JE T'AIME",
             keySignature: "C",
             youtubeLink: "https://youtu.be/8eB4Yae9MFs?si=TyuQk6olAhFaJnP3",
@@ -209,6 +254,29 @@ const songs = [
                     { chord: "C", text: "(C) ô Il m'a racheté (F) " },
                     { chord: "F", text: "(F) Jésus m'a (G) libéré (C) " }
                 ]
+            ]
+        },
+        {
+            key: "dim-08-02-2026",
+            title: "J'AIME JESUS",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'aime Jésus, J'aime (G) Jésus" },
+                    { chord: "G", text: "(G) J'aime (F) Jésus, Qu'Il soit (G) loué" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mélon Yésu, Mélon (G) Yésu" },
+                    { chord: "G", text: "(G) Mélon (F) Yésu, Wakafui (G) da" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nalingi Yésu, Nalingi (G) Yésu" },
+                    { chord: "G", text: "(G) Nalingi (F) Yésu, Akuman (G) ba" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
             ]
         },
         {
