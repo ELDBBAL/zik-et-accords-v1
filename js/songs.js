@@ -1,7 +1,373 @@
 // songs.js // Liste des cantiques
 const songs = [
-        // Debut cantiques Dimanche 08 Février 2026
-            {
+        // Debut cantiques Dimanche 15 Février 2026 (Septième Dimanche)
+        {
+            key: "dim-15-02-2026",
+            title: "WHITER THAN THE SNOW",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/yu6HHBbCN00?si=C2u6Oe8XdToVZI_4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Blessed be the fountain of blood" },
+                    { chord: "C", text: "(C) To a (G) world of sinners revealed" },
+                    { chord: "C", text: "(C) Blessed be the dear Son of God" },
+                    { chord: "C", text: "(C) Only (G) by His stripes we are (C) healed" },
+                    { chord: "F", text: "(F) Tho I've wandered far from His (C) fold" },
+                    { chord: "F", text: "(F) Bringing to my heart pain and (G) woe" },
+                    { chord: "C", text: "(C) Wash me in the blood of the Lamb" },
+                    { chord: "C", text: "(C) And I (G) shall be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Whiter than the (G) snow" },
+                    { chord: "F", text: "(F) Whiter than the (C) snow" },
+                    { chord: "C", text: "(C) Wash me in the blood of the (F) Lamb" },
+                    { chord: "C", text: "(C) And I shall (G) be whiter than (C) snow" },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus par ton sang précieux " },
+                    { chord: "C", text: "(C) Enlève (G) mon iniquité" },
+                    { chord: "C", text: "(C) Regarde-moi du haut des cieux" },
+                    { chord: "C", text: "(C) Dis-moi (G) que Tu m’as (C) pardonné" },
+                    { chord: "F", text: "(F) J’ai longtemps erré coeur (C) rebelle" },
+                    { chord: "F", text: "(F) Mais j’entends Ta voix qui (G) m’appelle" },
+                    { chord: "C", text: "(C) Au pied de Ta croix maintenant" },
+                    { chord: "C", text: "(C) Tout confus, (G) brisé, je me (C) rends." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Blanc, plus blanc que (G) neige " },
+                    { chord: "F", text: "(F) Blanc, plus blanc que (C) neige" },
+                    { chord: "C", text: "(C) Lavé dans le sang de (F) l’Agneau" },
+                    { chord: "C", text: "(C) Je serai plus (G) blanc que la (C) neige" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "ATTIRE-MOI PLUS PRES DE TOI",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon chant de chaque jour," },
+                    { chord: "C", text: "(C) Seigneur attire-moi;" },
+                    { chord: "C", text: "(C) Attire-moi plus près de toi" },
+                    { chord: "C", text: "(C) Plus près de toi ! plus près de toi," },
+                    { chord: "C", text: "(C) Attire-moi plus près de toi" }
+                ],
+                [
+                    { chord: "C", text: "(C) My song every day," },
+                    { chord: "C", text: "(C) O ! Lord draw me nearer;" },
+                    { chord: "C", text: "(C) Draw me nearer, nearer to Thee" },
+                    { chord: "C", text: "(C) Nearer to Thee ! nearer to Thee," },
+                    { chord: "C", text: "(C) Draw me nearer, nearer to Thee" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "NOUS SOMMES UN DANS UN LIEN D'AMOUR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Nous sommes un dans (F) un lien d'a- (C) -mour," },
+                    { chord: "C", text: "(C) Nous sommes un dans un (D) lien d'a- (G) -mour," },
+                    { chord: "C", text: "(C) Notre esprit est uni avec l' (F) Esprit de Dieu," },
+                    { chord: "F", text: "(F) Nous sommes (C) un dans un (G) lien d'a- (C) -mour," },
+                ],
+                [
+                    { chord: "C", text: "(C) Maintenant chantons (F) tous (C) ensemble" },
+                    { chord: "C", text: "(C) Et que son amour (D) se (G) répande," },
+                    { chord: "C", text: "(C) Tenons nous par la main et le (F) monde verra" },
+                    { chord: "F", text: "(F) Que nous sommes (C) un dans un (G) lien d'a- (C) -mour." },
+                ],
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "ONE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/NCt_dRKaz-Y?si=aPlHcbKV_HnKpvbN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One day when heaven was filled with His praises," },
+                    { chord: "C", text: "(C) One day when (G) sin was as black as could (C) be," },
+                    { chord: "C", text: "(C) Jesus came forth to be born of a virgin" },
+                    { chord: "C", text: "(C) Dwelt among (G) men, my example is He!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Living, He loved me; dying, He (C) saved me;" },
+                    { chord: "C", text: "(C) Buried, He (F) carried my sins far (G) away;" },
+                    { chord: "G", text: "(G) Rising, He justified freely (C) forever:" },
+                    { chord: "C", text: "(C) One day He’s (F) coming (G) O glorious (C) day!" }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they led Him up Calvary’s mountain," },
+                    { chord: "C", text: "(C) One day they (G) nailed Him to die on the (C) tree;" },
+                    { chord: "C", text: "(C) Suffering anguish, despised and rejected;" },
+                    { chord: "C", text: "(C) Bearing our (G) sins, my Redeemer is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they left Him alone in the garden," },
+                    { chord: "C", text: "(C) One day He (G) rested, from suffering (C) free;" },
+                    { chord: "C", text: "(C) Angels came down o’er His tomb to keep vigil;" },
+                    { chord: "C", text: "(C) Hope of the (G) hopeless, my Savior is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the grave could conceal Him no longer," },
+                    { chord: "C", text: "(C) One day the (G) stone rolled away from the (C) door;" },
+                    { chord: "C", text: "(C) Then He arose, over death He had conquered;" },
+                    { chord: "C", text: "(C) Now is (G) ascended, my Lord evermore." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the trumpet will sound for His coming," },
+                    { chord: "C", text: "(C) One day the (G) skies with His glory will (C) shine;" },
+                    { chord: "C", text: "(C) Wonderful day, my beloved ones bringing;" },
+                    { chord: "C", text: "(C) Glorious (G) Savior, this Jesus is mine!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "AS THE DEER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jSZWogD0AH4?si=YDFdMyFc3h9FFZSk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) As the deer panteth for the water" },
+                    { chord: "C", text: "(C) So my (F) soul (G) longeth after (C) thee" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) You alone are my (F) strength, my (C) shield" },
+                    { chord: "F", text: "(F) To you alone may my (Dm) spirit (C) yield" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) You’re my Friend and You are my brother" },
+                    { chord: "C", text: "(C) Even (F) though (G) You are a (C) King" },
+                    { chord: "C", text: "(C) I love You more than any other" },
+                    { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
+                    { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) Tu es mon bouclier (F) et ma (C) force" },
+                    { chord: "F", text: "(F) Le Roc sur qui j’ai (Dm) fondé ma (C) vie" },
+                    { chord: "C", text: "(C) Toi seul es le (Am) désir de mon coeur" },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T’adorer (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "AT CALVARY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/aVwBKV_OYBc?si=elPcV5zi-J2fZoSH",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Years I spent in vanity and pride," },
+                    { chord: "G", text: "(G) Caring not my Lord (F) was (C) crucified," },
+                    { chord: "C", text: "(C) Knowing not it was for me He died" },
+                    { chord: "F", text: "(F) On (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Mercy there was great, and grace was (C) free;" },
+                    { chord: "G", text: "(G) Pardon there was multiplied to (C) me;" },
+                    { chord: "F", text: "(F) There my burdened soul found (C) liberty," },
+                    { chord: "F", text: "(F) At (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) By God’s Word at last my sin I learned;" },
+                    { chord: "G", text: "(G) Then I trembled at the law I’d (C) spurned," },
+                    { chord: "C", text: "(C) Till my guilty soul imploring turned" },
+                    { chord: "F", text: "(F) To (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Now I’ve giv’n to Jesus everything," },
+                    { chord: "G", text: "(G) Now I gladly own Him as my (C) King," },
+                    { chord: "C", text: "(C) Now my raptured soul can only sing" },
+                    { chord: "F", text: "(F) Of (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, the love that drew salvation’s plan!" },
+                    { chord: "G", text: "(G) Oh, the grace that brought it down to (C) man!" },
+                    { chord: "C", text: "(C) Oh, the mighty gulf that God did span" },
+                    { chord: "F", text: "(F) At (G) Calvary! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "COMMENT NE POURRAIS-JE TE LOUER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer " },
+                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour (C) moi ?" },
+                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours " },
+                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me (C) combat. " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole " },
+                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint (C) Prophète" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais dans les (F) organisations " },
+                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept (C) Tonnerres " },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie " },
+                    { chord: "F", text: "(F) Tu as (G) compati et m’a (C) guéri" },
+                ],
+                [
+                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation " },
+                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton (C) Saint-Esprit" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les gens parlaient tant mal de (F) moi, " },
+                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul (C) Ami." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut " },
+                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands (C) mystères" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse " },
+                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la (C) grâce" },
+                ],
+                [
+                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté " },
+                    { chord: "F", text: "(F) Et comme David, (G) je veux Te (C) louer." },
+                ],
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "PAR LA FOI NOUS MARCHERONS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-15-02-2026",
+            title: "THERE IS A FOUNTAIN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/z1WRt1Ag5gI?si=SPqCGV5GHQZuG-Xc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There is a fountain (F) filled with (C) blood" },
+                    { chord: "C", text: "(C) Drawn from (D) Immanuel’s (G) veins;" },
+                    { chord: "C", text: "(C) And sinners, plunged (F) beneath that (C) flood," },
+                    { chord: "C", text: "(C) Lose all their (G) guilty (C) stains:" },
+                    { chord: "C", text: "(C) Lose all their guilty (F) stains:" },
+                    { chord: "C", text: "(C) Lose all their (D) guilty (G) stains:" },
+                    { chord: "C", text: "(C) And sinners, plunged (F) beneath that (C) flood," },
+                    { chord: "C", text: "(C) Lose all their (G) guilty (C) stains." }
+                ],
+                [
+                    { chord: "C", text: "(C) The dying thief (F) rejoiced to (C) see" },
+                    { chord: "C", text: "(C) That fountain (D) in his (G) day;" },
+                    { chord: "C", text: "(C) And there may I, though (F) vile as (C) he," },
+                    { chord: "C", text: "(C) Wash all my (G) sins (C) away:" },
+                    { chord: "C", text: "(C) Wash all my sins (F) away:" },
+                    { chord: "C", text: "(C) Wash all my (D) sins (G) away:" },
+                    { chord: "C", text: "(C) And there may I, though (F) vile as (C) he," },
+                    { chord: "C", text: "(C) Wash all my (G) sins (C) away." }
+                ],
+                [
+                    { chord: "C", text: "(C) Dear dying Lamb, (F) Thy precious (C) blood" },
+                    { chord: "C", text: "(C) Shall never (D) lose its (G) power," },
+                    { chord: "C", text: "(C) Till all the ransomed (F) ones of (C) God" },
+                    { chord: "C", text: "(C) Be saved, to (G) sin no (C) more:" },
+                    { chord: "C", text: "(C) Be saved, to sin no (F) more:" },
+                    { chord: "C", text: "(C) Be saved, to (D) sin no (G) more:" },
+                    { chord: "C", text: "(C) Till all the ransomed (F) ones of (C) God" },
+                    { chord: "C", text: "(C) Be saved, to (G) sin no (C) more." }
+                ],
+                [
+                    { chord: "C", text: "(C) E’er since by faith (F) I saw the (C) stream" },
+                    { chord: "C", text: "(C) Thy flowing (D) wounds (G) supply," },
+                    { chord: "C", text: "(C) Redeeming love has (F) been my (C) theme," },
+                    { chord: "C", text: "(C) And shall be (G) till I (C) die:" },
+                    { chord: "C", text: "(C) And shall be till I (F) die:" },
+                    { chord: "C", text: "(C) And shall be (D) till I (G) die:" },
+                    { chord: "C", text: "(C) Redeeming love has (F) been my (C) theme," },
+                    { chord: "C", text: "(C) And shall be (G) till I (C) die." }
+                ],
+                [
+                    { chord: "C", text: "(C) When this poor lisping, (F) stammering (C) tongue" },
+                    { chord: "C", text: "(C) Lies silent (D) in the (G) grave," },
+                    { chord: "C", text: "(C) Then in a nobler, (F) sweeter (C) song," },
+                    { chord: "C", text: "(C) I’ll sing Thy (G) power to (C) save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to (F) save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to (G) save:" },
+                    { chord: "C", text: "(C) Then in a nobler, (F) sweeter (C) song," },
+                    { chord: "C", text: "(C) I’ll sing Thy (G) power to (C) save." }
+                ],
+            ]
+        },
+        // Fin cantiques Dimanche 15 Février 2026 (Septième Dimanche)
+
+        // Debut cantiques Dimanche 08 Février 2026 (Sixième Dimanche)
+        {
             key: "dim-08-02-2026",
             title: "HOLD TO GOD'S UNCHANGING HAND",
             keySignature: "C",
@@ -382,7 +748,8 @@ const songs = [
                 ]
             ]
         },
-        // Fin Cantiques Dimanche 08 Février 2026
+        // Fin Cantiques Dimanche 08 Février 2026 (Sixième Dimanche)
+
         // Debut cantiques Dimanche 01 Février 2026 (Cinquième Dimanche)
         {
             key: "dim-01-02-2026",
