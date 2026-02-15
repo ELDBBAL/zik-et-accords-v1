@@ -51,17 +51,17 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Mon chant de chaque jour," },
-                    { chord: "C", text: "(C) Seigneur attire-moi;" },
-                    { chord: "C", text: "(C) Attire-moi plus près de toi" },
-                    { chord: "C", text: "(C) Plus près de toi ! plus près de toi," },
-                    { chord: "C", text: "(C) Attire-moi plus près de toi" }
+                    { chord: "C", text: "(C) Seigneur attire (G) moi;" },
+                    { chord: "G", text: "(G) Attire (F) moi plus (G) près de (C) toi" },
+                    { chord: "C", text: "(C) Plus près de (F) toi ! plus près de (G) toi," },
+                    { chord: "F", text: "(F) Attire (G) moi plus près de (C) toi" }
                 ],
                 [
                     { chord: "C", text: "(C) My song every day," },
-                    { chord: "C", text: "(C) O ! Lord draw me nearer;" },
-                    { chord: "C", text: "(C) Draw me nearer, nearer to Thee" },
-                    { chord: "C", text: "(C) Nearer to Thee ! nearer to Thee," },
-                    { chord: "C", text: "(C) Draw me nearer, nearer to Thee" }
+                    { chord: "C", text: "(C) O ! Lord draw me (G) nearer;" },
+                    { chord: "G", text: "(G) Draw me (F) nearer, (G) nearer to (C) Thee" },
+                    { chord: "C", text: "(C) Nearer to (F) Thee ! nearer to (G) Thee," },
+                    { chord: "F", text: "(F) Draw me (G) nearer, nearer to (C) Thee" }
                 ]
             ]
         },
@@ -228,81 +228,73 @@ const songs = [
         },
         {
             key: "dim-15-02-2026",
-            title: "COMMENT NE POURRAIS-JE TE LOUER",
+            title: "DANS UN MONDE DURE ET FORT",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/hYHNKdCkcO8?si=jP2s6a7gbYhqde1X",
+            youtubeLink: "https://youtu.be/Je4vSonp8pE?si=9ra_yN22l7dF9im1",
             verses: [
                 [
-                    { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Comment ne pourrai-je Te (F) louer " },
-                    { chord: "F", text: "(F) Pour tout ce que (G) Tu as fait pour (C) moi ?" },
-                    { chord: "C", text: "(C) Tu as toujours été mon (F) secours " },
-                    { chord: "F", text: "(F) Chaque fois que (G) l’ennemi me (C) combat. " },
+                    { chord: "C", text: "(C) J'errais dans un monde dur et froid" },
+                    { chord: "G", text: "(G) Sans savoir que par amour pour (C) moi," },
+                    { chord: "C", text: "(C) Jésus s'était donné sur la croix" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
                 [
-                    { chord: "C", text: "(C) J’étais éloigné de Ta (F) Parole " },
-                    { chord: "F", text: "(F) Tu m’as (G) envoyé ton saint (C) Prophète" },
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) C'est là que mes fardeaux sont (C) tombés," },
+                    { chord: "G", text: "(G) C'est là que Jésus m'a tout (C) donné," },
+                    { chord: "F", text: "(F) Le pardon, la paix, la (C) liberté :" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
                 [
-                    { chord: "C", text: "(C) J’étais dans les (F) organisations " },
-                    { chord: "F", text: "(F) Tu m’as (G) montré les Sept (C) Tonnerres " },
+                    { chord: "C", text: "(C) Ployant sous le poids de mon péché," },
+                    { chord: "G", text: "(G) Redoutant la mort, (C) l'éternité," },
+                    { chord: "C", text: "(C) À Christ enfin j'ai tout confessé" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
                 [
-                    { chord: "C", text: "(C) J’étais terrassé par la (F) maladie " },
-                    { chord: "F", text: "(F) Tu as (G) compati et m’a (C) guéri" },
-                ],
-                [
-                    { chord: "C", text: "(C) J’étais sans aucune (F) consolation " },
-                    { chord: "F", text: "(F) Tu m’as (G) rempli de Ton (C) Saint-Esprit" },
-                ],
-                [
-                    { chord: "C", text: "(C) Quand les gens parlaient tant mal de (F) moi, " },
-                    { chord: "F", text: "(F) J’ai trouvé (G) en Toi mon seul (C) Ami." },
-                ],
-                [
-                    { chord: "C", text: "(C) Je ne connaissais le plan du (F) salut " },
-                    { chord: "F", text: "(F) Tu m’as (G) révélé de grands (C) mystères" },
-                ],
-                [
-                    { chord: "C", text: "(C) Comme Abraham, j’ai reçu la (F) promesse " },
-                    { chord: "F", text: "(F) Comme Marie, (G) j’ai trouvé la (C) grâce" },
-                ],
-                [
-                    { chord: "C", text: "(C) Comme Ruth, je suis (F) racheté " },
-                    { chord: "F", text: "(F) Et comme David, (G) je veux Te (C) louer." },
+                    { chord: "C", text: "(C) Maintenant à Christ j'ai tout donné," },
+                    { chord: "G", text: "(G) Maintenant tout en moi peut (C) chanter" },
+                    { chord: "C", text: "(C) Maintenant la vie a commencé" },
+                    { chord: "F", text: "(F) À (G) Golgotha ! (C) " },
                 ],
             ]
         },
         {
-            key: "dim-15-02-2026",
-            title: "PAR LA FOI NOUS MARCHERONS",
+            key: "dim-05-10-2025",
+            title: "GOD YOU'RE SO GOOD",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            youtubeLink: "https://youtu.be/v-PestNqUCI?si=OpB_h1rfWALdee7k",
             verses: [
                 [
-                    { chord: "C", text: "(C) Celui qui met en Jésus" },
-                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
-                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
-                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                    { chord: "C", text: "(C) God you're so good" },
+                    { chord: "F", text: "(F) God you're (C) God" },
+                    { chord: "C", text: "(C) God you're wonderful (Am) " },
+                    { chord: "Am", text: "(Am) My (F) Lord (G) you're (C) excellent" }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
-                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
-                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
-                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
-                ],
+                    { chord: "C", text: "(C) Excellent is your name" },
+                    { chord: "F", text: "(F) Excellent that you (C) are " },
+                    { chord: "C", text: "(C) God you're wonderful (Am) " },
+                    { chord: "Am", text: "(Am) My (F) Lord (G) you're (C) excellent" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-10-2025",
+            title: "GOD CAN DO IT AGAIN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
                 [
-                    { chord: "C", text: "(C) Quand satan veut te troubler" },
-                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
-                    { chord: "C", text: "(C) Ton passé te reprocher" },
-                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
-                ],
-                [
-                    { chord: "C", text: "(C) Par la foi je marcherai" },
-                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
-                    { chord: "C", text: "(C) Par lui je triompherai" },
-                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                    { chord: "C", text: "(C) God can do it again" },
+                    { chord: "C", text: "(C) Again and (G) again" },
+                    { chord: "G", text: "(G) He is the same (F) God today" },
+                    { chord: "G", text: "(G) As He is always (C) has been" },
+                    { chord: "C", text: "(C) Yesterday and today and" },
+                    { chord: "C", text: "(C) Forever the (G) same" },
+                    { chord: "G", text: "(G) There’s no (F) reason to doubt" },
+                    { chord: "F", text: "(F) God (G) can do it (C) again" },
                 ]
             ]
         },
