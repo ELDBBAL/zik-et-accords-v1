@@ -260,7 +260,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-05-10-2025",
+            key: "dim-15-02-2026",
             title: "GOD YOU'RE SO GOOD",
             keySignature: "C",
             youtubeLink: "https://youtu.be/v-PestNqUCI?si=OpB_h1rfWALdee7k",
@@ -281,7 +281,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-05-10-2025",
+            key: "dim-15-02-2026",
             title: "GOD CAN DO IT AGAIN",
             keySignature: "C",
             youtubeLink: "#",
