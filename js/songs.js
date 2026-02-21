@@ -1,5 +1,43 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 22 Février 2026 (Huitième Dimanche)
+        {
+            key: "dim-22-02-2026",
+            title: "GLOIRE A L'AGNEAU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire à l'Agneau (G) " },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire (G) à l'Agneau (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Car Il est (F) glorieux, (G) et (C) digne de règner ;" },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " },
+                    { chord: "C", text: "(C) Nous (F) élevons, (G) la (C) voix pour l'adorer," },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-23-11-2025",
+            title: "SA FIDELITE DURERA TOUJOURS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZAwAWE7PYO8?si=kflQWenGBlM9WsGg",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il a promis d'être avec moi" },
+                    { chord: "C", text: "(C) Je (G) m'accroche à lui" },
+                    { chord: "G", text: "(G) Je m'accroche à (C) lui" },
+                    { chord: "C", text: "(C) Il a promis d'être avec moi" },
+                    { chord: "C", text: "(C) Sa (F) fidélité (G) durera (C) toujours" },
+                    { chord: "C", text: "(C) Sa (F) fidélité (G) durera (C) toujours" }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 22 Février 2026 (Huitième Dimanche)
+
         // Debut cantiques Dimanche 15 Février 2026 (Septième Dimanche)
         {
             key: "dim-15-02-2026",
