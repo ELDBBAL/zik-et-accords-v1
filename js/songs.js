@@ -154,7 +154,117 @@ const songs = [
                 ]
             ]
         },
-
+        {
+            key: "dim-22-02-2026",
+            title: "DANS MON AME UN BEAU SOLEIL BRILLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pdxaZMWILfY?si=fkTnGjPk1xUjLytP",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans mon âme, un (F) beau (C) soleil brille !" },
+                    { chord: "C", text: "(C) Son rayon doux (D) et (G) joyeux" },
+                    { chord: "C", text: "(C) Répand un (F) éclat (C) qui scintille" },
+                    { chord: "C", text: "(C) C’est le (F) sourire (G) de (C) Dieu" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) O, quel beau (F) soleil dans mon (C) âme !" },
+                    { chord: "C", text: "(C) Il resplendit, (D) illuminant (G) tout" },
+                    { chord: "C", text: "(C) A ses (F) rayons mon (C) cœur s’enflamme" },
+                    { chord: "C", text: "(C) Et je (F) vais (G) partout (C) chantant" },
+                ],
+                [
+                    { chord: "C", text: "(C) Mon cœur était (F) plein (C) de ténèbres" },
+                    { chord: "C", text: "(C) Quand paru un (D) jour (G) nouveau" },
+                    { chord: "C", text: "(C) Au loin (F) fuyez, (C) ombres et ténèbres" },
+                    { chord: "C", text: "(C) Devant (F) un (G) soleil si (C) beau" },
+                ],
+                [
+                    { chord: "C", text: "(C) O, mon cœur (F) déborde (C) de joie !" },
+                    { chord: "C", text: "(C) Mon âme est (D) remplie (G) d’amour" },
+                    { chord: "C", text: "(C) Tous les (F) élus (C) avec le Roi" },
+                    { chord: "C", text: "(C) Le (F) loueront, (G) oui, (C) pour toujours !" },
+                ],
+            ]
+        },        
+        {
+            key: "dim-22-02-2026",
+            title: "TOUT JOYEUX BENISSONS LE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kZc_Pyf5hLI?si=gpZeFAU9FJkZZUTK",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout joyeux (F) bénissons le (C) Seigneur," },
+                    { chord: "C", text: "(C) Chantons et (D) célébrons ses (G) louanges," },
+                    { chord: "C", text: "(C) Adorons avec (F) foi le (C) Sauveur," },
+                    { chord: "C", text: "(C) Nous joignant aux (G) célestes (C) phalanges." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (G) Dieu !" },
+                    { chord: "G", text: "(G) Que ce (F) chant (G) retentisse en tout (C) lieu !" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (F) Dieu !" },
+                    { chord: "F", text: "(F) Que ce (C) chant (G) retentisse en tout (C) lieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu, dans son (F) incomparable (C) amour," },
+                    { chord: "C", text: "(C) Du ciel envoya son (D) Fils (G) unique," },
+                    { chord: "C", text: "(C) Et la terre et les (F) cieux, dans ce (C) jour," },
+                    { chord: "C", text: "(C) S'unissent pour (G) chanter ce (C) cantique" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le châtiment qui (F) produit la (C) paix," },
+                    { chord: "C", text: "(C) Jésus-Christ l'a (D) subi pour mon (G) âme" },
+                    { chord: "C", text: "(C) Il voulut (F) expier nos (C) forfaits," },
+                    { chord: "C", text: "(C) En mourant, lui, (G) sur le bois (C) infâme." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous voulons en (F) retour, bon (C) Sauveur," },
+                    { chord: "C", text: "(C) T'aimer par-dessus (D) tout autre (G) chose ;" },
+                    { chord: "C", text: "(C) Forme ton (F) amour dans notre (C) coeur," },
+                    { chord: "C", text: "(C) Et puis, de (G) chacun de nous, (C) dispose !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-22-02-2026",
+            title: "THE OLD RUGGED CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5aKbGzQzp30?si=bFo7Klev24LzJZQk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) On a hill far away stood an (F) old rugged (Dm) cross," },
+                    { chord: "G", text: "(G) The emblem of suff'ring and (C) shame;" },
+                    { chord: "C", text: "(C) And I love that old cross where the (F) Dearest and (Dm) Best" },
+                    { chord: "G", text: "(G) For a world of lost sinners was (C) slain." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) So (G) I'll cherish the old rugged (C) cross," },
+                    { chord: "C", text: "(C) Till my (F) trophies at last I lay (C) down;" },
+                    { chord: "C", text: "(C) I will cling to the old rugged (F) cross," },
+                    { chord: "F", text: "(F) And (C) exchange it (G) someday for a (C) crown." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, that old rugged cross, so (F) despised by the (Dm) world," },
+                    { chord: "G", text: "(G) Has a wondrous attraction for (C) me;" },
+                    { chord: "C", text: "(C) For the dear Lamb of God left (F) His glory (Dm) above" },
+                    { chord: "G", text: "(G) To bear it to dark (C) Calvary." },
+                ],
+                [
+                    { chord: "C", text: "(C) In that old rugged cross, stained (F) with blood so (Dm) divine," },
+                    { chord: "G", text: "(G) A wondrous beauty I (F) see," },
+                    { chord: "C", text: "(C) For 'twas on that old cross Jesus (F) suffered and (Dm) died," },
+                    { chord: "G", text: "(G) To pardon and sanctify (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) To the old rugged cross I will (F) ever be (Dm) true;" },
+                    { chord: "G", text: "(G) Its shame and reproach gladly (F) bear;" },
+                    { chord: "C", text: "(C) Then He'll call me someday to (F) my home far (Dm) away," },
+                    { chord: "G", text: "(G) Where His glory forever I'll (C) share." },
+                ]
+            ]
+        },
         // Fin Cantiques Dimanche 22 Février 2026 (Huitième Dimanche)
 
         // Debut cantiques Dimanche 15 Février 2026 (Septième Dimanche)
