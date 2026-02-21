@@ -21,7 +21,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-23-11-2025",
+            key: "dim-22-02-2026",
             title: "SA FIDELITE DURERA TOUJOURS",
             keySignature: "C",
             youtubeLink: "https://youtu.be/ZAwAWE7PYO8?si=kflQWenGBlM9WsGg",
@@ -36,6 +36,125 @@ const songs = [
                 ]
             ]
         },
+        {
+            key: "dim-22-02-2026",
+            title: "QUEL JOUR ÇA SERA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/N6wCZ7fTk7k?si=V-2XzUuFusHA6-OC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un jour qui vient," },
+                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
+                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
+                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
+                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
+                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
+                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
+                    { chord: "C", text: "(C) Et je (G) vois de face " },
+                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
+                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
+                    { chord: "C", text: "(C) Me conduit à la terre promise" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
+                    { chord: "C", text: "(C) Ni fardeau à porter," },
+                    { chord: "C", text: "(C) Non plus (G) la maladie," },
+                    { chord: "C", text: "(C) Douleurs et séparation" },
+                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
+                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-02-2026",
+            title: "NOE A BIEN NAVIGUE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LHqCNf62YTU?si=pI_mmzpKhb5uyiC3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Noé a bien (F) navigué, (C) " },
+                    { chord: "C", text: "(C) Sur les eaux plusieurs (F) jours," },
+                    { chord: "F", text: "(F) Il chercha une (G) terre," },
+                    { chord: "G", text: "(G) De plusieurs (C) manières," },
+                    { chord: "C", text: "(C) Des ennuis il en a bien eu," },
+                    { chord: "C", text: "(C) Mais non pas du (F) ciel." },
+                    { chord: "F", text: "(F) Dieu lui donna Son (C) signe," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Sur les ailes d’une colombe" },
+                    { chord: "C", text: "(C) Blanche comme neige" },
+                    { chord: "C", text: "(C) Dieu envoya Son (F) amour doux, pur" },
+                    { chord: "F", text: "(F) Un signe du (C) ciel," },
+                    { chord: "C", text: "(C) Un signe du (G) ciel," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus notre sauveur," },
+                    { chord: "C", text: "(C) Vint un jour sur la (F) terre," },
+                    { chord: "F", text: "(F) Né dans une (G) étable" },
+                    { chord: "G", text: "(G) Dans une crèche de (C) paille," },
+                    { chord: "C", text: "(C) Ici-bas rejeté," },
+                    { chord: "C", text: "(C) Mais non pas du (F) ciel," },
+                    { chord: "F", text: "(F) Dieu nous donna Son (C) signe" },
+                    { chord: "C", text: "(C) Donna Son (G) signe" },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
+                ],
+                [
+                    { chord: "C", text: "(C) Bien qu’ayant beaucoup souffert" },
+                    { chord: "C", text: "(C) De bien des (F) manières" },
+                    { chord: "F", text: "(F) Je criai pour la (G) guérison" },
+                    { chord: "G", text: "(G) La nuit comme le (C) jour," },
+                    { chord: "C", text: "(C) Mais la foi ne fut pas oubliée" },
+                    { chord: "C", text: "(C) Par le Père du (F) ciel" },
+                    { chord: "F", text: "(F) Il me donna Son (C) signe," },
+                    { chord: "C", text: "(C) Donna Son (G) signe," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
+                ],
+            ]
+        },
+        {
+            key: "dim-22-02-2026",
+            title: "MON SEUL APPUI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/DsxGGMIYP3Q?si=ymLroyUuswkYNl4Y",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon seul appui, c’est (F) l’Ami (C) Céleste," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Les ans s’en vont, cet (F) Ami me (C) reste," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Cet Ami connait mes alarmes," },
+                    { chord: "C", text: "(C) Son amour guérit (D) ma douleur; (G) " },
+                    { chord: "C", text: "(C) Sa main essuie (F) toutes mes (C) larmes" },
+                    { chord: "C", text: "(C) Doux (G) Sauveur! Doux (C) Sauveur!" },
+                ],
+                [
+                    { chord: "C", text: "(C) Tout mon désir, c’est (F) de Le (C) connaitre," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Et que sa paix (F) remplisse mon (C) être," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dans le danger, (F) toujours il me (C) garde," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" },
+                    { chord: "C", text: "(C) Dans mes soucis, à (F) Lui je (C) regarde," },
+                    { chord: "C", text: "(C) Jésus (G) seul! Jésus (C) seul!" }
+                ]
+            ]
+        },
+
         // Fin Cantiques Dimanche 22 Février 2026 (Huitième Dimanche)
 
         // Debut cantiques Dimanche 15 Février 2026 (Septième Dimanche)
