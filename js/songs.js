@@ -141,7 +141,7 @@ const songs = [
                 [
                     { chord: "C", text: "(C) Ton amour nous environne" },
                     { chord: "F", text: "(F) O, Seigneur, (C) " },
-                    { chord: "C", text: "(C) Ta gloire resplendit tout (D) comme le soleil (G) " },
+                    { chord: "C", text: "(C) Ta gloire resplendit tout (D) comme le soleil (G)" },
                     { chord: "G", text: "(G) Ton amour nous (C) environne" },
                     { chord: "C", text: "(C) O, Seigneur, (F) " },
                     { chord: "F", text: "(F) C'est pourquoi nous (C) espérons," },
