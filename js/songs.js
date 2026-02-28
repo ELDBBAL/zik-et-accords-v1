@@ -1,5 +1,260 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 01 Mars 2026 (Neuvième Dimanche)
+        {
+            key: "dim-01-03-2026",
+            title: "JUST AS I AM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7lxqhPC1mNA?si=LGqstnGXXpBgGVP7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) without one (C) plea" },
+                    { chord: "G", text: "(G) But that Thy blood was (F) shed for (C) me" },
+                    { chord: "C", text: "(C) And that Thou bid'st me (F) come to Thee" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) though tossed (C) about" },
+                    { chord: "G", text: "(G) With many a conflict, (F) many a (C) doubt" },
+                    { chord: "C", text: "(C) Fighting and fears (F) within without" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) Thou wilt (C) receive" },
+                    { chord: "G", text: "(G) Wilt welcome, pardon, (F) cleanse, (C) relieve" },
+                    { chord: "C", text: "(C) Because Thy (F) promise I believe" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-03-2026",
+            title: "QUEL JOUR DE GLOIRE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Des péchés de ce monde (F) Jésus m’a (C) libéré" },
+                    { chord: "C", text: "(C) Des péchés de ce monde (D) Jésus m’a (G) libéré" },
+                    { chord: "C", text: "(C) Des péchés de ce monde (F) Jésus m’a (C) libéré" },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Quel jour de gloire (F) quand Jésus m’a (C) sauvé," },
+                    { chord: "C", text: "(C) Quel jour de gloire quand (D) Jésus m’a (G) sauvé," },
+                    { chord: "G", text: "(G) Quel jour de (C) gloire quand (F) Jésus m’a (C) sauvé," },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+                [
+                    { chord: "C", text: "(C) Du feu et de l’esprit (F) Jésus m’a (C) baptisé" },
+                    { chord: "C", text: "(C) Du feu et de l’esprit (D) Jésus m’a (G) baptisé" },
+                    { chord: "C", text: "(C) Du feu et de l’esprit (F) Jésus m’a (C) baptisé" },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+                [
+                    { chord: "C", text: "(C) Ce n’est plus moi qui vis (F) c’est la Parole (C) en moi" },
+                    { chord: "C", text: "(C) Ce n’est plus moi qui vis (D) c’est la Parole (G) en moi" },
+                    { chord: "C", text: "(C) Ce n’est plus moi qui vis (F) c’est la Parole (C) en moi" },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+            ]
+        },
+        {
+            key: "dim-01-03-2026",
+            title: "GLORY TO HIS NAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/RL7nM4QnK6M?si=jswrpm2pCCSuksWl",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Down at the cross where my (F) Savior (C) died," },
+                    { chord: "C", text: "(C) Down where for cleansing (D) from sin I (G) cried," },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Glory to his (C) name," },
+                    { chord: "C", text: "(C) Glory (D) to his (G) name;" },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) I am so wondrously (F) saved from (C) sin," },
+                    { chord: "C", text: "(C) Jesus so sweetly (D) abides (G) within;" },
+                    { chord: "C", text: "(C) There at the cross where (F) he took me (C) in;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, precious fountain that (F) saves from (C) sin," },
+                    { chord: "C", text: "(C) I am so glad I (D) have entered (G) in;" },
+                    { chord: "C", text: "(C) There Jesus saves me and (F) keeps me (C) clean;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Come to this fountain so (F) rich and (C) sweet," },
+                    { chord: "C", text: "(C) Cast thy poor soul at (D) the Savior’s (G) feet;" },
+                    { chord: "C", text: "(C) Plunge in today, and be (F) made (C) complete;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-03-2026",
+            title: "IN THE SWEET",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a land that is (F) fairer than (C) day," },
+                    { chord: "C", text: "(C) And by faith we can (D) see it a (G) far," },
+                    { chord: "C", text: "(C) For the Father waits (F) over the (C) way" },
+                    { chord: "C", text: "(C) To prepare us a (G) dwelling place (C) there!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the sweet by and (G) by," },
+                    { chord: "G", text: "(G) We shall (F) meet on that beautiful (C) shore;" },
+                    { chord: "C", text: "(C) In the sweet by and (F) by," },
+                    { chord: "F", text: "(F) We shall (C) meet on that (G) beautiful (C) shore." }
+                ],
+                [
+                    { chord: "C", text: "(C) We shall sing on that (F) beautiful (C) shore" },
+                    { chord: "C", text: "(C) The melodious (D) songs of the (G) blest;" },
+                    { chord: "C", text: "(C) And our spirits (F) shall sorrow no (C) more" },
+                    { chord: "C", text: "(C) Not a sigh for the (G) blessing of (C) rest." }
+                ],
+                [
+                    { chord: "C", text: "(C) To our bountiful (F) Father (C) above" },
+                    { chord: "C", text: "(C) We will offer our (D) tribute of (G) praise" },
+                    { chord: "C", text: "(C) For the glorious (F) gift of His (C) love" },
+                    { chord: "C", text: "(C) And the blessings that (G) hallow our (C) days." }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-03-2026",
+            title: "GLOIRE A TON NOM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/HR0e4WVTw-k?si=Y6aa2m0nnfAqrO3P",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ton amour nous environne" },
+                    { chord: "F", text: "(F) O, Seigneur, (C) " },
+                    { chord: "C", text: "(C) Ta gloire resplendit tout (D) comme le soleil (G) " },
+                    { chord: "G", text: "(G) Ton amour nous (C) environne" },
+                    { chord: "C", text: "(C) O, Seigneur, (F) " },
+                    { chord: "F", text: "(F) C'est pourquoi nous (C) espérons," },
+                    { chord: "G", text: "(G) tous en (C) Toi." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à ton Nom !" },
+                    { chord: "C", text: "(C) O, Seigneur notre (G) Roi" },
+                    { chord: "G", text: "(G) Gloire à ton Nom !" },
+                    { chord: "G", text: "(G) Toi qui nous as (C) sauvés" },
+                    { chord: "C", text: "(C) Gloire à ton Nom !" },
+                    { chord: "C", text: "(C) Toi qui nous aimes (F) tant" },
+                    { chord: "F", text: "(F) C'est pourquoi nous (C) espérons," },
+                    { chord: "G", text: "(G) tous en (C) Toi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Tu n'as exigé de (F) garantie (C) " },
+                    { chord: "C", text: "(C) Avant de manifester (D) cet amour (G) " },
+                    { chord: "G", text: "(G) Ton bras de Père (C) Tu l'as tendu (F) " },
+                    { chord: "F", text: "(F) vers nous" },
+                    { chord: "F", text: "(F) Pour nous (C) arracher du (G) feu de l'enfer (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Tu n'as pas caché à (F) ton Epouse (C) " },
+                    { chord: "C", text: "(C) Les mystères de Dieu sont (D) tous révélés (G) " },
+                    { chord: "G", text: "(G) Nous voyons le (C) 7è sceau ouvert (F) " },
+                    { chord: "F", text: "(F) C'est pourquoi nous (C) attendons (G) le départ. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-03-2026",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-01-03-2026",
+            title: "J'ENTENDS TA DOUCE VOIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/idwuazDrChA?si=y9bYp6d5hKT9YIrj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Jésus, je viens à (C) Toi." },
+                    { chord: "C", text: "(C) Je viens, ô Sauveur, (Am) lave-moi" },
+                    { chord: "Am", text: "(Am) Dans (F) le sang (G) de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus, Roi des (F) rois," },
+                    { chord: "C", text: "(C) Qui (D) mourus pour (G) moi," },
+                    { chord: "C", text: "(C) Je veux mourir avec Toi," },
+                    { chord: "F", text: "(F) Avec (G) Toi sur la (C) Croix." }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Qui me dit : 'Crois en (C) Moi !'" },
+                    { chord: "C", text: "(C) Je crois, Seigneur, soutiens ma (Am) foi," },
+                    { chord: "Am", text: "(Am) Tiens (F) moi (G) près de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Elle pénètre en (C) moi" },
+                    { chord: "C", text: "(C) Et me dit d'aimer comme (Am) Toi." },
+                    { chord: "Am", text: "(Am) De (F) l'amour (G) de la (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Toi qui mourus pour (C) moi," },
+                    { chord: "C", text: "(C) Seigneur, que je m'unisse à (Am) Toi" },
+                    { chord: "Am", text: "(Am) Dans (F) ta (G) mort, par la (C) foi !" }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 01 Mars 2026 (Neuvième Dimanche)
+
         // Debut Cantiques Dimanche 22 Février 2026 (Huitième Dimanche)
         {
             key: "dim-22-02-2026",
