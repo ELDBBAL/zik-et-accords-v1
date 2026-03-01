@@ -29,6 +29,24 @@ const songs = [
         },
         {
             key: "dim-01-03-2026",
+            title: "TU VERRAS LA GLOIRE DE DIEU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je te dits que si tu crois" },
+                    { chord: "C", text: "(C) Tu (F) verras la (G) gloire de (C) Dieu" },
+                    { chord: "C", text: "(C) Je te dits que si tu crois" },
+                    { chord: "C", text: "(C) Tu (F) verras la (G) gloire de (C) Dieu" },
+                    { chord: "C", text: "(C) Tu verras la gloire de (F) Dieu" },
+                    { chord: "F", text: "(F) Tu verras la (G) gloire de (C) Dieu" },
+                    { chord: "C", text: "(C) Je te dits que si tu crois" },
+                    { chord: "C", text: "(C) Tu (F) verras la (G) gloire de (C) Dieu" },
+                ],
+            ]
+        },
+        {
+            key: "dim-01-03-2026",
             title: "QUEL JOUR DE GLOIRE",
             keySignature: "C",
             youtubeLink: "#",
@@ -171,6 +189,31 @@ const songs = [
                     { chord: "G", text: "(G) Nous voyons le (C) 7è sceau ouvert (F) " },
                     { chord: "F", text: "(F) C'est pourquoi nous (C) attendons (G) le départ. (C) " }
                 ]
+            ]
+        },
+        {
+            kkey: "dim-01-03-2026",
+            title: "NON, NON JAMAIS PASSERA",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Non, non jamais passera" },
+                    { chord: "C", text: "(C) La parole de Dieu jamais ne passera" },
+                ],
+                [
+                    { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
+                    { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
+                ],
+                [
+                    { chord: "C", text: "(C) Pourquoi t'accroches-tu à ce qui passera," },
+                    { chord: "C", text: "(C) Vient à Jésus et tu auras la vie." },
+                ],
+                [
+                    { chord: "C", text: "(C) Vers le soir la lumière apparaîtra," },
+                    { chord: "C", text: "(C) Pour emmener la semence à la maturité." },
+                ],
             ]
         },
         {
@@ -2046,27 +2089,6 @@ const songs = [
                 ],
             ]
         },
-        // {
-        //     key: "dim-18-01-2026",
-        //     title: "NON, NON JAMAIS PASSERA",
-        //     keySignature: "C",
-        //     youtubeLink: "#",
-        //     verses: [
-        //         [
-        //             { chord: "", text: "CHORUS:" },
-        //             { chord: "C", text: "(C) Non, non jamais passera" },
-        //             { chord: "C", text: "(C) La parole de Dieu jamais ne passera" },
-        //         ],
-        //         [
-        //             { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
-        //             { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
-        //         ],
-        //         [
-        //             { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
-        //             { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
-        //         ],
-        //     ]
-        // },
         {
             key: "dim-18-01-2026",
             title: "I'M HAPPY TODAY",
