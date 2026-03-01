@@ -191,31 +191,31 @@ const songs = [
                 ]
             ]
         },
-        {
-            kkey: "dim-01-03-2026",
-            title: "NON, NON JAMAIS PASSERA",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Non, non jamais passera" },
-                    { chord: "C", text: "(C) La parole de Dieu jamais ne passera" },
-                ],
-                [
-                    { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
-                    { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
-                ],
-                [
-                    { chord: "C", text: "(C) Pourquoi t'accroches-tu à ce qui passera," },
-                    { chord: "C", text: "(C) Vient à Jésus et tu auras la vie." },
-                ],
-                [
-                    { chord: "C", text: "(C) Vers le soir la lumière apparaîtra," },
-                    { chord: "C", text: "(C) Pour emmener la semence à la maturité." },
-                ],
-            ]
-        },
+        // {
+        //     kkey: "dim-01-03-2026",
+        //     title: "NON, NON JAMAIS PASSERA",
+        //     keySignature: "C",
+        //     youtubeLink: "#",
+        //     verses: [
+        //         [
+        //             { chord: "", text: "CHORUS:" },
+        //             { chord: "C", text: "(C) Non, non jamais passera" },
+        //             { chord: "C", text: "(C) La parole de Dieu jamais ne passera" },
+        //         ],
+        //         [
+        //             { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
+        //             { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
+        //         ],
+        //         [
+        //             { chord: "C", text: "(C) Pourquoi t'accroches-tu à ce qui passera," },
+        //             { chord: "C", text: "(C) Vient à Jésus et tu auras la vie." },
+        //         ],
+        //         [
+        //             { chord: "C", text: "(C) Vers le soir la lumière apparaîtra," },
+        //             { chord: "C", text: "(C) Pour emmener la semence à la maturité." },
+        //         ],
+        //     ]
+        // },
         {
             key: "dim-01-03-2026",
             title: "JESUS M'AIME JE LE SAIS",
