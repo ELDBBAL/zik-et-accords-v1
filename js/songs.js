@@ -1,5 +1,252 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 08 Mars 2026 (Dixième Dimanche)
+        {
+            key: "dim-08-03-2026",
+            title: "CLOSE TO THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8g88DKwJNd8?si=Ksu13--P-_ia7flh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Thou my everlasting portion" },
+                    { chord: "C", text: "(C) More than friend or (D) life to (G) me" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Not for easy wordly pleasure" },
+                    { chord: "C", text: "(C) Nor for fame my (D) prayer shall (G) be" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lead me through the veil of shadows" },
+                    { chord: "C", text: "(C) Bear me o'er (D) life's fitful (G) sea" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-03-2026",
+            title: "A L'OUEST, LE SOLEIL SE COUCHE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/o-rAxDFaVn4?si=lcDT5WGM1uAVceGZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À l’ouest le soleil se (G) couche" },
+                    { chord: "G", text: "(G) Il arrive à la fin de sa (C) course" },
+                    { chord: "C", text: "(C) Et je vois combien ce temps est (G) là," },
+                    { chord: "G", text: "(G) Où sur le temps le soleil se (C) couche." },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) C’est la fin, (G) c’est la fin," },
+                    { chord: "G", text: "(G) C’est la fin de la (C) course" },
+                    { chord: "C", text: "(C) C’est la fin, (G) c’est la fin," },
+                    { chord: "G", text: "(G) C’est la fin de toute (C) chose." },
+                ],
+                [
+                    { chord: "C", text: "(C) Et voici que la lumière du (G) soir" },
+                    { chord: "G", text: "(G) A l’ouest pour moi a (C) paru" },
+                    { chord: "C", text: "(C) Elle manifeste le Fils de (G) l’homme" },
+                    { chord: "G", text: "(G) Et je crois, c’est vrai je le (C) crois." },
+                ],
+                [
+                    { chord: "C", text: "(C) Pèlerin c’est la fin de la (G) course" },
+                    { chord: "G", text: "(G) Il faut vaincre le monde et (C) partir" },
+                    { chord: "C", text: "(C) Attention ! Quelle heure (G) est-il ?" },
+                    { chord: "G", text: "(G) Il faut vaincre le monde et (C) partir." },
+                ],
+            ]
+        },
+        {
+            key: "dim-08-03-2026",
+            title: "POUR MOI CHRÉTIEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_0YjekoO0pU?si=lpeLLqmeUMQ7-R8G",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pour moi Chrétien, la terre est un exil," },
+                    { chord: "C", text: "(C) Mais tout est (G) bien, mais tout est (C) bien." },
+                    { chord: "C", text: "(C) Il faut marcher de péril en péril;" },
+                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
+                    { chord: "C", text: "(C) Pourquoi les (G) pleurs, la (F) terreur ou (C) l’ennui?" },
+                    { chord: "C", text: "(C) Christ est en (G) moi demain (F) comme (C) aujourd’hui;" },
+                    { chord: "C", text: "(C) Au ciel bientôt je serai tout à Lui;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Larmes, travail, deuil, tristesse ici-bas;" },
+                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
+                    { chord: "C", text: "(C) De Canaan j’approche à chaque pas;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
+                    { chord: "C", text: "(C) En vain le monde (G) et son (F) charme (C) trompeur;" },
+                    { chord: "C", text: "(C) Dans ses (G) liens veut (F) retenir mon (C) cœur;" },
+                    { chord: "C", text: "(C) J’avance en paix, les yeux sur mon Sauveur," },
+                    { chord: "F", text: "(F) Oui, tout est bien, oui, tout est bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Encore un jour, et j’atteindrai le but;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
+                    { chord: "C", text: "(C) Et je verrai le pays du salut;" },
+                    { chord: "F", text: "(F) Oui, tout est (G) bien; oui tout est (C) bien." },
+                    { chord: "C", text: "(C) Encore un (G) jour, le (F) monde va (C) passer;" },
+                    { chord: "C", text: "(C) Ô pèlerin, (G) marche (F) sans te (C) lasser:" },
+                    { chord: "C", text: "(C) Bientôt en Dieu tu vas te reposer." },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                ],
+            ]
+        },
+        {
+            key: "dim-08-03-2026",
+            title: "LA TERRE EST VIEILLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tvsaOJmm5Yc?si=n3OaSdZEZKhUh1Ex",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus Christ notre Sauveur" },
+                    { chord: "F", text: "(F) Prépare pour (C) nous " },
+                    { chord: "C", text: "(C) La Cité de la nouvelle (D) Jérusalem. (G) " },
+                    { chord: "C", text: "(C) Jésus Christ notre Sauveur" },
+                    { chord: "F", text: "(F) Prépare pour (C) nous" },
+                    { chord: "Am", text: "(Am) La Cité de la (Dm) nouvelle (G) Jérusalem. (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) La terre est vieille avec (F) ses montagnes, (C) " },
+                    { chord: "C", text: "(C) La terre est vieille, (D) elle n’est plus (G) belle ; " },
+                    { chord: "C", text: "(C) Jésus-Christ notre Sauveur (F) prépare pour (C) nous" },
+                   { chord: "Am", text: "(Am) La Cité de la (Dm) nouvelle (G) Jérusalem. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Annonçons aux habitants" },
+                    { chord: "F", text: "(F) De cette vieille (C) terre" },
+                    { chord: "C", text: "(C) Que bientôt sur les nuées (F) paraîtra (G) Jésus." },
+                    { chord: "C", text: "(C) Annonçons aux habitants" },
+                    { chord: "F", text: "(F) De cette vieille (C) terre" },
+                    { chord: "Am", text: "(Am) Que bientôt sur les (Dm) nuées (G) paraîtra (C) Jésus." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il viendra pour enlever les (F) élus de (C) Dieu," },
+                    { chord: "C", text: "(C) Les condamnés attendront" },
+                    { chord: "D", text: "(D) La fournaise de (G) feu." },
+                    { chord: "C", text: "(C) Il viendra pour enlever les (F) élus de (C) Dieu," },
+                    { chord: "Am", text: "(Am) Les condamnés (Dm) attendront" },
+                    { chord: "G", text: "(G) La fournaise de (C) feu." },
+                ],
+                [
+                    { chord: "C", text: "(C) Nous sommes les pèlerins" },
+                    { chord: "F", text: "(F) Sur cette vieille (C) terre" },
+                    { chord: "C", text: "(C) En attendant le retour de (D) notre Sauveur. (G) " },
+                    { chord: "C", text: "(C) Nous sommes les pèlerins" },
+                    { chord: "F", text: "(F) Sur cette vieille (C) terre" },
+                    { chord: "Am", text: "(Am) En attendant le (Dm) retour de (G) notre Sauveur. (C) " },
+                ],
+            ]
+        },
+        {
+            key: "dim-08-03-2026",
+            title: "WHEN THE SAINTS GO MARCHING IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m a pilgrim and a (F) stranger " },
+                    { chord: "F", text: "(F) Wand’ring (C) through this (D) world of (G) sin," },
+                    { chord: "G", text: "(G) On my (C) way to that fair (F) city," },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, I know I’ll see my (F) Savior" },
+                    { chord: "F", text: "(F) If my (C) life is (D) free from (G) sin," },
+                    { chord: "G", text: "(G) Heaven’s (C) doors will open for (F) me" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) When we gather ‘round the (F) Throne" },
+                    { chord: "F", text: "(F) And the (C) gates are (D) closed (G) within," },
+                    { chord: "G", text: "(G) I’ll (C) be shouting “Glory, (F) Glory” " },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’m waiting for the (F) chariot" },
+                    { chord: "F", text: "(F) To (C) swing low (D) and I’ll (G) step in," },
+                    { chord: "G", text: "(G) On the (C) clouds I’ll ride to (F) Heaven" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        {
+            key: "dim-08-03-2026",
+            title: "LE JOUR DE LA REDEMPTION EST PROCHE",
+            keySignature: "C",
+            youtubeLink: "https://www.youtube.com/watch?v=-zAR9xDeTMU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Les nations se disloquent" },
+                    { chord: "C", text: "(C) Israel se reveille" },
+                    { chord: "C", text: "(C) Les signes que les (D) prophetes (G) predirent" },
+                    { chord: "F", text: "(F) Les jours des gentils comptes" },
+                    { chord: "F", text: "(F) Encombres d'horreur, bientot sera (G) l'Eternite (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Le jour de la rédemption est (C) proche" },
+                    { chord: "C", text: "(C) Les coeurs des hommes sont (D) effrayes (G)" },
+                    { chord: "C", text: "(C) Sois rempli de l'Esprit, ta lampe (F) eclairee" },
+                    { chord: "C", text: "(C) Regarde! Ta (G) rédemption est (C) proche" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le figuier bourgeonne" },
+                    { chord: "C", text: "(C) Jerusalem est restauree" },
+                    { chord: "C", text: "(C) Sa vie nationale, (D) longtemps (G) detronee" },
+                    { chord: "F", text: "(F) Est appelee aujourd'hui, sa derniere pluie tombe" },
+                    { chord: "F", text: "(F) Reviens, O (G) toi dispersee (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Les puissances des cieux" },
+                    { chord: "C", text: "(C) sont toutes ebranlees" },
+                    { chord: "C", text: "(C) Le signe de Dieu (D) parait dans le (G) ciel" },
+                    { chord: "F", text: "(F) L'Eglise est la puissance qui secoue cette heure" },
+                    { chord: "F", text: "(F) Le jour de la (G) rédemption est (C) proche" }
+                ],
+                [
+                    { chord: "C", text: "(C) Les faux prophetes mentent" },
+                    { chord: "C", text: "(C) Ils nient la verite" },
+                    { chord: "C", text: "(C) Que Jesus-Christ (D) est notre (G) Dieu" },
+                    { chord: "F", text: "(F) Ils ont rejete la Revelation" },
+                    { chord: "F", text: "(F) Nous suivons les (G) pas des (C) apotres" }
+                ],
+            ]
+        },
+        // Fin Cantiques Dimanche 08 Mars 2026 (Dixième Dimanche)
+
         // Debut Cantiques Dimanche 01 Mars 2026 (Neuvième Dimanche)
         {
             key: "dim-01-03-2026",
@@ -24907,7 +25154,7 @@ const songs = [
         ]
     },
     {
-        key: "dim-27-10-2024",
+        key: "dim-08-03-2026",
         title: "THE DAY OF REDEMPTION IS NEAR",
         keySignature: "C",
         youtubeLink: "https://youtu.be/hWWKRgFJ_bg?si=YuVuAVP-gSFCHWHf",
@@ -24947,6 +25194,50 @@ const songs = [
                 { chord: "C", text: "(C) That Jesus the (D) Christ is our (G) God" },
                 { chord: "G", text: "(G) Though this generation spurns God's revelation" },
                 { chord: "G", text: "(G) We'll walk where the apostles have trod" }
+            ],
+        ]
+    },
+    {
+        key: "dim-08-03-2026",
+        title: "LE JOUR DE LA REDEMPTION EST PROCHE",
+        keySignature: "C",
+        youtubeLink: "https://www.youtube.com/watch?v=-zAR9xDeTMU",
+        verses: [
+            [
+                { chord: "C", text: "(C) Les nations se disloquent" },
+                { chord: "C", text: "(C) Israel se reveille" },
+                { chord: "G", text: "(G) Les signes que les (D) prophetes (G) predirent" },
+                { chord: "G", text: "(G) Les jours des gentils comptes" },
+                { chord: "G", text: "(G) Encombres d'horreur, bientot sera l'Eternite" }
+            ],
+            [
+                { chord: "C", text: "CHORUS:" },
+                { chord: "F", text: "(F) Le jour de la redemption est (C) proche" },
+                { chord: "C", text: "(C) Les coeurs des hommes sont (D) effrayes de (G) peur" },
+                { chord: "C", text: "(C) Sois rempli de l'Esprit, ta" },
+                { chord: "F", text: "(F) lampe eclairee" },
+                { chord: "C", text: "(C) Regarde! Ta (G) redemption est (C) proche" }
+            ],
+            [
+                { chord: "C", text: "(C) Le figuier bourgeonne" },
+                { chord: "C", text: "(C) Jerusalem est restauree" },
+                { chord: "C", text: "(C) Sa vie nationale, (D) longtemps (G) detronee" },
+                { chord: "G", text: "(G) Est appelee aujourd'hui, sa derniere pluie tombe" },
+                { chord: "G", text: "(G) Reviens, O toi dispersee" }
+            ],
+            [
+                { chord: "C", text: "(C) Les puissances des cieux" },
+                { chord: "C", text: "(C) sont toutes ebranlees" },
+                { chord: "C", text: "(C) Le signe de Dieu (D) parait dans le (G) ciel" },
+                { chord: "G", text: "(G) L'Eglise est la puissance qui secoue cette heure" },
+                { chord: "G", text: "(G) Le jour de la redemption est (C) proche" }
+            ],
+            [
+                { chord: "C", text: "(C) Les faux prophetes mentent" },
+                { chord: "C", text: "(C) Ils nient la verite" },
+                { chord: "C", text: "(C) Que Jesus-Christ (D) est notre (G) Dieu" },
+                { chord: "G", text: "(G) Ils ont rejete la Revelation" },
+                { chord: "G", text: "(G) Nous suivons les pas des apotres" }
             ],
         ]
     },
