@@ -1,5 +1,262 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 15 Mars 2026 (Onzième Dimanche)
+        {
+            key: "dim-15-03-2026",
+            title: "JUST A CLOSER WALK WITH THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/iPmJemdLGf8?si=naRe4Q-0JBtF73FA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I am weak but Thou art (F) strong;" },
+                    { chord: "G", text: "(G) Jesus, keep me from all (C) wrong;" },
+                    { chord: "C", text: "(C) I'll be satisfied as (F) long" },
+                    { chord: "C", text: "(C) As I walk, let me (G) walk close to (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Just a closer walk with (F) Thee" },
+                    { chord: "G", text: "(G) Grant it, Jesus, is my (C) plea," },
+                    { chord: "C", text: "(C) Daily walking close to (F) Thee," },
+                    { chord: "C", text: "(C) Let it be, dear (G) Lord, let it (C) be." }
+                ],
+                [
+                    { chord: "C", text: "(C) Thro' this world of toil and (F) snares" },
+                    { chord: "G", text: "(G) If I falter, Lord, who (C) cares?" },
+                    { chord: "C", text: "(C) Who with me my burden (F) shares?" },
+                    { chord: "C", text: "(C) None but Thee, dear (G) Lord, none but (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "(C) When my feeble life is (F) o'er," },
+                    { chord: "G", text: "(G) Time for me will be no (C) more;" },
+                    { chord: "C", text: "(C) Guide me gently, safely (F) o'er" },
+                    { chord: "C", text: "(C) To Thy kingdom shore, (G) to Thy (C) shore." }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-03-2026",
+            title: "I WILL ENTER IN HIS COURT ",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/CLTBuaj-LCU?si=hEBPRiBjt6lrTvxd",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I will enter in His (F) court" },
+                    { chord: "C", text: "(C) With thanksgiving in my (Am) heart" },
+                    { chord: "C", text: "(C) I will enter His (F) gate with (G) praise" },
+                    { chord: "C", text: "(C) I would sing this is the (F) day" },
+                    { chord: "C", text: "(C) That The Lord has (Am) made" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He makes me (F) glad" },
+                    { chord: "C", text: "(C) He makes me (Am) glad" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad (G) " },
+                    { chord: "C", text: "(C) He makes me (F) glad" },
+                    { chord: "C", text: "(C) He makes me (Am) glad" },
+                    { chord: "F", text: "(F) I would rejoice for (G) Jesus makes me (C) glad" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-03-2026",
+            title: "AS THE DEER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jSZWogD0AH4?si=YDFdMyFc3h9FFZSk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) As the deer panteth for the water" },
+                    { chord: "C", text: "(C) So my (F) soul (G) longeth after (C) thee" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) You alone are my (F) strength, my (C) shield" },
+                    { chord: "F", text: "(F) To you alone may my (Dm) spirit (C) yield" },
+                    { chord: "C", text: "(C) You alone are my heart’s desire" },
+                    { chord: "C", text: "(C) And I (F) long to (G) worship (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) You’re my Friend and You are my brother" },
+                    { chord: "C", text: "(C) Even (F) though (G) You are a (C) King" },
+                    { chord: "C", text: "(C) I love You more than any other" },
+                    { chord: "C", text: "(C) So much (F) more (G) than (C) anything" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon âme (Am) soupire après Toi" },
+                    { chord: "C", text: "(Am) Et mon (F) esprit en (G) moi Te (C) cherche" },
+                    { chord: "C", text: "(C) Toi seul est le (Am) désir De mon coeur " },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T'adorer (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "Am", text: "(Am) Tu es mon bouclier (F) et ma (C) force" },
+                    { chord: "F", text: "(F) Le Roc sur qui j’ai (Dm) fondé ma (C) vie" },
+                    { chord: "C", text: "(C) Toi seul es le (Am) désir de mon coeur" },
+                    { chord: "Am", text: "(Am) Et je (F) vis pour (G) T’adorer (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-03-2026",
+            title: "THE LILY OF THE VALLEY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8JBVM6fdD0c?si=bVO0XV1sr3THcgfT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I have found a friend in Jesus," },
+                    { chord: "C", text: "(C) He's (F) ev'rything to (C) me," },
+                    { chord: "C", text: "(C) He's the fairest of ten (D) thousand to my (G) soul;" },
+                    { chord: "C", text: "(C) The 'Lily of the Valley', in (F) Him alone I (C) see," },
+                    { chord: "C", text: "(C) all I (Am) need to cleanse and (G) make me fully (C) whole." },
+                    { chord: "C", text: "(C) In (F) sorrow He's my comfort, in (C) trouble He's my stay," },
+                    { chord: "C", text: "(C) He tells me ev'ry (D) care on Him to (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He all my grief has taken, and (F) all my sorrows (C) borne," },
+                    { chord: "C", text: "(C) In temptation He's my (D) strong and mighty (G) tow'r;" },
+                    { chord: "C", text: "(C) I have all for Him forsaken, and (F) all my idols (C) torn" },
+                    { chord: "C", text: "(C) From my (Am) heart, and now He (G) keeps me by His (C) pow'r." },
+                    { chord: "C", text: "(C) Though (F) all the world forsake me, and Satan tempt me (C) sore," },
+                    { chord: "C", text: "(C) through Jesus I shall (D) safely reach the (G) goal;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He will never, never leave me, nor (F) yet forsake me (C) here," },
+                    { chord: "C", text: "(C) while I live by faith and (D) do His blessed (G) will;" },
+                    { chord: "C", text: "(C) A wall of fire about me, I've (F) nothing now to (C) fear," },
+                    { chord: "C", text: "(C) With His (Am) manna He my hungry (G) soul shall (C) fill." },
+                    { chord: "C", text: "(C) Then (F) sweeping up to glory, to see His blessed (C) face," },
+                    { chord: "C", text: "(C) Where rivers of (D) delight shall ever (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+            ]
+        },
+        {
+            key: "dim-15-03-2026",
+            title: "IL M'A FAIT GRACE INFINIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Uo83A2e0VLA?si=Vpkk3rUD6-Y_c0cn",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m'a fait grâce infinie" },
+                    { chord: "G", text: "(G) celui-là est (C) mon rocher" },
+                    { chord: "C", text: "(C) Il m'a fait grâce infinie" },
+                    { chord: "F", text: "(F) Jésus m'a (G) libéré (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il m'a libéré," },
+                    { chord: "C", text: "(C) ô Il m'a libéré (G) " },
+                    { chord: "G", text: "(G) O Il m'a pardonné, (C)" },
+                    { chord: "C", text: "(C) ô Il m'a racheté (F) " },
+                    { chord: "F", text: "(F) Jésus m'a (G) libéré (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-03-2026",
+            title: "I HAVE DECIDED TO FOLLOW JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/L7XHeCZB5KU?si=33tM4JC8vZwdFZXW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I have decided to follow Jesus;" },
+                    { chord: "C", text: "(C) I have (F) decided to follow (C) Jesus;" },
+                    { chord: "C", text: "(C) I have decided to follow (C) / (Em) / (Am)  Jesus;" },
+                    { chord: "F", text: "(F) No turning back, (G) no turning (C) back." }
+                ],
+                [
+                    { chord: "C", text: "(C) The cross before me, the world behind me;" },
+                    { chord: "C", text: "(C) The cross (F) before me, the world (C) behind me;" },
+                    { chord: "C", text: "(C) The cross before me, the world (C) / (Em) / (Am) behind me;" },
+                    { chord: "F", text: "(F) No turning back, (G) no turning (C) back." }
+                ],
+                [
+                    { chord: "C", text: "(C) Take this whole world, but give me Jesus" },
+                    { chord: "C", text: "(C) Take this (F) whole world, but give me (C) Jesus" },
+                    { chord: "C", text: "(C) Take this whole world, but give me (C) / (Em) / (Am) Jesus" },
+                    { chord: "F", text: "(F) I won't turn back, (G) I won't turn (C) back" }
+                ],
+                [
+                    { chord: "C", text: "(C) I have started for the kingdom" },
+                    { chord: "C", text: "(C) I have (F) started for the (C) kingdom" },
+                    { chord: "C", text: "(C) I have started for the (C) / (Em) / (Am) kingdom" },
+                    { chord: "F", text: "(F) I won't turn back, (G) I won't turn (C) back" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though none go with me, still will I follow" },
+                    { chord: "C", text: "(C) Though none (F) go with me, still will I (C) follow" },
+                    { chord: "C", text: "(C) Though none go with me, still will I (C) / (Em) / (Am) follow" },
+                    { chord: "F", text: "(F) No turning back, (G) no turning (C) back." }
+                ],
+            ]
+        },
+        {
+            key: "dim-15-03-2026",
+            title: "THIS IS THE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cccJhMVFrLs?si=RHUXX4nAUJ205neC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (G) lord has made, that the lord has made" },
+                    { chord: "G", text: "(G) I will rejoice, I will rejoice" },
+                    { chord: "G", text: "(G) And be (C) glad in it, and be glad in it" },
+                    { chord: "F", text: "(F) This is the day that the (C) lord has made" },
+                    { chord: "F", text: "(F) I will rejoice and be (C) glad in it" },
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (F) lord (G) has (C) made" }
+                ]
+            ]
+        },
+        {
+            key: "dim-15-03-2026",
+            title: "THERE'S NO DISAPPOINTMENT IN HEAVEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There’s no disappointment in heaven," },
+                    { chord: "C", text: "(C) No (G) weariness, sorrow or (C) pain;" },
+                    { chord: "C", text: "(C) No hearts that are bleeding and broken," },
+                    { chord: "C", text: "(C) No (G) song with a minor (C) refrain." },
+                    { chord: "C", text: "(C) The (F) clouds of our earthly (C) horizon" },
+                    { chord: "C", text: "(C) Will (G) never appear in the (C) sky, " },
+                    { chord: "C", text: "(C) For (F) all will be sunshine and (C) gladness," },
+                    { chord: "C", text: "(C) With (G) never a sob nor a (C) sigh." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’m bound for that beautiful city" },
+                    { chord: "C", text: "(C) My Lord has prepared for His (G) own;" },
+                    { chord: "G", text: "(G) Where all the redeemed of all ages" },
+                    { chord: "G", text: "(G) Sing “Glory!” around the white (C) throne;" },
+                    { chord: "C", text: "(C) Sometimes I grow homesick for heaven," },
+                    { chord: "C", text: "(C) And the glories I there shall (F) behold;" },
+                    { chord: "F", text: "(F) What a joy that will be when my (C) Savior I (F) see," },
+                    { chord: "F", text: "(F) In (C) that beautiful (G) city of (C) gold!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We’ll never pay rent for our mansion, " },
+                    { chord: "C", text: "(C) The (G) taxes will never come (C) due;" },
+                    { chord: "C", text: "(C) Our garments will never grow threadbare, " },
+                    { chord: "C", text: "(C) But (G) always be fadeless and (C) new" },
+                    { chord: "C", text: "(C) We’ll (F) never be hungry nor (C) thirsty" },
+                    { chord: "C", text: "(C) Nor (G) languish in poverty (C) there." },
+                    { chord: "C", text: "(C) For (F) all the rich bounties of (C) heaven" },
+                    { chord: "C", text: "(C) His (G) sanctified children will (C) share." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 15 Mars 2026 (Onzième Dimanche)
+
         // Debut Cantiques Dimanche 08 Mars 2026 (Dixième Dimanche)
         {
             key: "dim-08-03-2026",
