@@ -1,5 +1,241 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 22 Mars 2026 (Douzième Dimanche)
+        {
+            key: "dim-22-03-2026",
+            title: "HOLY, HOLY, HOLY",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Holy, Holy, Holy, Lord God of hosts.;" },
+                    { chord: "G", text: "(G) Heaven and earth are full of Thee," },
+                    { chord: "C", text: "(C) Heaven and earth are praising Thee," },
+                    { chord: "C", text: "(C) O Lord Most High." }
+                ],
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "NUL N'EST SAINT COMME L'ETERNEL",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Nul n’est Saint comme l’Éternel," },
+                    { chord: "G", text: "(G) Il n’y a point d’autre que Lui." },
+                    { chord: "C", text: "(C) Il n’y a point de rocher comme notre Dieu" },
+                    { chord: "C", text: "(C) Nul n’est Saint comme l’Éternel." }
+                ],
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "L'AMOUR DE DIEU EST SI MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tct5CcZy5uo?si=xLu4_KysAPC6v3Yp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "G", text: "(G) L'amour de Dieu est si merveilleux" },
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" },
+                    { chord: "C", text: "(C) Comment il est ?" },
+                    { chord: "C", text: "(C) Il est si haut qu'on ne peut le surmonter" },
+                    { chord: "G", text: "(G) Il est si bas qu'on ne peut le renverser" },
+                    { chord: "C", text: "(C) Il est si large qu'on ne peut le contourner" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "SI RICHE, SI PROFOND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/EZ0j2sBJ-9A?si=jfEMCvQvTo29ADym",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Si riche, si profond Insondable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi" },
+                    { chord: "F", text: "(F) Indigne sauvé par (G) grâce. " },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi " },
+                    { chord: "F", text: "(F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Immuable, incomparable Inexprimable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Comme c’est beau, comme c’est doux " },
+                    { chord: "C", text: "(C) De fredonner de l’agneau Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "CHANTONS EBENEZER",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Chantons Ebenezer," },
+                    { chord: "C", text: "(C) La grâce (D) infinie de (G) Dieu," },
+                    { chord: "C", text: "(C) Souviens-toi de l'amour (F) de Dieu" },
+                    { chord: "F", text: "(F) Et (C) béni le (G) Roi des (C) Rois" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Eben - (F) ezer," },
+                    { chord: "F", text: "(F) La (C) grâce (D) infinie de (G) Dieu," },
+                    { chord: "C", text: "(C) Souviens-toi de l'amour (F) de Dieu" },
+                    { chord: "F", text: "(F) Et (C) béni le (G) Roi des (C) Rois" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "IL A FAIT POUR MOI CE QU'UN HOMME NE PEUT FAIRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oxM5Jb2v0ZU?si=D1B0icFA3OzwG1w9",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il m'a donné la vie," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) vie," },
+                    { chord: "C", text: "(C) Il m'a donné la joie," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) joie," },
+                    { chord: "C", text: "(C) Il m'a donné la paix, " },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) paix, " },
+                    { chord: "C", text: "(C) Ce qu'un homme ne peut faire" },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que mes amis ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que les enfants ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que le monde ne peut faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Il m'a libéré," },
+                    { chord: "F", text: "(F) Il m'a (G) libéré, (C) " },
+                    { chord: "C", text: "(C) Il m'a donné la paix," },
+                    { chord: "F", text: "(F) Il m'a (G) donné la (C) paix," },
+                    { chord: "C", text: "(C) Ce qu'un homme ne peut faire" },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que mes amis ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que les enfants ne peuvent faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Ce que le monde ne peut faire," },
+                    { chord: "F", text: "(F) Il l'a (G) fait pour (C) moi" },
+                    { chord: "C", text: "(C) Allé, Alléluia" },
+                    { chord: "F", text: "(F) Allé, (G) Allé -(C)- luia" },
+                ],
+            ]
+        },
+        {
+            key: "dim-22-03-2026",
+            title: "A LA CROIX, AU PIEDS DU MAITRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/a5l8PP2E7nw?si=y0Tlt9X_0FXVArqY",
+            verses: [
+                [
+                    { chord: "C", text: "(C) À la croix aux pieds du (G) Maître," },
+                    { chord: "G", text: "(G) À genoux, (F) j’ai (G) fait mon (C) choix." },
+                    { chord: "C", text: "(C) Son disciple je veux (G) être" },
+                    { chord: "G", text: "(G) Tout près (F) de (G) Lui par la (C) foi." },
+                    { chord: "F", text: "(F) Brebis de Sa bergerie, (C) " },
+                    { chord: "C", text: "(C) Nul ne m’ôte (D) de Sa (G) main" },
+                    { chord: "C", text: "(C) Sur les monts dans les (G) prairies," },
+                    { chord: "G", text: "(G) Oui, mon (F) bonheur (G) est (C) divin." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) À la croix aux pieds du (G) Maître," },
+                    { chord: "G", text: "(G) À genoux, (F) j’ai (G) fait mon (C) choix." },
+                    { chord: "C", text: "(C) Son disciple je veux (G) être" },
+                    { chord: "G", text: "(G) Tout près (F) de (G) Lui par la (C) foi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Depuis lors, ô choix (G) splendide," },
+                    { chord: "G", text: "(G) La joie (F) demeure (G) dans mon (C) cœur." },
+                    { chord: "C", text: "(C) Adieu les soucis (G) perfides," },
+                    { chord: "G", text: "(G) Par Jésus (F) je (G) suis (C) vainqueur." },
+                    { chord: "F", text: "(F) Adieu vaines convoitises (C) " },
+                    { chord: "C", text: "(C) Du monde (D) qui me (G) tenta" },
+                    { chord: "C", text: "(C) J’ai trouvé la paix (G) promise" },
+                    { chord: "G", text: "(G) Dans le (F) sang (G) de (C) Golgotha." },
+                ],
+                [
+                    { chord: "C", text: "(C) Bientôt ma tâche (G) accomplie" },
+                    { chord: "G", text: "(G) J’entrerai (F) tout (G) droit au (C) port" },
+                    { chord: "C", text: "(C) Où m’attend, douce (G) patrie," },
+                    { chord: "G", text: "(G) Le Grand (F) Vainqueur (G) de la (C) mort." },
+                    { chord: "F", text: "(F) Là je chanterai Ta gloire, (C) " },
+                    { chord: "C", text: "(C) Ô Toi qui (D) m’as tant (G) aimé" },
+                    { chord: "C", text: "(C) Et dont l’œuvre (G) expiatoire" },
+                    { chord: "G", text: "(G) Pour (F) toujours (G) m’a (C) racheté." },
+                ],
+            ]
+        },
+        // Fin Cantiques Dimanche 22 Mars 2026 (Douzième Dimanche)
+
         // Debut Cantiques Dimanche 15 Mars 2026 (Onzième Dimanche)
         {
             key: "dim-15-03-2026",
