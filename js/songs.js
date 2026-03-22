@@ -25,9 +25,9 @@ const songs = [
             verses: [
                 [
                     { chord: "C", text: "(C) Nul n’est Saint comme l’Éternel," },
-                    { chord: "G", text: "(G) Il n’y a point d’autre que Lui." },
-                    { chord: "C", text: "(C) Il n’y a point de rocher comme notre Dieu" },
-                    { chord: "C", text: "(C) Nul n’est Saint comme l’Éternel." }
+                    { chord: "C", text: "(C) Il n’y a point d’autre que Lui." },
+                    { chord: "C", text: "(C) Il n’y a point de rocher comme notre (F) Dieu" },
+                    { chord: "F", text: "(F) Nul n’est (C) Saint (G) comme (C) l’Éternel." }
                 ],
             ]
         },
