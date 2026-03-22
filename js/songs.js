@@ -8,10 +8,12 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Holy, Holy, Holy, Lord God of hosts.;" },
-                    { chord: "G", text: "(G) Heaven and earth are full of Thee," },
-                    { chord: "C", text: "(C) Heaven and earth are praising Thee," },
-                    { chord: "C", text: "(C) O Lord Most High." }
+                    { chord: "C", text: "(C) Holy, Holy, Holy, (F) Holy," },
+                    { chord: "F", text: "(F) Holy, Holy, (C) Holy," },
+                    { chord: "C", text: "(C) Holy is the (G) Lord" },
+                    { chord: "C", text: "(C) Holy, Holy, Holy, (F) Holy," },
+                    { chord: "F", text: "(F) Holy, Holy, (C) Holy," },
+                    { chord: "G", text: "(G) Holy is the (C) Lord" }
                 ],
             ]
         },
