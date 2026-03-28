@@ -1,5 +1,255 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 29 Mars 2026 (Treizième Dimanche)
+        {
+            key: "dim-29-03-2026",
+            title: "IT IS WELL WITH MY SOUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When peace like a river, (F) attendeth (G) my (C) way" },
+                    { chord: "C", text: "(C) When sorrows like (D) sea billows (G) roll" },
+                    { chord: "C", text: "(C) Whatever my (F) lot, thou hast (Dm) taught me to (G) say" },
+                    { chord: "G", text: "(G) It is (C) well, it is (F) well, (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) It is well, it is well" },
+                    { chord: "G", text: "(G) With my (C) soul, with my soul" },
+                    { chord: "C", text: "(C) It is (F) well, it is well (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though Satan should buffet, though (F) trials (G) should (C) come" },
+                    { chord: "C", text: "(C) Let this blest (D) assurance (G) control" },
+                    { chord: "C", text: "(C) That Christ has (F) regarded my (Dm) helpless (G) estate" },
+                    { chord: "G", text: "(G) And hath (C) shed His own (F) blood (G) for my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) My sin, oh, the bliss of this (F) glorious (G) - (C) thought!" },
+                    { chord: "C", text: "(C) My sin, not in (D) part but the (G) whole" },
+                    { chord: "C", text: "(C) Is nailed to the (F) cross, and I (Dm) bear it no (G) more" },
+                    { chord: "G", text: "(G) Praise the (C) Lord, praise the (F) Lord, (G) o my (C) soul!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-29-03-2026",
+            title: "COMBIEN IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Sz1eFeV7O84?si=oYlXPk2aG_VbajYU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ecoute ô ciel et tout (F) ce que tu as" },
+                    { chord: "C", text: "(C) Combien Jésus-Christ est (D) riche en (G) bonté." },
+                    { chord: "C", text: "(C) Et toi terre des hommes et (F) bétail des champs" },
+                    { chord: "C", text: "(C) O louez-le (G) car Il est (C) bon." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Combien Il est bon" },
+                    { chord: "F", text: "(F) Combien Il est bon" },
+                    { chord: "C", text: "(C) Combien Il est bon" },
+                    { chord: "G", text: "(G) Mon Seigneur, mon Dieu" },
+                    { chord: "C", text: "(C) Combien Il est bon, (F) Alléluia," },
+                    { chord: "C", text: "(C) Oui je le (G) louerai (C) toujours." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il nous a créés pour la (F) Vie éternelle" },
+                    { chord: "C", text: "(C) Mais nous avons péché et (D) avons tout (G) perdu" },
+                    { chord: "C", text: "(C) Mais dans Sa bonté Il (F) se décida" },
+                    { chord: "C", text: "(C) De nous (G) ramener à la (C) vie." }
+                ],
+                [
+                    { chord: "C", text: "(C) Et comme un Agneau, Il (F) vint ici-bas" },
+                    { chord: "C", text: "(C) Et versa Son sang (D) pour nous (G) racheter" },
+                    { chord: "C", text: "(C) Et depuis ce jour-là, nous (F) pouvons crier :" },
+                    { chord: "C", text: "(C) « O mort, (G) où est ton (C) aiguillon ? »" }
+                ],
+                [
+                    { chord: "C", text: "(C) Pareil à un aigle,Il (F) veille sur nous." },
+                    { chord: "C", text: "(C) Il voit nos besoins, nul (D) n'est en (G) danger." },
+                    { chord: "C", text: "(C) Ainsi chaque jour, il (F) lance ce cri :" },
+                    { chord: "C", text: "(C) « Ne craignez (G) rien car Je suis (C) là. »" }
+                ],
+                [
+                    { chord: "C", text: "(C) Et comme une poule entoure (F) ses poussins" },
+                    { chord: "C", text: "(C) Jésus nous entoure et (D) prend soin de (G) nous" },
+                    { chord: "C", text: "(C) D'où viendra l'orage qu'il (F) saura calmer" },
+                    { chord: "C", text: "(C) Nous sommes (G) plus qu'en (C) sécurité." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je loue et j'adore mon (F) Seigneur Jésus" },
+                    { chord: "C", text: "(C) Pour tout ce qu'Il ne (D) cesse de faire (G) pour moi" },
+                    { chord: "C", text: "(C) Oh, je ne puis compter Ses (F) nombreux bienfaits," },
+                    { chord: "C", text: "(C) Oh combien (G) je vais (C) l'adorer!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-29-03-2026",
+            title: "NAVIGUANT SUR L'OCEAN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Navigant sur l’océan de la vie" },
+                    { chord: "C", text: "(C) Les flots peuvent (F) m’entraîner au (C) loin" },
+                    { chord: "C", text: "(C) Mais j’espère voir mon (G) pilote face à face" },
+                    { chord: "G", text: "(G) Oh ! la tempête peut (C) rugir" },
+                    { chord: "C", text: "(C) Sur l’océan déchaîné, (G) Jésus me (C) gardera" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Bientôt, nous arriverons chez nous" },
+                    { chord: "C", text: "(C) Dans (F) cette (G) belle (C) cité" },
+                    { chord: "C", text: "(C) Jésus et son (G) épouse rachetée" },
+                    { chord: "G", text: "(G) Après les combats, (C) tourments, déceptions" },
+                    { chord: "C", text: "(C) Nous arriverons chez (G) nous" },
+                    { chord: "F", text: "(F) Oh  pèlerins, (G) du courage ! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-29-03-2026",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-29-03-2026",
+            title: "LA LOUANGE APPARTIENT A DIEU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La louange appartient à (G) Dieu" },
+                    { chord: "G", text: "(G) La louange appartient à (C) Dieu" },
+                    { chord: "C", text: "(C) La louange appartient à (F) Dieu" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Merci, merci, (G) merci Oh Seigneur" },
+                    { chord: "G", text: "(G) Merci, merci, (C) merci Oh mon Roi" },
+                    { chord: "C", text: "(C) Merci, merci, (F) merci Oh Seigneur" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-29-03-2026",
+            title: "JE NE MOURRAI PAS LA SECONDE MORT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je ne mourrai pas la seconde mort," },
+                    { chord: "C", text: "(C) Ma vie (F) est cachée (G) en (C) Jésus" },
+                    { chord: "C", text: "(C) Il m’a donné la vie, (F) Il m'a (G) donné la (C) vie" },
+                    { chord: "C", text: "(C) Ce que personne ne peut (F) faire, Il l’a (G) fait pour (C) moi." },
+                ]
+            ]
+        },
+        {
+            key: "dim-29-03-2026",
+            title: "IL N’Y A PERSONNE QUI SOIT COMME JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LT39rNlpr4g?si=f-HYxhyBvpY2pZGy",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (G) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ],
+                [
+                    { chord: "C", text: "(C) J’ai longtemps marché" },
+                    { chord: "C", text: "(C) marché marché (F) personne personne" },
+                    { chord: "C", text: "(C) J’ai tourné en rond (G) personne personne" },
+                    { chord: "C", text: "(C) J’ai fouillé fouilléé... (F) " },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ]
+            ]
+        },
+        {
+            key: "dim-29-03-2026",
+            title: "ONLY BELEIVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IAp158zTDU4?si=GbZ2834cmGkYkA1p",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, from the cross to the throne," },
+                    { chord: "C", text: "(C) From (F) death (C) into life (D) He went for His (G) own;" },
+                    { chord: "C", text: "(C) All power in earth, all power (F) above," },
+                    { chord: "F", text: "(F) Is given to (C) Him for the (G) flock of His (C) love." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) only (G) believe;" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) only (C) believe." },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) Lord I (G) believe;" },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) Lord I (C) believe" },
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, He goeth ahead," },
+                    { chord: "C", text: "(C) Your (F) Shepherd (C) selecteth the (D) path you must (G) tread;" },
+                    { chord: "C", text: "(C) The waters of Marah He’ll sweeten for (F) thee," },
+                    { chord: "F", text: "(F) He drank all the (C) bitter in (G) Gethsemane. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, whatever your lot," },
+                    { chord: "C", text: "(C) He enters (F) all (C) rooms, (D) “the doors being (G) shut,”" },
+                    { chord: "C", text: "(C) He never forsakes; He never is (F) gone," },
+                    { chord: "F", text: "(F) So count on His (C) presence in (G) darkness and (C) dawn." }
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 29 Mars 2026 (Treizième Dimanche)
+
         // Debut Cantiques Dimanche 22 Mars 2026 (Douzième Dimanche)
         {
             key: "dim-22-03-2026",
