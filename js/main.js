@@ -7,6 +7,11 @@ const cantiques = [
         link: "single.html?key=dim-05-04-2026"
     },
     {
+        date: "04/04",
+        title: "Hymns of 04/04/2026",
+        link: "single.html?key=sam-04-04-2026"
+    },
+    {
         date: "02/04",
         title: "Hymns of 02/04/2026",
         link: "single.html?key=jeu-02-04-2026"
@@ -16,7 +21,7 @@ const cantiques = [
         title: "Hymns of 29/03/2026",
         link: "single.html?key=dim-29-03-2026"
     },
-    {
+    /*{
         date: "22/03",
         title: "Hymns of 22/03/2026",
         link: "single.html?key=dim-22-03-2026"
@@ -26,7 +31,7 @@ const cantiques = [
         title: "Hymns of 15/03/2026",
         link: "single.html?key=dim-15-03-2026"
     },
-    /*{
+    {
         date: "08/03",
         title: "Hymns of 08/03/2026",
         link: "single.html?key=dim-08-03-2026"

@@ -175,6 +175,201 @@ const songs = [
         },
         // Fin Cantiques Dimanche 05 Avril 2026 (Quartozième Dimanche)
 
+        // Debut Cantiques Samedi 04 Avril 2026
+        {
+            key: "sam-04-04-2026",
+            title: "GLORY TO HIS NAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/RL7nM4QnK6M?si=jswrpm2pCCSuksWl",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Down at the cross where my (F) Savior (C) died," },
+                    { chord: "C", text: "(C) Down where for cleansing (D) from sin I (G) cried," },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Glory to his (C) name," },
+                    { chord: "C", text: "(C) Glory (D) to his (G) name;" },
+                    { chord: "C", text: "(C) There to my heart was (F) the blood (C) applied;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) I am so wondrously (F) saved from (C) sin," },
+                    { chord: "C", text: "(C) Jesus so sweetly (D) abides (G) within;" },
+                    { chord: "C", text: "(C) There at the cross where (F) he took me (C) in;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, precious fountain that (F) saves from (C) sin," },
+                    { chord: "C", text: "(C) I am so glad I (D) have entered (G) in;" },
+                    { chord: "C", text: "(C) There Jesus saves me and (F) keeps me (C) clean;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Come to this fountain so (F) rich and (C) sweet," },
+                    { chord: "C", text: "(C) Cast thy poor soul at (D) the Savior’s (G) feet;" },
+                    { chord: "C", text: "(C) Plunge in today, and be (F) made (C) complete;" },
+                    { chord: "F", text: "(F) Glory (G) to his (C) name!" }
+                ]
+            ]
+        },
+        {
+            key: "sam-04-04-2026",
+            title: "SUCH LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G4zsesVIY5w?si=xCD350AnbKMO0auk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) That God should love a (F) sinner such as (C) I," },
+                    { chord: "F", text: "(F) Should yearn to (C) change my (D) sorrow into (G) bliss," },
+                    { chord: "C", text: "(C) Nor rest till He had (F) planned to bring me (C) nigh," },
+                    { chord: "F", text: "(F) How wonderful is (G) love like (C) this?" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Such love, such wondrous love" },
+                    { chord: "G", text: "(G) Such love, such wondrous love" },
+                    { chord: "C", text: "(C) That (F) God should love a (F) sinner such as (C) I" },
+                    { chord: "F", text: "(F) How wonderful is (G) love like (C) this?" }
+                ],
+                [
+                    { chord: "C", text: "(C) That for a willful (F) outcast such as (C) I" },
+                    { chord: "F", text: "(F) The Father (C) planned, the (D) Savior bled and (G) died" },
+                    { chord: "C", text: "(C) Redemption for a (F) worthless slave to (C) buy" },
+                    { chord: "F", text: "(F) Who long had law and (G) grace (C) defied." }
+                ],
+                [
+                    { chord: "C", text: "(C) And now He takes me (F) to His heart a (C) son" },
+                    { chord: "F", text: "(F) He asks me (C) not to (D) fill a servant's (G) place" },
+                    { chord: "C", text: "(C) The far-off country (F) wand'rings all are (C) done" },
+                    { chord: "F", text: "(F) Wide open are His (G) arms of (C) grace" }
+                ]
+            ]
+        },
+        {
+            key: "sam-04-04-2026",
+            title: "ONE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/NCt_dRKaz-Y?si=aPlHcbKV_HnKpvbN",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One day when heaven was filled with His praises," },
+                    { chord: "C", text: "(C) One day when (G) sin was as black as could (C) be," },
+                    { chord: "C", text: "(C) Jesus came forth to be born of a virgin" },
+                    { chord: "C", text: "(C) Dwelt among (G) men, my example is He!" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Living, He loved me; dying, He (C) saved me;" },
+                    { chord: "C", text: "(C) Buried, He (F) carried my sins far (G) away;" },
+                    { chord: "G", text: "(G) Rising, He justified freely (C) forever:" },
+                    { chord: "C", text: "(C) One day He’s (F) coming (G) O glorious (C) day!" }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they led Him up Calvary’s mountain," },
+                    { chord: "C", text: "(C) One day they (G) nailed Him to die on the (C) tree;" },
+                    { chord: "C", text: "(C) Suffering anguish, despised and rejected;" },
+                    { chord: "C", text: "(C) Bearing our (G) sins, my Redeemer is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day they left Him alone in the garden," },
+                    { chord: "C", text: "(C) One day He (G) rested, from suffering (C) free;" },
+                    { chord: "C", text: "(C) Angels came down o’er His tomb to keep vigil;" },
+                    { chord: "C", text: "(C) Hope of the (G) hopeless, my Savior is He." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the grave could conceal Him no longer," },
+                    { chord: "C", text: "(C) One day the (G) stone rolled away from the (C) door;" },
+                    { chord: "C", text: "(C) Then He arose, over death He had conquered;" },
+                    { chord: "C", text: "(C) Now is (G) ascended, my Lord evermore." }
+                ],
+                [
+                    { chord: "C", text: "(C) One day the trumpet will sound for His coming," },
+                    { chord: "C", text: "(C) One day the (G) skies with His glory will (C) shine;" },
+                    { chord: "C", text: "(C) Wonderful day, my beloved ones bringing;" },
+                    { chord: "C", text: "(C) Glorious (G) Savior, this Jesus is mine!" }
+                ]
+            ]
+        },
+        {
+            key: "sam-04-04-2026",
+            title: "JE NE MOURRAI PAS LA SECONDE MORT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je ne mourrai pas la seconde mort," },
+                    { chord: "C", text: "(C) Ma vie (F) est cachée (G) en (C) Jésus" },
+                    { chord: "C", text: "(C) Il m’a donné la vie, (F) Il m'a (G) donné la (C) vie" },
+                    { chord: "C", text: "(C) Ce que personne ne peut (F) faire, Il l’a (G) fait pour (C) moi." },
+                ]
+            ]
+        },
+        {
+            key: "sam-04-04-2026",
+            title: "IL N’Y A PERSONNE QUI SOIT COMME JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LT39rNlpr4g?si=f-HYxhyBvpY2pZGy",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (G) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a personne comme (F) Jesus" },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ],
+                [
+                    { chord: "C", text: "(C) J’ai longtemps marché" },
+                    { chord: "C", text: "(C) marché marché (F) personne personne" },
+                    { chord: "C", text: "(C) J’ai tourné en rond (G) personne personne" },
+                    { chord: "C", text: "(C) J’ai fouillé fouilléé... (F) " },
+                    { chord: "C", text: "(C) Il n'y a (G) personne comme (C) LUI" }
+                ]
+            ]
+        },
+        {
+            key: "sam-04-04-2026",
+            title: "ROCK OF AGES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for (C) me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee;" },
+                    { chord: "C", text: "(C) Let the (G) water and the (C) blood," },
+                    { chord: "C", text: "(C) From Thy (G) wounded side which (C) flowed," },
+                    { chord: "C", text: "(C) Be of sin the (F) double (C) cure," },
+                    { chord: "C", text: "(C) Save from wrath and (G) make me (C) pure." }
+                ],
+                [
+                    { chord: "C", text: "(C) Not the labors (F) of my (C) hands" },
+                    { chord: "C", text: "(C) Can fulfill thy (G) law's (C) commands;" },
+                    { chord: "C", text: "(C) Could my (G) tears forever (C) flow," },
+                    { chord: "C", text: "(C) Could my (G) zeal no languor (C) know," },
+                    { chord: "C", text: "(C) These for sin could (F) not (C) atone;" },
+                    { chord: "C", text: "(C) Thou must save, (G) and Thou (C) alone;" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing in my (F) hand I (C) bring" },
+                    { chord: "C", text: "(C) Simply to Thy (G) cross I (C) cling" },
+                    { chord: "C", text: "(C) Naked, (G) come to Thee for (C) dress" },
+                    { chord: "C", text: "(C) Helpless (G) look to Thee for (C) grace" },
+                    { chord: "C", text: "(C) Foul, I to the (F) foutain (C) fly" },
+                    { chord: "C", text: "(C) Wash me, (G) Savior or I (C) die" }
+                ],
+                [
+                    { chord: "C", text: "(C) While I draw this (F) fleeting (C) breath," },
+                    { chord: "C", text: "(C) When my eyes (G) shall close in (C) death," },
+                    { chord: "C", text: "(C) When I (G) rise to worlds (C) unknown," },
+                    { chord: "C", text: "(C) And (G) behold Thee on Thy (C) throne," },
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee." }
+                ]
+            ]
+        },
+        // Fin Cantiques Samedi 04 Avril 2026
+
         // Debut Cantiques Jeudi 02 Avril 2026
         {
             key: "jeu-02-04-2026",
