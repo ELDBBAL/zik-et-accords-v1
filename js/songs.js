@@ -1,5 +1,180 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Dimanche 05 Avril 2026 (Quartozième Dimanche)
+        {
+            key: "dim-05-04-2026",
+            title: "HE IS LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/OTbhnTeF4yE?si=oTn23PDHOGvgxliv",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He is (G) Lord, He is (C) Lord!" },
+                    { chord: "C", text: "(C) He is risen from the (D) dead and he is (G) Lord!" },
+                    { chord: "C", text: "(C) Ev'ry knee shall bow, ev'ry (F) tongue confess" },
+                    { chord: "F", text: "(F) That (C) Jesus (G) Christ is (C) Lord." }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-04-2026",
+            title: "BECAUSE HE LIVES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oPW9xYEyijQ?si=hUmVEP4TUckHxBd0",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Because He lives, I can face (F) tomorrow" },
+                    { chord: "F", text: "(F) Because He (C) lives, (D) all fear is (G) gone;" },
+                    { chord: "G", text: "(G) Because I (C) know He holds the (F) future" },
+                    { chord: "F", text: "(F) And life is (C) worth the living," },
+                    { chord: "G", text: "(G) Just because He (C) lives!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-04-2026",
+            title: "THAT MAN FROM GALILEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/QcyAxo7SxVM?si=7JvRbkN9BX2FsQHC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In a manger long ago, I know it's really (G) so," },
+                    { chord: "G", text: "(G) A Babe was born to (F) save men from their (C) sin." },
+                    { chord: "C", text: "(C) John saw Him on the shore, the Lamb forevermore, (G) " },
+                    { chord: "G", text: "(G) Oh (F) Christ, the (G) Crucified of (C) Calvary." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh, I love that Man from (G) Galilee," },
+                    { chord: "G", text: "(G) For He's done so very much for (C) me." },
+                    { chord: "C", text: "(C) He's forgiven all my sins, placed the (F) Holy Ghost within;" },
+                    { chord: "F", text: "(F) Oh, I (C) love that (G) man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The publican went to pray in the temple there one (G) day," },
+                    { chord: "G", text: "(G) He cried, O (F) Lord be merciful to (C) me!" },
+                    { chord: "C", text: "(C) He was forgiven of every sin, and a deep peace placed (G) within;" },
+                    { chord: "G", text: "(G) He (F) said, Come (G) see this Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The lame was made to walk, the dumb was made to (G) talk," },
+                    { chord: "G", text: "(G) That power was (F) spoken with love upon the (C) sea;" },
+                    { chord: "C", text: "(C) The blind was made to see, I know it could (G) only be" },
+                    { chord: "G", text: "(G) The (F) mercy of (G) that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nicodemus came by night, to know the way of (G) right," },
+                    { chord: "G", text: "(G) He asked the Son (F) of Man what must he (C) do." },
+                    { chord: "C", text: "(C) These words He said to him, Ye must be born (G) again," },
+                    { chord: "G", text: "(G) By (F) the Spirit (G) of that Man from (C) Galilee." }
+                ],
+                [
+                    { chord: "C", text: "(C) The woman at the well, He all her sins did (G) tell," },
+                    { chord: "G", text: "(G) How five husbands (F) she had at that (C) time," },
+                    { chord: "C", text: "(C) She was forgiven of every sin, and a deep peace came (G) within;" },
+                    { chord: "G", text: "(G) Then (F) she cried, (G) Come see that Man from (C) Galilee!" }
+                ],
+            ]
+        },
+        {
+            key: "dim-05-04-2026",
+            title: "ALIVE FOREVERMORE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oYiwkP0yX3s?si=uQpn_8CT4qQvfmkz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Alive, alive, alive forevermore!" },
+                    { chord: "C", text: "(C) My (G) Jesus is alive, (C) alive forevermore!" },
+                    { chord: "C", text: "(C) Alive, alive, alive forevermore!" },
+                    { chord: "C", text: "(C) My (G) Jesus is (C) alive." }
+                ],
+                [
+                    { chord: "C", text: "(C) Sing (F) hallelujah! Sing (C) hallelujah!" },
+                    { chord: "C", text: "(C) My (G) Jesus is alive, (C) alive forevermore!" },
+                    { chord: "C", text: "(C) Sing (F) hallelujah! Sing (C) hallelujah!" },
+                    { chord: "C", text: "(C) My (G) Jesus is (C) alive." }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-04-2026",
+            title: "VICTOIRE, ALLELUIA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0Iib9hqDwQ8?si=VVPXhh69AM4qJOce",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Victoire, alléluia ! " },
+                    { chord: "F", text: "(F) Chantons, crions de (C) joie !" },
+                    { chord: "C", text: "(C) Jésus (F) Christ est (G) sorti du (C) tombeau" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Galilée, Galilée, " },
+                    { chord: "F", text: "(F) Galilée (C) je viens de (D) la (G) Galilée" },
+                    { chord: "C", text: "(C) Jésus m'a chargé (F) d'annoncer à tous ses (C) frères" },
+                    { chord: "G", text: "(G) Qu'Il est ressuscité. (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-04-2026",
+            title: "THIS IS THE DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cccJhMVFrLs?si=RHUXX4nAUJ205neC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (G) lord has made, that the lord has made" },
+                    { chord: "G", text: "(G) I will rejoice, I will rejoice" },
+                    { chord: "G", text: "(G) And be (C) glad in it, and be glad in it" },
+                    { chord: "F", text: "(F) This is the day that the (C) lord has made" },
+                    { chord: "F", text: "(F) I will rejoice and be (C) glad in it" },
+                    { chord: "C", text: "(C) This is the day, this is the day" },
+                    { chord: "C", text: "(C) That the (F) lord (G) has (C) made" }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-04-2026",
+            title: "THE OLD RUGGED CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5aKbGzQzp30?si=bFo7Klev24LzJZQk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) On a hill far away stood an (F) old rugged (Dm) cross," },
+                    { chord: "G", text: "(G) The emblem of suff'ring and (C) shame;" },
+                    { chord: "C", text: "(C) And I love that old cross where the (F) Dearest and (Dm) Best" },
+                    { chord: "G", text: "(G) For a world of lost sinners was (C) slain." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) So (G) I'll cherish the old rugged (C) cross," },
+                    { chord: "C", text: "(C) Till my (F) trophies at last I lay (C) down;" },
+                    { chord: "C", text: "(C) I will cling to the old rugged (F) cross," },
+                    { chord: "F", text: "(F) And (C) exchange it (G) someday for a (C) crown." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, that old rugged cross, so (F) despised by the (Dm) world," },
+                    { chord: "G", text: "(G) Has a wondrous attraction for (C) me;" },
+                    { chord: "C", text: "(C) For the dear Lamb of God left (F) His glory (Dm) above" },
+                    { chord: "G", text: "(G) To bear it to dark (C) Calvary." },
+                ],
+                [
+                    { chord: "C", text: "(C) In that old rugged cross, stained (F) with blood so (Dm) divine," },
+                    { chord: "G", text: "(G) A wondrous beauty I (F) see," },
+                    { chord: "C", text: "(C) For 'twas on that old cross Jesus (F) suffered and (Dm) died," },
+                    { chord: "G", text: "(G) To pardon and sanctify (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) To the old rugged cross I will (F) ever be (Dm) true;" },
+                    { chord: "G", text: "(G) Its shame and reproach gladly (F) bear;" },
+                    { chord: "C", text: "(C) Then He'll call me someday to (F) my home far (Dm) away," },
+                    { chord: "G", text: "(G) Where His glory forever I'll (C) share." },
+                ]
+            ]
+        },
+        // Fin Cantiques Dimanche 05 Avril 2026 (Quartozième Dimanche)
+
         // Debut Cantiques Jeudi 02 Avril 2026
         {
             key: "jeu-02-04-2026",
