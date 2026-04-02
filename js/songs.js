@@ -1,5 +1,96 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques Jeudi 02 Avril 2026
+        {
+            key: "jeu-02-04-2026",
+            title: "IN CHRIST ALONE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/rn9-UNer6MQ?si=apmpiaQda6YudHN6",
+            verses: [
+                [
+                    { chord: "C", text: "(C) In Christ alone, my hope is (G) found" },
+                    { chord: "G", text: "(G) He is my (F) light, my (G) strength, my (C) song" },
+                    { chord: "C", text: "(C) This Cornerstone, this solid (G) ground" },
+                    { chord: "G", text: "(G) Firm (F) through the (G) fiercest drought and (C) storm" },
+                    { chord: "C", text: "(C) What heights of (F) love, what depths of (G) peace" },
+                    { chord: "G", text: "(G) When fears are (F) stilled, when strivings (G) cease" },
+                    { chord: "G", text: "(G) My Comforter, (C) my All in (G) All" },
+                    { chord: "G", text: "(G) Here in the (F) love of (G) Christ I (C) stand" }
+                ],
+                [
+                    { chord: "C", text: "(C) In Christ alone, who took on (G) flesh" },
+                    { chord: "G", text: "(G) Fullness of (F) God in (G) helpless (C) babe" },
+                    { chord: "C", text: "(C) This gift of love and (G) righteousness" },
+                    { chord: "G", text: "(G) Scorned (F) by the (G) ones He came to (C) save" },
+                    { chord: "C", text: "(C) Til on that (F) cross as Jesus (G) died" },
+                    { chord: "G", text: "(G) The wrath of (F) God was satisfied (G) " },
+                    { chord: "G", text: "(G) For every (C) sin on Him was (G) laid" },
+                    { chord: "G", text: "(G) Here in the (F) death of (G) Christ I (C) live" }
+                ],
+                [
+                    { chord: "C", text: "(C) There in the ground His body (G) lay" },
+                    { chord: "G", text: "(G) Light of the (F) world by (G) darkness (C) slain" },
+                    { chord: "C", text: "(C) Then bursting forth in (G) glorious Day" },
+                    { chord: "G", text: "(G) Up from (F) the grave (G) He rose (C) again" },
+                    { chord: "C", text: "(C) And as He (F) stands in (G) victory" },
+                    { chord: "G", text: "(G) Sin's curse (F) has lost its grip on (G) me" },
+                    { chord: "G", text: "(G) For I am (C) His and He is (G) mine" },
+                    { chord: "G", text: "(G) Bought with (F) the precious (G) blood of (C) Christ" }
+                ],
+            ]
+        },
+        {
+            key: "jeu-02-04-2026",
+            title: "HE LIVES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/iTmSa5dhtYM?si=a27_aOE25NeO8oe0",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I serve a risen Savior," },
+                    { chord: "C", text: "(C) He’s in the world today;" },
+                    { chord: "C", text: "(C) I know that He is living," },
+                    { chord: "D", text: "(D) whatever men may (G) say;" },
+                    { chord: "C", text: "(C) I see His hand of mercy," },
+                    { chord: "C", text: "(C) I hear His voice of cheer" },
+                    { chord: "C", text: "(C) And (D) just the time" },
+                    { chord: "D", text: "(D) I need Him He’s always (G) near." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He lives, He lives," },
+                    { chord: "F", text: "(F) Christ Jesus lives (C) today!" },
+                    { chord: "C", text: "(C) He walks with me" },
+                    { chord: "C", text: "(C) and talks with me" },
+                    { chord: "D", text: "(D) along life’s narrow (G) way." },
+                    { chord: "C", text: "(C) He lives, He lives," },
+                    { chord: "F", text: "(F) salvation to (E) impart!" },
+                    { chord: "C", text: "(C) You ask me how I (F) know He lives?" },
+                    { chord: "F", text: "(F) He (G) lives within my (C) heart." }
+                ],
+                [
+                    { chord: "C", text: "(C) In all the world around me" },
+                    { chord: "C", text: "(C) I see His loving care," },
+                    { chord: "C", text: "(C) And tho’ my heart grows weary" },
+                    { chord: "D", text: "(D) I never will (G) despair;" },
+                    { chord: "C", text: "(C) I know that He is leading" },
+                    { chord: "C", text: "(C) thru all the stormy blast," },
+                    { chord: "C", text: "(C) The (D) day of His appearing" },
+                    { chord: "D", text: "(D) will come at (G) last." }
+                ],
+                [
+                    { chord: "C", text: "(C) Rejoice, rejoice, O Christian," },
+                    { chord: "C", text: "(C) lift up your voice and sing," },
+                    { chord: "C", text: "(C) Eternal hallelujahs" },
+                    { chord: "D", text: "(D) to Jesus Christ the (G) King!" },
+                    { chord: "C", text: "(C) The hope of all who seek Him," },
+                    { chord: "C", text: "(C) the help of all who find," },
+                    { chord: "C", text: "(C) None (D) other is so loving," },
+                    { chord: "D", text: "(D) so good and (G) kind" }
+                ],
+            ]
+        },
+        // Fin Cantiques Jeudi 02 Avril 2026
+
         // Debut Cantiques Dimanche 29 Mars 2026 (Treizième Dimanche)
         {
             key: "dim-29-03-2026",
