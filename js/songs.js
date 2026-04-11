@@ -1,6 +1,160 @@
 // songs.js // Liste des cantiques
 const songs = [
-        // Debut Cantiques Dimanche 05 Avril 2026 (Quartozième Dimanche)
+        // Debut Cantiques du 12 Avril 2026 (Quinzième Dimanche de l'année 2026)
+        {
+            key: "dim-12-04-2026",
+            title: "THEN JESUS CAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oMvBEuU8V2U?si=Yu5NpM2-AzJsAfPA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One sat alone beside the highway (G) begging," },
+                    { chord: "G", text: "(G) His eyes were blind, the light he could not (C) see." },
+                    { chord: "C", text: "(C) He clutched his (Bm) rags and shivered in the (C) shadows" },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) bade his darkness (C) flee." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tempter's power is (C) broken;" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tears are wiped (C) away," },
+                    { chord: "C", text: "(C) He takes the gloom and fills the life with (F) glory," },
+                    { chord: "F", text: "(F) For all is (C) changed when (G) Jesus comes to (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) From home and friends the evil spirits (G) drove him," },
+                    { chord: "G", text: "(G) Among the tombs he dwelt in (C) misery;" },
+                    { chord: "C", text: "(C) He cut himself (Bm) as demon powers possessed (C) him," },
+                    { chord: "F", text: "(F) Then Jesus (F) came and (G) set the captive (C) free." }
+                ],
+                [
+                    { chord: "C", text: "(C) 'Unclean, unclean!' the leper cried in (G) torment," },
+                    { chord: "G", text: "(G) The deaf, the dumb, in helplessness stood (C) near;" },
+                    { chord: "C", text: "(C) The fever raged, (Bm) disease had gripped its' (C) victim," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) cast out every (C) fear." }
+                ],
+                [
+                    { chord: "C", text: "(C) Their hearts were sad as in the tomb they (G) laid Him," },
+                    { chord: "G", text: "(G) For death had come and taken Him (C) away;" },
+                    { chord: "C", text: "(C) Their night was (Bm) dark and bitter tears were (C) falling," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) night was turned to (C) day." }
+                ],
+                [
+                    { chord: "C", text: "(C) So men today have found the Savior (G) able," },
+                    { chord: "G", text: "(G) They could not conquer passion, lust and (C) sin;" },
+                    { chord: "C", text: "(C) Their broken hearts (Bm) had left them sad and (C) lonely," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) dwelt, Himself, (C) within." }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-04-2026",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-12-04-2026",
+            title: "VILLE DE PERLES ET DE LUMIERES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JD8Zc8SffPo?si=IRM2wlLIPyv78LYB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ville de (F) perles et de (C) lumière" },
+                    { chord: "F", text: "(F) Existant sur les (G) hauteurs," },
+                    { chord: "C", text: "(C) Personne n’a encore sur (F) terre" },
+                    { chord: "C", text: "(C) Pu contempler (G) Sa (C) splendeur." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Là, l’Amour de Dieu (C) éclaire," },
+                    { chord: "F", text: "(F) Ce sera l’Agneau (G) Lui-même" },
+                    { chord: "C", text: "(C) Dans cette ville (F) hospitalière" },
+                    { chord: "C", text: "(C) La nouvelle (G) Jérusalem. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) C’est là (F) où la gloire (C) abonde," },
+                    { chord: "F", text: "(F) Où l’arbre de Vie (G) fleurit," },
+                    { chord: "C", text: "(C) Où le fleuve de Vie (F) inonde" },
+                    { chord: "C", text: "(C) De Ses flots (G) ce Saint (C) Abri." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les (F) pèlerins (C) arrivent," },
+                    { chord: "F", text: "(F) Epuisés des grands (G) déserts," },
+                    { chord: "C", text: "(C) Aux fontaines des eaux (F) vives," },
+                    { chord: "C", text: "(C) Quel repos (G) leur est (C) offert." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh ! Quelle (F) joie bientôt sur (C) terre" },
+                    { chord: "F", text: "(F) Quand Jésus sera (G) présent ;" },
+                    { chord: "C", text: "(C) Cette ville aux mille (F) lumières" },
+                    { chord: "C", text: "(C) Y sera (G) éternellement. (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-12-04-2026",
+            title: "JE LE LOUE AVEC MES MAINS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/F6p68Pp4KVA?si=KePrZ3H1YuN5sRa9",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je le loue avec ma (G) voix" },
+                    { chord: "G", text: "(G) je le loue avec ma (C) voix." },
+                    { chord: "C", text: "(C) Je le loue avec ma (G) voix" },
+                    { chord: "G", text: "(G) je le loue avec ma (C) voix." },
+                    { chord: "C", text: "(C) S'il me manque ma (F) voix," },
+                    { chord: "F", text: "(F) Je le loue avec mes (C) mains," },
+                    { chord: "C", text: "(C) S'il me manque les (G) mains" },
+                    { chord: "G", text: "(G) Je le loue avec mes (C) pieds." },
+                    { chord: "C", text: "(C) S'il me manque les (F) pieds," },
+                    { chord: "F", text: "(F) Je le loue avec mon (C) âme." },
+                    { chord: "C", text: "(C) Et s'il me manque (G) l'âme," },
+                    { chord: "G", text: "(G) C'est que je le loue (C) là-haut." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 12 Avril 2026 (Quinzième Dimanche de l'année 2026)
+
+        // Debut Cantiques Dimanche 05 Avril 2026 (Quatozième Dimanche)
         {
             key: "dim-05-04-2026",
             title: "HE IS LORD",
