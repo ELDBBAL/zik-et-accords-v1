@@ -1,5 +1,212 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 19 Avril 2026 (Seizième Dimanche de l'année 2026)
+        {
+            key: "dim-19-04-2026",
+            title: "HOW GREAT THOU ART",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Cc0QVWzCv9k?si=t73ORISSWDcqCOjD",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Oh Lord, my God " },
+                    { chord: "C", text: "(C) When I, in awesome (F) wonder" },
+                    { chord: "F", text: "(F) Consider (C) all the (G) worlds Thy hands have (C) made" },
+                    { chord: "C", text: "(C) I see the stars, I hear the rolling (F) thunder" },
+                    { chord: "F", text: "(F) Thy power (C) throughout the (G) universe (C) displayed" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Then sings my soul, my Savior God to (C) Thee" },
+                    { chord: "C", text: "(C) How great Thou (G) art, how great Thou (C) art" },
+                    { chord: "C", text: "(C) Then sings my soul, my Savior God to Thee (Am) " },
+                    { chord: "C", text: "(C) How great Thou (F) art, how (G) great Thou (C) art" },
+                ],
+                [
+                    { chord: "C", text: "(C) And when I think that God, " },
+                    { chord: "C", text: "(C) His Son not (F) sparing" },
+                    { chord: "F", text: "(F) Sent Him to (C) die, I (G) scarce can take it (C) in" },
+                    { chord: "C", text: "(C) That on the cross, my burden gladly (F) bearing" },
+                    { chord: "F", text: "(F) He bled (C) and died to (G) take away my (C) sin" }
+                ],
+                [
+                    { chord: "C", text: "(C) When Christ shall come, " },
+                    { chord: "C", text: "(C) with shout of (F) acclamation" },
+                    { chord: "F", text: "(F) And take (C) me home, (G) what joy shall fill my (C) heart" },
+                    { chord: "C", text: "(C) Then I shall bow, in humble (F) adoration" },
+                    { chord: "F", text: "(F) And then (C) proclaim, my God, (G) how great Thou (C) art" }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-04-2026",
+            title: "QUEL JOUR DE GLOIRE",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Des péchés de ce monde (F) Jésus m’a (C) libéré" },
+                    { chord: "C", text: "(C) Des péchés de ce monde (D) Jésus m’a (G) libéré" },
+                    { chord: "C", text: "(C) Des péchés de ce monde (F) Jésus m’a (C) libéré" },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Quel jour de gloire (F) quand Jésus m’a (C) sauvé," },
+                    { chord: "C", text: "(C) Quel jour de gloire quand (D) Jésus m’a (G) sauvé," },
+                    { chord: "G", text: "(G) Quel jour de (C) gloire quand (F) Jésus m’a (C) sauvé," },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+                [
+                    { chord: "C", text: "(C) Du feu et de l’esprit (F) Jésus m’a (C) baptisé" },
+                    { chord: "C", text: "(C) Du feu et de l’esprit (D) Jésus m’a (G) baptisé" },
+                    { chord: "C", text: "(C) Du feu et de l’esprit (F) Jésus m’a (C) baptisé" },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+                [
+                    { chord: "C", text: "(C) Ce n’est plus moi qui vis (F) c’est la Parole (C) en moi" },
+                    { chord: "C", text: "(C) Ce n’est plus moi qui vis (D) c’est la Parole (G) en moi" },
+                    { chord: "C", text: "(C) Ce n’est plus moi qui vis (F) c’est la Parole (C) en moi" },
+                    { chord: "C", text: "(C) Quel jour de (F) gloire quand (G) Jésus m’a (C) sauvé," },
+                ],
+            ]
+        },
+        {
+            key: "dim-19-04-2026",
+            title: "TOUT JOYEUX BENISSONS LE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kZc_Pyf5hLI?si=gpZeFAU9FJkZZUTK",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout joyeux (F) bénissons le (C) Seigneur," },
+                    { chord: "C", text: "(C) Chantons et (D) célébrons ses (G) louanges," },
+                    { chord: "C", text: "(C) Adorons avec (F) foi le (C) Sauveur," },
+                    { chord: "C", text: "(C) Nous joignant aux (G) célestes (C) phalanges." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (G) Dieu !" },
+                    { chord: "G", text: "(G) Que ce (F) chant (G) retentisse en tout (C) lieu !" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (F) Dieu !" },
+                    { chord: "F", text: "(F) Que ce (C) chant (G) retentisse en tout (C) lieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu, dans son (F) incomparable (C) amour," },
+                    { chord: "C", text: "(C) Du ciel envoya son (D) Fils (G) unique," },
+                    { chord: "C", text: "(C) Et la terre et les (F) cieux, dans ce (C) jour," },
+                    { chord: "C", text: "(C) S'unissent pour (G) chanter ce (C) cantique" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le châtiment qui (F) produit la (C) paix," },
+                    { chord: "C", text: "(C) Jésus-Christ l'a (D) subi pour mon (G) âme" },
+                    { chord: "C", text: "(C) Il voulut (F) expier nos (C) forfaits," },
+                    { chord: "C", text: "(C) En mourant, lui, (G) sur le bois (C) infâme." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous voulons en (F) retour, bon (C) Sauveur," },
+                    { chord: "C", text: "(C) T'aimer par-dessus (D) tout autre (G) chose ;" },
+                    { chord: "C", text: "(C) Forme ton (F) amour dans notre (C) coeur," },
+                    { chord: "C", text: "(C) Et puis, de (G) chacun de nous, (C) dispose !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-04-2026",
+            title: "WONDERFUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O my heart sings today, sings for joy and (G) gladness," },
+                    { chord: "G", text: "(G) Jesus saves, satisfies, banishes my (C) sadness;" },
+                    { chord: "C", text: "(C) Guilt is gone, peace is mine, peace like to a (F) river," },
+                    { chord: "F", text: "(F) Jesus is (C) wonderful, mighty (G) to deliver. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Wonderful, wonderful, Jesus is to (G) me," },
+                    { chord: "G", text: "(G) Counselor, Prince of Peace, Mighty God is (C) He;" },
+                    { chord: "C", text: "(C) Saving me, keeping me from all sin and (F) shame," },
+                    { chord: "F", text: "(F) Wonderful is (C) my Redeemer, (G) praise His (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Once a slave, now I’m free, free from (G) condemnation," },
+                    { chord: "G", text: "(G) Jesus gives liberty and a full (C) salvation;" },
+                    { chord: "C", text: "(C) Now the sins of the past have been all (F) forgiven," },
+                    { chord: "F", text: "(F) And my name is (C) inscribed on the (G) book of (C) heaven." }
+                ],
+                [
+                    { chord: "C", text: "(C) Living here with my Lord in a holy (G) union," },
+                    { chord: "G", text: "(G) Day by day, all the way holding sweet (C) communion;" },
+                    { chord: "C", text: "(C) O what change grace hath wrought in my lowly (F) station!" },
+                    { chord: "F", text: "(F) Since my soul has (C) received full (G) and free (C) salvation." }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-04-2026",
+            title: "CHANTONS EBENEZER",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Chantons Ebenezer," },
+                    { chord: "C", text: "(C) La grâce (D) infinie de (G) Dieu," },
+                    { chord: "C", text: "(C) Souviens-toi de l'amour (F) de Dieu" },
+                    { chord: "F", text: "(F) Et (C) béni le (G) Roi des (C) Rois" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Eben - (F) ezer," },
+                    { chord: "F", text: "(F) La (C) grâce (D) infinie de (G) Dieu," },
+                    { chord: "C", text: "(C) Souviens-toi de l'amour (F) de Dieu" },
+                    { chord: "F", text: "(F) Et (C) béni le (G) Roi des (C) Rois" }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-04-2026",
+            title: "LA LOUANGE APPARTIENT A DIEU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La louange appartient à (G) Dieu" },
+                    { chord: "G", text: "(G) La louange appartient à (C) Dieu" },
+                    { chord: "C", text: "(C) La louange appartient à (F) Dieu" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Merci, merci, (G) merci Oh Seigneur" },
+                    { chord: "G", text: "(G) Merci, merci, (C) merci Oh mon Roi" },
+                    { chord: "C", text: "(C) Merci, merci, (F) merci Oh Seigneur" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-19-04-2026",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I'm (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I'm onward (F) bound," },
+                    { chord: "F", text: "(F) Lord, plant my (C) feet on (G) higher (C) ground."}
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (F) stand," },
+                    { chord: "F", text: "(F) By faith, on (C) Canaan's (G) tableland;" },
+                    { chord: "G", text: "(G) A higher (C) plane than I have (F) found;" },
+                    { chord: "F", text: "(F) Lord, plant my (C) feet on (G) higher (C) ground." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 19 Avril 2026 (Seizième Dimanche de l'année 2026)
+
         // Debut Cantiques du 12 Avril 2026 (Quinzième Dimanche de l'année 2026)
         {
             key: "dim-12-04-2026",
