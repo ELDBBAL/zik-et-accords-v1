@@ -1,5 +1,209 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 26 Avril 2026 (Dix-Septième Dimanche de l'année 2026)
+        {
+            key: "dim-26-04-2026",
+            title: "HE WAS NAILED TO THE CROSS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tbXyFiG08To?si=Yq44ujb_z3-Zgsmw",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a wonderful, (F) wonderful (G) Savior" },
+                    { chord: "G", text: "(G) Who would die on the (F) cross for (C) me!" },
+                    { chord: "C", text: "(C) Freely shedding His (F) precious (G) lifeblood," },
+                    { chord: "G", text: "(G) That the sinner might be made (C) free." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) He was nailed to the cross for (G) me," },
+                    { chord: "F", text: "(F) He was nailed to the (F) cross for (C) me," },
+                    { chord: "C", text: "(C) On the cross crucified, for (F) me He (C) died:" },
+                    { chord: "C", text: "(C) He was nailed to the (G) cross for (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) Thus He left, His (F) heavenly (G) Glory," },
+                    { chord: "G", text: "(G) To accomplish (F) His Father's (C) plan;" },
+                    { chord: "C", text: "(C) He was born (F) of the virgin (G) Mary," },
+                    { chord: "G", text: "(G) Took upon Him the form of (C) man." }
+                ],
+                [
+                    { chord: "C", text: "(C) He was wounded, (F) for our (G) transgressions" },
+                    { chord: "G", text: "(G) And He carried (F) our sorrows (C) too;" },
+                    { chord: "C", text: "(C) He's the Healer (F) of every (G) sickness," },
+                    { chord: "G", text: "(G)This He came to the world to (C) do." }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-04-2026",
+            title: "WHAT A MIGHTY GOD WE SERVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/YGL15yoqsJI?si=NHx0hahJRqK3DGTA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) What a mighty God we serve," },
+                    { chord: "C", text: "(C) What a mighty God we (G) serve," },
+                    { chord: "C", text: "(C) Angels bow before him," },
+                    { chord: "C", text: "(C) Heaven and earth adore Him" },
+                    { chord: "F", text: "(F) What a mighty (G) God we (C) serve" }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-04-2026",
+            title: "CE QUE DIEU A FAIT POUR MOI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/xu9us8mRaF0?si=8aLoyX2ZMO4YzuZU",
+            verses: [
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Ce que Dieu a fait pour moi" },
+                    { chord: "C", text: "(C) Je ne peux pas tout (F) raconter" },
+                    { chord: "F", text: "(F) Ce que Dieu a (G) fait pour moi" },
+                    { chord: "G", text: "(G) Je ne peux pas tout (C) raconter" },
+                    { chord: "C", text: "(C) Ce que Dieu a fait pour moi" },
+                    { chord: "C", text: "(C) Je ne peux pas tout (F) raconter" },
+                    { chord: "F", text: "(F) Il m’a (C) sauvé," },
+                    { chord: "C", text: "(C) Il m’a (G) lavé dans son (C) sang" }
+                ],
+                [
+                    { chord: "C", text: "(C) Par Lui (F) j’adore ! Alléluia !" },
+                    { chord: "F", text: "(F) Par Lui (C) j’adore ! Alléluia !" },
+                    { chord: "G", text: "(G) J’adore ô, gloire à (C) Dieu !" },
+                    { chord: "C", text: "(C) Par Lui (F) je chante ! Alléluia !" },
+                    { chord: "F", text: "(F) Par Lui (C) je chante ! Alléluia !" },
+                    { chord: "G", text: "(G) Je chante ô, gloire à (C) Dieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il m’ (F) élu ! Alléluia !" },
+                    { chord: "F", text: "(F) Il m’ (C) élu ! Alléluia !" },
+                    { chord: "G", text: "(G) Elu ! ô, gloire à (C) Dieu" },
+                    { chord: "C", text: "(C) Il m’a (F) choisi ! Alléluia !" },
+                    { chord: "F", text: "(F) Il m’a (C) choisi ! Alléluia !" },
+                    { chord: "G", text: "(G) Choisi ! ô, gloire à (C) Dieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il m’a (F) béni ! Alléluia !" },
+                    { chord: "F", text: "(F) Il m’a (C) béni ! Alléluia !" },
+                    { chord: "G", text: "(G) Béni ! ô, gloire à (C) Dieu" },
+                    { chord: "C", text: "(C) Alléluia ! (F) Alléluia !" },
+                    { chord: "F", text: "(F) Allé … (C) Alléluia !" },
+                    { chord: "G", text: "(G) Allé … (C) Alléluia !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-04-2026",
+            title: "HOSANNA, BLESSED BE THE ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/MOiccAw1KZY?si=i8aXhZ8233cQnjjW",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Hosanna! (F) Blessed Be The (C) Rock," },
+                    { chord: "F", text: "(F) Blessed Be The (C) Rock Of My (Dm) Salvation! (G) " },
+                    { chord: "C", text: "(C) Hosanna! (F) Blessed Be The (C) Rock," },
+                    { chord: "F", text: "(F) Blessed Be The (C) Rock Of My (G) Salvation! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, Magnify The Lord With Me," },
+                    { chord: "C", text: "(C) For (F) He Is (G) Worthy To Be (C) Praised." },
+                    { chord: "C", text: "(C) Oh, Magnify The Lord With Me," },
+                    { chord: "C", text: "(C) For (F) He Is (G) Worthy To Be (C) Praised." },
+                ],
+                [
+                    { chord: "C", text: "(C) Glory, Glory To His Name," },
+                    { chord: "C", text: "(C) He (F) Lives (G) And Reigns (C) Forevermore." },
+                    { chord: "C", text: "(C) Glory, Glory To His Name," },
+                    { chord: "C", text: "(C) He (F) Lives (G) And Reigns (C) Forevermore." },
+                ],
+                [
+                    { chord: "C", text: "(C) Jehovah Jireh Is His Name" },
+                    { chord: "C", text: "(C) For (F) He (G) Provideth All My (C) Needs." },
+                    { chord: "C", text: "(C) Jehovah Jireh Is His Name" },
+                    { chord: "C", text: "(C) For (F) He (G) Provideth All My (C) Needs." },
+                ]
+            ]
+        },
+        {
+            key: "dim-26-04-2026",
+            title: "MON DIEU EST TELLEMENT BON",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " },
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " },
+                    { chord: "C", text: "(C) Glorifions (G) le, Louons Son (C) Nom" },
+                    { chord: "C", text: "(C) Chantons (F) Alléluia," },
+                    { chord: "C", text: "(C) Mon Dieu est tellement bon," },
+                    { chord: "C", text: "(C) Bon, (F) bon (G) éternellement (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-26-04-2026",
+            title: "QUAND JE VOIS LA BONTE DE MON DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Ztnho2U9B4M?si=gdlnTZWUGPHFNRI8",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand je vois la bonté de mon (G) Dieu," },
+                    { chord: "G", text: "(G) Brillée sur le toi de ma maison (F) " },
+                    { chord: "F", text: "(F) Mon (C) âme (G) bénie le Seigneur. (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (D) bénie le Sei (G) gneur" },
+                    { chord: "C", text: "(C) Mon âme bénie le Sei (F) gneur" },
+                    { chord: "C", text: "(C) Mon âme (G) bénie le Sei (C) gneur" }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-04-2026",
+            title: "THERE'S NO DISAPPOINTMENT IN HEAVEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There’s no disappointment in heaven," },
+                    { chord: "C", text: "(C) No (G) weariness, sorrow or (C) pain;" },
+                    { chord: "C", text: "(C) No hearts that are bleeding and broken," },
+                    { chord: "C", text: "(C) No (G) song with a minor (C) refrain." },
+                    { chord: "C", text: "(C) The (F) clouds of our earthly (C) horizon" },
+                    { chord: "C", text: "(C) Will (G) never appear in the (C) sky, " },
+                    { chord: "C", text: "(C) For (F) all will be sunshine and (C) gladness," },
+                    { chord: "C", text: "(C) With (G) never a sob nor a (C) sigh." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I’m bound for that beautiful city" },
+                    { chord: "C", text: "(C) My Lord has prepared for His (G) own;" },
+                    { chord: "G", text: "(G) Where all the redeemed of all ages" },
+                    { chord: "G", text: "(G) Sing “Glory!” around the white (C) throne;" },
+                    { chord: "C", text: "(C) Sometimes I grow homesick for heaven," },
+                    { chord: "C", text: "(C) And the glories I there shall (F) behold;" },
+                    { chord: "F", text: "(F) What a joy that will be when my (C) Savior I (F) see," },
+                    { chord: "F", text: "(F) In (C) that beautiful (G) city of (C) gold!" }
+                ],
+                [
+                    { chord: "C", text: "(C) We’ll never pay rent for our mansion, " },
+                    { chord: "C", text: "(C) The (G) taxes will never come (C) due;" },
+                    { chord: "C", text: "(C) Our garments will never grow threadbare, " },
+                    { chord: "C", text: "(C) But (G) always be fadeless and (C) new" },
+                    { chord: "C", text: "(C) We’ll (F) never be hungry nor (C) thirsty" },
+                    { chord: "C", text: "(C) Nor (G) languish in poverty (C) there." },
+                    { chord: "C", text: "(C) For (F) all the rich bounties of (C) heaven" },
+                    { chord: "C", text: "(C) His (G) sanctified children will (C) share." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 26 Avril 2026 (Dix-Septième Dimanche de l'année 2026)
+
         // Debut Cantiques du 19 Avril 2026 (Seizième Dimanche de l'année 2026)
         {
             key: "dim-19-04-2026",
@@ -12755,7 +12959,7 @@ const songs = [
         },
         {
             key: "dim-26-07-2025",
-            title: "WHAT A MIGHTY WE SERVE",
+            title: "WHAT A MIGHTY GOD WE SERVE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/YGL15yoqsJI?si=NHx0hahJRqK3DGTA",
             verses: [
