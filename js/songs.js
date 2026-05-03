@@ -1,5 +1,279 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 03 Mai 2026 (Dix-Huitième Dimanche de l'année 2026)
+        {
+            key: "dim-03-05-2026",
+            title: "YOU ARE ALPHA AND OMEGA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/rC_qYfBSI34?si=24gMILZY68eJ5b6o",
+            verses: [
+                [
+                    { chord: "C", text: "(C) You are Alpha and (G) Omega (C) " },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ],
+                [
+                    { chord: "C", text: "(C) We give you (F) all (G) the (C) glory" },
+                    { chord: "C", text: "(C) We (F) worship you our (C) Lord" },
+                    { chord: "C", text: "(C) You are (G) worthy to be (C) praised" }
+                ],
+                [
+                    { chord: "C", text: "(C) Tu es l'Alpha et (G) l'Oméga (C) " },
+                    { chord: "C", text: "(C) Nous (F) t'adorons (C) Seigneur" },
+                    { chord: "C", text: "(C) Tu es (G) digne de (C) louange" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous te (F) rendons (G) la gloire (C) " },
+                    { chord: "C", text: "(C) Nous (F) t'adorons (C) Seigneur" },
+                    { chord: "C", text: "(C) Tu es (G) digne de (C) louange" }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-05-2026",
+            title: "SOURI DONC ET DETEND TON VISAGE",
+            keySignature: "C",
+            youtubeLink: "",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Souri donc et (G) détend ton visage" },
+                    { chord: "G", text: "(G) Lève la main vers (C) celui Que tu aimes" },
+                    { chord: "F", text: "(F) Serre la main de (C) ton Voisin" },
+                    { chord: "G", text: "(G) Pélérin (C) souris" }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-05-2026",
+            title: "FILL MY WAY EVERYDAY WITH LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/K8O3R77nU2w?si=ks9UYPbp8-VYu_fS",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Let me walk, blessed Lord, in the (F) way" },
+                    { chord: "F", text: "(F) Thou has (C) gone, Leading straight to the (D) land (G) above;" },
+                    { chord: "G", text: "(G) Giving (C) cheer everywhere, to the (F) sad and the (C) lone, " },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Fill my way every day with love," },
+                    { chord: "C", text: "(C) As I walk with the (D) heavenly (G) Dove" },
+                    { chord: "C", text: "(C) Let me go all the while, with a (F) song and a (C) smile," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "C", text: "(C) Keep me close to the side of my (F) Savior and (C) guide" },
+                    { chord: "F", text: "(F) Let me never in (D) darkness (G) rove." },
+                    { chord: "G", text: "(G) Keep my path free from wrath, and my (F) soul, (C) satisfied," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-05-2026",
+            title: "FEELING SO MUCH BETTER",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0tpFWYoa2Lo?si=bA104wBjG0sHyOBZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Feeling so much better (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ],
+                [
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about this (C) good old Way" },
+                    { chord: "C", text: "(C) The devil he don’t like it, (G) talking about the (C) Lord;" },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about this (C) good old Way," },
+                    { chord: "C", text: "(C) Let’s go (G) on, (C) let’s go (F) on (G) talking about the (C) Lord." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-05-2025",
+            title: "THIS WORLD IS NOT MY HOME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_fIly2AtV4U?si=-k4IiPgYweKnT3o7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) This world is not my home" },
+                    { chord: "C", text: "(C) I'm (F) just a-passing (C) through" },
+                    { chord: "C", text: "(C) My treasures are laid up" },
+                    { chord: "D", text: "(D) Somewhere beyond the (G) blue" },
+                    { chord: "C", text: "(C) The angels beckon me" },
+                    { chord: "C", text: "(C) From (F) heaven's open (C) door" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh Lord, you know" },
+                    { chord: "C", text: "(C) I (F) have no friend like (C) you" },
+                    { chord: "C", text: "(C) If heaven's not my home" },
+                    { chord: "D", text: "(D) Then Lord, what will I (G) do?" },
+                    { chord: "C", text: "(C) The angels beckon me" },
+                    { chord: "C", text: "(C) From (F) heaven's open (C) door" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) They're all expecting me" },
+                    { chord: "C", text: "(C) And (F) that's one thing I (C) know" },
+                    { chord: "C", text: "(C) My savior pardoned me" },
+                    { chord: "D", text: "(D) and now I onward (G) go" },
+                    { chord: "C", text: "(C) I know He'll take me through" },
+                    { chord: "C", text: "(C) Though (F) I am weak and (C) poor" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Just up in Glory Land" },
+                    { chord: "C", text: "(C) We'll (F) live eternally (C) " },
+                    { chord: "C", text: "(C) The Saints on every hand" },
+                    { chord: "D", text: "(D) Are shouting (G) victory" },
+                    { chord: "C", text: "(C) their song of sweetest praise" },
+                    { chord: "C", text: "(C) Drifts (F) back from Heaven's (C) shore" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+            ]
+        },
+        {
+            key: "dim-03-05-2026",
+            title: "WHEN THE SAINTS GO MARCHING IN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kG6ZVNzqQ8M?si=sbRUUUVxS4B3TezL",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I’m a pilgrim and a (F) stranger " },
+                    { chord: "F", text: "(F) Wand’ring (C) through this (D) world of (G) sin," },
+                    { chord: "G", text: "(G) On my (C) way to that fair (F) city," },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When the saints go marching in," },
+                    { chord: "C", text: "(C) When the saints go (D) marching (G) in," },
+                    { chord: "G", text: "(G) Lord, I (C) want to be in that (F) number" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, I know I’ll see my (F) Savior" },
+                    { chord: "F", text: "(F) If my (C) life is (D) free from (G) sin," },
+                    { chord: "G", text: "(G) Heaven’s (C) doors will open for (F) me" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) When we gather ‘round the (F) Throne" },
+                    { chord: "F", text: "(F) And the (C) gates are (D) closed (G) within," },
+                    { chord: "G", text: "(G) I’ll (C) be shouting “Glory, (F) Glory” " },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ],
+                [
+                    { chord: "C", text: "(C) I’m waiting for the (F) chariot" },
+                    { chord: "F", text: "(F) To (C) swing low (D) and I’ll (G) step in," },
+                    { chord: "G", text: "(G) On the (C) clouds I’ll ride to (F) Heaven" },
+                    { chord: "F", text: "(F) When the (C) Saints go (G) marching (C) in." }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-05-2026",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-05-2026",
+            title: "GLORY BE TO GOD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/drmL-zAfdtg?si=EzXxELDbStL9HUbW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Glory be to God in the Highest ! (F) halle (G) lujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) Every body sing hallelu ! (G) hallelujah! (C) " },
+                    { chord: "C", text: "(C) Every body sing hallelu ! (F) hallelujah!" },
+                    { chord: "F", text: "(F) hallelujah! (G) hallelujah! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-03-05-2026",
+            title: "THE SOLID ROCK",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uhVwVHC6_n0?si=GFm_9vOymnNyg0_M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My hope is built on (G) nothing less" },
+                    { chord: "G", text: "(G) Than (F) Jesus Christ, my (C) righteousness;" },
+                    { chord: "C", text: "(C) I dare not trust the (G) sweetest frame," },
+                    { chord: "G", text: "(G) But (F) wholly lean on Jesus' (C) name." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) On Christ, the solid Rock, I (F) stand;" },
+                    { chord: "C", text: "(C) All other ground is (G) sinking sand," },
+                    { chord: "C", text: "(C) All other ground is (F) sinking sand." }
+                ],
+                [
+                    { chord: "C", text: "(C) When darkness veils His (G) lovely face," },
+                    { chord: "G", text: "(G) I (F) rest on His unchanging (C) grace;" },
+                    { chord: "C", text: "(C) In every high and (G) stormy gale," },
+                    { chord: "G", text: "(G) My (F) anchor holds within the (C) veil." }
+                ],
+                [
+                    { chord: "C", text: "(C) His oath, His covenant, His (G) blood," },
+                    { chord: "F", text: "(F) Support me in the (C) whelming flood;" },
+                    { chord: "C", text: "(C) When all around my (G) soul gives way," },
+                    { chord: "F", text: "(F) He then is all my hope and (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) When He shall come with (G) trumpet sound," },
+                    { chord: "F", text: "(F) Oh, may I then in (C) Him be found;" },
+                    { chord: "C", text: "(C) Dressed in His (G) righteousness alone," },
+                    { chord: "F", text: "(F) Faultless to stand before the (C) throne." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 03 Mai 2026 (Dix-Huitième Dimanche de l'année 2026)
+
         // Debut Cantiques du 26 Avril 2026 (Dix-Septième Dimanche de l'année 2026)
         {
             key: "dim-26-04-2026",
