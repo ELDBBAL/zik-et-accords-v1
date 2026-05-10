@@ -1,5 +1,260 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 10 Mai 2026 (Dix-Neuvième Dimanche de l'année 2026)
+        {
+            key: "dim-10-05-2026",
+            title: "HE IS LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/OTbhnTeF4yE?si=oTn23PDHOGvgxliv",
+            verses: [
+                [
+                    { chord: "C", text: "(C) He is (G) Lord, He is (C) Lord!" },
+                    { chord: "C", text: "(C) He is risen from the (D) dead and he is (G) Lord!" },
+                    { chord: "C", text: "(C) Ev'ry knee shall bow, ev'ry (F) tongue confess" },
+                    { chord: "F", text: "(F) That (C) Jesus (G) Christ is (C) Lord." }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-05-2026",
+            title: "JE NE CHANCELLE PAS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cOye4SfCozM?si=vrblzNvyGfaI4x5s",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus est mon Sauveur, (G)  je ne chancelle pas ;" },
+                    { chord: "G", text: "(G) Dans Son amour, Sa grâce, (C) je ne chancelle pas ;" },
+                    { chord: "C", text: "(C) Juste comme (F) un arbre planté (C) près des eaux," },
+                    { chord: "C", text: "(C) Je ne (G) chancelle (C) pas." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je ne chancelle, (G) je ne chancelle pas," },
+                    { chord: "G", text: "(G) Je ne chancelle, (C) je ne chancelle pas;" },
+                    { chord: "C", text: "(C) Juste comme (F) un arbre planté (C) près des eaux," },
+                    { chord: "C", text: "(C) Je ne (G) chancelle (C) pas." }
+                ],
+                [
+                    { chord: "C", text: "(C) Demeurant en mon Christ, (G)  je ne chancelle pas ;" },
+                    { chord: "G", text: "(G) Caché dans Son amour, (C) je ne chancelle pas ;" },
+                    { chord: "C", text: "(C) Juste comme (F) un arbre planté (C) près des eaux," },
+                    { chord: "C", text: "(C) Je ne (G) chancelle (C) pas." }
+                ],
+                [
+                    { chord: "C", text: "(C) Si je Le crois toujours, (G)  je ne chancelle pas ;" },
+                    { chord: "G", text: "(G) Il ne me déçoit point, (C) je ne chancelle pas ;" },
+                    { chord: "C", text: "(C) Juste comme (F) un arbre planté (C) près des eaux," },
+                    { chord: "C", text: "(C) Je ne (G) chancelle (C) pas." }
+                ],
+                [
+                    { chord: "C", text: "(C) Je mange Sa Parole, (G)  je ne chancelle pas ;" },
+                    { chord: "G", text: "(G) Il est bien le Guide, (C) je ne chancelle pas ;" },
+                    { chord: "C", text: "(C) Juste comme (F) un arbre planté (C) près des eaux," },
+                    { chord: "C", text: "(C) Je ne (G) chancelle (C) pas." }
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire, alléluia! (G)  je ne chancelle pas ;" },
+                    { chord: "G", text: "(G) Ancré dans Jéhovah, (C) je ne chancelle pas ;" },
+                    { chord: "C", text: "(C) Juste comme (F) un arbre planté (C) près des eaux," },
+                    { chord: "C", text: "(C) Je ne (G) chancelle (C) pas." }
+                ],
+            ]
+        },
+        {
+            key: "dim-10-05-2026",
+            title: "IN THE SWEET",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a land that is (F) fairer than (C) day," },
+                    { chord: "C", text: "(C) And by faith we can (D) see it a (G) far," },
+                    { chord: "C", text: "(C) For the Father waits (F) over the (C) way" },
+                    { chord: "C", text: "(C) To prepare us a (G) dwelling place (C) there!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the sweet by and (G) by," },
+                    { chord: "G", text: "(G) We shall (F) meet on that beautiful (C) shore;" },
+                    { chord: "C", text: "(C) In the sweet by and (F) by," },
+                    { chord: "F", text: "(F) We shall (C) meet on that (G) beautiful (C) shore." }
+                ],
+                [
+                    { chord: "C", text: "(C) We shall sing on that (F) beautiful (C) shore" },
+                    { chord: "C", text: "(C) The melodious (D) songs of the (G) blest;" },
+                    { chord: "C", text: "(C) And our spirits (F) shall sorrow no (C) more" },
+                    { chord: "C", text: "(C) Not a sigh for the (G) blessing of (C) rest." }
+                ],
+                [
+                    { chord: "C", text: "(C) To our bountiful (F) Father (C) above" },
+                    { chord: "C", text: "(C) We will offer our (D) tribute of (G) praise" },
+                    { chord: "C", text: "(C) For the glorious (F) gift of His (C) love" },
+                    { chord: "C", text: "(C) And the blessings that (G) hallow our (C) days." }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-05-2025",
+            title: "THIS WORLD IS NOT MY HOME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_fIly2AtV4U?si=-k4IiPgYweKnT3o7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) This world is not my home" },
+                    { chord: "C", text: "(C) I'm (F) just a-passing (C) through" },
+                    { chord: "C", text: "(C) My treasures are laid up" },
+                    { chord: "D", text: "(D) Somewhere beyond the (G) blue" },
+                    { chord: "C", text: "(C) The angels beckon me" },
+                    { chord: "C", text: "(C) From (F) heaven's open (C) door" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh Lord, you know" },
+                    { chord: "C", text: "(C) I (F) have no friend like (C) you" },
+                    { chord: "C", text: "(C) If heaven's not my home" },
+                    { chord: "D", text: "(D) Then Lord, what will I (G) do?" },
+                    { chord: "C", text: "(C) The angels beckon me" },
+                    { chord: "C", text: "(C) From (F) heaven's open (C) door" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) They're all expecting me" },
+                    { chord: "C", text: "(C) And (F) that's one thing I (C) know" },
+                    { chord: "C", text: "(C) My savior pardoned me" },
+                    { chord: "D", text: "(D) and now I onward (G) go" },
+                    { chord: "C", text: "(C) I know He'll take me through" },
+                    { chord: "C", text: "(C) Though (F) I am weak and (C) poor" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Just up in Glory Land" },
+                    { chord: "C", text: "(C) We'll (F) live eternally (C) " },
+                    { chord: "C", text: "(C) The Saints on every hand" },
+                    { chord: "D", text: "(D) Are shouting (G) victory" },
+                    { chord: "C", text: "(C) their song of sweetest praise" },
+                    { chord: "C", text: "(C) Drifts (F) back from Heaven's (C) shore" },
+                    { chord: "C", text: "(C) And I can't feel at home" },
+                    { chord: "C", text: "(C) In this (G) world anymore (C) " },
+                ],
+            ]
+        },
+        {
+            key: "dim-10-05-2026",
+            title: "BRINGING IN THE SHEAVES.",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ad54bH-nQTM?si=lwW6FDwKTNtvo66h",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Sowing in the morning, (F) sowing seeds of kindness," },
+                    { chord: "C", text: "(C) Sowing in the noontide (D) and the dewy (G) eve;" },
+                    { chord: "C", text: "(C) Waiting for the harvest (F) and the time of reaping" },
+                    { chord: "C", text: "(C) We shall come rejoicing, (G) bringing in the (C) sheaves." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Bringing in the sheaves, (F) bringing in the (C) sheaves," },
+                    { chord: "C", text: "(C) We shall come rejoicing, (D) bringing in the (G) sheaves;" },
+                    { chord: "C", text: "(C) Bringing in the sheaves, (F) bringing in the (C) sheaves" },
+                    { chord: "Am", text: "(Am) We shall come (F) rejoicing, (G) bringing in the (C) sheaves. " }
+                ],
+                [
+                    { chord: "C", text: "(C) Sowing in the sunshine, (F) sowing in the shadows," },
+                    { chord: "C", text: "(C) Fearing neither clouds nor (D) winter’s chilling (G) breeze;" },
+                    { chord: "C", text: "(C) By and by the harvest (F) and the labor ended," },
+                    { chord: "C", text: "(C) We shall come rejoicing, (G) bringing in the (C) sheaves." }
+                ],
+                [
+                    { chord: "C", text: "(C) Going forth with weeping, (F) sowing for the Master," },
+                    { chord: "C", text: "(C) Though the loss sustained, our (D) spirit often (G) grieves;" },
+                    { chord: "C", text: "(C) When our weeping’s over, (F) He will bid us welcome," },
+                    { chord: "C", text: "(C) We shall come rejoicing, (G) bringing in the (C) sheaves." }
+                ]
+            ]
+        },
+        {
+            key: "dim-10-05-2026",
+            title: "VILLE DE PERLES ET DE LUMIERES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/JD8Zc8SffPo?si=IRM2wlLIPyv78LYB",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ville de (F) perles et de (C) lumière" },
+                    { chord: "F", text: "(F) Existant sur les (G) hauteurs," },
+                    { chord: "C", text: "(C) Personne n’a encore sur (F) terre" },
+                    { chord: "C", text: "(C) Pu contempler (G) Sa (C) splendeur." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Là, l’Amour de Dieu (C) éclaire," },
+                    { chord: "F", text: "(F) Ce sera l’Agneau (G) Lui-même" },
+                    { chord: "C", text: "(C) Dans cette ville (F) hospitalière" },
+                    { chord: "C", text: "(C) La nouvelle (G) Jérusalem. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) C’est là (F) où la gloire (C) abonde," },
+                    { chord: "F", text: "(F) Où l’arbre de Vie (G) fleurit," },
+                    { chord: "C", text: "(C) Où le fleuve de Vie (F) inonde" },
+                    { chord: "C", text: "(C) De Ses flots (G) ce Saint (C) Abri." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les (F) pèlerins (C) arrivent," },
+                    { chord: "F", text: "(F) Epuisés des grands (G) déserts," },
+                    { chord: "C", text: "(C) Aux fontaines des eaux (F) vives," },
+                    { chord: "C", text: "(C) Quel repos (G) leur est (C) offert." }
+                ],
+                [
+                    { chord: "C", text: "(C) Oh ! Quelle (F) joie bientôt sur (C) terre" },
+                    { chord: "F", text: "(F) Quand Jésus sera (G) présent ;" },
+                    { chord: "C", text: "(C) Cette ville aux mille (F) lumières" },
+                    { chord: "C", text: "(C) Y sera (G) éternellement. (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-10-05-2026",
+            title: "J'ENTENDS TA DOUCE VOIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/idwuazDrChA?si=y9bYp6d5hKT9YIrj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Jésus, je viens à (C) Toi." },
+                    { chord: "C", text: "(C) Je viens, ô Sauveur, (Am) lave-moi" },
+                    { chord: "Am", text: "(Am) Dans (F) le sang (G) de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus, Roi des (F) rois," },
+                    { chord: "C", text: "(C) Qui (D) mourus pour (G) moi," },
+                    { chord: "C", text: "(C) Je veux mourir avec Toi," },
+                    { chord: "F", text: "(F) Avec (G) Toi sur la (C) Croix." }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Qui me dit : 'Crois en (C) Moi !'" },
+                    { chord: "C", text: "(C) Je crois, Seigneur, soutiens ma (Am) foi," },
+                    { chord: "Am", text: "(Am) Tiens (F) moi (G) près de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Elle pénètre en (C) moi" },
+                    { chord: "C", text: "(C) Et me dit d'aimer comme (Am) Toi." },
+                    { chord: "Am", text: "(Am) De (F) l'amour (G) de la (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Toi qui mourus pour (C) moi," },
+                    { chord: "C", text: "(C) Seigneur, que je m'unisse à (Am) Toi" },
+                    { chord: "Am", text: "(Am) Dans (F) ta (G) mort, par la (C) foi !" }
+                ]
+            ]
+        },
+        // Fin Cantiques du 10 Mai 2026 (Dix-Neuvième Dimanche de l'année 2026)
+
         // Debut Cantiques du 03 Mai 2026 (Dix-Huitième Dimanche de l'année 2026)
         {
             key: "dim-03-05-2026",
