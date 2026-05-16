@@ -1,5 +1,276 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 17 Mai 2026 (Vingtième Dimanche de l'année 2026)
+        {
+            key: "dim-17-05-2026",
+            title: "THEN JESUS CAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oMvBEuU8V2U?si=Yu5NpM2-AzJsAfPA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One sat alone beside the highway (G) begging," },
+                    { chord: "G", text: "(G) His eyes were blind, the light he could not (C) see." },
+                    { chord: "C", text: "(C) He clutched his (Bm) rags and shivered in the (C) shadows" },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) bade his darkness (C) flee." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tempter's power is (C) broken;" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tears are wiped (C) away," },
+                    { chord: "C", text: "(C) He takes the gloom and fills the life with (F) glory," },
+                    { chord: "F", text: "(F) For all is (C) changed when (G) Jesus comes to (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) From home and friends the evil spirits (G) drove him," },
+                    { chord: "G", text: "(G) Among the tombs he dwelt in (C) misery;" },
+                    { chord: "C", text: "(C) He cut himself (Bm) as demon powers possessed (C) him," },
+                    { chord: "F", text: "(F) Then Jesus (F) came and (G) set the captive (C) free." }
+                ],
+                [
+                    { chord: "C", text: "(C) 'Unclean, unclean!' the leper cried in (G) torment," },
+                    { chord: "G", text: "(G) The deaf, the dumb, in helplessness stood (C) near;" },
+                    { chord: "C", text: "(C) The fever raged, (Bm) disease had gripped its' (C) victim," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) cast out every (C) fear." }
+                ],
+                [
+                    { chord: "C", text: "(C) Their hearts were sad as in the tomb they (G) laid Him," },
+                    { chord: "G", text: "(G) For death had come and taken Him (C) away;" },
+                    { chord: "C", text: "(C) Their night was (Bm) dark and bitter tears were (C) falling," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) night was turned to (C) day." }
+                ],
+                [
+                    { chord: "C", text: "(C) So men today have found the Savior (G) able," },
+                    { chord: "G", text: "(G) They could not conquer passion, lust and (C) sin;" },
+                    { chord: "C", text: "(C) Their broken hearts (Bm) had left them sad and (C) lonely," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) dwelt, Himself, (C) within." }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-05-2026",
+            title: "JESUS M'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/URb54wIwHfw?si=0VWd14dOfv-DJ4_P",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans ce monde pervers et (F) agité" },
+                    { chord: "C", text: "(C) Seigneur Tu (D) m'as (G) cherché" },
+                    { chord: "C", text: "(C) Tu m'as cherché et (F) m'as trouvé" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (D) mort pour (G) moi" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (G) mort pour (C) moi" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quelques soient les souffrances, les (F) moqueries" },
+                    { chord: "C", text: "(C) Je n'ai rien à (D) gagner ici (G) bas ;" },
+                    { chord: "C", text: "(C) Jesus m'aime, (F) ça me suffit" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) La couronne d'épine, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Oh ! toi le (D) Roi des (G) Rois" },
+                    { chord: "C", text: "(C) La couronne de honte, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Pour venir et (G) mourir pour (C) moi." }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-05-2026",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-05-2026",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-05-2026",
+            title: "QUELLE BELLE LUMIERE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/h0C_Ur_sTAc?si=cK3uKhb6NctAJqTv",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quelle belle lumière sur le chemin de vie," },
+                    { chord: "C", text: "(C) Les sept tonnerres sont (D) venus me (G) chercher," },
+                    { chord: "C", text: "(C) La vie de Dieu est descendue en (F) moi." },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) J’ai retrouvé la paix qui vient de Toi," },
+                    { chord: "C", text: "(C) J’ai retrouvé la (D) joie de mon (G) salut," },
+                    { chord: "C", text: "(C) J’étais perdu, Tu m’as (F) récupéré," },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand le mystère a été dévoilé" },
+                    { chord: "C", text: "(C) J’ai vu mon nom dans le (D) livre de (G) l’Agneau," },
+                    { chord: "C", text: "(C) Je fis comme Jean, oui j’ai crié de (F) joie," },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Longtemps noyé dans les soucis du monde," },
+                    { chord: "C", text: "(C) Aussi lié par les (D) chaînes du (G) péché," },
+                    { chord: "C", text: "(C) En bon berger, Tu es venu à (F) moi;" },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) L’Epouse de Christ autour des sept tonnerres, " },
+                    { chord: "C", text: "(C) Reçoit le Saint-Esprit (D) et la (G) puissance." },
+                    { chord: "C", text: "(C) C’est par Ta grâce que je suis l’un d’entre (F) eux, " },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Merci Seigneur pour la lumière du soir," },
+                    { chord: "C", text: "(C) Qui a chassé en (D) moi tous les (G) démons." },
+                    { chord: "C", text: "(C) Mon cœur devient Ta maison de (F) prière " },
+                    { chord: "F", text: "(F) Oh (C) Jésus, Tu (G) m’as tant (C) aimé." }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-05-2026",
+            title: "LOUEZ L'ETERNEL CAR IL EST BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/x2AMclxKHYs?si=tawOpWgKtiU2nUf3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Qui dira les hauts faits de (F) l’Eternel ? (C) " },
+                    { chord: "C", text: "(C) Qui publiera toute Sa (G) louange (C) ?" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh ! Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                    { chord: "C", text: "(C) Louez (F) l’Eternel (C) Car (G) Il est (Am) bon" },
+                    { chord: "Am", text: "(Am) Louez (F) l’Eternel (C) Car (G) Il est (C) bon" },
+                ],
+                [
+                    { chord: "C", text: "(C) Louez l’Eternel car (F) Il est (C) bon" },
+                    { chord: "C", text: "(C) Sa miséricorde dure (G) à toujours (C) " },
+                    { chord: "C", text: "(C) Il m’a révélé tous les mystères (F) cachés (C) " },
+                    { chord: "C", text: "(C) La révélation des sept (G) tonnerres (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui Dieu nous a bénis de (F) toutes bénédictions (C) " },
+                    { chord: "C", text: "(C) Il nous a envoyé la colonne (G) de feu (C) " },
+                    { chord: "C", text: "(C) Les signes, miracles et les (F) prodiges (C) " },
+                    { chord: "C", text: "(C) Louons l’Eternel car Il (G) est bon (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Gloire, Gloire, gloire, (F) Oh ! Alléluia (C) !" },
+                    { chord: "C", text: "(C) Dans l’Eternité en (G) éternité, (C) " },
+                    { chord: "C", text: "(C) Qu’Il soit loué, béni et (F) glorifié (C) " },
+                    { chord: "C", text: "(C) Aux siècles des siècles et (G) à jamais. (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-17-05-2026",
+            title: "PRAISING THE LORD ALWAYS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/47OIw6etSv8?si=HAPWx7Xspopc2uS4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Praising the Lord always" },
+                    { chord: "C", text: "(C) Praising the (G) Lord (C) always" },
+                    { chord: "C", text: "(C) Praising the Lord with all (F) my heart" },
+                    { chord: "F", text: "(F) Praising the (C) Lord with all (G) my heart (C) always" },
+                    { chord: "C", text: "(C) My Lord is (G) good" },
+                    { chord: "G", text: "(G) My Lord is (C) good" },
+                    { chord: "C", text: "(C) My Lord is (F) good" },
+                    { chord: "G", text: "(G) Is good to (C) me" }
+                ]
+            ]
+        },
+        {
+            key: "dim-17-05-2026",
+            title: "ONLY BELEIVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IAp158zTDU4?si=GbZ2834cmGkYkA1p",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, from the cross to the throne," },
+                    { chord: "C", text: "(C) From (F) death (C) into life (D) He went for His (G) own;" },
+                    { chord: "C", text: "(C) All power in earth, all power (F) above," },
+                    { chord: "F", text: "(F) Is given to (C) Him for the (G) flock of His (C) love." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) only (G) believe;" },
+                    { chord: "C", text: "(C) Only believe, (F) only believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) only (C) believe." },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are possible, (D) Lord I (G) believe;" },
+                    { chord: "C", text: "(C) Lord I believe, (F) Lord I believe;" },
+                    { chord: "C", text: "(C) All things are (Am) possible, (G) Lord I (C) believe" },
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, He goeth ahead," },
+                    { chord: "C", text: "(C) Your (F) Shepherd (C) selecteth the (D) path you must (G) tread;" },
+                    { chord: "C", text: "(C) The waters of Marah He’ll sweeten for (F) thee," },
+                    { chord: "F", text: "(F) He drank all the (C) bitter in (G) Gethsemane. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Fear not, little flock, whatever your lot," },
+                    { chord: "C", text: "(C) He enters (F) all (C) rooms, (D) “the doors being (G) shut,”" },
+                    { chord: "C", text: "(C) He never forsakes; He never is (F) gone," },
+                    { chord: "F", text: "(F) So count on His (C) presence in (G) darkness and (C) dawn." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 17 Mai 2026 (Vingtième Dimanche de l'année 2026)
+
+
         // Debut Cantiques du 10 Mai 2026 (Dix-Neuvième Dimanche de l'année 2026)
         {
             key: "dim-10-05-2026",
