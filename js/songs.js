@@ -76,27 +76,37 @@ const songs = [
         },
         {
             key: "dim-24-05-2026",
-            title: "NON, NON JAMAIS PASSERA",
+            title: "L'AMOUR DE DIEU",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
             verses: [
                 [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Non, non jamais passera" },
-                    { chord: "C", text: "(C) La parole de Dieu jamais ne passera" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
                 ],
                 [
-                    { chord: "C", text: "(C) Le ciel et la terre un jour, passeront" },
-                    { chord: "C", text: "(C) Mais la parole de Dieu jamais passera," },
-                ],
-                [
-                    { chord: "C", text: "(C) Pourquoi t'accroches-tu à ce qui passera," },
-                    { chord: "C", text: "(C) Vient à Jésus et tu auras la vie." },
-                ],
-                [
-                    { chord: "C", text: "(C) Vers le soir la lumière apparaîtra," },
-                    { chord: "C", text: "(C) Pour emmener la semence à la maturité." },
-                ],
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
             ]
         },
         {
