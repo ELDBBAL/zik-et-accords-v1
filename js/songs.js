@@ -3,109 +3,67 @@ const songs = [
         // Debut Cantiques du 24 Mai 2026 (Vingt et unième Dimanche de l'année 2026)
         {
             key: "dim-24-05-2026",
-            title: "GREAT IS THAT FAITHFULNESS",
+            title: "JUST A CLOSER WALK WITH THEE",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/ErwiBz1QA4o?si=2ewUKdHXaTy_gtzJ",
+            youtubeLink: "https://youtu.be/iPmJemdLGf8?si=naRe4Q-0JBtF73FA",
             verses: [
                 [
-                    { chord: "C", text: "(C) Great is thy faithfulness, (G) O God, my (C) Father;" },
-                    { chord: "F", text: "(F) There is no (C) shadow of (D) turning with (G) thee." },
-                    { chord: "C", text: "(C) Thou changest not, thy compassions, they (F) fail not;" },
-                    { chord: "F", text: "(F) As thou hast (C) been, thou (G) forever wilt (C) be." }
-                ],
-                [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Great is thy faithfulness," },
-                    { chord: "F", text: "(F) Great is thy faithfulness," },
-                    { chord: "C", text: "(C) Morning by morning new (D) mercies I (G) see." },
-                    { chord: "C", text: "(C) All I have needed thy hand hast (F) provided;" },
-                    { chord: "F", text: "(F) Great is thy (C) faithfulness, (G) Lord unto (C) me." },
-                ],
-                [
-                    { chord: "C", text: "(C) Summer and winter and (G) springtime and (C) harvest," },
-                    { chord: "F", text: "(F) Sun, moon, (C) and stars in (D) their courses (G) above" },
-                    { chord: "C", text: "(C) Join with all nature in manifold (F) witness" },
-                    { chord: "F", text: "(F) To thy great (C) faithfulness, (G) mercy, and (C) love." }
-                ],
-                [
-                    { chord: "C", text: "(C) Pardon for sin and a (G) peace that (C) endureth," },
-                    { chord: "F", text: "(F) Thine own dear (C) presence to (D) cheer and to (G) guide;" },
-                    { chord: "C", text: "(C) Strength for today and bright hope for (F) tomorrow," },
-                    { chord: "F", text: "(F) Blessings all (C) mine and (G) ten thousand (C) beside." }
-                ],
-            ]
-        },
-        {   
-            key: "dim-24-05-2026",
-            title: "TOUT EST EN LUI",
-            keySignature: "C",
-            youtubeLink: "https://youtu.be/IM9LhW7S-_w?si=ZTe2tEZfXOEwVIF8",
-            verses: [
-                [
-                    { chord: "C", text: "(C) Le Dieu puissant, c’est Jésus c’est le (F) Prince de (C) paix" },
-                    { chord: "C", text: "(C) Le Père de l’Eternité et (D) le Roi de (G) beauté." },
-                    { chord: "C", text: "(C) Le Merveilleux en sagesse Par (F) qui toute chose est (C) faite," },
-                    { chord: "C", text: "(C) La plénitude (F) divine en (G) Jésus (C) incarnée." }
+                    { chord: "C", text: "(C) I am weak but Thou art (F) strong;" },
+                    { chord: "G", text: "(G) Jesus, keep me from all (C) wrong;" },
+                    { chord: "C", text: "(C) I'll be satisfied as (F) long" },
+                    { chord: "C", text: "(C) As I walk, let me (G) walk close to (C) Thee" }
                 ],
                 [
                     { chord: "C", text: "CHORUS:" },
-                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
-                    { chord: "C", text: "(C) La plénitude divine est (D) toute en (G) Lui." },
-                    { chord: "C", text: "(C) Tout est en Lui, tout (F) est en (C) Lui" },
-                    { chord: "C", text: "(C) Jésus est Dieu (F) Tout-puissant et (G) tout est en (C) Lui." }
+                    { chord: "C", text: "(C) Just a closer walk with (F) Thee" },
+                    { chord: "G", text: "(G) Grant it, Jesus, is my (C) plea," },
+                    { chord: "C", text: "(C) Daily walking close to (F) Thee," },
+                    { chord: "C", text: "(C) Let it be, dear (G) Lord, let it (C) be." }
                 ],
                 [
-                    { chord: "C", text: "(C) Emmanuel : Dieu avec nous, (F) Jéhovah (C) l’Eternel" },
-                    { chord: "C", text: "(C) L’Esprit tout omniprésent qui (D) remplit (G) l’univers," },
-                    { chord: "C", text: "(C) Le grand Sacrificateur et (F) l’Agneau des (C) pécheurs," },
-                    { chord: "C", text: "(C) L’auteur de la (F) Rédemption, que (G) béni soit Son (C) Nom" }
+                    { chord: "C", text: "(C) Thro' this world of toil and (F) snares" },
+                    { chord: "G", text: "(G) If I falter, Lord, who (C) cares?" },
+                    { chord: "C", text: "(C) Who with me my burden (F) shares?" },
+                    { chord: "C", text: "(C) None but Thee, dear (G) Lord, none but (C) Thee." }
                 ],
                 [
-                    { chord: "C", text: "(C) Le commencement et la fin, (F) l’Alpha et (G) l’Omega," },
-                    { chord: "C", text: "(C) La Vraie Parole incarnée, (D) l’Ami des (G) rachetés." },
-                    { chord: "C", text: "(C) La sagesse et perfection, ma (F) justice et (C) puissance" },
-                    { chord: "C", text: "(C) Tout ce dont j’ai le (F) besoin: je (G) le trouve en Sa (C) main." }
-                ],
-                [
-                    { chord: "C", text: "(C) Le Dieu que nous attendions (F) sera la gaie (C) chanson" },
-                    { chord: "C", text: "(C) De l’Israël revenu, quand (D) paraîtra (G) Jésus." },
-                    { chord: "C", text: "(C) Il viendra nous délivrer notre (F) Agneau (C) immolé," },
-                    { chord: "C", text: "(C) La plénitude est (F) en Lui, Le (G) Vainqueur de la (C) nuit." }
+                    { chord: "C", text: "(C) When my feeble life is (F) o'er," },
+                    { chord: "G", text: "(G) Time for me will be no (C) more;" },
+                    { chord: "C", text: "(C) Guide me gently, safely (F) o'er" },
+                    { chord: "C", text: "(C) To Thy kingdom shore, (G) to Thy (C) shore." }
                 ]
             ]
         },
         {
             key: "dim-24-05-2026",
-            title: "L'AMOUR DE DIEU",
+            title: "THE OLD TIME POWER",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            youtubeLink: "https://youtu.be/eP1XPFr0-IM?si=W7YGFv6Pt1CYZNWq",
             verses: [
                 [
-                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
-                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
-                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
-                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
-                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
-                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
-                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
-                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                    { chord: "C", text: "(C) They were in an upper chamber," },
+                    { chord: "C", text: "(C) They (F) were all with (G) one (C) accord, " },
+                    { chord: "C", text: "(C) When the Holy Ghost descended," },
+                    { chord: "C", text: "(C) As (F) was promised (G) by the (C) Lord." }
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
-                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
-                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
-                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                    { chord: "C", text: "(C) O Lord, send the pow'r just now," },
+                    { chord: "G", text: "(G) O Lord, send the (C) pow'r just now," },
+                    { chord: "C", text: "(C) O Lord, send the pow'r (Em) just (Am) now," },
+                    { chord: "C", text: "(C) And (F) baptize (G) ev'ry (C) one." }
                 ],
                 [
-                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
-                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
-                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
-                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
-                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
-                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
-                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
-                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                    { chord: "C", text: "(C) Yes, this pow'r from heav’n descended," },
+                    { chord: "C", text: "(C) With (F) the sound of (G) rushing (C) wind;" },
+                    { chord: "C", text: "(C) Tongues of fire came down upon them," },
+                    { chord: "C", text: "(C) As (F) the Lord (G) said He would (C) send." }
+                ],
+                [
+                    { chord: "C", text: "(C) Yes, this 'old-time' pow'r was given" },
+                    { chord: "C", text: "(C) To (F) our fathers (G) who were (C) true;" },
+                    { chord: "C", text: "(C) This is promised to believers," },
+                    { chord: "C", text: "(C) And (F) we all (G) may have it (C) too." }
                 ]
             ]
         },
@@ -154,6 +112,23 @@ const songs = [
                     { chord: "C", text: "(C) All my night was turned to day," },
                     { chord: "C", text: "(C) All my (F) burdens rolled away;" },
                     { chord: "G", text: "(G) Now the Comforter abides with (C) me." }
+                ]
+            ]
+        },
+        {
+            key: "dim-24-05-2026",
+            title: "IF THE SAME SPIRIT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/G8iLUrkK_7U?si=cQfjNV4wD7_O69Iz",
+            verses: [
+                [
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) If the same spirit" },
+                    { chord: "C", text: "(C) That raised Christ from the (G) dead" },
+                    { chord: "G", text: "(G) Dwell in you, dwell in (C) you;" },
+                    { chord: "C", text: "(C) It will (F) quicken your mortal (C) body" }
                 ]
             ]
         },
@@ -239,79 +214,89 @@ const songs = [
             ]
         },
         {
-            key: "dim-24-05-2026",
-            title: "POUR MOI CHRÉTIEN",
+            key: "dim-25-04-2026",
+            title: "PAR LA FOI NOUS MARCHERONS",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/_0YjekoO0pU?si=lpeLLqmeUMQ7-R8G",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
             verses: [
                 [
-                    { chord: "C", text: "(C) Pour moi Chrétien, la terre est un exil," },
-                    { chord: "C", text: "(C) Mais tout est (G) bien, mais tout est (C) bien." },
-                    { chord: "C", text: "(C) Il faut marcher de péril en péril;" },
-                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
-                    { chord: "C", text: "(C) Pourquoi les (G) pleurs, la (F) terreur ou (C) l’ennui?" },
-                    { chord: "C", text: "(C) Christ est en (G) moi demain (F) comme (C) aujourd’hui;" },
-                    { chord: "C", text: "(C) Au ciel bientôt je serai tout à Lui;" },
-                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
                 ],
                 [
-                    { chord: "C", text: "(C) Larmes, travail, deuil, tristesse ici-bas;" },
-                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
-                    { chord: "C", text: "(C) De Canaan j’approche à chaque pas;" },
-                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
-                    { chord: "C", text: "(C) En vain le monde (G) et son (F) charme (C) trompeur;" },
-                    { chord: "C", text: "(C) Dans ses (G) liens veut (F) retenir mon (C) cœur;" },
-                    { chord: "C", text: "(C) J’avance en paix, les yeux sur mon Sauveur," },
-                    { chord: "F", text: "(F) Oui, tout est bien, oui, tout est bien." }
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
                 ],
                 [
-                    { chord: "C", text: "(C) Encore un jour, et j’atteindrai le but;" },
-                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
-                    { chord: "C", text: "(C) Et je verrai le pays du salut;" },
-                    { chord: "F", text: "(F) Oui, tout est (G) bien; oui tout est (C) bien." },
-                    { chord: "C", text: "(C) Encore un (G) jour, le (F) monde va (C) passer;" },
-                    { chord: "C", text: "(C) Ô pèlerin, (G) marche (F) sans te (C) lasser:" },
-                    { chord: "C", text: "(C) Bientôt en Dieu tu vas te reposer." },
-                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
                 ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
             ]
         },
         {
             key: "dim-24-05-2026",
-            title: "WHEN HE REACHED DOWN",
+            title: "LE GRAND JOUR S'EST LEVÉ",
             keySignature: "C",
-            youtubeLink: "https://youtu.be/R8T2gx9yCSE?si=GWohU3MxkoSjnfY7",
+            youtubeLink: "https://youtu.be/ZZ3ex794OKI?si=DJnanWJ8YkhXz3nA",
             verses: [
                 [
-                    { chord: "C", text: "(C) Once my soul was astray from the (G) heavenly (C) way" },
-                    { chord: "C", text: "(C) I was wretched and (G) blind as (C) could be" },
-                    { chord: "C", text: "(C) But my Savior in love gave me (F) peace from (C) above" },
-                    { chord: "C", text: "(C) When he reached down his (G) hand for (C) me" }
+                    { chord: "C", text: "(C) Le grand jour s'est levé" },
+                    { chord: "C", text: "(C) Dieu (F) nous a visités" },
+                    { chord: "C", text: "(C) Voici des temps nouveaux" },
+                    { chord: "D", text: "(D) Chantons gloire à (G) l'Agneau" },
+                    { chord: "C", text: "(C) Nous recevons de Christ" },
+                    { chord: "C", text: "(C) Ce (F) qu'Il avait promis" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
                 ],
                 [
-                    { chord: "", text: "CHORUS:" },
-                    { chord: "C", text: "(C) When the Savior (F) reached down for (C) me" },
-                    { chord: "C", text: "(C) When he reached (D) down his hand for (G) me" },
-                    { chord: "C", text: "(C) I was lost and undone (F) without God or his (C) Son" },
-                    { chord: "C", text: "(C) When he reached down his (G) hand for (C) me" }
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Le Saint-Esprit est là" },
+                    { chord: "C", text: "(C) Le (F) Saint-Esprit est là" },
+                    { chord: "C", text: "(C) La mort a disparu" },
+                    { chord: "C", text: "(C) Dieu (D) donne un plein (G) salut" },
+                    { chord: "C", text: "(C) Et sur le monde entier" },
+                    { chord: "C", text: "(C) Le (F) grand jour s'est levé" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
                 ],
                 [
-                    { chord: "C", text: "(C) I was nearing despair, when He (G) came to me (C) there," },
-                    { chord: "C", text: "(C) And he showed me that (G) I could (C) be free;" },
-                    { chord: "C", text: "(C) Then He lifted my feet, gave (F) me glory (C) complete," },
-                    { chord: "C", text: "(C) When He reach’d down His (G) hand for (C) me." }
+                    { chord: "C", text: "(C) L'obscurité s'enfuit" },
+                    { chord: "C", text: "(C) La (F) lumière a jailli" },
+                    { chord: "C", text: "(C) Chassé de cœurs troublés" },
+                    { chord: "D", text: "(D) Toute (G) incrédulité" },
+                    { chord: "C", text: "(C) Car Christ le Roi des Rois" },
+                    { chord: "C", text: "(C) Répand (F) l'Esprit de foi" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
                 ],
                 [
-                    { chord: "C", text: "(C) How my heart does rejoice when I (G) hear his sweet (C) voice" },
-                    { chord: "C", text: "(C) In a tempest to him I (G) can (C) cling" },
-                    { chord: "C", text: "(C) I can lean on his arm safe and (F) sure from all (C) harm" },
-                    { chord: "C", text: "(C) When he reaches down his (G) hand for (C) me" }
+                    { chord: "C", text: "(C) Le Grand Consolateur " },
+                    { chord: "C", text: "(C) Vient (F) remplir tous les cœurs" },
+                    { chord: "C", text: "(C) L'Esprit de vérité" },
+                    { chord: "D", text: "(D) Nous met en (G) liberté" },
+                    { chord: "C", text: "(C) Il ouvre les prisons" },
+                    { chord: "C", text: "(C) Répand (F) la guérison" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
                 ],
                 [
-                    { chord: "C", text: "(C) Since the Lord gave me peace (G) heav’nly joys never (C) cease," },
-                    { chord: "C", text: "(C) Lord, I give all my (G) life unto (C) Thee;" },
-                    { chord: "C", text: "(C) Guide my feet, hold my hand, grant (F) with Thee I may (C) stand," },
-                    { chord: "C", text: "(C) For you reach’d down your (G) hand for (C) me." }
+                    { chord: "C", text: "(C) Que tous les rachetés " },
+                    { chord: "C", text: "(C) Chantent (F) leur liberté" },
+                    { chord: "C", text: "(C) Christ a tout accompli" },
+                    { chord: "D", text: "(D) Il a donné (G) l'Esprit" },
+                    { chord: "C", text: "(C) Voyez trembler l'enfer" },
+                    { chord: "C", text: "(C) Car (F) dans tout l'univers" },
+                    { chord: "C", text: "(C) Le Saint (G) Esprit est (C) là." }
                 ]
             ]
         },
