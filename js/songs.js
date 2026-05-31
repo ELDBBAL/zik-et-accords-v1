@@ -1,5 +1,283 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 31 Mai 2026 (Vingt deuxième Dimanche de l'année 2026)
+        {
+            key: "dim-31-05-2026",
+            title: "IT IS WELL WITH MY SOUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When peace like a river, (F) attendeth (G) my (C) way" },
+                    { chord: "C", text: "(C) When sorrows like (D) sea billows (G) roll" },
+                    { chord: "C", text: "(C) Whatever my (F) lot, thou hast (Dm) taught me to (G) say" },
+                    { chord: "G", text: "(G) It is (C) well, it is (F) well, (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) It is well, it is well" },
+                    { chord: "G", text: "(G) With my (C) soul, with my soul" },
+                    { chord: "C", text: "(C) It is (F) well, it is well (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though Satan should buffet, though (F) trials (G) should (C) come" },
+                    { chord: "C", text: "(C) Let this blest (D) assurance (G) control" },
+                    { chord: "C", text: "(C) That Christ has (F) regarded my (Dm) helpless (G) estate" },
+                    { chord: "G", text: "(G) And hath (C) shed His own (F) blood (G) for my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) My sin, oh, the bliss of this (F) glorious (G) - (C) thought!" },
+                    { chord: "C", text: "(C) My sin, not in (D) part but the (G) whole" },
+                    { chord: "C", text: "(C) Is nailed to the (F) cross, and I (Dm) bear it no (G) more" },
+                    { chord: "G", text: "(G) Praise the (C) Lord, praise the (F) Lord, (G) o my (C) soul!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-05-2026",
+            title: "QUEL JOUR ÇA SERA",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/N6wCZ7fTk7k?si=V-2XzUuFusHA6-OC",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un jour qui vient," },
+                    { chord: "C", text: "(C) 0ù les maux ne seront plus," },
+                    { chord: "C", text: "(C) Ni les (G) nuages dans le ciel, " },
+                    { chord: "G", text: "(G) Plus de (C) larmes à jamais." },
+                    { chord: "C", text: "(C) Tout est (F) paix et pour toujours" },
+                    { chord: "C", text: "(C) Sur l’autre rive pavée d’or" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oh quel (F) jour ce sera," },
+                    { chord: "F", text: "(F) Quand mon (C) Jésus je verrai," },
+                    { chord: "C", text: "(C) Et je (G) vois de face " },
+                    { chord: "G", text: "(G) Celui (C) qui m’a sauvé par Sa grâce." },
+                    { chord: "C", text: "(C) Quand Il (F) me prend par la main " },
+                    { chord: "C", text: "(C) Me conduit à la terre promise" },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Il n’y aura ni chagrin, " },
+                    { chord: "C", text: "(C) Ni fardeau à porter," },
+                    { chord: "C", text: "(C) Non plus (G) la maladie," },
+                    { chord: "C", text: "(C) Douleurs et séparation" },
+                    { chord: "C", text: "(C) Pour (F) toujours je serai" },
+                    { chord: "F", text: "(F) Avec (C) celui qui est mort pour moi." },
+                    { chord: "C", text: "(C) Oh quel (G) jour, glorieux jour ce (C) sera !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-05-2026",
+            title: "NAVIGUANT SUR L'OCEAN",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Navigant sur l’océan de la vie" },
+                    { chord: "C", text: "(C) Les flots peuvent (F) m’entraîner au (C) loin" },
+                    { chord: "C", text: "(C) Mais j’espère voir mon (G) pilote face à face" },
+                    { chord: "G", text: "(G) Oh ! la tempête peut (C) rugir" },
+                    { chord: "C", text: "(C) Sur l’océan déchaîné, (G) Jésus me (C) gardera" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Bientôt, nous arriverons chez nous" },
+                    { chord: "C", text: "(C) Dans (F) cette (G) belle (C) cité" },
+                    { chord: "C", text: "(C) Jésus et son (G) épouse rachetée" },
+                    { chord: "G", text: "(G) Après les combats, (C) tourments, déceptions" },
+                    { chord: "C", text: "(C) Nous arriverons chez (G) nous" },
+                    { chord: "F", text: "(F) Oh  pèlerins, (G) du courage ! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-05-2026",
+            title: "ILS VIENNENT DE L’EST ET DE L’OUEST",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/GVcXmO3l9mI?si=v__dkhzuv6n32EUE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ils viennent de l’Est et de l’Ouest," },
+                    { chord: "C", text: "(C) Ils viennent de lointains (G) pays" },
+                    { chord: "G", text: "(G) A la fête du Roi, manger à Sa table " },
+                    { chord: "G", text: "(G) Que ces pèlerins sont (C) bénis." },
+                    { chord: "C", text: "(C) Contemplant Son saint visage, " },
+                    { chord: "C", text: "(C) Brillant d’un éclat (F) divin," },
+                    { chord: "F", text: "(F) Participants de Sa (C) grâce, " },
+                    { chord: "G", text: "(G) Les joyaux de Sa (C) couronne." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je suis si heureux depuis" },
+                    { chord: "C", text: "(C) Que Jésus m’a (G) libéré" },
+                    { chord: "G", text: "(G) Il n’y a pas longtemps," },
+                    { chord: "G", text: "(G) J’étais si chargé" },
+                    { chord: "G", text: "(G) Son joug est très doux pour (C) moi" },
+                    { chord: "C", text: "(C) Mon âme était plus que nuit " },
+                    { chord: "C", text: "(C) Mais tout s’est (F) envolé," },
+                    { chord: "F", text: "(F) Maintenant je crie (C) victoire," },
+                    { chord: "C", text: "(C) Car (G) Jésus m’a (C) libéré." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je regarde le trône blanc " },
+                    { chord: "C", text: "(C) Devant se tiennent les (G) sauvés" },
+                    { chord: "G", text: "(G) Maintenant plus de larmes " },
+                    { chord: "G", text: "(G) Ni chagrins connus,ni morts dans cette (C) Cité." },
+                    { chord: "C", text: "(C) Mon Sauveur m’a précédé " },
+                    { chord: "C", text: "(C) Prépare la voie pour (F) moi" },
+                    { chord: "F", text: "(F) Bientôt nous serons (C) ensemble " },
+                    { chord: "G", text: "(G) Là-haut dans (C) l’éternité." },
+                ],
+                [
+                    { chord: "C", text: "(C) Les portails de ce lieu saint " },
+                    { chord: "C", text: "(C) Restent ouverts nuit et (G) jour" },
+                    { chord: "G", text: "(G) Regarde au Seigneur," },
+                    { chord: "G", text: "(G) Qui donne plus de grâce " },
+                    { chord: "G", text: "(G) Dont l’amour a (C) préparé" },
+                    { chord: "C", text: "(C) Une place dans ces belles demeures " },
+                    { chord: "C", text: "(C) Qu’Il réserva pour (F) moi" },
+                    { chord: "F", text: "(F) Pour préparer les (C) noces" },
+                    { chord: "G", text: "(G) Obéit à cet (C) appel." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, Jésus revient bientôt," },
+                    { chord: "C", text: "(C) Alors nos peines seront (G) finies," },
+                    { chord: "G", text: "(G) Si notre Seigneur" },
+                    { chord: "G", text: "(G) Venait maintenant " },
+                    { chord: "G", text: "(G) Pour ceux qui sont sans (C) péchés," },
+                    { chord: "C", text: "(C) Seriez-vous alors dans la joie " },
+                    { chord: "C", text: "(C) Ou le chagrin, la (F) peine ?" },
+                    { chord: "F", text: "(F) Quand Il viendra dans Sa (C) gloire," },
+                    { chord: "G", text: "(G) Nous le rencontrerons (C) là-haut" },
+                ],
+            ]
+        },
+        {
+            key: "dim-31-05-2026",
+            title: "FILL MY WAY EVERYDAY WITH LOVE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/K8O3R77nU2w?si=ks9UYPbp8-VYu_fS",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Let me walk, blessed Lord, in the (F) way" },
+                    { chord: "F", text: "(F) Thou has (C) gone, Leading straight to the (D) land (G) above;" },
+                    { chord: "G", text: "(G) Giving (C) cheer everywhere, to the (F) sad and the (C) lone, " },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Fill my way every day with love," },
+                    { chord: "C", text: "(C) As I walk with the (D) heavenly (G) Dove" },
+                    { chord: "C", text: "(C) Let me go all the while, with a (F) song and a (C) smile," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ],
+                [
+                    { chord: "C", text: "(C) Keep me close to the side of my (F) Savior and (C) guide" },
+                    { chord: "F", text: "(F) Let me never in (D) darkness (G) rove." },
+                    { chord: "G", text: "(G) Keep my path free from wrath, and my (F) soul, (C) satisfied," },
+                    { chord: "C", text: "(C) Fill my (F) way (G) every day with (C) love." }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-05-2026",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-31-05-2026",
+            title: "SI RICHE, SI PROFOND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/EZ0j2sBJ-9A?si=jfEMCvQvTo29ADym",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Si riche, si profond Insondable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi" },
+                    { chord: "F", text: "(F) Indigne sauvé par (G) grâce. " },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi " },
+                    { chord: "F", text: "(F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Immuable, incomparable Inexprimable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Comme c’est beau, comme c’est doux " },
+                    { chord: "C", text: "(C) De fredonner de l’agneau Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-31-05-2026",
+            title: "I LOVE HIM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7mo9kiRMBSA?si=mvCYh-7szpiGVMse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Gone from my heart the (F) world with all its (C) charm;" },
+                    { chord: "C", text: "(C) Now thro' the blood I'm (D) saved from all (G) alarms;" },
+                    { chord: "C", text: "(C) Down at the cross my (F) heart is bending (C) low;" },
+                    { chord: "C", text: "(C) The (G) precious blood of (C) Jesus cleanses (G) white as (C) snow." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I love Him, I love Him," },
+                    { chord: "F", text: "(F) Because He first loved (C) me," },
+                    { chord: "C", text: "(C) And (G) purchased my (C) salvation on (G) Calv’ry’s (C) tree." }
+                ],
+                [
+                    { chord: "C", text: "(C) Once I was lost, and (F) 'way down deep in (C) sin;" },
+                    { chord: "C", text: "(C) Once was a slave to (D) passions (G) within;" },
+                    { chord: "C", text: "(C) Once was afraid to (F) meet an angry (C) God," },
+                    { chord: "C", text: "(C) But (G) now I'm cleansed (C) from ev'ry stain (G) thro' Jesus’ (C) blood." },
+                ],
+                [
+                    { chord: "C", text: "(C) Once I was bound, but (F) now I am set (C) free;" },
+                    { chord: "C", text: "(C) Once I was blind, but (D) now the light I (G) see;" },
+                    { chord: "C", text: "(C) Once I was dead, but (F) now in Christ I (C) live," },
+                    { chord: "C", text: "(C) To (G) tell the world (C) around the peace (G) that He doth (C) give." },
+                ],
+            ]
+        },
+        // Fin Cantiques du 31 Mai 2026 (Vingt deuxième Dimanche de l'année 2026)
+
         // Debut Cantiques du 24 Mai 2026 (Vingt et unième Dimanche de l'année 2026)
         {
             key: "dim-24-05-2026",
