@@ -1,5 +1,298 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 14 Juin 2026 (Vingt quatrième Dimanche de l'année 2026)
+        {
+            key: "dim-14-06-2026",
+            title: "I SURRENDER ALL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/j04Bx9pKwpU?si=7XqpFng3Ms25bjXR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) All to (F) Him I (G) freely (C) give" },
+                    { chord: "C", text: "(C) I will ever (G) love and trust Him" },
+                    { chord: "Am", text: "(Am) In His (F) presence (G) daily (C) live" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I surrender (F) all" },
+                    { chord: "G", text: "(G) I surrender (C) all" },
+                    { chord: "C", text: "(C) All to Thee my blessed (F) Savior" },
+                    { chord: "G", text: "(G) I surrender (C) all" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Humbly (F) at His (G) feet I (C) bow" },
+                    { chord: "C", text: "(C) Worldly pleasures (G) all forsaken" },
+                    { chord: "Am", text: "(Am) Take me, (F) Jesus, (G) take me (C) now" }
+                ],
+                [
+                    { chord: "C", text: "(C) All to Jesus (G) I surrender" },
+                    { chord: "Am", text: "(Am) Make me (F) Savior (G) wholly (C) thine" },
+                    { chord: "C", text: "(C) May Thy Holy (G) Spirit fill me" },
+                    { chord: "Am", text: "(Am) May I (F) know Thy (G) power (C) divine" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "MY SOUL REJOICE AND PRAISE THE LORD",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/H-FtWrjXptw?si=RfwlVE03itkjNzyp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) My soul, rejoice and (F) praise the (C) Lord" },
+                    { chord: "F", text: "(F) Rejoice and (G) praise the (C) Lord" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Rejoice and praise the (G) Lord" },
+                    { chord: "G", text: "(G) Rejoice and praise the (C) Lord" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "AMI DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uH5SEBrJvFI?si=n-SsjFM_9GNQafDU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ami de Jésus, (F) ô quelle joie" },
+                    { chord: "F", text: "(F) Pour (C) un ignoble comme (G) moi," },
+                    { chord: "C", text: "(C) D’avoir toujours un (F) tel ami" },
+                    { chord: "F", text: "(F) Pour (C) me con- (G) -duire au (C) ciel." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Ami de Jésus," },
+                    { chord: "C", text: "(C) Commu- (D) -nion divine (G) ," },
+                    { chord: "C", text: "(C) Ô quelle bénie, douce (F) communion," },
+                    { chord: "C", text: "(C) Jésus est bien (G) mon ami. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Ami, quand d’autres (F) amitiés" },
+                    { chord: "C", text: "(C) Cessent ou me dé- (G) -çoivent," },
+                    { chord: "C", text: "(C) Ami, qui me donne (F) joie et paix," },
+                    { chord: "C", text: "(C) Ami, quand (G) vient (C) l’ennemi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Un ami dans la (F) maladie," },
+                    { chord: "C", text: "(C) Et quand approche la (G) mort," },
+                    { chord: "C", text: "(C) Ami, quand je passe (F) la vallée," },
+                    { chord: "C", text: "(C) Il m’aide et (G) m’encourage. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Ami quand ma courte (F) vie s’arrête," },
+                    { chord: "C", text: "(C) Ami quand passe la (G) terre," },
+                    { chord: "C", text: "(C) Ami à voir au (F) seuil du ciel," },
+                    { chord: "C", text: "(C) Ami, (G) enfin, chez (C) moi." }
+                ],
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "WONDERFUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cZ038iIZmnY?si=kh7t-jFsBS9OILal",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O my heart sings today, sings for joy and (G) gladness," },
+                    { chord: "G", text: "(G) Jesus saves, satisfies, banishes my (C) sadness;" },
+                    { chord: "C", text: "(C) Guilt is gone, peace is mine, peace like to a (F) river," },
+                    { chord: "F", text: "(F) Jesus is (C) wonderful, mighty (G) to deliver. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Wonderful, wonderful, Jesus is to (G) me," },
+                    { chord: "G", text: "(G) Counselor, Prince of Peace, Mighty God is (C) He;" },
+                    { chord: "C", text: "(C) Saving me, keeping me from all sin and (F) shame," },
+                    { chord: "F", text: "(F) Wonderful is (C) my Redeemer, (G) praise His (C) name!" }
+                ],
+                [
+                    { chord: "C", text: "(C) Once a slave, now I’m free, free from (G) condemnation," },
+                    { chord: "G", text: "(G) Jesus gives liberty and a full (C) salvation;" },
+                    { chord: "C", text: "(C) Now the sins of the past have been all (F) forgiven," },
+                    { chord: "F", text: "(F) And my name is (C) inscribed on the (G) book of (C) heaven." }
+                ],
+                [
+                    { chord: "C", text: "(C) Living here with my Lord in a holy (G) union," },
+                    { chord: "G", text: "(G) Day by day, all the way holding sweet (C) communion;" },
+                    { chord: "C", text: "(C) O what change grace hath wrought in my lowly (F) station!" },
+                    { chord: "F", text: "(F) Since my soul has (C) received full (G) and free (C) salvation." }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "MON DIEU EST SI BON",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dnyyxwr5-xY?si=bf-IPX8U-vhddeky",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Dieu est si bon, Il prend (F) bien soins de (C) moi" },
+                    { chord: "C", text: "(C) Ce Dieu si fidèle, (D) sais-tu qu’Il pense à (G) toi," },
+                    { chord: "C", text: "(C) Il voudrait t’aider dans tes (F) difficultés (C) " },
+                    { chord: "Am", text: "(Am) Il faut que tu (Em) viennes à (F) Lui (G) tel que tu (C) es" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dieu sait si (F) bien ce (G) qui te semble (C) lourd (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Qui te fait (F) mal, te (G) trouble chaque (C) jour" },
+                    { chord: "C", text: "(C) Il connaît (F) tes besoins, ta (G) peur du lendemain (C) - (Em) - (Am) " },
+                    { chord: "Am", text: "(Am) Avec mon (F) Dieu, Tu (G) sais, tout ira très (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il vit à jamais, c’est un (F) Dieu tout (C) puissant" },
+                    { chord: "C", text: "(C) Il voudrait t’aider, viens à (D) Lui (G) simplement" },
+                    { chord: "C", text: "(C) Quand tout semble noir, triste et (F) désespéré (C) " },
+                    { chord: "Am", text: "(Am) Sais-tu que (Em) là-haut tu (F) n’es (G) pas (C) oublié ?" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Dieu t’aidera, Il (F) conduira tes (C) pas" },
+                    { chord: "C", text: "(C) Si tu veux marcher, te (D) plier à sa (G) loi" },
+                    { chord: "C", text: "(C) Alors ne crains plus, tu peux (F) compter sur (C) lui" },
+                    { chord: "Am", text: "(Am) Il accomplira (Em) tout ce (F) qu’Il (G) a (C) promis" }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "NOUS AVONS DECLARE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/5Ep-HVsg9-I?si=sNarGnvhlcHrrxCT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Nous avons déclaré la (G) guerre, Aux démons, à tout (C) péché." },
+                    { chord: "C", text: "(C) Nous voulons à toute la (G) terre, Proclamer la (F) liberté. (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Nous marchons avec (C) assurance, (G) Nous qui devons porter (C) l’espérance." },
+                    { chord: "F", text: "(F) Vaine est toute (C) résistance, (G) Jésus-Christ sera (C) vainqueur." },
+                ],
+                [
+                    { chord: "C", text: "(C) Le salut, notre cri de (G) guerre, La foi notre (C) bouclier," },
+                    { chord: "C", text: "(C) Et notre force, la (G) prière Nous ferons (F) tout surmonter (C) !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Bien des pécheurs dans cette (G) guerre, Au Sauveur se sont (C) rendus," },
+                    { chord: "C", text: "(C) Et maintenant, dans la (G) lumière, Ils combattent (F) pour (C) Jésus." },
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu nous donne la (G) victoire, Par son tout-puissant (C) Esprit ;" },
+                    { chord: "C", text: "(C) Rendons-Lui donc toute la (G) gloire, Et servons-Le (F) jour et (C) nuit" },
+                ],
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "POUR MOI CHRÉTIEN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/_0YjekoO0pU?si=lpeLLqmeUMQ7-R8G",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pour moi Chrétien, la terre est un exil," },
+                    { chord: "C", text: "(C) Mais tout est (G) bien, mais tout est (C) bien." },
+                    { chord: "C", text: "(C) Il faut marcher de péril en péril;" },
+                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
+                    { chord: "C", text: "(C) Pourquoi les (G) pleurs, la (F) terreur ou (C) l’ennui?" },
+                    { chord: "C", text: "(C) Christ est en (G) moi demain (F) comme (C) aujourd’hui;" },
+                    { chord: "C", text: "(C) Au ciel bientôt je serai tout à Lui;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Larmes, travail, deuil, tristesse ici-bas;" },
+                    { chord: "C", text: "(C) Mais tout est (G) bien; mais tout est (C) bien." },
+                    { chord: "C", text: "(C) De Canaan j’approche à chaque pas;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
+                    { chord: "C", text: "(C) En vain le monde (G) et son (F) charme (C) trompeur;" },
+                    { chord: "C", text: "(C) Dans ses (G) liens veut (F) retenir mon (C) cœur;" },
+                    { chord: "C", text: "(C) J’avance en paix, les yeux sur mon Sauveur," },
+                    { chord: "F", text: "(F) Oui, tout est bien, oui, tout est bien." }
+                ],
+                [
+                    { chord: "C", text: "(C) Encore un jour, et j’atteindrai le but;" },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui tout est (C) bien." },
+                    { chord: "C", text: "(C) Et je verrai le pays du salut;" },
+                    { chord: "F", text: "(F) Oui, tout est (G) bien; oui tout est (C) bien." },
+                    { chord: "C", text: "(C) Encore un (G) jour, le (F) monde va (C) passer;" },
+                    { chord: "C", text: "(C) Ô pèlerin, (G) marche (F) sans te (C) lasser:" },
+                    { chord: "C", text: "(C) Bientôt en Dieu tu vas te reposer." },
+                    { chord: "C", text: "(C) Oui, tout est (G) bien, oui, tout est (C) bien." }
+                ],
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-14-06-2026",
+            title: "JUST AS I AM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/7lxqhPC1mNA?si=LGqstnGXXpBgGVP7",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) without one (C) plea" },
+                    { chord: "G", text: "(G) But that Thy blood was (F) shed for (C) me" },
+                    { chord: "C", text: "(C) And that Thou bid'st me (F) come to Thee" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) though tossed (C) about" },
+                    { chord: "G", text: "(G) With many a conflict, (F) many a (C) doubt" },
+                    { chord: "C", text: "(C) Fighting and fears (F) within without" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ],
+                [
+                    { chord: "C", text: "(C) Just as I am, (G) Thou wilt (C) receive" },
+                    { chord: "G", text: "(G) Wilt welcome, pardon, (F) cleanse, (C) relieve" },
+                    { chord: "C", text: "(C) Because Thy (F) promise I believe" },
+                    { chord: "C", text: "(C) Oh, Lamb of God, I (G) come, I (C) come" }
+                ]
+            ]
+        },
+
+        // Fin Cantiques du 14 Juin 2026 (Vingt quatrième Dimanche de l'année 2026)
+
         // Debut Cantiques du 07 Juin 2026 (Vingt troisième Dimanche de l'année 2026)
         {
             key: "dim-07-06-2026",
