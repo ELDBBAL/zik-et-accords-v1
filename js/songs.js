@@ -1,5 +1,253 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 28 Juin 2026 (Vingt sixième Dimanche de l'année 2026)
+        {
+            key: "dim-28-06-2026",
+            title: "GREAT IS THAT FAITHFULNESS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ErwiBz1QA4o?si=2ewUKdHXaTy_gtzJ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Great is thy faithfulness, (G) O God, my (C) Father;" },
+                    { chord: "F", text: "(F) There is no (C) shadow of (D) turning with (G) thee." },
+                    { chord: "C", text: "(C) Thou changest not, thy compassions, they (F) fail not;" },
+                    { chord: "F", text: "(F) As thou hast (C) been, thou (G) forever wilt (C) be." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Great is thy faithfulness," },
+                    { chord: "F", text: "(F) Great is thy faithfulness," },
+                    { chord: "C", text: "(C) Morning by morning new (D) mercies I (G) see." },
+                    { chord: "C", text: "(C) All I have needed thy hand hast (F) provided;" },
+                    { chord: "F", text: "(F) Great is thy (C) faithfulness, (G) Lord unto (C) me." },
+                ],
+                [
+                    { chord: "C", text: "(C) Summer and winter and (G) springtime and (C) harvest," },
+                    { chord: "F", text: "(F) Sun, moon, (C) and stars in (D) their courses (G) above" },
+                    { chord: "C", text: "(C) Join with all nature in manifold (F) witness" },
+                    { chord: "F", text: "(F) To thy great (C) faithfulness, (G) mercy, and (C) love." }
+                ],
+                [
+                    { chord: "C", text: "(C) Pardon for sin and a (G) peace that (C) endureth," },
+                    { chord: "F", text: "(F) Thine own dear (C) presence to (D) cheer and to (G) guide;" },
+                    { chord: "C", text: "(C) Strength for today and bright hope for (F) tomorrow," },
+                    { chord: "F", text: "(F) Blessings all (C) mine and (G) ten thousand (C) beside." }
+                ],
+            ]
+        },
+        {
+            key: "dim-28-06-2026",
+            title: "NE CRAINS RIEN JE T'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8eB4Yae9MFs?si=TyuQk6olAhFaJnP3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ne crains rien, je t'aime" },
+                    { chord: "F", text: "(F) Je suis avec (C) toi" },
+                    { chord: "G", text: "(G) Promesse suprême," },
+                    { chord: "G", text: "(G) Qui soutient ma (C) foi" },
+                    { chord: "C", text: "(C) La sombre vallée" },
+                    { chord: "F", text: "(F) N'a plus de (C) terreur" },
+                    { chord: "G", text: "(G) L'âme consolée," },
+                    { chord: "G", text: "(G) je marche avec mon (C) Sauveur." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                    { chord: "C", text: "(C) Non, jamais tout seul" },
+                    { chord: "F", text: "(F) Non, jamais tout (C) seul" },
+                    { chord: "G", text: "(G) Jésus mon Sauveur me garde" },
+                    { chord: "G", text: "(G) Jamais ne me laisse (C) seul" },
+                ],
+                [
+                    { chord: "C", text: "(C) L'aube matinière" },
+                    { chord: "F", text: "(F) Ne luit qu'aux beaux (C) jours" },
+                    { chord: "G", text: "(G) Jésus ma lumière" },
+                    { chord: "G", text: "(G) M'éclaire (C) toujours" },
+                    { chord: "C", text: "(C) Quand je perds de vue" },
+                    { chord: "F", text: "(F) L'astre radieux (C) " },
+                    { chord: "G", text: "(G) A travers la nue" },
+                    { chord: "G", text: "(G) Jésus me montre les (C) cieux" },
+                ],
+                [
+                    { chord: "C", text: "(C) Les dangers accourent, " },
+                    { chord: "F", text: "(F) subtils, inconnus (C) " },
+                    { chord: "G", text: "(G) De près, ils m'entourent, " },
+                    { chord: "G", text: "(G) plus près est (C) Jésus " },
+                    { chord: "C", text: "(C) Qui dans le voyage" },
+                    { chord: "F", text: "(F) Me redit C'est (C) moi!" },
+                    { chord: "G", text: "(G) Ne crains rien Courage!" },
+                    { chord: "G", text: "(G) Je suis toujours avec (C) toi!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-06-2026",
+            title: "SHOWERS OF BLESSING",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IrDwO0TQWjM?si=W319xDqC72nf1ef4",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) This is the promise of (C) love;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) Sent from the Savior (G) above." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Showers of blessing," },
+                    { chord: "C", text: "(C) Showers of (D) blessing we (G) need;" },
+                    { chord: "C", text: "(C) Mercy-drops round us are falling," },
+                    { chord: "G", text: "(G) But for the showers we (C) plead." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Precious reviving (C) again;" },
+                    { chord: "F", text: "(F) Over the hills and the (C) valleys," },
+                    { chord: "D", text: "(D) Sound of abundance of (G) rain." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) Send them upon us, (C) O Lord!" },
+                    { chord: "F", text: "(F) Grant to us now a (C) refreshing;" },
+                    { chord: "D", text: "(D) Come, and now honor Thy (G) Word." }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) O that today they might (C) fall," },
+                    { chord: "F", text: "(F) Now as to God we’re (C) confessing," },
+                    { chord: "D", text: "(D) Now as on Jesus we (G) call!" }
+                ],
+                [
+                    { chord: "C", text: "(C) There shall be showers of blessing:" },
+                    { chord: "G", text: "(G) If we but trust and (C) obey;" },
+                    { chord: "F", text: "(F) There shall be seasons (C) refreshing," },
+                    { chord: "D", text: "(D) If we let God have His (G) way." }
+                ]
+            ]
+        },
+        {
+            key: "dim-28-06-2026",
+            title: "L'AGNEAU, L'AGNEAU DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8fNMOqxrjuw?si=9frXOh0ziug9nIse",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Sauveur souffrit (F) sur la (C) croix." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Oh viens le louer (F) avec (C) moi" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L'agneau, (G) l'agneau ! (C) L'agneau de Dieu" },
+                    { chord: "C", text: "(C) J'aime l'écho de (G) son Saint (C) Nom," },
+                    { chord: "C", text: "(C) Ce Nom brillera (F) sur mon (C) front;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Je veux dire à (F) chaque (C) pécheur," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Qu'enfin j'ai trouvé (F) mon (C) Sauveur." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Oui je veux chanter (F) plein de (C) foi," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Que mon Sauveur est (F) mort pour (C) moi." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du monde je (F) fais l'(C) abandon;" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) De mes péchés j'ai (F) le (C) pardon !" },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Parmi les sauvés j'ai (F) mon (C) rang," },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                    { chord: "C", text: "(C) Mon coeur est lavé dans (F) son (C) sang." },
+                    { chord: "C", text: "(C) Gloire (F) à (G) l'agneau de (C) Dieu !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-28-06-2026",
+            title: "PAR LA FOI NOUS MARCHERONS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/tTilpcoqVIU?si=kYnqu2WyWiOCryaO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Celui qui met en Jésus" },
+                    { chord: "C", text: "(C) Une (G) pleine (C) confiance" },
+                    { chord: "C", text: "(C) Jamais ne chancelle plus" },
+                    { chord: "C", text: "(C) Complète (G) est sa délivrance (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Par la (F) foi nous marcherons (C) " },
+                    { chord: "C", text: "(C) Par la (G) foi nous triomphons (C) " },
+                    { chord: "C", text: "(C) Par la (F) foi mon rédempteur (C) " },
+                    { chord: "C", text: "(C) Me (G) rendra plus que vainqueur (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand satan veut te troubler" },
+                    { chord: "C", text: "(C) Enlever (G) ton (C) espérance" },
+                    { chord: "C", text: "(C) Ton passé te reprocher" },
+                    { chord: "C", text: "(C) Que Christ (G) soit ton assurance (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Par la foi je marcherai" },
+                    { chord: "C", text: "(C) En (G) comptant sur ses (C) promesses" },
+                    { chord: "C", text: "(C) Par lui je triompherai" },
+                    { chord: "C", text: "(C) En tout (G) temps de mes détresses (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-28-06-2026",
+            title: "MISERICORDE INSONDABLE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/nPmv1Awq2-M?si=IkrGbM0MBpzIaAHW",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Miséricorde (F) insondable !" },
+                    { chord: "G", text: "(G) Dieu peut-il tout pardonner ? (C) " },
+                    { chord: "C", text: "(C) Absoudre un si grand (F) coupable," },
+                    { chord: "G", text: "(G) Et mes péchés oubliés ? (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus je viens, je viens à (F) Toi" },
+                    { chord: "F", text: "(F) Tel que je (C) suis (Dm), je viens à (F) Toi (G) - (C) " },
+                    { chord: "C", text: "(C) Jésus je viens, je viens à (F) Toi" },
+                    { chord: "F", text: "(F) Tel je suis, (G) prends (C) moi" }
+                ],
+                [
+                    { chord: "C", text: "(C) Longtemps j’ai loin de sa (F) face" },
+                    { chord: "G", text: "(G) Provoqué son saint courroux (C) " },
+                    { chord: "C", text: "(C) Fermé mon cœur à sa (F) grâce" },
+                    { chord: "G", text: "(G) Blessé le sien devant tous. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) O, Jésus à Toi je (F) cède" },
+                    { chord: "G", text: "(G) Je veux être libéré (C) " },
+                    { chord: "C", text: "(C) De tout péché qui (F) m’obsède" },
+                    { chord: "G", text: "(G) Etre à jamais délivré. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Alléluia ! plus de (F) doute," },
+                    { chord: "G", text: "(G) Mon fardeau m’est enlevé (C) " },
+                    { chord: "C", text: "(C) Pour le ciel je suis en (F) route" },
+                    { chord: "G", text: "(G) Heureux pour l’éternité. (C) " }
+                ]
+            ]
+        },
+        // Fin Cantiques du 28 Juin 2026 (Vingt sixième Dimanche de l'année 2026)
+
         // Debut Cantiques du 14 Juin 2026 (Vingt quatrième Dimanche de l'année 2026)
         {
             key: "dim-14-06-2026",
