@@ -1,5 +1,270 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 05 Juillet 2026 (Vingt septième Dimanche de l'année 2026)
+        {
+            key: "dim-05-07-2026",
+            title: "GLOIRE A L'AGNEAU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire à l'Agneau (G) " },
+                    { chord: "C", text: "(C) Gloire, (G) gloire (F) gloire (G) à l'Agneau (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Car Il est (F) glorieux, (G) et (C) digne de règner ;" },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " },
+                    { chord: "C", text: "(C) Nous (F) élevons, (G) la (C) voix pour l'adorer," },
+                    { chord: "F", text: "(F) L'Agneau est (G) souverain (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-07-2026",
+            title: "VEUX-TU BRISER LES FARDEAUX DU PECHE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IgA_4KEWnKI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Veux-tu briser les (F) fardeaux du péchés (C) ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Veux-tu avoir la (F) victoire sur le mal (C) ?" },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Il y'a force, force" },
+                    { chord: "F", text: "(F) Merveilleuse (C) force" },
+                    { chord: "C", text: "(C) Dans le (G) sang de l'Agneau (C) " },
+                    { chord: "C", text: "(C) Il y'a force, force" },
+                    { chord: "F", text: "(F) Merveilleuse (C) force" },
+                    { chord: "G", text: "(G) Dans le sang précieux de l'Agneau (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Veux-tu briser ta (F) colère et ton orgueil (C) ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Vient te laver dans le (F) flot du Calvaire (C) " },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
+                ],
+                [
+                    { chord: "C", text: "(C) Veux-tu être plus (F) blanc que la (C) neige ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Les souillures du péché (F) y sont lavées (C) " },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
+                ],
+                [
+                    { chord: "C", text: "(C) Veux-tu rendre service (F) à Jésus-Christ (C) ?" },
+                    { chord: "G", text: "(G) La force est dans le sang ! La (C) force est dans le sang" },
+                    { chord: "C", text: "(C) Veux-tu vivre et (F) chanter ses louanges (C) ?" },
+                    { chord: "G", text: "(G) La force merveilleuse est dans le (C) sang." }
+                ],
+            ]
+        },
+        {
+            key: "dim-05-07-2026",
+            title: "YES I KNOW",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/CqLxtfkMILA?si=PA1DkYFdmixNiBod",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come, ye sinners, (F) lost and (C) hopeless" },
+                    { chord: "C", text: "(C) Jesus' (G) blood can make you (C) free" },
+                    { chord: "C", text: "(C) For He saved the (F) worst (C) among you" },
+                    { chord: "C", text: "(C) When He (G) saved a wretch like (C) me" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "G", text: "(G) And I know, yes, I (C) know" },
+                    { chord: "C", text: "(C) Jesus' (G) blood can make the vilest sinner (C) clean" },
+                    { chord: "G", text: "(G) And I know, yes, I (C) know" },
+                    { chord: "C", text: "(C) Jesus' (G) blood can make the vilest sinner (C) clean" },
+                ],
+                [
+                    { chord: "C", text: "(C) To the faint He (F) giveth (C) power" },
+                    { chord: "C", text: "(C) Through the (G) mountains makes a (C) way" },
+                    { chord: "C", text: "(C) Findeth water (F) in the (C) desert" },
+                    { chord: "C", text: "(C) Turns the (G) night to golden (C) day" }
+                ],
+                [
+                    { chord: "C", text: "(C) In temptation He (F) is near (C) thee" },
+                    { chord: "C", text: "(C) Holds the (G) pow'rs of hell at (C) bay" },
+                    { chord: "C", text: "(C) Guides you to (F) the path of (C) safety" },
+                    { chord: "C", text: "(C) Gives you (G) grace for ev'ry (C) day" }
+                ],
+                [
+                    { chord: "C", text: "(C) He will keep (F) thee while (C) the" },
+                    { chord: "C", text: "(C) Ages Roll (G) throughout (C) eternity" },
+                    { chord: "C", text: "(C) Though earth (F) hinders and hell (C) rages" },
+                    { chord: "C", text: "(C) All must (G) work for good to (C) thee" }
+                ],
+            ]
+        },
+        {
+            key: "dim-05-07-2026",
+            title: "QUAND LES SAINTS ENTRERONT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je suis pèlerin, (F) étranger," },
+                    { chord: "F", text: "(F) Errant (C) dans ce (D) monde (G) pécheur" },
+                    { chord: "C", text: "(C) Sur mon chemin à la (F) cité" },
+                    { chord: "F", text: "(F) Lorsque (C) les saints (G) entre- (C) -ront" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Quand les Saints entreront" },
+                    { chord: "C", text: "(C) Lorsque les Saints (D) entre- (G) -ront" },
+                    { chord: "C", text: "(C) Seigneur je veux être dans ce (F) nombre" },
+                    { chord: "F", text: "(F) Lorsque (C) les saints (G) entre- (C) -ront" }
+                ],
+                [
+                    { chord: "C", text: "(C) Je sais, je verrai le (F) Seigneur" },
+                    { chord: "F", text: "(F) Si ma (C) vie est (D) libé- (G) -rée" },
+                    { chord: "C", text: "(C) Les portes du ciel (F) s’ouvriront" },
+                    { chord: "F", text: "(F) Lorsque (C) les saints (G) entre- (C) -ront" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lorsqu’assemblés autour du (F) trône," },
+                    { chord: "F", text: "(F) Et les (C) portes (D) sont (G) fermées" },
+                    { chord: "C", text: "(C) Je crierai : Gloire ! (F) Gloire !" },
+                    { chord: "F", text: "(F) Lorsque (C) les saints (G) entre- (C) -ront" }
+                ],
+                [
+                    { chord: "C", text: "(C) J’attends le chariot qui (F) viendra" },
+                    { chord: "F", text: "(F) Me (C) balancer (D) et (G) j’entrerai" },
+                    { chord: "C", text: "(C) Dans les nuées je (F) monterai" },
+                    { chord: "F", text: "(F) Lorsque (C) les saints (G) entre- (C) -ront" }
+                ],
+            ]
+        },
+        {
+            key: "dim-05-07-2026",
+            title: "JE M’ENVOLERAI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/wEMhmmrvTlk?si=WNmftWo8hLQzqdTO",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Un beau matin, quand tout sera fini," },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) A la maison, où habite mon Jésus," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je m’envolerai! O gloire! " },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) A la fin, alléluia tout à l’heure," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand l’ombre de ma vie sera partie," },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) Comme un oiseau libéré de prison," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Juste encore un peu de temps, et alors," },
+                    { chord: "F", text: "(F) je m’envolerai! (C) " },
+                    { chord: "C", text: "(C) Dans un pays où la joie demeure," },
+                    { chord: "F", text: "(F) je (G) m’envolerai! (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-07-2026",
+            title: "JESUS M'AIME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/URb54wIwHfw?si=0VWd14dOfv-DJ4_P",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Dans ce monde pervers et (F) agité" },
+                    { chord: "C", text: "(C) Seigneur Tu (D) m'as (G) cherché" },
+                    { chord: "C", text: "(C) Tu m'as cherché et (F) m'as trouvé" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (D) mort pour (G) moi" },
+                    { chord: "C", text: "(C) Jesus m'aime, Il (F) m'aime" },
+                    { chord: "C", text: "(C) Il m'aime, Il est (G) mort pour (C) moi" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quelques soient les souffrances, les (F) moqueries" },
+                    { chord: "C", text: "(C) Je n'ai rien à (D) gagner ici (G) bas ;" },
+                    { chord: "C", text: "(C) Jesus m'aime, (F) ça me suffit" },
+                    { chord: "C", text: "(C) Oh ! Ton amour est (G) grand pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) La couronne d'épine, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Oh ! toi le (D) Roi des (G) Rois" },
+                    { chord: "C", text: "(C) La couronne de honte, Tu (F) l'as portée," },
+                    { chord: "C", text: "(C) Pour venir et (G) mourir pour (C) moi." }
+                ]
+            ]
+        },
+        {
+            key: "dim-05-07-2026",
+            title: "THERE IS A FOUNTAIN",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/z1WRt1Ag5gI?si=SPqCGV5GHQZuG-Xc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There is a fountain (F) filled with (C) blood" },
+                    { chord: "C", text: "(C) Drawn from (D) Immanuel’s (G) veins;" },
+                    { chord: "C", text: "(C) And sinners, plunged (F) beneath that (C) flood," },
+                    { chord: "C", text: "(C) Lose all their (G) guilty (C) stains:" },
+                    { chord: "C", text: "(C) Lose all their guilty (F) stains:" },
+                    { chord: "C", text: "(C) Lose all their (D) guilty (G) stains:" },
+                    { chord: "C", text: "(C) And sinners, plunged (F) beneath that (C) flood," },
+                    { chord: "C", text: "(C) Lose all their (G) guilty (C) stains." }
+                ],
+                [
+                    { chord: "C", text: "(C) The dying thief (F) rejoiced to (C) see" },
+                    { chord: "C", text: "(C) That fountain (D) in his (G) day;" },
+                    { chord: "C", text: "(C) And there may I, though (F) vile as (C) he," },
+                    { chord: "C", text: "(C) Wash all my (G) sins (C) away:" },
+                    { chord: "C", text: "(C) Wash all my sins (F) away:" },
+                    { chord: "C", text: "(C) Wash all my (D) sins (G) away:" },
+                    { chord: "C", text: "(C) And there may I, though (F) vile as (C) he," },
+                    { chord: "C", text: "(C) Wash all my (G) sins (C) away." }
+                ],
+                [
+                    { chord: "C", text: "(C) Dear dying Lamb, (F) Thy precious (C) blood" },
+                    { chord: "C", text: "(C) Shall never (D) lose its (G) power," },
+                    { chord: "C", text: "(C) Till all the ransomed (F) ones of (C) God" },
+                    { chord: "C", text: "(C) Be saved, to (G) sin no (C) more:" },
+                    { chord: "C", text: "(C) Be saved, to sin no (F) more:" },
+                    { chord: "C", text: "(C) Be saved, to (D) sin no (G) more:" },
+                    { chord: "C", text: "(C) Till all the ransomed (F) ones of (C) God" },
+                    { chord: "C", text: "(C) Be saved, to (G) sin no (C) more." }
+                ],
+                [
+                    { chord: "C", text: "(C) E’er since by faith (F) I saw the (C) stream" },
+                    { chord: "C", text: "(C) Thy flowing (D) wounds (G) supply," },
+                    { chord: "C", text: "(C) Redeeming love has (F) been my (C) theme," },
+                    { chord: "C", text: "(C) And shall be (G) till I (C) die:" },
+                    { chord: "C", text: "(C) And shall be till I (F) die:" },
+                    { chord: "C", text: "(C) And shall be (D) till I (G) die:" },
+                    { chord: "C", text: "(C) Redeeming love has (F) been my (C) theme," },
+                    { chord: "C", text: "(C) And shall be (G) till I (C) die." }
+                ],
+                [
+                    { chord: "C", text: "(C) When this poor lisping, (F) stammering (C) tongue" },
+                    { chord: "C", text: "(C) Lies silent (D) in the (G) grave," },
+                    { chord: "C", text: "(C) Then in a nobler, (F) sweeter (C) song," },
+                    { chord: "C", text: "(C) I’ll sing Thy (G) power to (C) save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to (F) save:" },
+                    { chord: "C", text: "(C) I’ll sing Thy power to (G) save:" },
+                    { chord: "C", text: "(C) Then in a nobler, (F) sweeter (C) song," },
+                    { chord: "C", text: "(C) I’ll sing Thy (G) power to (C) save." }
+                ],
+            ]
+        },
+        // Fin Cantiques du 05 Juillet 2026 (Vingt septième Dimanche de l'année 2026)
+
         // Debut Cantiques du 28 Juin 2026 (Vingt sixième Dimanche de l'année 2026)
         {
             key: "dim-28-06-2026",
