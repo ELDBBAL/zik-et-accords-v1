@@ -1,5 +1,232 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 12 Juillet 2026 (Vingt huitièmes Dimanche de l'année 2026)
+        {
+            key: "dim-12-07-2026",
+            title: "I NEED THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/pqYXTK4JYz8?si=0CY7fMPdvq7O7P4k",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) Most (F) gracious (C) Lord;" },
+                    { chord: "C", text: "(C) No (G) tender voice like (Am) Thine" },
+                    { chord: "Am", text: "(Am) Can (G) peace (C) afford." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I need Thee, oh, I (G) need Thee;" },
+                    { chord: "G", text: "(G) Ev'ry hour I (C) need Thee;" },
+                    { chord: "C", text: "(C) Oh, (F) bless me now, my (C) Savior" },
+                    { chord: "C", text: "(C) I (G) come to (C) Thee." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "F", text: "(C) Stay (F) Thou (C) nearby ;" },
+                    { chord: "G", text: "(G) Temptations lose their (Am) pow’r" },
+                    { chord: "Am", text: "(Am) When (G) Thou art (C) nigh." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) In (F) joy or (C) pain;" },
+                    { chord: "G", text: "(G) Come quickly and, (Am) abide" },
+                    { chord: "Am", text: "(Am) Or (G) life is (C) vain." }
+                ],
+                [
+                    { chord: "C", text: "(C) I need Thee ev'ry hour," },
+                    { chord: "C", text: "(C) Teach (F) me Thy (C) will;" },
+                    { chord: "G", text: "(G) And Thy rich (Am) promises" },
+                    { chord: "Am", text: "(Am) In (G) me ful (C) fill." }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-07-2026",
+            title: "MON JESUS JE T'AIME",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Mon Jésus, je t'aime, je te sais à moi." },
+                    { chord: "C", text: "(C) Oh ! Quel charme extrême me retient à toi." },
+                    { chord: "C", text: "(C) Les plaisirs du monde ne m'attirent plus." },
+                    { chord: "C", text: "(C) Ton amour m'inonde, je t'aime, ô Jésus." }
+                ],
+                [
+                    { chord: "C", text: "(C) Mon Jésus, je t'aime car tu m'as sauvé." },
+                    { chord: "G", text: "(G) En t'offrant toi-même, ton sang m'a lavé !" },
+                    { chord: "C", text: "(C) Sur la croix bénie pour moi tu mourus," },
+                    { chord: "C", text: "(C) Ta mort est ma vie, je t'aime, ô Jésus." }
+                ],
+                [
+                    { chord: "C", text: "(C) Qu’ici-bas je t’aime jusque dans la mort" },
+                    { chord: "F", text: "(C) A l’heure suprême du dernier effort" },
+                    { chord: "G", text: "(G) Ma voix expirante ne s’entendra plus" },
+                    { chord: "C", text: "(C) Sachez que je chante : ''Je t’aime, ô Jésus !''" }
+                ],
+                [
+                    { chord: "C", text: "(C) Je verrai ta face, quel ravissement !" },
+                    { chord: "C", text: "(C) Je louerai ta grâce éternellement" },
+                    { chord: "G", text: "(G) Et dirai sans cesse avec les élus" },
+                    { chord: "C", text: "(C) L’hymne d’allégresse : ''Je t’aime, ô Jésus !''" }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-07-2026",
+            title: "AMI DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/uH5SEBrJvFI?si=n-SsjFM_9GNQafDU",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ami de Jésus, (F) ô quelle joie" },
+                    { chord: "F", text: "(F) Pour (C) un ignoble comme (G) moi," },
+                    { chord: "C", text: "(C) D’avoir toujours un (F) tel ami" },
+                    { chord: "F", text: "(F) Pour (C) me con- (G) -duire au (C) ciel." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Ami de Jésus," },
+                    { chord: "C", text: "(C) Commu- (D) -nion divine (G) ," },
+                    { chord: "C", text: "(C) Ô quelle bénie, douce (F) communion," },
+                    { chord: "C", text: "(C) Jésus est bien (G) mon ami. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Ami, quand d’autres (F) amitiés" },
+                    { chord: "C", text: "(C) Cessent ou me dé- (G) -çoivent," },
+                    { chord: "C", text: "(C) Ami, qui me donne (F) joie et paix," },
+                    { chord: "C", text: "(C) Ami, quand (G) vient (C) l’ennemi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Un ami dans la (F) maladie," },
+                    { chord: "C", text: "(C) Et quand approche la (G) mort," },
+                    { chord: "C", text: "(C) Ami, quand je passe (F) la vallée," },
+                    { chord: "C", text: "(C) Il m’aide et (G) m’encourage. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Ami quand ma courte (F) vie s’arrête," },
+                    { chord: "C", text: "(C) Ami quand passe la (G) terre," },
+                    { chord: "C", text: "(C) Ami à voir au (F) seuil du ciel," },
+                    { chord: "C", text: "(C) Ami, (G) enfin, chez (C) moi." }
+                ],
+            ]
+        },
+        {
+            key: "dim-12-07-2026",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-07-2026",
+            title: "L'AMOUR DE DIEU EST SI MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tct5CcZy5uo?si=xLu4_KysAPC6v3Yp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "G", text: "(G) L'amour de Dieu est si merveilleux" },
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" },
+                    { chord: "C", text: "(C) Comment il est ?" },
+                    { chord: "C", text: "(C) Il est si haut qu'on ne peut le surmonter" },
+                    { chord: "G", text: "(G) Il est si bas qu'on ne peut le renverser" },
+                    { chord: "C", text: "(C) Il est si large qu'on ne peut le contourner" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-12-07-2026",
+            title: "SI RICHE, SI PROFOND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/EZ0j2sBJ-9A?si=jfEMCvQvTo29ADym",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Si riche, si profond Insondable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi" },
+                    { chord: "F", text: "(F) Indigne sauvé par (G) grâce. " },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi " },
+                    { chord: "F", text: "(F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Immuable, incomparable Inexprimable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Comme c’est beau, comme c’est doux " },
+                    { chord: "C", text: "(C) De fredonner de l’agneau Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+            ]
+        },
+        {
+            key: "dim-12-07-2026",
+            title: "TOUT EST POSSIBLE A CELUI QUI CROIT",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout est possible à celui qui croit," },
+                    { chord: "C", text: "(C) C'est la loi de la foi," },
+                    { chord: "C", text: "(C) Don merveilleux qui nous vient des cieux," },
+                    { chord: "C", text: "(C) Que connaît le coeur droit." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Oh! quel riche trésor," },
+                    { chord: "F", text: "(F) Un coeur qui vit ce que Dieu dit." },
+                    { chord: "G", text: "(G) Sa foi vaut plus que l'or," },
+                    { chord: "F", text: "(F) Dieu l'honore et le bénit." }
+                ],
+                [
+                    { chord: "C", text: "(C) Quand l'ennemi fait trembler de peur" },
+                    { chord: "C", text: "(C) En face du danger," },
+                    { chord: "C", text: "(C) Croire au Seigneur affermit le coeur," },
+                    { chord: "C", text: "(C) La foi fait triompher." },
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu manifeste à celui qui croit" },
+                    { chord: "C", text: "(C) La force de son bras." },
+                    { chord: "C", text: "(C) Le Tout-Puissant dit à son enfant:" },
+                    { chord: "C", text: "(C) Si tu crois, tu verras." },
+                ],
+            ]
+        },
+        // Fin Cantiques du 12 Juillet 2026 (Vingt huitièmes Dimanche de l'année 2026)
+
         // Debut Cantiques du 05 Juillet 2026 (Vingt septième Dimanche de l'année 2026)
         {
             key: "dim-05-07-2026",
