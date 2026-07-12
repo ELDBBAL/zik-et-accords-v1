@@ -44,7 +44,7 @@ const songs = [
             key: "dim-12-07-2026",
             title: "MON JESUS JE T'AIME",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/Is5_SfOXrXA?si=DIWgXw6WsKTFLWfG",
             verses: [
                 [
                     { chord: "C", text: "(C) Mon (F) Jésus, je (C) t'aime (Am) , je (G) te sais à (C) moi." },
