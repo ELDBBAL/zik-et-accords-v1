@@ -47,28 +47,28 @@ const songs = [
             youtubeLink: "#",
             verses: [
                 [
-                    { chord: "C", text: "(C) Mon Jésus, je t'aime, je te sais à moi." },
-                    { chord: "C", text: "(C) Oh ! Quel charme extrême me retient à toi." },
-                    { chord: "C", text: "(C) Les plaisirs du monde ne m'attirent plus." },
-                    { chord: "C", text: "(C) Ton amour m'inonde, je t'aime, ô Jésus." }
+                    { chord: "C", text: "(C) Mon (F) Jésus, je (C) t'aime (Am) , je (G) te sais à (C) moi." },
+                    { chord: "C", text: "(C) Oh ! Quel (F) charme (C) extrême (Am) me (G) retient à (C) toi." },
+                    { chord: "C", text: "(C) Les plaisirs (F) du monde (G) ne (C) m'a- (F) -ttirent (C) plus. (G) " },
+                    { chord: "C", text: "(C) Ton (F) amour (C) m'inonde (Am) , je (G) t'aime, ô (C) Jésus." }
                 ],
                 [
-                    { chord: "C", text: "(C) Mon Jésus, je t'aime car tu m'as sauvé." },
-                    { chord: "G", text: "(G) En t'offrant toi-même, ton sang m'a lavé !" },
-                    { chord: "C", text: "(C) Sur la croix bénie pour moi tu mourus," },
-                    { chord: "C", text: "(C) Ta mort est ma vie, je t'aime, ô Jésus." }
+                    { chord: "C", text: "(C) Mon (F) Jésus, je (C) t'aime (Am) car (G) tu m'as (C) sauvé." },
+                    { chord: "C", text: "(C) En t'of- (F) -frant (C) toi-même (Am), ton (G) sang m'a (C) lavé !" },
+                    { chord: "C", text: "(C) Sur la croix (F) bénie (G) pour (C) moi (F) tu (C) mourus, (G) " },
+                    { chord: "C", text: "(C) Ta (F) mort (C) est ma vie (Am) , je (G) t'aime, ô (C) Jésus." }
                 ],
                 [
-                    { chord: "C", text: "(C) Qu’ici-bas je t’aime jusque dans la mort" },
-                    { chord: "F", text: "(C) A l’heure suprême du dernier effort" },
-                    { chord: "G", text: "(G) Ma voix expirante ne s’entendra plus" },
-                    { chord: "C", text: "(C) Sachez que je chante : ''Je t’aime, ô Jésus !''" }
+                    { chord: "C", text: "(C) Qu’ici- (F) -bas (C) je t’aime (Am) jusque (G) dans la (C) mort" },
+                    { chord: "C", text: "(C) A l’ (F) heure (C) suprême (Am) du (G) dernier (C) effort" },
+                    { chord: "C", text: "(C) Ma voix (F) expirante (G) ne (C) s’en- (F) -tendra (C) plus (G) " },
+                    { chord: "C", text: "(C) Sachez (F) que (C) je chante (Am) : ''Je (G) t’aime, ô (C) Jésus !''" }
                 ],
                 [
-                    { chord: "C", text: "(C) Je verrai ta face, quel ravissement !" },
-                    { chord: "C", text: "(C) Je louerai ta grâce éternellement" },
-                    { chord: "G", text: "(G) Et dirai sans cesse avec les élus" },
-                    { chord: "C", text: "(C) L’hymne d’allégresse : ''Je t’aime, ô Jésus !''" }
+                    { chord: "C", text: "(C) Je (F) verrai (C) ta face (Am), quel (G) ravissement (C) !" },
+                    { chord: "C", text: "(C) Je (F) louerai (C) ta grâce (Am) ét- (G) -ernelle- (C) -ment" },
+                    { chord: "C", text: "(C) Et dirai (F) sans (G) cesse (C) avec (F) les (C) élus (G) " },
+                    { chord: "C", text: "(C) L’hymne (F) d’al- (C) -légresse (Am) : ''Je (G) t’aime, ô (C) Jésus !''" }
                 ]
             ]
         },
@@ -196,32 +196,32 @@ const songs = [
             key: "dim-12-07-2026",
             title: "TOUT EST POSSIBLE A CELUI QUI CROIT",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/EWC-cpMOacs?si=Hi7AiQr7l1JaY-BC",
             verses: [
                 [
                     { chord: "C", text: "(C) Tout est possible à celui qui croit," },
-                    { chord: "C", text: "(C) C'est la loi de la foi," },
-                    { chord: "C", text: "(C) Don merveilleux qui nous vient des cieux," },
-                    { chord: "C", text: "(C) Que connaît le coeur droit." },
+                    { chord: "G", text: "(G) C'est la loi de la (C) foi," },
+                    { chord: "C", text: "(C) Don merveilleux qui nous vient des (Am) cieux," },
+                    { chord: "F", text: "(F) Que connaît (G) le coeur (C) droit." },
                 ],
                 [
                     { chord: "", text: "CHORUS:" },
-                    { chord: "G", text: "(G) Oh! quel riche trésor," },
-                    { chord: "F", text: "(F) Un coeur qui vit ce que Dieu dit." },
-                    { chord: "G", text: "(G) Sa foi vaut plus que l'or," },
-                    { chord: "F", text: "(F) Dieu l'honore et le bénit." }
+                    { chord: "Am", text: "(Am) Oh! (G) quel ri- (F) -che tré- (C) -sor," },
+                    { chord: "C", text: "(C) Un coeur qui (G) vit ce que Dieu (C) dit." },
+                    { chord: "C", text: "(C) Sa foi vaut (F) plus que (Em) l'or," },
+                    { chord: "F", text: "(F) Dieu l'honore (G) et le bé- (C) -nit." }
                 ],
                 [
                     { chord: "C", text: "(C) Quand l'ennemi fait trembler de peur" },
-                    { chord: "C", text: "(C) En face du danger," },
-                    { chord: "C", text: "(C) Croire au Seigneur affermit le coeur," },
-                    { chord: "C", text: "(C) La foi fait triompher." },
+                    { chord: "G", text: "(G) En face du (C) danger," },
+                    { chord: "C", text: "(C) Croire au Seigneur affermit le (Am) coeur," },
+                    { chord: "F", text: "(F) La foi fait (G) triom- (C) -pher." },
                 ],
                 [
                     { chord: "C", text: "(C) Dieu manifeste à celui qui croit" },
-                    { chord: "C", text: "(C) La force de son bras." },
-                    { chord: "C", text: "(C) Le Tout-Puissant dit à son enfant:" },
-                    { chord: "C", text: "(C) Si tu crois, tu verras." },
+                    { chord: "G", text: "(G) La force de son (C) bras." },
+                    { chord: "C", text: "(C) Le Tout-Puissant dit à son (Am) enfant:" },
+                    { chord: "F", text: "(F) Si tu crois, (G) tu ve- (C) -rras." },
                 ],
             ]
         },
