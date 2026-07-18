@@ -1,5 +1,294 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 19 Juillet 2026 (Vingt neuvième Dimanche de l'année 2026)
+        {
+            key: "dim-19-07-2026",
+            title: "PASS ME NOT O GENTLE SAVIOR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Br8c0Kkx6vs?si=TFhs2rPcoD8kdvyj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Pass me (F) not, O gentle (C) Savior" },
+                    { chord: "G", text: "(G) Hear my humble (C) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Savior, (F) Savior" },
+                    { chord: "C", text: "(C) Hear my (D) humble (G) cry" },
+                    { chord: "C", text: "(C) While on (F) others Thou art (C) calling (Am) " },
+                    { chord: "F", text: "(F) Do not (G) pass me (C) by" }
+                ],
+                [
+                    { chord: "C", text: "(C) Let me (F) at Thy throne of (C) mercy" },
+                    { chord: "G", text: "(G) Find a sweet (C) relief" },
+                    { chord: "C", text: "(C) Kneeling (F) there in deep (C) contrition (Am) " },
+                    { chord: "F", text: "(F) Help (G) my unbelief (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Trusting (F) only in Thy (C) merit" },
+                    { chord: "G", text: "(G) Would I seek Thy (C) face" },
+                    { chord: "C", text: "(C) Heal my (F) wounded, broken (C) spirit (Am) " },
+                    { chord: "F", text: "(F) Save (G) me by Thy (C) grace" }
+                ],
+                [
+                    { chord: "C", text: "(C) Thou the (F) spring of all my (C) comfort" },
+                    { chord: "G", text: "(G) More than life to (C) me" },
+                    { chord: "C", text: "(C) Whom have (F) I on earth beside (C) Thee? (Am) " },
+                    { chord: "F", text: "(F) Whom (G) in Heav'n but (C) Thee?" }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-07-2026",
+            title: "THIS IS LIKE HEAVEN TO ME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/DNYghrUy-zU?si=PPX_a-6rbaTYQA51",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We find many people who (G) can’t understand" },
+                    { chord: "G", text: "(G) Why we are so happy and (C) free." },
+                    { chord: "C", text: "(C) We’ve crossed over Jordan to (F) Canaan’s fair land," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) And this is like Heaven to (G) me," },
+                    { chord: "G", text: "(G) Yes, this is like Heaven to (C) me." },
+                    { chord: "C", text: "(C) I’ve crossed over Jordan to (F) Canaan’s fair land," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) So when we are happy we (G) sing and we shout." },
+                    { chord: "G", text: "(G) Some don’t understand us, I (C) see." },
+                    { chord: "C", text: "(C) We’re filled with the Spirit, (F) there isn’t a doubt," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) We’ve heard the sweet music, the (G) heavenly chord," },
+                    { chord: "G", text: "(G) From glory land over the (C) sea;" },
+                    { chord: "C", text: "(C) A soul thrilling message from (F) Jesus, our Lord," },
+                    { chord: "C", text: "(C) And this is like (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) We’re looking for Jesus with (G) glory to come;" },
+                    { chord: "G", text: "(G) ’Tis Jesus who died on the (C) tree." },
+                    { chord: "C", text: "(C) A cloud of bright angels to (F) carry me home" },
+                    { chord: "C", text: "(C) O that will be (G) Heaven to (C) me." }
+                ],
+                [
+                    { chord: "C", text: "(C) O that will be Heaven to (G) me." },
+                    { chord: "G", text: "(G) Yes, that will be Heaven to (C) me." },
+                    { chord: "C", text: "(C) A cloud of bright angels to (F) carry me home" },
+                    { chord: "C", text: "(C) Yes, that will be (G) Heaven to (C) me." }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-07-2026",
+            title: "TOUT JOYEUX BENISSONS LE SEIGNEUR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/kZc_Pyf5hLI?si=gpZeFAU9FJkZZUTK",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Tout joyeux (F) bénissons le (C) Seigneur," },
+                    { chord: "C", text: "(C) Chantons et (D) célébrons ses (G) louanges," },
+                    { chord: "C", text: "(C) Adorons avec (F) foi le (C) Sauveur," },
+                    { chord: "C", text: "(C) Nous joignant aux (G) célestes (C) phalanges." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (G) Dieu !" },
+                    { chord: "G", text: "(G) Que ce (F) chant (G) retentisse en tout (C) lieu !" },
+                    { chord: "C", text: "(C) Gloire à Dieu, gloire à (F) Dieu !" },
+                    { chord: "F", text: "(F) Que ce (C) chant (G) retentisse en tout (C) lieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Dieu, dans son (F) incomparable (C) amour," },
+                    { chord: "C", text: "(C) Du ciel envoya son (D) Fils (G) unique," },
+                    { chord: "C", text: "(C) Et la terre et les (F) cieux, dans ce (C) jour," },
+                    { chord: "C", text: "(C) S'unissent pour (G) chanter ce (C) cantique" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le châtiment qui (F) produit la (C) paix," },
+                    { chord: "C", text: "(C) Jésus-Christ l'a (D) subi pour mon (G) âme" },
+                    { chord: "C", text: "(C) Il voulut (F) expier nos (C) forfaits," },
+                    { chord: "C", text: "(C) En mourant, lui, (G) sur le bois (C) infâme." }
+                ],
+                [
+                    { chord: "C", text: "(C) Nous voulons en (F) retour, bon (C) Sauveur," },
+                    { chord: "C", text: "(C) T'aimer par-dessus (D) tout autre (G) chose ;" },
+                    { chord: "C", text: "(C) Forme ton (F) amour dans notre (C) coeur," },
+                    { chord: "C", text: "(C) Et puis, de (G) chacun de nous, (C) dispose !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-07-2026",
+            title: "THE LILY OF THE VALLEY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8JBVM6fdD0c?si=bVO0XV1sr3THcgfT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I have found a friend in Jesus," },
+                    { chord: "C", text: "(C) He's (F) ev'rything to (C) me," },
+                    { chord: "C", text: "(C) He's the fairest of ten (D) thousand to my (G) soul;" },
+                    { chord: "C", text: "(C) The 'Lily of the Valley', in (F) Him alone I (C) see," },
+                    { chord: "C", text: "(C) all I (Am) need to cleanse and (G) make me fully (C) whole." },
+                    { chord: "C", text: "(C) In (F) sorrow He's my comfort, in (C) trouble He's my stay," },
+                    { chord: "C", text: "(C) He tells me ev'ry (D) care on Him to (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He all my grief has taken, and (F) all my sorrows (C) borne," },
+                    { chord: "C", text: "(C) In temptation He's my (D) strong and mighty (G) tow'r;" },
+                    { chord: "C", text: "(C) I have all for Him forsaken, and (F) all my idols (C) torn" },
+                    { chord: "C", text: "(C) From my (Am) heart, and now He (G) keeps me by His (C) pow'r." },
+                    { chord: "C", text: "(C) Though (F) all the world forsake me, and Satan tempt me (C) sore," },
+                    { chord: "C", text: "(C) through Jesus I shall (D) safely reach the (G) goal;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+                [
+                    { chord: "C", text: "(C) He will never, never leave me, nor (F) yet forsake me (C) here," },
+                    { chord: "C", text: "(C) while I live by faith and (D) do His blessed (G) will;" },
+                    { chord: "C", text: "(C) A wall of fire about me, I've (F) nothing now to (C) fear," },
+                    { chord: "C", text: "(C) With His (Am) manna He my hungry (G) soul shall (C) fill." },
+                    { chord: "C", text: "(C) Then (F) sweeping up to glory, to see His blessed (C) face," },
+                    { chord: "C", text: "(C) Where rivers of (D) delight shall ever (G) roll;" },
+                    { chord: "C", text: "(C) He's the 'Lily of the Valley, the (F) Bright and Morning (C) Star,'" },
+                    { chord: "C", text: "(C) He's the (Am) fairest of ten (G) thousand to my (C) soul." },
+                ],
+            ]
+        },
+        {
+            key: "dim-19-07-2026",
+            title: "LA LOUANGE APPARTIENT A DIEU",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) La louange appartient à (G) Dieu" },
+                    { chord: "G", text: "(G) La louange appartient à (C) Dieu" },
+                    { chord: "C", text: "(C) La louange appartient à (F) Dieu" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Merci, merci, (G) merci Oh Seigneur" },
+                    { chord: "G", text: "(G) Merci, merci, (C) merci Oh mon Roi" },
+                    { chord: "C", text: "(C) Merci, merci, (F) merci Oh Seigneur" },
+                    { chord: "F", text: "(F) Je ne peux (C) pas tout (G) exprimer (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-19-07-2026",
+            title: "J'AIME JESUS",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'aime Jésus, J'aime (G) Jésus" },
+                    { chord: "G", text: "(G) J'aime (F) Jésus, Qu'Il soit (G) loué" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Mélon Yésu, Mélon (G) Yésu" },
+                    { chord: "G", text: "(G) Mélon (F) Yésu, Wakafui (G) da" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nalingi Yésu, Nalingi (G) Yésu" },
+                    { chord: "G", text: "(G) Nalingi (F) Yésu, Akuman (G) ba" },
+                    { chord: "C", text: "(C) Amen !" }
+                ],
+            ]
+        },
+        {
+            key: "dim-19-07-2026",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-19-07-2026",
+            title: "J'ENTENDS TA DOUCE VOIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/idwuazDrChA?si=y9bYp6d5hKT9YIrj",
+            verses: [
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Jésus, je viens à (C) Toi." },
+                    { chord: "C", text: "(C) Je viens, ô Sauveur, (Am) lave-moi" },
+                    { chord: "Am", text: "(Am) Dans (F) le sang (G) de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Jésus, Roi des (F) rois," },
+                    { chord: "C", text: "(C) Qui (D) mourus pour (G) moi," },
+                    { chord: "C", text: "(C) Je veux mourir avec Toi," },
+                    { chord: "F", text: "(F) Avec (G) Toi sur la (C) Croix." }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Qui me dit : 'Crois en (C) Moi !'" },
+                    { chord: "C", text: "(C) Je crois, Seigneur, soutiens ma (Am) foi," },
+                    { chord: "Am", text: "(Am) Tiens (F) moi (G) près de ta (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Elle pénètre en (C) moi" },
+                    { chord: "C", text: "(C) Et me dit d'aimer comme (Am) Toi." },
+                    { chord: "Am", text: "(Am) De (F) l'amour (G) de la (C) Croix !" }
+                ],
+                [
+                    { chord: "C", text: "(C) J'entends ta douce (Am) voix," },
+                    { chord: "G", text: "(G) Toi qui mourus pour (C) moi," },
+                    { chord: "C", text: "(C) Seigneur, que je m'unisse à (Am) Toi" },
+                    { chord: "Am", text: "(Am) Dans (F) ta (G) mort, par la (C) foi !" }
+                ]
+            ]
+        },
+        // Fin Cantiques du 19 Juillet 2026 (Vingt neuvième Dimanche de l'année 2026)
+
         // Debut Cantiques du 12 Juillet 2026 (Vingt huitièmes Dimanche de l'année 2026)
         {
             key: "dim-12-07-2026",
