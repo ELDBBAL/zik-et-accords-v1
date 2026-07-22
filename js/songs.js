@@ -1,5 +1,150 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 26 Juillet 2026 (Trentième Dimanche de l'année 2026)
+        {
+            key: "dim-26-07-2026",
+            title: "IT IS WELL WITH MY SOUL",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/AHe_qmo3gX4?si=sVxK-6gdDNPFZDJF",
+            verses: [
+                [
+                    { chord: "C", text: "(C) When peace like a river, (F) attendeth (G) my (C) way" },
+                    { chord: "C", text: "(C) When sorrows like (D) sea billows (G) roll" },
+                    { chord: "C", text: "(C) Whatever my (F) lot, thou hast (Dm) taught me to (G) say" },
+                    { chord: "G", text: "(G) It is (C) well, it is (F) well, (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) It is well, it is well" },
+                    { chord: "G", text: "(G) With my (C) soul, with my soul" },
+                    { chord: "C", text: "(C) It is (F) well, it is well (G) with my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) Though Satan should buffet, though (F) trials (G) should (C) come" },
+                    { chord: "C", text: "(C) Let this blest (D) assurance (G) control" },
+                    { chord: "C", text: "(C) That Christ has (F) regarded my (Dm) helpless (G) estate" },
+                    { chord: "G", text: "(G) And hath (C) shed His own (F) blood (G) for my (C) soul" }
+                ],
+                [
+                    { chord: "C", text: "(C) My sin, oh, the bliss of this (F) glorious (G) - (C) thought!" },
+                    { chord: "C", text: "(C) My sin, not in (D) part but the (G) whole" },
+                    { chord: "C", text: "(C) Is nailed to the (F) cross, and I (Dm) bear it no (G) more" },
+                    { chord: "G", text: "(G) Praise the (C) Lord, praise the (F) Lord, (G) o my (C) soul!" }
+                ]
+            ]
+        },
+        {
+            key: "dim-26-07-2026",
+            title: "JE DESIRE LE VOIR",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/cYGt-JSek6Q?si=s0nc3JW2vv1lUktk",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je chante sur le chemin" },
+                    { chord: "F", text: "(F) Conduisant les (C) coeurs" },
+                    { chord: "C", text: "(C) Au calvaire où coule à plein" },
+                    { chord: "D", text: "(D) Le ruisseau (G) vainqueur" },
+                    { chord: "C", text: "(C) Bien des flèches m’ont blessé" },
+                    { chord: "F", text: "(F) Mon Seigneur le (C) sait" },
+                    { chord: "C", text: "(C) Il dirige, (F) Il conduit" },
+                    { chord: "G", text: "(G) Et moi je Le (C) suis." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je désire le voir," },
+                    { chord: "F", text: "(F) Le voir face à (C) face" },
+                    { chord: "C", text: "(C) Et chanter pour toujours" },
+                    { chord: "D", text: "(D) Sa divine (G) grâce" },
+                    { chord: "C", text: "(C) Dans les rues pavées d’or" },
+                    { chord: "F", text: "(F) Elever ma (C) voix" },
+                    { chord: "C", text: "(C) Mes soucis (F) sont finis" },
+                    { chord: "G", text: "(G) Je suis à (C) l’abri" },
+                ],
+                [
+                    { chord: "C", text: "(C) Quand les flots rugissent encore" },
+                    { chord: "F", text: "(F) Du fond de (C) l’abîme," },
+                    { chord: "C", text: "(C) Le Sauveur prend en main" },
+                    { chord: "D", text: "(D) La barre (G) divine" },
+                    { chord: "C", text: "(C) Lui seul me dirigera" },
+                    { chord: "F", text: "(F) En vallée, (C) d’en-bas ;" },
+                    { chord: "C", text: "(C) Mais je serai (F) bientôt (G) arrivé (C) là-haut" },
+                ],
+                [
+                    { chord: "C", text: "(C) Au service de mon Dieu" },
+                    { chord: "F", text: "(F) La nuit peut (C) sembler" },
+                    { chord: "C", text: "(C) Si sombre que je ne peux" },
+                    { chord: "D", text: "(D) Plus voir mon (G) sentier" },
+                    { chord: "C", text: "(C) Je me rapproche de Lui" },
+                    { chord: "F", text: "(F) Il m’éclaire (C) alors" },
+                    { chord: "C", text: "(C) Unissant nos (F) efforts" },
+                    { chord: "G", text: "(G) Me conduit au (C) port" },
+                ],
+                [
+                    { chord: "C", text: "(C) Du fin fond de la vallée" },
+                    { chord: "F", text: "(F) Je vois les (C) glaciers" },
+                    { chord: "C", text: "(C) Il m’est donné d’entrevoir" },
+                    { chord: "D", text: "(D) Le Seigneur de (G) Gloire" },
+                    { chord: "C", text: "(C) Il est armée de l’épée," },
+                    { chord: "F", text: "(F) Conduit la (C) mêlée," },
+                    { chord: "C", text: "(C) Et je suis (F) protégé :" },
+                    { chord: "G", text: "(G) Gloire à mon (C) Roche" },
+                ],
+            ]
+        },
+        {
+            key: "dim-26-07-2026",
+            title: "ONE OF THEM",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/IYjtnuhabfc?si=7-t5QbKJvQ0sJq49",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There are people almost everywhere" },
+                    { chord: "C", text: "(C) Whose (F) hearts are all (C) aflame" },
+                    { chord: "C", text: "(C) With the fire that fell at Pentecost," },
+                    { chord: "C", text: "(C) Which (D) made them all (G) acclaim;" },
+                    { chord: "G", text: "(G) It is (C) burning now within my heart—" },
+                    { chord: "C", text: "(C) All (F) glory to His (C) name!—" },
+                    { chord: "C", text: "(C) And I’m glad that I can (G) say I’m one of (C) them." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) One of them (F) (one of (C) them)" },
+                    { chord: "G", text: "(G) I am glad that I can (D) say I’m one of (G) them;" },
+                    { chord: "C", text: "(C) One of them (F) (one of (C) them) (Em) - (Am) " },
+                    { chord: "C", text: "(C) And I’m glad that I can (G) say I’m one of (C) them." }
+                ],
+                [
+                    { chord: "C", text: "(C) Though the people may not learned be," },
+                    { chord: "C", text: "(C) Nor (F) boast of worldly (C) fame," },
+                    { chord: "C", text: "(C) They have all received their Pentecost," },
+                    { chord: "C", text: "(C) Through (D) faith in Jesus’ (G) name;" },
+                    { chord: "G", text: "(G) And are (C) telling now, both far and wide," },
+                    { chord: "C", text: "(C) His (F) power is yet the (C) same," },
+                    { chord: "C", text: "(C) And I’m glad that I can (G) say I’m one of (C) them." }
+                ],
+                [
+                    { chord: "C", text: "(C) They were gathered in the upper room," },
+                    { chord: "C", text: "(C) All (F) praying in His (C) name," },
+                    { chord: "C", text: "(C) They were baptized in the Holy Ghost," },
+                    { chord: "C", text: "(C) And (D) power for service (G) came;" },
+                    { chord: "G", text: "(G) Now what (C) He did for them that day" },
+                    { chord: "C", text: "(C) He’ll (F) do for you the (C) same," },
+                    { chord: "C", text: "(C) And I’m glad that I can (G) say I’m one of (C) them." }
+                ],
+                [
+                    { chord: "C", text: "(C) Come, my brother seek this blessing" },
+                    { chord: "C", text: "(C) That (F) will cleanse your heart from (C) sin," },
+                    { chord: "C", text: "(C) That will start the joy bells ringing" },
+                    { chord: "C", text: "(C) And (D) will keep the soul (G) aflame;" },
+                    { chord: "G", text: "(G) It is (C) burning now within my heart—" },
+                    { chord: "C", text: "(C) All (F) glory to His (C) name!—" },
+                    { chord: "C", text: "(C) And I’m glad that I can (G) say I’m one of (C) them." }
+                ],
+            ]
+        },
+        // Fin Cantiques du 26 Juillet 2026 (Trentième Dimanche de l'année 2026)
+
+
         // Debut Cantiques du 19 Juillet 2026 (Vingt neuvième Dimanche de l'année 2026)
         {
             key: "dim-19-07-2026",
