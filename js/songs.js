@@ -295,7 +295,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-10-05-2026",
+            key: "dim-26-07-2026",
             title: "IN THE SWEET",
             keySignature: "C",
             youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
@@ -328,7 +328,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-07-06-2026",
+            key: "dim-26-07-2026",
             title: "ROCK OF AGES",
             keySignature: "C",
             youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
