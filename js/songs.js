@@ -142,6 +142,231 @@ const songs = [
                 ],
             ]
         },
+        {
+            key: "dim-26-07-2026",
+            title: "CE MONDE N’EST PAS CHEZ MOI",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/zPU_qNUbKJ4?si=AvE3mWh78etuoqPE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ce monde n’est pas chez moi Je (F) suis juste un (C) passant " },
+                    { chord: "C", text: "(C) Et mes trésors s’entassent Quelque (D) part là au (G) ciel " },
+                    { chord: "C", text: "(C) Les anges me font signe (F) Depuis la porte du (C) ciel" },
+                    { chord: "C", text: "(C) Et je ne me sens jamais Comme chez (G) moi dans ce (C) monde." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Seigneur tu sais, N’y a (F) point d’amis comme (C) toi" },
+                    { chord: "C", text: "(C) Si le ciel n’est pas chez-moi (D) Alors que ferais (G) je ? " },
+                    { chord: "C", text: "(C) Les anges me font signe (F) Depuis la porte du (C) ciel" },
+                    { chord: "C", text: "(C) Et je ne me sens jamais Comme chez (G) moi dans ce (C) monde." },
+                ],
+                [
+                    { chord: "C", text: "(C) Tous sont à mon attente, C’est (F) tout ce que je (C) sais" },
+                    { chord: "C", text: "(C) Y a longtemps avec Christ J’ai (D) bien tout (G) arrangé, " },
+                    { chord: "C", text: "(C) Bien que faible et pauvre Je (F) sais qu’il me (C) soutient" },
+                    { chord: "C", text: "(C) Et je ne me sens jamais Comme chez (G) moi dans ce (C) monde." },
+                ],
+                [
+                    { chord: "C", text: "(C) Dans le pays de gloire, Nous (F) vivrons à (C) jamais " },
+                    { chord: "C", text: "(C) De tous côtés les Saints (D) Crient « Victoire », dans des (G) chants " },
+                    { chord: "C", text: "(C) De la plus douce louange Qui (F) montent depuis le (C) ciel" },
+                    { chord: "C", text: "(C) Et je ne me sens jamais Comme chez (G) moi dans ce (C) monde." },
+                ],
+            ]
+        },
+        {
+            key: "dim-26-07-2026",
+            title: "IL Y'A UN PAYS AU DELA DES ETOILES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/E-hqu-oAENw?si=AjmWgtTumZC3-QeT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un pays au (F) delà des (C) étoiles," },
+                    { chord: "C", text: "(C) Il y a (G) une Cité où il n’y a point de (C) nuit" },
+                    { chord: "C", text: "(C) Si nous (F) sommes fidèles Nous irons là (C) bientôt" },
+                    { chord: "C", text: "(C) C’est la (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dans cette Cité où (F) l’Agneau est la (C) Lumière" },
+                    { chord: "C", text: "(C) Cette Cité où il (D) n’y a point de (G) nuit"},
+                    { chord: "C", text: "(C) J’ai un (F) beau palais là-haut,Et (C) libéré des soucis" },
+                    { chord: "C", text: "(C) Je m’en (F) irai où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Ici nous sommes éclairés (F) mais nous (C) savons," },
+                    { chord: "C", text: "(C) Que ce (G) soleil qui luit sur nous (C) maintenant" },
+                    { chord: "C", text: "(C) Se changera (F) en nuage quand nous (C) irons" },
+                    { chord: "C", text: "(C) À la (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Là il y a des fleurs à (F) jamais et le (C) jour," },
+                    { chord: "C", text: "(C) Sera (G) un jour éternel et pas de (C) nuit," },
+                    { chord: "C", text: "(C) Nos larmes (F) seront essuyées à (C) jamais," },
+                    { chord: "C", text: "(C) Dans cette (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Ici nous avons (F) toujours des (C) déceptions," },
+                    { chord: "C", text: "(C) Et nos (G) espoirs rencontrent (C) l’opposition," },
+                    { chord: "C", text: "(C) Ici nous (F) pleurons là-bas sera la (C) joie" },
+                    { chord: "C", text: "(C) Dans cette (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Que le soleil (F) faiblisse ou qu’il ait la (C) nuit," },
+                    { chord: "C", text: "(C) Mon cœur (G) bienheureux n’a peur d’aucun (C) ombrage," },
+                    { chord: "C", text: "(C) Car je (F) sais que là au ciel j’ai une (C) maison," },
+                    { chord: "C", text: "(C) Dans cette (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+            ]
+        },
+        {
+            key: "dim-26-07-2026",
+            title: "IL Y'A UN PAYS AU DELA DES ETOILES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/E-hqu-oAENw?si=AjmWgtTumZC3-QeT",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Il y a un pays au (F) delà des (C) étoiles," },
+                    { chord: "C", text: "(C) Il y a (G) une Cité où il n’y a point de (C) nuit" },
+                    { chord: "C", text: "(C) Si nous (F) sommes fidèles Nous irons là (C) bientôt" },
+                    { chord: "C", text: "(C) C’est la (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Dans cette Cité où (F) l’Agneau est la (C) Lumière" },
+                    { chord: "C", text: "(C) Cette Cité où il (D) n’y a point de (G) nuit"},
+                    { chord: "C", text: "(C) J’ai un (F) beau palais là-haut,Et (C) libéré des soucis" },
+                    { chord: "C", text: "(C) Je m’en (F) irai où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Ici nous sommes éclairés (F) mais nous (C) savons," },
+                    { chord: "C", text: "(C) Que ce (G) soleil qui luit sur nous (C) maintenant" },
+                    { chord: "C", text: "(C) Se changera (F) en nuage quand nous (C) irons" },
+                    { chord: "C", text: "(C) À la (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Là il y a des fleurs à (F) jamais et le (C) jour," },
+                    { chord: "C", text: "(C) Sera (G) un jour éternel et pas de (C) nuit," },
+                    { chord: "C", text: "(C) Nos larmes (F) seront essuyées à (C) jamais," },
+                    { chord: "C", text: "(C) Dans cette (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Ici nous avons (F) toujours des (C) déceptions," },
+                    { chord: "C", text: "(C) Et nos (G) espoirs rencontrent (C) l’opposition," },
+                    { chord: "C", text: "(C) Ici nous (F) pleurons là-bas sera la (C) joie" },
+                    { chord: "C", text: "(C) Dans cette (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+                [
+                    { chord: "C", text: "(C) Que le soleil (F) faiblisse ou qu’il ait la (C) nuit," },
+                    { chord: "C", text: "(C) Mon cœur (G) bienheureux n’a peur d’aucun (C) ombrage," },
+                    { chord: "C", text: "(C) Car je (F) sais que là au ciel j’ai une (C) maison," },
+                    { chord: "C", text: "(C) Dans cette (F) Cité où (G) l’Agneau est la (C) Lumière." },
+                ],
+            ]
+        },
+        {
+            key: "dim-26-07-2026",
+            title: "JE NE SERAI RAJEUNI DANS L'ENLEVEMENT",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZVUQotLDFhY?si=eDWo7IWaJm6yqomi",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je serai rajeuni dans (F) l'enlèvement (G) " },
+                    { chord: "C", text: "(C) Je serai rajeuni dans (F) le millénium (G) " },
+                    { chord: "C", text: "(C) Je serai rajeuni dans (F) l'éternité (G) " },
+                    { chord: "C", text: "(C) Je ne vieillirai (F) jamais. (G) Alléluia (C) !" },
+                    { chord: "C", text: "(C) Je ne vieillirai (F) jamais. (G) Alléluia (C) !" },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia, (F) Alléluia, (G) Amen !" },
+                    { chord: "C", text: "(C) Alléluia, (F) Alléluia, (G) Amen !" },
+                    { chord: "C", text: "(C) Je ne vieillirai (F) jamais. (G) Alléluia (C) !" },
+                    { chord: "C", text: "(C) Je ne vieillirai (F) jamais. (G) Alléluia (C) !" },
+                ],
+                [
+                    { chord: "C", text: "(C) Nous attendons la (F) trompette du (G) ciel" },
+                    { chord: "C", text: "(C) Rejouissons-nous (F) Et donnons lui la (G) gloire " },
+                    { chord: "C", text: "(C) Car les noces (F) l'agneau sont (G) venus ! " },
+                    { chord: "C", text: "(C) Je ne vieillirai (F) jamais. (G) Alléluia (C) !" },
+                    { chord: "C", text: "(C) Je ne vieillirai (F) jamais. (G) Alléluia (C) !" },
+                ],
+            ]
+        },
+        {
+            key: "dim-10-05-2026",
+            title: "IN THE SWEET",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/0zWZu-QupWU?si=HyhptbDtJNjs9kOt",
+            verses: [
+                [
+                    { chord: "C", text: "(C) There's a land that is (F) fairer than (C) day," },
+                    { chord: "C", text: "(C) And by faith we can (D) see it a (G) far," },
+                    { chord: "C", text: "(C) For the Father waits (F) over the (C) way" },
+                    { chord: "C", text: "(C) To prepare us a (G) dwelling place (C) there!" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) In the sweet by and (G) by," },
+                    { chord: "G", text: "(G) We shall (F) meet on that beautiful (C) shore;" },
+                    { chord: "C", text: "(C) In the sweet by and (F) by," },
+                    { chord: "F", text: "(F) We shall (C) meet on that (G) beautiful (C) shore." }
+                ],
+                [
+                    { chord: "C", text: "(C) We shall sing on that (F) beautiful (C) shore" },
+                    { chord: "C", text: "(C) The melodious (D) songs of the (G) blest;" },
+                    { chord: "C", text: "(C) And our spirits (F) shall sorrow no (C) more" },
+                    { chord: "C", text: "(C) Not a sigh for the (G) blessing of (C) rest." }
+                ],
+                [
+                    { chord: "C", text: "(C) To our bountiful (F) Father (C) above" },
+                    { chord: "C", text: "(C) We will offer our (D) tribute of (G) praise" },
+                    { chord: "C", text: "(C) For the glorious (F) gift of His (C) love" },
+                    { chord: "C", text: "(C) And the blessings that (G) hallow our (C) days." }
+                ]
+            ]
+        },
+        {
+            key: "dim-07-06-2026",
+            title: "ROCK OF AGES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for (C) me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee;" },
+                    { chord: "C", text: "(C) Let the (G) water and the (C) blood," },
+                    { chord: "C", text: "(C) From Thy (G) wounded side which (C) flowed," },
+                    { chord: "C", text: "(C) Be of sin the (F) double (C) cure," },
+                    { chord: "C", text: "(C) Save from wrath and (G) make me (C) pure." }
+                ],
+                [
+                    { chord: "C", text: "(C) Not the labors (F) of my (C) hands" },
+                    { chord: "C", text: "(C) Can fulfill thy (G) law's (C) commands;" },
+                    { chord: "C", text: "(C) Could my (G) tears forever (C) flow," },
+                    { chord: "C", text: "(C) Could my (G) zeal no languor (C) know," },
+                    { chord: "C", text: "(C) These for sin could (F) not (C) atone;" },
+                    { chord: "C", text: "(C) Thou must save, (G) and Thou (C) alone;" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing in my (F) hand I (C) bring" },
+                    { chord: "C", text: "(C) Simply to Thy (G) cross I (C) cling" },
+                    { chord: "C", text: "(C) Naked, (G) come to Thee for (C) dress" },
+                    { chord: "C", text: "(C) Helpless (G) look to Thee for (C) grace" },
+                    { chord: "C", text: "(C) Foul, I to the (F) foutain (C) fly" },
+                    { chord: "C", text: "(C) Wash me, (G) Savior or I (C) die" }
+                ],
+                [
+                    { chord: "C", text: "(C) While I draw this (F) fleeting (C) breath," },
+                    { chord: "C", text: "(C) When my eyes (G) shall close in (C) death," },
+                    { chord: "C", text: "(C) When I (G) rise to worlds (C) unknown," },
+                    { chord: "C", text: "(C) And (G) behold Thee on Thy (C) throne," },
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee." }
+                ]
+            ]
+        },
         // Fin Cantiques du 26 Juillet 2026 (Trentième Dimanche de l'année 2026)
 
 
