@@ -1,5 +1,206 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 02 Août 2026 (Trente unième Dimanche de l'année 2026)
+        {
+            key: "dim-02-08-2026",
+            title: "CLOSE TO THEE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/8g88DKwJNd8?si=Ksu13--P-_ia7flh",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Thou my everlasting portion" },
+                    { chord: "C", text: "(C) More than friend or (D) life to (G) me" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) All alone my pilgrim (F) journey" },
+                    { chord: "C", text: "(C) Saviour let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Not for easy wordly pleasure" },
+                    { chord: "C", text: "(C) Nor for fame my (D) prayer shall (G) be" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to (G) Thee, close to (C) Thee" },
+                    { chord: "C", text: "(C) Close to Thee, (D) close to (G) Thee" },
+                    { chord: "C", text: "(C) Gladly will I toil and (F) suffer" },
+                    { chord: "C", text: "(C) Only let me (G) walk with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Lead me through the veil of shadows" },
+                    { chord: "C", text: "(C) Bear me o'er (D) life's fitful (G) sea" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ],
+                [
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Close to Thee, close to Thee" },
+                    { chord: "C", text: "(C) Then the gate of life (F) eternal" },
+                    { chord: "C", text: "(C) May I enter (G) Lord with (C) Thee" }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-08-2026",
+            title: "O HAPPY DAY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-afm-sFp9qE?si=oWQT5L5_SFZBX5q6",
+            verses: [
+                [
+                    { chord: "C", text: "(C) O happy day that fixed my choice" },
+                    { chord: "C", text: "(C) On Thee, my (F) Savior (G) and my (C) God!" },
+                    { chord: "C", text: "(C) Well may this glowing heart rejoice," },
+                    { chord: "C", text: "(C) And tell its (G) raptures all (C) abroad." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Happy day, (G) happy (C) day," },
+                    { chord: "C", text: "(C) When Jesus (F) washed (G) my sins (C) away!" },
+                    { chord: "C", text: "(C) He taught me how to (F) watch and (C) pray," },
+                    { chord: "C", text: "(C) And live rejoicing (F) every (C) day;" },
+                    { chord: "C", text: "(C) Happy day, (F) happy (C) day," },
+                    { chord: "C", text: "(C) When Jesus (F) washed (G) my sins (C) away!" }
+                ],
+                [
+                    { chord: "C", text: "(C) O happy bond, that seals my vows" },
+                    { chord: "C", text: "(C) To Him who (F) merits (G) all my (C) love;" },
+                    { chord: "C", text: "(C) Let cheerful anthems fill His house," },
+                    { chord: "C", text: "(C) While to that (G) sacred shrine I (C) move." }
+                ],
+                [
+                    { chord: "C", text: "(C) Tis done, the great transaction’s done," },
+                    { chord: "C", text: "(C) I am my (F) Lord’s, (G) and He is (C) mine;" },
+                    { chord: "C", text: "(C) He drew me, and I followed on," },
+                    { chord: "C", text: "(C) Charmed to (G) confess the voice (C) divine." }
+                ],
+                [
+                    { chord: "C", text: "(C) High Heaven, that heard that solemn vow," },
+                    { chord: "C", text: "(C) That vow (F) renewed (G) shall daily (C) hear;" },
+                    { chord: "C", text: "(C) Till in life’s latest hour I bow," },
+                    { chord: "C", text: "(C) And bless in (G) death a bond so (C) dear." }
+                ],
+            ]
+        },
+        {
+            key: "dim-02-08-2026",
+            title: "A SON NOM LA GLOIRE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/m-CbSnyd_Fc?si=MdBBAG0mHjXs0KmM",
+            verses: [
+                [
+                    { chord: "C", text: "(C) A la Croix où mourut (F) mon Sauveur, (C) " },
+                    { chord: "C", text: "(C) Je suis venu brisé (D) de douleur (G) " },
+                    { chord: "C", text: "(C) Là Son Sang purifia (F) mon (C) cœur," },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) A Son Nom la (C) gloire !" },
+                    { chord: "C", text: "(C) A Son (D) Nom la (G) gloire !" },
+                    { chord: "C", text: "(C) Là Son Sang purifia (F) mon (C) cœur," },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Quelle merveille Il vint (F) me sauver (C) " },
+                    { chord: "C", text: "(C) Quand de Sa croix je me (D) fus chargé, (G) " },
+                    { chord: "C", text: "(C) En moi Jésus vint pour (F) demeurer (C) " },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "(C) O Fontaine effaçant (F) le péché, (C) " },
+                    { chord: "C", text: "(C) Donnant la Vie au (D) cœur desséché, (G) " },
+                    { chord: "C", text: "(C) Là Jésus me retiens (F) attaché, (C) " },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Pauvre âme, viens aux pieds (F) du Sauveur (C) " },
+                    { chord: "C", text: "(C) A la source ouverte (D) à tout pécheur (G) " },
+                    { chord: "C", text: "(C) Viens t’y plonger, trouver (F) le bonheur, (C) " },
+                    { chord: "F", text: "(F) A Son (G) Nom la (C) gloire !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-08-2026",
+            title: "JE TE LOUE ET JE TE REMERCIE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-GJQ9acp9rU?si=speeZnPFWCWoqWjc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je te loue et (F) je te remercie (C) " },
+                    { chord: "C", text: "(C) Je te loue et (F) je te remercie (C) " },
+                    { chord: "C", text: "(C) Tu m’a fait (F) passé de (Em) la mort á la (Dm) vie" },
+                    { chord: "Dm", text: "(Dm) Voila pourquoi je te (C) loue et (G) je te (C) remercie" },
+                    { chord: "C", text: "(C) Tu m’a fait (F) passé de (Em) la mort á la (Dm) vie" },
+                    { chord: "Dm", text: "(Dm) Voila pourquoi je te (C) loue et (G) je te (C) remercie" }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-08-2026",
+            title: "QUEL EST CET HOMME DE JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/dgu_JJUL7sQ?si=pXZOrGBeMPwU-VBc",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus? (F) Alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) Alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il prêche la Parole, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Quel est cet Homme de Jésus ? (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (F) Amen ! (C) " },
+                    { chord: "C", text: "(C) Alléluia ! Alléluia ! (G) Amen ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il guérit les malades, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Il ressuscite les morts, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il calme la tempête, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) Les vents Lui obéissent, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Il chasse les démons, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) C’est Lui le Dieu puissant, (G) alléluia ! (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Le vainqueur de la mort, (F) alléluia ! (C) " },
+                    { chord: "C", text: "(C) L’Alpha et l’Oméga, (G) alléluia ! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-02-08-2026",
+            title: "HIGHER GROUND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/jYCkqCG933M?si=8ATVa0JvsZ6Rl3ad",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm pressing on the upward (F) way," },
+                    { chord: "F", text: "(F) New heights I'm (C) gaining every (G) day;" },
+                    { chord: "G", text: "(G) Still praying (C) as I'm onward (F) bound," },
+                    { chord: "F", text: "(F) Lord, plant my (C) feet on (G) higher (C) ground."}
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Lord, lift me up and let me (F) stand," },
+                    { chord: "F", text: "(F) By faith, on (C) Canaan's (G) tableland;" },
+                    { chord: "G", text: "(G) A higher (C) plane than I have (F) found;" },
+                    { chord: "F", text: "(F) Lord, plant my (C) feet on (G) higher (C) ground." }
+                ]
+            ]
+        },
+        // Fin Cantiques du 02 Août 2026 (Trente unième Dimanche de l'année 2026)
+
         // Debut Cantiques du 26 Juillet 2026 (Trentième Dimanche de l'année 2026)
         {
             key: "dim-26-07-2026",
