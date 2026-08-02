@@ -127,6 +127,27 @@ const songs = [
         },
         {
             key: "dim-02-08-2026",
+            title: "QUAND J'AI JESUS DANS MON COEUR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Quand j'ai Jésus dans mon coeur" },
+                    { chord: "G", text: "(G) La joie est là, (C) La joie est là" },
+                    { chord: "C", text: "(C) Quand j'ai Jésus dans mon coeur" },
+                    { chord: "F", text: "(F) La joie est (G) là pour (C) toujours" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "F", text: "(F) La joie est là, (C) La joie est là" },
+                    { chord: "G", text: "(G) La joie est là pour (C) toujours" },
+                    { chord: "F", text: "(F) La joie est là, (C) La joie est là" },
+                    { chord: "G", text: "(G) La joie est là pour (C) toujours" }
+                ]
+            ]
+        },
+        {
+            key: "dim-02-08-2026",
             title: "JE TE LOUE ET JE TE REMERCIE",
             keySignature: "C",
             youtubeLink: "https://youtu.be/-GJQ9acp9rU?si=speeZnPFWCWoqWjc",
@@ -196,6 +217,45 @@ const songs = [
                     { chord: "F", text: "(F) By faith, on (C) Canaan's (G) tableland;" },
                     { chord: "G", text: "(G) A higher (C) plane than I have (F) found;" },
                     { chord: "F", text: "(F) Lord, plant my (C) feet on (G) higher (C) ground." }
+                ]
+            ]
+        },
+        {
+            key: "dim-29-09-2024",
+            title: "GOD BE WITH YOU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ld2rv9zOf58?si=xNxL5K4FNzjmcv4S",
+            verses: [
+                [
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again!" },
+                    { chord: "F", text: "(F) By His counsels’ guide, uphold (C) you," },
+                    { chord: "G", text: "(G) With His sheep securely (C) fold you; " },
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again! " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Till we meet! (F) Till we meet" },
+                    { chord: "C", text: "(C) Till we meet (D) at Jesus’ (G) feet;" },
+                    { chord: "C", text: "(C) Till we meet! Till (F) we meet!" },
+                    { chord: "F", text: "(F) God be (C) with you till we (G) meet again! " }
+                ],
+                [
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again!" },
+                    { chord: "F", text: "(F) Neath His wings securely hide (C) you," },
+                    { chord: "G", text: "(G) Daily manna still provide (C) you; " },
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again! " }
+                ],
+                [
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again!" },
+                    { chord: "F", text: "(F) When life’s perils thick confound (C) you," },
+                    { chord: "G", text: "(G) Put His arms unfailing round (C) you; " },
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again! " }
+                ],
+                [
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again!" },
+                    { chord: "F", text: "(F) Keep love’s banner floating o’er (C) you," },
+                    { chord: "G", text: "(G) Smite death’s threat’ning wave before (C) you; " },
+                    { chord: "C", text: "(C) God be with you till we (G) meet (C) again! " }
                 ]
             ]
         },
