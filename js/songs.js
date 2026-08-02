@@ -221,7 +221,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-29-09-2024",
+            key: "dim-02-08-2026",
             title: "GOD BE WITH YOU",
             keySignature: "C",
             youtubeLink: "https://youtu.be/ld2rv9zOf58?si=xNxL5K4FNzjmcv4S",
