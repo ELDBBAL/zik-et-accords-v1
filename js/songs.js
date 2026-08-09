@@ -271,7 +271,7 @@ const songs = [
             ]
         },
         {
-            key: "dim-26-04-2026",
+            key: "dim-09-08-2026",
             title: "THERE'S NO DISAPPOINTMENT IN HEAVEN",
             keySignature: "C",
             youtubeLink: "https://youtu.be/-HrF6wlrQ4s?si=gI4QGS8BgTnCQz7w",
