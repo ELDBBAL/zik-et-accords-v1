@@ -251,46 +251,47 @@ const songs = [
                 ]
             ]
         },
-        // En attente de l'audio YouTube avant publication - ne pas décommenter sans lien valide
-        /*{
+        {
             key: "dim-16-08-2026",
-            title: "YESTERDAY, TODAY, FOREVER - MEDLEY",
+            title: "YESTERDAY, TODAY, FOREVER",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/jwTgUaeHmvY?si=ESzgVJguFosr_GER",
             verses: [
                 [
-                    { chord: "", text: "Yesterday today forever" },
-                    { chord: "", text: "Jesus is the same" },
-                    { chord: "", text: "All may change" },
-                    { chord: "", text: "But Jesus never" },
-                    { chord: "", text: "Glory to His Name" }
+                    { chord: "C", text: "(C) Yesterday (F) today forever" },
+                    { chord: "C", text: "(C) Jesus (D) is the (G) same" },
+                    { chord: "C", text: "(C) All may change" },
+                    { chord: "C", text: "(C) But (F) Jesus never" },
+                    { chord: "C", text: "(C) Glory (G) to His (C) Name" }
                 ],
                 [
-                    { chord: "", text: "Glory to His Name (2)" },
-                    { chord: "", text: "All may change but Jesus never" },
-                    { chord: "", text: "Glory to His Name" }
+                    { chord: "C", text: "(C) Glory (F) to His (C) Name" },
+                    { chord: "C", text: "(C) Glory (D) to His (G) Name" },
+                    { chord: "C", text: "(C) All may change but (F) Jesus never (Fm) " },
+                    { chord: "C", text: "(C) Glory (G) to His (C) Name" }
                 ],
                 [
-                    { chord: "", text: "Hier, Aujourd’hui, Pour jamais" },
-                    { chord: "", text: "Jésus ne change pas" },
-                    { chord: "", text: "Tout se flétrit ici-bas" },
-                    { chord: "", text: "Jésus ne change pas" }
+                    { chord: "C", text: "(C) Hier, Aujourd’hui, (F) Pour jamais" },
+                    { chord: "C", text: "(C) Jésus ne (D) change (G) pas" },
+                    { chord: "C", text: "(C) Tout se flétrit (F) ici-bas" },
+                    { chord: "C", text: "(C) Jésus ne (G) change (C) pas" }
                 ],
                 [
-                    { chord: "", text: "Bénit soit Son Nom (2)" },
-                    { chord: "", text: "Tout se flétrit ici-bas" },
-                    { chord: "", text: "Lui, ne change pas" }
+                    { chord: "C", text: "(C) Bénit (F) soit Son (C) Nom" },
+                    { chord: "C", text: "(C) Bénit (D) soit Son (G) Nom" },
+                    { chord: "C", text: "(C) Tout se flétrit ici (F) bas" },
+                    { chord: "C", text: "(C) Lui, ne (G) change (C) pas" }
                 ],
                 [
-                    { chord: "", text: "Eternel, mon créateur," },
-                    { chord: "", text: "Je ne t’oublierai jamais" },
-                    { chord: "", text: "Eternel, mon créateur," },
-                    { chord: "", text: "Je ne t’oublierai jamais" },
-                    { chord: "", text: "Ooo, Alleluia" },
-                    { chord: "", text: "Alleluia, alleluia Amen" }
+                    { chord: "C", text: "(C) Eternel, mon créateur," },
+                    { chord: "F", text: "(F) Je ne t’ou- (G) -blierai (C) jamais" },
+                    { chord: "C", text: "(C) Eternel, mon créateur," },
+                    { chord: "F", text: "(F) Je ne t’ou- (G) -blierai (C) jamais" },
+                    { chord: "C", text: "(C) Ooo, (F) Alleluia" },
+                    { chord: "C", text: "(C) Alleluia, (G) alleluia (C) Amen" }
                 ]
             ]
-        },*/
+        },
         // Fin Cantiques du 16 Août 2026 (Trente troisième Dimanche de l'année 2026)
 
         // Debut Cantiques du 09 Août 2026 (Trente deuxième Dimanche de l'année 2026)
