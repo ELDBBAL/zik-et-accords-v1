@@ -1,5 +1,275 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 16 Août 2026 (Trente troisième Dimanche de l'année 2026)
+        {
+            key: "dim-16-08-2026",
+            title: "TIENS L'IMMUABLE MAIN DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/H4L3F1RVTo4?si=XX8M3LOMpGcGp5ek",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Le temps (F) est plein de (C) transitions" },
+                    { chord: "C", text: "(C) Rien sur (D) terre n'est (G) immuable" },
+                    { chord: "C", text: "(C) Espère en des choses éternelles, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Tiens (G) l'immuable Main de (C) Dieu !" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Tiens (F) l'immauble Main de (C) Dieu" },
+                    { chord: "C", text: "(C) Tiens (D) l'immauble Main de (G) Dieu" },
+                    { chord: "C", text: "(C) Espère en des choses éternelles, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Tiens (G) l'immuable Main de (C) Dieu !" }
+                ],
+                [
+                    { chord: "C", text: "(C) Confie (F) toi en l'Eternel (C) Dieu" },
+                    { chord: "C", text: "(C) Quoi (D) qu'apportent les (G) années" },
+                    { chord: "C", text: "(C) Si tes amis t'abandonnent, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Attache (G) toi toujours à (C) lui." }
+                ],
+                [
+                    { chord: "C", text: "(C) Ne convoite (F) pas les richesses (C) vaines" },
+                    { chord: "C", text: "(C) Qui (D) pourrissent (G) rapidement" },
+                    { chord: "C", text: "(C) Cherche les trésors célèstes, (C) - (Em) - (Am)" },
+                    { chord: "F", text: "(F) Qui ne (G) passeront (C) jamais" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "WE GIVE ALL THE GLORY TO JESUS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-5lzPhJfD18?si=QkJG9uv3S2Xl6J1M",
+            verses: [
+                [
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (G) tell of His love His (C) wonderful love" },
+                    { chord: "C", text: "(C) We give all the glory to Jesus" },
+                    { chord: "C", text: "(C) And (F) tell of His (G) wonderful (C) love" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "JESUS IS MY SAVIOR",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "(Paroles et accords à ajouter)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "I'M SO GLAD JESUS SET ME FREE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/huecQwO6Xzo?si=V9LTvXj1yz-BhlMe",
+            verses: [
+                [
+                    { chord: "C", text: "(C) I'm so glad (G) Jesus set me free." },
+                    { chord: "G", text: "(G) I'm so glad (C) Jesus set me free." },
+                    { chord: "C", text: "(C) I'm so glad (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) Satan had me bound: (G) Jesus set me free." },
+                    { chord: "G", text: "(G) Satan had me bound: (C) Jesus set me free." },
+                    { chord: "C", text: "(C) Satan had me bound: (F) Jesus set me free." },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ],
+                [
+                    { chord: "C", text: "(C) I' m on my way to heaven, (G) shouting the victory" },
+                    { chord: "G", text: "(G) I' m on my way to heaven, (C) shouting the victory" },
+                    { chord: "C", text: "(C) I' m on my way to heaven, (F) shouting the victory" },
+                    { chord: "F", text: "(F) Singing (C) Glory! Hallelujah!" },
+                    { chord: "G", text: "(G) Jesus Set me (C) Free" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "L'ANCIEN EVANGILE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/u_oBGLYyj0U?si=ufWbpdN5KdmTU6hI",
+            verses: [
+                [
+                    { chord: "C", text: "(C) C’est toujours l’ancien Saint-Esprit," },
+                    { chord: "C", text: "(C) Et Satan (G) ne peut (C) l’approcher," },
+                    { chord: "C", text: "(C) C’est pourquoi les peuples (F) le craignent;" },
+                    { chord: "F", text: "(F) Mais Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi (G) l’ancien (C) Evangile" },
+                    { chord: "C", text: "(C) Donnez-moi l’ancien (F) Evangile" },
+                    { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il mettra fin à tes mensonges" },
+                    { chord: "C", text: "(C) Il te (G) sauvera de la (C) mort," },
+                    { chord: "C", text: "(C) Il fera s’enfuir les (F) démons ;" },
+                    { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ],
+                [
+                    { chord: "C", text: "(C) Il est bon, je n’en veux d’autre" },
+                    { chord: "C", text: "(C) Car Il me (G) fait aimer mon (C) frère," },
+                    { chord: "C", text: "(C) Il met toute chose à (F) découvert" },
+                    { chord: "F", text: "(F) Il (G) est si bon pour (C) moi." }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "L'AMOUR DE DIEU",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/y6B39wSXpBg?si=jopnG58f00J2FDDE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L’amour de Dieu de (F) loin (C) surpasse," },
+                    { chord: "C", text: "(C) Ce qu’on (G) appelle un cœur (C) humain" },
+                    { chord: "C", text: "(C) Il est si haut que (F) les (C) espaces " },
+                    { chord: "C", text: "(C) Même dans (F) l’abîme, il nous (C) atteint " },
+                    { chord: "C", text: "(C) Pour les (F) péchés de notre (C) terre" },
+                    { chord: "C", text: "(C) Dieu nous (G) donna (C) Jésus" },
+                    { chord: "C", text: "(C) Il nous (F) pardonne aux paix (C) profondes" },
+                    { chord: "C", text: "(C) Quand nous (G) étions (C) perdus" }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) L’Amour (F) de Dieu si fort, si (C) tendre" },
+                    { chord: "C", text: "(C) Est un (G) amour sans (C) fin" },
+                    { chord: "C", text: "(C) Tel est le (F) chant que font (C) entendre" },
+                    { chord: "F", text: "(F) Les anges (G) et les (C) saints" }
+                ],
+                [
+                    { chord: "C", text: "(C) Que notre monde (F) un jour (C) chancelle, " },
+                    { chord: "C", text: "(C) Avec ses (G) trônes, avec ses (C) rois," },
+                    { chord: "C", text: "(C) Quand trembleront (F) tous les (C) rebelles," },
+                    { chord: "C", text: "(C) Soudain saisis (F) d’un grand (C) effroi," },
+                    { chord: "C", text: "(C) L’amour de Dieu, (F) que rien ne (C) lasse," },
+                    { chord: "C", text: "(C) Pour nous (G) encore (C) vivra." },
+                    { chord: "C", text: "(C) C’est le (F) miracle de la (C) grâce." },
+                    { chord: "C", text: "(C) Amen ! (G) Alléluia ! (C)" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "L'AMOUR DE DIEU EST SI MERVEILLEUX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/Tct5CcZy5uo?si=xLu4_KysAPC6v3Yp",
+            verses: [
+                [
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "G", text: "(G) L'amour de Dieu est si merveilleux" },
+                    { chord: "C", text: "(C) L'amour de Dieu est si merveilleux" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" },
+                    { chord: "C", text: "(C) Comment il est ?" },
+                    { chord: "C", text: "(C) Il est si haut qu'on ne peut le surmonter" },
+                    { chord: "G", text: "(G) Il est si bas qu'on ne peut le renverser" },
+                    { chord: "C", text: "(C) Il est si large qu'on ne peut le contourner" },
+                    { chord: "F", text: "(F) Ô (G) quel (C) amour !" }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "SI RICHE, SI PROFOND",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/EZ0j2sBJ-9A?si=jfEMCvQvTo29ADym",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Si riche, si profond Insondable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi" },
+                    { chord: "F", text: "(F) Indigne sauvé par (G) grâce. " },
+                    { chord: "G", text: "(G) Pour moi Pour (C) moi " },
+                    { chord: "F", text: "(F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Immuable, incomparable Inexprimable," },
+                    { chord: "C", text: "(C) C’est l’amour Divin (F) L’amour (G) rédempteur (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Comme c’est beau, comme c’est doux " },
+                    { chord: "C", text: "(C) De fredonner de l’agneau Divin (F) L’amour (G) rédempteur (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "PRES DE LA CROIX",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ZFhxi75jEHI?si=7q0qG9sFi1FJwfkZ",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Près de la croix, (F) garde-moi" },
+                    { chord: "C", text: "(C) La fontaine (D) précieuse (G) " },
+                    { chord: "C", text: "(C) Gratuite et (F) guérissante" },
+                    { chord: "C", text: "(C) Coule (Am) du (G) calvaire (C) " }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) A la croix, (F) à la croix" },
+                    { chord: "C", text: "(C) Sois ma gloire (D) à jamais (G) " },
+                    { chord: "C", text: "(C) Jusqu'à ce que mon (F) âme" },
+                    { chord: "C", text: "(C) Trouve (Am) pardon (G) et repos (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Près de la croix (F) tout tremblant" },
+                    { chord: "C", text: "(C) Amour, grâce me (D) trouvent (G) " },
+                    { chord: "C", text: "(C) Là l'étoile du (F) matin" },
+                    { chord: "C", text: "(C) Rayonne (Am) autour (G) de moi(C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-16-08-2026",
+            title: "YESTERDAY, TODAY, FOREVER - MEDLEY",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "Yesterday today forever" },
+                    { chord: "", text: "Jesus is the same" },
+                    { chord: "", text: "All may change" },
+                    { chord: "", text: "But Jesus never" },
+                    { chord: "", text: "Glory to His Name" }
+                ],
+                [
+                    { chord: "", text: "Glory to His Name (2)" },
+                    { chord: "", text: "All may change but Jesus never" },
+                    { chord: "", text: "Glory to His Name" }
+                ],
+                [
+                    { chord: "", text: "Hier, Aujourd’hui, Pour jamais" },
+                    { chord: "", text: "Jésus ne change pas" },
+                    { chord: "", text: "Tout se flétrit ici-bas" },
+                    { chord: "", text: "Jésus ne change pas" }
+                ],
+                [
+                    { chord: "", text: "Bénit soit Son Nom (2)" },
+                    { chord: "", text: "Tout se flétrit ici-bas" },
+                    { chord: "", text: "Lui, ne change pas" }
+                ],
+                [
+                    { chord: "", text: "Eternel, mon créateur," },
+                    { chord: "", text: "Je ne t’oublierai jamais" },
+                    { chord: "", text: "Eternel, mon créateur," },
+                    { chord: "", text: "Je ne t’oublierai jamais" },
+                    { chord: "", text: "Ooo, Alleluia" },
+                    { chord: "", text: "Alleluia, alleluia Amen" }
+                ]
+            ]
+        },
+        // Fin Cantiques du 16 Août 2026 (Trente troisième Dimanche de l'année 2026)
+
         // Debut Cantiques du 09 Août 2026 (Trente deuxième Dimanche de l'année 2026)
         {
             key: "dim-09-08-2026",
