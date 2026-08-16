@@ -50,12 +50,34 @@ const songs = [
         },
         {
             key: "dim-16-08-2026",
-            title: "JESUS IS MY SAVIOR",
+            title: "I SHALL NOT BE MOVED",
             keySignature: "C",
-            youtubeLink: "#",
+            youtubeLink: "https://youtu.be/bbAntGcJOWY?si=fy6fIErLpm7WOVio",
             verses: [
                 [
-                    { chord: "", text: "(Paroles et accords à ajouter)" }
+                    { chord: "C", text: "(C) Jesus is my Savior, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love and favor, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) I shall not be, (G) I shall not be moved." },
+                    { chord: "G", text: "(G) I shall not be, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) In my Christ abiding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) In His love I’m hiding, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
+                ],
+                [
+                    { chord: "C", text: "(C) On His word I'm feeding, (G) I shall not be moved;" },
+                    { chord: "G", text: "(G) He's the one that's leading, (C) I shall not be moved;" },
+                    { chord: "C", text: "(C) Just like a (F) tree that’s planted by the (C) waters," },
+                    { chord: "F", text: "(F) I shall (G) not be (C) moved." }
                 ]
             ]
         },
@@ -229,7 +251,8 @@ const songs = [
                 ]
             ]
         },
-        {
+        // En attente de l'audio YouTube avant publication - ne pas décommenter sans lien valide
+        /*{
             key: "dim-16-08-2026",
             title: "YESTERDAY, TODAY, FOREVER - MEDLEY",
             keySignature: "C",
@@ -267,7 +290,7 @@ const songs = [
                     { chord: "", text: "Alleluia, alleluia Amen" }
                 ]
             ]
-        },
+        },*/
         // Fin Cantiques du 16 Août 2026 (Trente troisième Dimanche de l'année 2026)
 
         // Debut Cantiques du 09 Août 2026 (Trente deuxième Dimanche de l'année 2026)
