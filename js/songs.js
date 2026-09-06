@@ -379,17 +379,6 @@ const songs = [
                 ]
             ]
         },
-        {
-            key: "dim-06-09-2026",
-            title: "AMENE-LES",
-            keySignature: "C",
-            youtubeLink: "#",
-            verses: [
-                [
-                    { chord: "", text: "(Paroles et accords à ajouter)" }
-                ]
-            ]
-        },
         // Fin Cantiques du 06 Septembre 2026 (Trente sixième Dimanche de l'année 2026)
 
         // Debut Cantiques du 16 Août 2026 (Trente troisième Dimanche de l'année 2026)
