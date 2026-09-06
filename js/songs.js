@@ -1,5 +1,397 @@
 // songs.js // Liste des cantiques
 const songs = [
+        // Debut Cantiques du 06 Septembre 2026 (Trente sixième Dimanche de l'année 2026)
+        {
+            key: "dim-06-09-2026",
+            title: "THEN JESUS CAME",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/oMvBEuU8V2U?si=Yu5NpM2-AzJsAfPA",
+            verses: [
+                [
+                    { chord: "C", text: "(C) One sat alone beside the highway (G) begging," },
+                    { chord: "G", text: "(G) His eyes were blind, the light he could not (C) see." },
+                    { chord: "C", text: "(C) He clutched his (Bm) rags and shivered in the (C) shadows" },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) bade his darkness (C) flee." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tempter's power is (C) broken;" },
+                    { chord: "C", text: "(C) When Jesus (G) comes, the tears are wiped (C) away," },
+                    { chord: "C", text: "(C) He takes the gloom and fills the life with (F) glory," },
+                    { chord: "F", text: "(F) For all is (C) changed when (G) Jesus comes to (C) stay." }
+                ],
+                [
+                    { chord: "C", text: "(C) From home and friends the evil spirits (G) drove him," },
+                    { chord: "G", text: "(G) Among the tombs he dwelt in (C) misery;" },
+                    { chord: "C", text: "(C) He cut himself (Bm) as demon powers possessed (C) him," },
+                    { chord: "F", text: "(F) Then Jesus (F) came and (G) set the captive (C) free." }
+                ],
+                [
+                    { chord: "C", text: "(C) 'Unclean, unclean!' the leper cried in (G) torment," },
+                    { chord: "G", text: "(G) The deaf, the dumb, in helplessness stood (C) near;" },
+                    { chord: "C", text: "(C) The fever raged, (Bm) disease had gripped its' (C) victim," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) cast out every (C) fear." }
+                ],
+                [
+                    { chord: "C", text: "(C) Their hearts were sad as in the tomb they (G) laid Him," },
+                    { chord: "G", text: "(G) For death had come and taken Him (C) away;" },
+                    { chord: "C", text: "(C) Their night was (Bm) dark and bitter tears were (C) falling," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) night was turned to (C) day." }
+                ],
+                [
+                    { chord: "C", text: "(C) So men today have found the Savior (G) able," },
+                    { chord: "G", text: "(G) They could not conquer passion, lust and (C) sin;" },
+                    { chord: "C", text: "(C) Their broken hearts (Bm) had left them sad and (C) lonely," },
+                    { chord: "C", text: "(C) Then Jesus (F) came and (G) dwelt, Himself, (C) within." }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "WE'RE MARCHING TO ZION",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/ONMOvdaOPhc?si=yud1TrABKH2tFSbx",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Come, we that love the Lord," },
+                    { chord: "C", text: "(C) And let our (D) joys be (G) known;" },
+                    { chord: "C", text: "(C) Join in a song with (Dm) sweet accord," },
+                    { chord: "Dm", text: "(Dm) Join in a song with (C) sweet accord," },
+                    { chord: "C", text: "(C) And thus (G) surround (Am) the (F) throne." },
+                    { chord: "C", text: "(C) And thus (G) surround the (C) throne." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) We’re marching to Zion," },
+                    { chord: "C", text: "(C) Beautiful, (D) beautiful (G) Zion;" },
+                    { chord: "C", text: "(C) We’re marching upward to (F) Zion," },
+                    { chord: "C", text: "(C) The beautiful (G) city of (C) God." }
+                ],
+                [
+                    { chord: "C", text: "(C) The sorrows of the mind" },
+                    { chord: "C", text: "(C) Be banished (D) from the (G) place;" },
+                    { chord: "C", text: "(C) Religion never (Dm) was designed" },
+                    { chord: "Dm", text: "(Dm) Religion never (C) was designed" },
+                    { chord: "C", text: "(C) To make (G) our (Am) pleasures (F) less." },
+                    { chord: "C", text: "(C) To make (G) our pleasures (C) less." }
+                ],
+                [
+                    { chord: "C", text: "(C) Let those refuse to sing," },
+                    { chord: "C", text: "(C) Who never (D) knew our (G) God;" },
+                    { chord: "C", text: "(C) But children of the (Dm) heav’nly King" },
+                    { chord: "Dm", text: "(Dm) But children of the (C) heav’nly King" },
+                    { chord: "C", text: "(C) May speak (G) their (Am) joys (F) abroad." },
+                    { chord: "C", text: "(C) May speak (G) their joys (C) abroad." }
+                ],
+                [
+                    { chord: "C", text: "(C) The men of grace have found" },
+                    { chord: "C", text: "(C) Glory (D) begun (G) below;" },
+                    { chord: "C", text: "(C) Celestial fruits on (Dm) earthly ground" },
+                    { chord: "Dm", text: "(Dm) Celestial fruits on (C) earthly ground" },
+                    { chord: "C", text: "(C) From faith (G) and hope (Am) may (F) grow." },
+                    { chord: "C", text: "(C) From faith (G) and hope may (C) grow." }
+                ],
+                [
+                    { chord: "C", text: "(C) The hill of Zion yields" },
+                    { chord: "C", text: "(C) A thousand (D) sacred (G) sweets" },
+                    { chord: "C", text: "(C) Before we reach the (Dm) heav’nly fields," },
+                    { chord: "Dm", text: "(Dm) Before we reach the (C) heav’nly fields," },
+                    { chord: "C", text: "(C) Or walk (G) the (Am) golden (F) streets." },
+                    { chord: "C", text: "(C) Or walk (G) the golden (C) streets." }
+                ],
+                [
+                    { chord: "C", text: "(C) Then let our songs abound," },
+                    { chord: "C", text: "(C) And every (D) tear be (G) dry;" },
+                    { chord: "C", text: "(C) We’re marching through (Dm) Immanuel’s ground" },
+                    { chord: "Dm", text: "(Dm) We’re marching through (C) Immanuel’s ground" },
+                    { chord: "C", text: "(C) To fairer (G) worlds (Am) on (F) high." },
+                    { chord: "C", text: "(C) To fairer (G) worlds on (C) high." }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "ILS VIENNENT DE L’EST ET DE L’OUEST",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/GVcXmO3l9mI?si=v__dkhzuv6n32EUE",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Ils viennent de l’Est et de l’Ouest," },
+                    { chord: "C", text: "(C) Ils viennent de lointains (G) pays" },
+                    { chord: "G", text: "(G) A la fête du Roi, manger à Sa table " },
+                    { chord: "G", text: "(G) Que ces pèlerins sont (C) bénis." },
+                    { chord: "C", text: "(C) Contemplant Son saint visage, " },
+                    { chord: "C", text: "(C) Brillant d’un éclat (F) divin," },
+                    { chord: "F", text: "(F) Participants de Sa (C) grâce, " },
+                    { chord: "G", text: "(G) Les joyaux de Sa (C) couronne." },
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Je suis si heureux depuis" },
+                    { chord: "C", text: "(C) Que Jésus m’a (G) libéré" },
+                    { chord: "G", text: "(G) Il n’y a pas longtemps," },
+                    { chord: "G", text: "(G) J’étais si chargé" },
+                    { chord: "G", text: "(G) Son joug est très doux pour (C) moi" },
+                    { chord: "C", text: "(C) Mon âme était plus que nuit " },
+                    { chord: "C", text: "(C) Mais tout s’est (F) envolé," },
+                    { chord: "F", text: "(F) Maintenant je crie (C) victoire," },
+                    { chord: "C", text: "(C) Car (G) Jésus m’a (C) libéré." },
+                ],
+                [
+                    { chord: "C", text: "(C) Je regarde le trône blanc " },
+                    { chord: "C", text: "(C) Devant se tiennent les (G) sauvés" },
+                    { chord: "G", text: "(G) Maintenant plus de larmes " },
+                    { chord: "G", text: "(G) Ni chagrins connus,ni morts dans cette (C) Cité." },
+                    { chord: "C", text: "(C) Mon Sauveur m’a précédé " },
+                    { chord: "C", text: "(C) Prépare la voie pour (F) moi" },
+                    { chord: "F", text: "(F) Bientôt nous serons (C) ensemble " },
+                    { chord: "G", text: "(G) Là-haut dans (C) l’éternité." },
+                ],
+                [
+                    { chord: "C", text: "(C) Les portails de ce lieu saint " },
+                    { chord: "C", text: "(C) Restent ouverts nuit et (G) jour" },
+                    { chord: "G", text: "(G) Regarde au Seigneur," },
+                    { chord: "G", text: "(G) Qui donne plus de grâce " },
+                    { chord: "G", text: "(G) Dont l’amour a (C) préparé" },
+                    { chord: "C", text: "(C) Une place dans ces belles demeures " },
+                    { chord: "C", text: "(C) Qu’Il réserva pour (F) moi" },
+                    { chord: "F", text: "(F) Pour préparer les (C) noces" },
+                    { chord: "G", text: "(G) Obéit à cet (C) appel." },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, Jésus revient bientôt," },
+                    { chord: "C", text: "(C) Alors nos peines seront (G) finies," },
+                    { chord: "G", text: "(G) Si notre Seigneur" },
+                    { chord: "G", text: "(G) Venait maintenant " },
+                    { chord: "G", text: "(G) Pour ceux qui sont sans (C) péchés," },
+                    { chord: "C", text: "(C) Seriez-vous alors dans la joie " },
+                    { chord: "C", text: "(C) Ou le chagrin, la (F) peine ?" },
+                    { chord: "F", text: "(F) Quand Il viendra dans Sa (C) gloire," },
+                    { chord: "G", text: "(G) Nous le rencontrerons (C) là-haut" },
+                ],
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "NOE A BIEN NAVIGUE",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/LHqCNf62YTU?si=pI_mmzpKhb5uyiC3",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Noé a bien (F) navigué, (C) " },
+                    { chord: "C", text: "(C) Sur les eaux plusieurs (F) jours," },
+                    { chord: "F", text: "(F) Il chercha une (G) terre," },
+                    { chord: "G", text: "(G) De plusieurs (C) manières," },
+                    { chord: "C", text: "(C) Des ennuis il en a bien eu," },
+                    { chord: "C", text: "(C) Mais non pas du (F) ciel." },
+                    { chord: "F", text: "(F) Dieu lui donna Son (C) signe," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Sur les ailes d’une colombe" },
+                    { chord: "C", text: "(C) Blanche comme neige" },
+                    { chord: "C", text: "(C) Dieu envoya Son (F) amour doux, pur" },
+                    { chord: "F", text: "(F) Un signe du (C) ciel," },
+                    { chord: "C", text: "(C) Un signe du (G) ciel," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." },
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus notre sauveur," },
+                    { chord: "C", text: "(C) Vint un jour sur la (F) terre," },
+                    { chord: "F", text: "(F) Né dans une (G) étable" },
+                    { chord: "G", text: "(G) Dans une crèche de (C) paille," },
+                    { chord: "C", text: "(C) Ici-bas rejeté," },
+                    { chord: "C", text: "(C) Mais non pas du (F) ciel," },
+                    { chord: "F", text: "(F) Dieu nous donna Son (C) signe" },
+                    { chord: "C", text: "(C) Donna Son (G) signe" },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
+                ],
+                [
+                    { chord: "C", text: "(C) Bien qu’ayant beaucoup souffert" },
+                    { chord: "C", text: "(C) De bien des (F) manières" },
+                    { chord: "F", text: "(F) Je criai pour la (G) guérison" },
+                    { chord: "G", text: "(G) La nuit comme le (C) jour," },
+                    { chord: "C", text: "(C) Mais la foi ne fut pas oubliée" },
+                    { chord: "C", text: "(C) Par le Père du (F) ciel" },
+                    { chord: "F", text: "(F) Il me donna Son (C) signe," },
+                    { chord: "C", text: "(C) Donna Son (G) signe," },
+                    { chord: "G", text: "(G) Sur les ailes d’une (C) colombe." }
+                ],
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "AT CALVARY",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/aVwBKV_OYBc?si=elPcV5zi-J2fZoSH",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Years I spent in vanity and pride," },
+                    { chord: "G", text: "(G) Caring not my Lord (F) was (C) crucified," },
+                    { chord: "C", text: "(C) Knowing not it was for me He died" },
+                    { chord: "F", text: "(F) On (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "F", text: "(F) Mercy there was great, and grace was (C) free;" },
+                    { chord: "G", text: "(G) Pardon there was multiplied to (C) me;" },
+                    { chord: "F", text: "(F) There my burdened soul found (C) liberty," },
+                    { chord: "F", text: "(F) At (G) Calvary. (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) By God’s Word at last my sin I learned;" },
+                    { chord: "G", text: "(G) Then I trembled at the law I’d (C) spurned," },
+                    { chord: "C", text: "(C) Till my guilty soul imploring turned" },
+                    { chord: "F", text: "(F) To (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Now I’ve giv’n to Jesus everything," },
+                    { chord: "G", text: "(G) Now I gladly own Him as my (C) King," },
+                    { chord: "C", text: "(C) Now my raptured soul can only sing" },
+                    { chord: "F", text: "(F) Of (G) Calvary. (C) " },
+                ],
+                [
+                    { chord: "C", text: "(C) Oh, the love that drew salvation’s plan!" },
+                    { chord: "G", text: "(G) Oh, the grace that brought it down to (C) man!" },
+                    { chord: "C", text: "(C) Oh, the mighty gulf that God did span" },
+                    { chord: "F", text: "(F) At (G) Calvary! (C) " },
+                ]
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "JE SUIS HEUREUX CAR JÉSUS M'A SAUVÉ",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/hUi0OEniK9U?si=WKEu5YD81i035f1N",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Je suis heureux car Jésus m'a sauvé," },
+                    { chord: "C", text: "(C) Dans son (G) Amour, il m'a tout (C) pardonné." },
+                    { chord: "C", text: "(C) Voilà pourquoi je me mets à chanter." },
+                    { chord: "C", text: "(C) Je suis (G) heureux car Jésus m'a (C) sauvé." }
+                ],
+                [
+                    { chord: "", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Oui, J'aime l'Homme de (G) Galilée" },
+                    { chord: "G", text: "(G) Oui, J'aime l'Homme de (C) Galilée" },
+                    { chord: "C", text: "(C) Mon (F) fardeau enlevé, mes (C) - (Em) péchés (Am) éffacés;" },
+                    { chord: "Am", text: "(Am) Oui, (G) J'aime l'Homme de (C) Galilée" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le ciel est ouvert à tout être humain," },
+                    { chord: "C", text: "(C) La route est (G) tracée, un Guide (C) fidèle" },
+                    { chord: "C", text: "(C) Voudrais-tu goûter le parfait bonheur" },
+                    { chord: "C", text: "(C) Le ciel est (G) ouvert à tout être (C) humain" }
+                ],
+                [
+                    { chord: "C", text: "(C) Le sang de Jésus a tout éffacé," },
+                    { chord: "C", text: "(C) Où que vous (G) soyez, c'est vous qu'Il (C) appelle." },
+                    { chord: "C", text: "(C) Laissez la folie et la vanité" },
+                    { chord: "C", text: "(C) Le sang de (G) Jésus a tout (C) éffacé." }
+                ],
+                [
+                    { chord: "C", text: "(C) Au loin, comme auprès, faites-la courir," },
+                    { chord: "C", text: "(C) Partout où se (G) trouve une âme (C) rebelle;" },
+                    { chord: "C", text: "(C) Dis-lui que Jésus a souffert pour elle" },
+                    { chord: "C", text: "(C) Au loin, (G) comme auprès, faites-la (C) courir." }
+                ],
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "JESUS M'AIME JE LE SAIS",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/-RTWBf8rfSI?si=apykbu6fkTWV-7mo",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Jésus m’aime, je le sais" },
+                    { chord: "C", text: "(C) Il m’a cherché et (G) trouvé" },
+                    { chord: "G", text: "(G) Mon sauveur m’a (F) racheté" },
+                    { chord: "F", text: "(F) Il m’a (G) donné le (C) salut" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Il m'a racheté (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Mes péchés sont pardonnés" },
+                    { chord: "C", text: "(C) Jésus les a tous (G) portés" },
+                    { chord: "G", text: "(G) Le sang de Christ m’a (F) lavé" },
+                    { chord: "F", text: "(F) Le fils de (G) Dieu m’a (C) sauvé" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Son sang m'a lavé (C) " }
+                ],
+                [
+                    { chord: "C", text: "(C) Jésus veut vous libérer" },
+                    { chord: "C", text: "(C) Il est mort pour vous (G) aussi" },
+                    { chord: "G", text: "(G) Donnez-lui tout votre (F) cœur" },
+                    { chord: "F", text: "(F) Et vous (G) aurez le (C) bonheur" }
+                ],
+                [
+                    { chord: "C", text: "CHORUS:" },
+                    { chord: "C", text: "(C) Alléluia Oh, Alléluia (G) Oh, Alléluia (F) Oh" },
+                    { chord: "G", text: "(G) Gloire à Toi Jésus (C) " }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "ROCK OF AGES",
+            keySignature: "C",
+            youtubeLink: "https://youtu.be/VyE5HwkYN78?si=6k_iwGafIAJ6qKiR",
+            verses: [
+                [
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for (C) me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee;" },
+                    { chord: "C", text: "(C) Let the (G) water and the (C) blood," },
+                    { chord: "C", text: "(C) From Thy (G) wounded side which (C) flowed," },
+                    { chord: "C", text: "(C) Be of sin the (F) double (C) cure," },
+                    { chord: "C", text: "(C) Save from wrath and (G) make me (C) pure." }
+                ],
+                [
+                    { chord: "C", text: "(C) Not the labors (F) of my (C) hands" },
+                    { chord: "C", text: "(C) Can fulfill thy (G) law's (C) commands;" },
+                    { chord: "C", text: "(C) Could my (G) tears forever (C) flow," },
+                    { chord: "C", text: "(C) Could my (G) zeal no languor (C) know," },
+                    { chord: "C", text: "(C) These for sin could (F) not (C) atone;" },
+                    { chord: "C", text: "(C) Thou must save, (G) and Thou (C) alone;" }
+                ],
+                [
+                    { chord: "C", text: "(C) Nothing in my (F) hand I (C) bring" },
+                    { chord: "C", text: "(C) Simply to Thy (G) cross I (C) cling" },
+                    { chord: "C", text: "(C) Naked, (G) come to Thee for (C) dress" },
+                    { chord: "C", text: "(C) Helpless (G) look to Thee for (C) grace" },
+                    { chord: "C", text: "(C) Foul, I to the (F) foutain (C) fly" },
+                    { chord: "C", text: "(C) Wash me, (G) Savior or I (C) die" }
+                ],
+                [
+                    { chord: "C", text: "(C) While I draw this (F) fleeting (C) breath," },
+                    { chord: "C", text: "(C) When my eyes (G) shall close in (C) death," },
+                    { chord: "C", text: "(C) When I (G) rise to worlds (C) unknown," },
+                    { chord: "C", text: "(C) And (G) behold Thee on Thy (C) throne," },
+                    { chord: "C", text: "(C) Rock of Ages, (F) cleft for me," },
+                    { chord: "C", text: "(C) Let me hide (G) myself in (C) Thee." }
+                ]
+            ]
+        },
+        {
+            key: "dim-06-09-2026",
+            title: "AMENE-LES",
+            keySignature: "C",
+            youtubeLink: "#",
+            verses: [
+                [
+                    { chord: "", text: "(Paroles et accords à ajouter)" }
+                ]
+            ]
+        },
+        // Fin Cantiques du 06 Septembre 2026 (Trente sixième Dimanche de l'année 2026)
+
         // Debut Cantiques du 16 Août 2026 (Trente troisième Dimanche de l'année 2026)
         {
             key: "dim-16-08-2026",
